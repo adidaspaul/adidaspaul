@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @adidaspaul
+- 👋 Hi, I’m @adidasPaul
 - 👀 I’m interested in learning JAVA
 - 🌱 I’m currently learning JAVA
 - 💞️ I’m looking to collaborate on JAVA project
