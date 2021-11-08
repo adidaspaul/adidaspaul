@@ -75,7 +75,7 @@
 
 <!--END_SECTION:activity-->
 
-</details>-->
+</details-->
 
 <details>
   <summary>:zap: GitHub Stats</summary>
