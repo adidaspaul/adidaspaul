@@ -70,14 +70,14 @@
 
 ---
 
-<details>
+<!--<details>
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
 
 <!--END_SECTION:activity-->
 
-</details>
+</details-->
 
 <details>
   <summary>:zap: GitHub Stats</summary>
@@ -85,8 +85,7 @@
   <img align="left" alt="my GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=adidaspaul&show_icons=true&hide_border=true" />
 
 </details>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adidaspaul)](https://github.com/adidaspaul/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adidaspaul&layout=compact)](https://github.com/adidaspaul/github-readme-stats)
 
 [website]: https://operatorghost.netlify.app
 <!-- [course]: http://vsCodeHero.com -->
