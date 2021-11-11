@@ -20,7 +20,8 @@
 [<img align="left" alt="serhii | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Serhii | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Paul | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-  <!--<a href="#"><img alt="PlayStation -adik_outfit" title="PlayStation - adik_outfit" height="32" width="32" src="assets/playstation.svg"></a>-->
+<!--<a href="#"><img alt="PlayStation -adik_outfit" title="PlayStation - adik_outfit" height="32" width="32" src="assets/playstation-logotype.png"></a>-->
+
 
 <br />
 
