@@ -21,7 +21,7 @@
 [<img align="left" alt="Serhii | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Paul | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 <!--<a href="#"><img alt="PlayStation -adik_outfit" title="PlayStation - adik_outfit" height="32" width="32" src="assets/playstation-logotype.png"></a>-->
-
+<img align="left" alt="Paul | Playstation"  width="22px" src="assets/playstation-logotype.png" />
 
 <br />
 
@@ -103,3 +103,4 @@
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
 [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
 [reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
+[playstation]:
