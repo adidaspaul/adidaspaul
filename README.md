@@ -64,9 +64,9 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How To Perform Parallel Test Execution In TestNG With Selenium](https://www.reddit.com/r/java/comments/qsbehe/how_to_perform_parallel_test_execution_in_testng/)
 - [Looking for a library to parse object files](https://www.reddit.com/r/java/comments/qrsnul/looking_for_a_library_to_parse_object_files/)
 - [We talked Software Architecture with Bert Jan Schrijver - Observable Stream Podcast](https://www.reddit.com/r/java/comments/qrsc46/we_talked_software_architecture_with_bert_jan/)
-- [What Happens to Finalization in JDK 18? - Inside Java Newscast #15](https://www.reddit.com/r/java/comments/qrsaza/what_happens_to_finalization_in_jdk_18_inside/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
