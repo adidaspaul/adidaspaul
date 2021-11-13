@@ -64,9 +64,9 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Life after Java 8](https://www.reddit.com/r/java/comments/qsvavq/life_after_java_8/)
 - [JVM optimisation](https://www.reddit.com/r/java/comments/qso955/jvm_optimisation/)
 - [What is the appropriate library to read and create CSV files in the Java language?](https://www.reddit.com/r/java/comments/qsnsia/what_is_the_appropriate_library_to_read_and/)
-- [[18-loom+4-273] Seems like there is a new API for structured concurrency.](https://www.reddit.com/r/java/comments/qscnwb/18loom4273_seems_like_there_is_a_new_api_for/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
