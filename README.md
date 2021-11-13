@@ -64,9 +64,9 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Life after Java 8](https://www.reddit.com/r/java/comments/qsvavq/life_after_java_8/)
+- [List All the Classes Loaded in the JVM](https://www.reddit.com/r/java/comments/qt310m/list_all_the_classes_loaded_in_the_jvm/)
+- [How can Oracle know if someone use their JDK instead of OpenJDK](https://www.reddit.com/r/java/comments/qt2vmp/how_can_oracle_know_if_someone_use_their_jdk/)
 - [JVM optimisation](https://www.reddit.com/r/java/comments/qso955/jvm_optimisation/)
-- [[18-loom+4-273] Seems like there is a new API for structured concurrency.](https://www.reddit.com/r/java/comments/qscnwb/18loom4273_seems_like_there_is_a_new_api_for/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
