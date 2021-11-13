@@ -64,9 +64,9 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [What&#39;s the state of modern Java library/JDK compatibility, anno 2021?](https://www.reddit.com/r/java/comments/qt7qj9/whats_the_state_of_modern_java_libraryjdk/)
 - [Piranha 21.11 released!](https://www.reddit.com/r/java/comments/qt5e0s/piranha_2111_released/)
 - [List All the Classes Loaded in the JVM](https://www.reddit.com/r/java/comments/qt310m/list_all_the_classes_loaded_in_the_jvm/)
-- [How can Oracle know if someone use their JDK instead of OpenJDK](https://www.reddit.com/r/java/comments/qt2vmp/how_can_oracle_know_if_someone_use_their_jdk/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
