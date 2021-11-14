@@ -64,9 +64,9 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [To Java 17 and Beyond! - Billy Korando](https://www.reddit.com/r/java/comments/qtflzu/to_java_17_and_beyond_billy_korando/)
 - [Get the logged-in user in Jakarta EE – the simplest way](https://www.reddit.com/r/java/comments/qtd9a7/get_the_loggedin_user_in_jakarta_ee_the_simplest/)
 - [Maven Hibernate Enhance Plugin](https://www.reddit.com/r/java/comments/qt8his/maven_hibernate_enhance_plugin/)
-- [What&#39;s the state of modern Java library/JDK compatibility, anno 2021?](https://www.reddit.com/r/java/comments/qt7qj9/whats_the_state_of_modern_java_libraryjdk/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
