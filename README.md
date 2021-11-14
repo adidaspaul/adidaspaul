@@ -64,9 +64,9 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to get DCEVM and HotswapAgent for Java JDK 17](https://www.reddit.com/r/java/comments/qtv37x/how_to_get_dcevm_and_hotswapagent_for_java_jdk_17/)
 - [Hashtag Jakarta EE #98](https://www.reddit.com/r/java/comments/qtsgpw/hashtag_jakarta_ee_98/)
 - [To Java 17 and Beyond! - Billy Korando](https://www.reddit.com/r/java/comments/qtflzu/to_java_17_and_beyond_billy_korando/)
-- [Get the logged-in user in Jakarta EE – the simplest way](https://www.reddit.com/r/java/comments/qtd9a7/get_the_loggedin_user_in_jakarta_ee_the_simplest/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
