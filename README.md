@@ -64,9 +64,9 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [What is Java&#39;s excuse for not handling Unicode correctly?](https://www.reddit.com/r/java/comments/qufl1v/what_is_javas_excuse_for_not_handling_unicode/)
 - [Event-Driven Architectures with Kafka and Java Spring-Boot — Revision 1](https://www.reddit.com/r/java/comments/qu8srb/eventdriven_architectures_with_kafka_and_java/)
 - [The CUPS pattern](https://www.reddit.com/r/java/comments/qu5zgi/the_cups_pattern/)
-- [How to get DCEVM and HotswapAgent for Java JDK 17](https://www.reddit.com/r/java/comments/qtv37x/how_to_get_dcevm_and_hotswapagent_for_java_jdk_17/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
