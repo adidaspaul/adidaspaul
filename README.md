@@ -64,9 +64,9 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Event-Driven Architectures with Kafka and Java Spring-Boot — Revision 1](https://www.reddit.com/r/java/comments/qu8srb/eventdriven_architectures_with_kafka_and_java/)
 - [The CUPS pattern](https://www.reddit.com/r/java/comments/qu5zgi/the_cups_pattern/)
 - [How to get DCEVM and HotswapAgent for Java JDK 17](https://www.reddit.com/r/java/comments/qtv37x/how_to_get_dcevm_and_hotswapagent_for_java_jdk_17/)
-- [Hashtag Jakarta EE #98](https://www.reddit.com/r/java/comments/qtsgpw/hashtag_jakarta_ee_98/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
