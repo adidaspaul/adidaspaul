@@ -64,9 +64,9 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Java LTS - perspective of a library author](https://www.reddit.com/r/java/comments/qurtd7/java_lts_perspective_of_a_library_author/)
 - [[Loom] JEP draft: Virtual Threads &lpar;Preview&rpar;](https://www.reddit.com/r/java/comments/quqbyq/loom_jep_draft_virtual_threads_preview/)
 - [[Loom] JEP draft: Structured Concurrency &lpar;Preview&rpar;](https://www.reddit.com/r/java/comments/quqb3y/loom_jep_draft_structured_concurrency_preview/)
-- [Ron Pressler technical lead of OpenJDK Project Loom talking about their new work about Structured Concurrency](https://www.reddit.com/r/java/comments/quoqta/ron_pressler_technical_lead_of_openjdk_project/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
