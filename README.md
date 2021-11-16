@@ -64,9 +64,9 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Calling all freelancers with ANY skills](https://www.reddit.com/r/java/comments/qv9jm1/calling_all_freelancers_with_any_skills/)
 - [Code Kata - Expenses Report &lpar;by Gregor Riegler&rpar;](https://www.reddit.com/r/java/comments/qv8uz5/code_kata_expenses_report_by_gregor_riegler/)
 - [Write You A Chat For Great Good! &lpar;with Java 17, actors, and JBang!&rpar;](https://www.reddit.com/r/java/comments/qv55ps/write_you_a_chat_for_great_good_with_java_17/)
+- [A new build and a new structured concurrency API](https://www.reddit.com/r/java/comments/qv3803/a_new_build_and_a_new_structured_concurrency_api/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
