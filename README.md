@@ -64,9 +64,9 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Are there any entry level Java programmer jobs?](https://www.reddit.com/r/java/comments/qvitnb/are_there_any_entry_level_java_programmer_jobs/)
 - [X-Large Heap Regions in JDK 18](https://www.reddit.com/r/java/comments/qvh4dn/xlarge_heap_regions_in_jdk_18/)
 - [Code Kata - Expenses Report &lpar;by Gregor Riegler&rpar;](https://www.reddit.com/r/java/comments/qv8uz5/code_kata_expenses_report_by_gregor_riegler/)
-- [Write You A Chat For Great Good! &lpar;with Java 17, actors, and JBang!&rpar;](https://www.reddit.com/r/java/comments/qv55ps/write_you_a_chat_for_great_good_with_java_17/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
