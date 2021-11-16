@@ -64,9 +64,9 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [A new build and a new structured concurrency API](https://www.reddit.com/r/java/comments/qv3803/a_new_build_and_a_new_structured_concurrency_api/)
 - [JEP proposed to target JDK 18: 420: Pattern Matching for switch &lpar;Second Preview&rpar;](https://www.reddit.com/r/java/comments/quv3ck/jep_proposed_to_target_jdk_18_420_pattern/)
 - [JEP proposed to target JDK 18: 419: Foreign Function &amp;amp; Memory API &lpar;Second Incubator&rpar;](https://www.reddit.com/r/java/comments/quv31b/jep_proposed_to_target_jdk_18_419_foreign/)
-- [Corel Office for Java &lpar;1997&rpar;: big name office suite in Java targeting Java, some features sounding eerily present day like &quot;office productivity environment for the emerging server-centric thin client architecture&quot; &lpar;= smart edge&rpar;](https://www.reddit.com/r/java/comments/quu0jg/corel_office_for_java_1997_big_name_office_suite/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
