@@ -61,7 +61,7 @@
 
 
 
-### 📕 Latest Blog Posts
+### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
 - [GitHub Projects to Contribute](https://www.reddit.com/r/java/comments/qvyq6h/github_projects_to_contribute/)
