@@ -4,7 +4,7 @@
    <!--<a href="https://twitter.com/quazantip"><img alt="Twitter" height="32" width="32" src="assets/twitter.svg"></a>-->
   <!--[![Twitter Follow](https://img.shields.io/twitter/follow/me?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/quazantip)-->
 
-## I am studiying Java now and I'm excited about it, cause I have never coded before so it's totally new for me =) 
+## I am studiying Java now and I'm excited about it, cause I have never coded before so it's completely new for me =) 
 
 
 👋 
