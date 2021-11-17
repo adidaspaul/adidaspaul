@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [What kind of hardware does your company provide? What&#39;s the budget?](https://www.reddit.com/r/java/comments/qw7wtg/what_kind_of_hardware_does_your_company_provide/)
 - [Anything on mobile?](https://www.reddit.com/r/java/comments/qw6cb2/anything_on_mobile/)
 - [Rate Limiting API with Spring-Security and Bucket4J](https://www.reddit.com/r/java/comments/qvzve7/rate_limiting_api_with_springsecurity_and_bucket4j/)
+- [GitHub Projects to Contribute](https://www.reddit.com/r/java/comments/qvyq6h/github_projects_to_contribute/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
