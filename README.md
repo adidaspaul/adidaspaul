@@ -64,9 +64,9 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [To the people who work as a develeoper: Do you use iteration or recursion more often for &quot;real&quot; projects?](https://www.reddit.com/r/java/comments/qvy992/to_the_people_who_work_as_a_develeoper_do_you_use/)
 - [When Project Loom is launched, will web servers use one virtual thread per request instead of os thread?](https://www.reddit.com/r/java/comments/qvtr5g/when_project_loom_is_launched_will_web_servers/)
 - [Minecraft 1.18 Pre-Release 2: Minecraft 1.18 will require Java 17](https://www.reddit.com/r/java/comments/qvl9h9/minecraft_118_prerelease_2_minecraft_118_will/)
-- [Are there any entry level Java programmer jobs?](https://www.reddit.com/r/java/comments/qvitnb/are_there_any_entry_level_java_programmer_jobs/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
