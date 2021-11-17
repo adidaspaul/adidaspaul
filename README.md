@@ -64,9 +64,9 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [We had to make a form about something we are passionate about and send it to that community for my English class, so I made a form about coding:](https://www.reddit.com/r/java/comments/qvmjqw/we_had_to_make_a_form_about_something_we_are/)
+- [Minecraft 1.18 Pre-Release 2: Minecraft 1.18 will require Java 17](https://www.reddit.com/r/java/comments/qvl9h9/minecraft_118_prerelease_2_minecraft_118_will/)
 - [Are there any entry level Java programmer jobs?](https://www.reddit.com/r/java/comments/qvitnb/are_there_any_entry_level_java_programmer_jobs/)
-- [X-Large Heap Regions in JDK 18](https://www.reddit.com/r/java/comments/qvh4dn/xlarge_heap_regions_in_jdk_18/)
-- [Code Kata - Expenses Report &lpar;by Gregor Riegler&rpar;](https://www.reddit.com/r/java/comments/qv8uz5/code_kata_expenses_report_by_gregor_riegler/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
