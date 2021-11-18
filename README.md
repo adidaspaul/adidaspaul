@@ -65,8 +65,8 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Failsafe 3.0 is released](https://www.reddit.com/r/java/comments/qwiamw/failsafe_30_is_released/)
-- [How can I generate UML diagrams of my program?](https://www.reddit.com/r/java/comments/qwcllo/how_can_i_generate_uml_diagrams_of_my_program/)
-- [Anything on mobile?](https://www.reddit.com/r/java/comments/qw6cb2/anything_on_mobile/)
+- [Rate Limiting API with Spring-Security and Bucket4J](https://www.reddit.com/r/java/comments/qvzve7/rate_limiting_api_with_springsecurity_and_bucket4j/)
+- [When Project Loom is launched, will web servers use one virtual thread per request instead of os thread?](https://www.reddit.com/r/java/comments/qvtr5g/when_project_loom_is_launched_will_web_servers/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
