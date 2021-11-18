@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [GlassFish 6.2.3 released!](https://www.reddit.com/r/java/comments/qwzsal/glassfish_623_released/)
 - [Made this looping Morph with java, look kinda cool. Do you have any other ideas for projects like this?](https://www.reddit.com/r/java/comments/qwuend/made_this_looping_morph_with_java_look_kinda_cool/)
 - [Factory Methods for Collections - JEP Café #6](https://www.reddit.com/r/java/comments/qwudzv/factory_methods_for_collections_jep_café_6/)
-- [Is Java SE open source software? The short answer is ‘yes.’](https://www.reddit.com/r/java/comments/qwtxye/is_java_se_open_source_software_the_short_answer/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
