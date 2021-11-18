@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [GitHub - HanSolo/JDKMon: A little tool written in JavaFX that monitors your installed JDK&#39;s and inform you about updates](https://www.reddit.com/r/java/comments/qwrnf7/github_hansolojdkmon_a_little_tool_written_in/)
 - [Failsafe 3.0 is released](https://www.reddit.com/r/java/comments/qwiamw/failsafe_30_is_released/)
 - [Rate Limiting API with Spring-Security and Bucket4J](https://www.reddit.com/r/java/comments/qvzve7/rate_limiting_api_with_springsecurity_and_bucket4j/)
-- [When Project Loom is launched, will web servers use one virtual thread per request instead of os thread?](https://www.reddit.com/r/java/comments/qvtr5g/when_project_loom_is_launched_will_web_servers/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
