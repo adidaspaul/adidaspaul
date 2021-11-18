@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [every time i try to download something that needs to be a java file, it just transforms into this paper like file. i uninstalled and reinstalled java runtime countless times and it still doesn&#39;t work, does anyone know how to fix that?](https://www.reddit.com/r/java/comments/qx0pob/every_time_i_try_to_download_something_that_needs/)
 - [GlassFish 6.2.3 released!](https://www.reddit.com/r/java/comments/qwzsal/glassfish_623_released/)
 - [Made this looping Morph with java, look kinda cool. Do you have any other ideas for projects like this?](https://www.reddit.com/r/java/comments/qwuend/made_this_looping_morph_with_java_look_kinda_cool/)
-- [Factory Methods for Collections - JEP Café #6](https://www.reddit.com/r/java/comments/qwudzv/factory_methods_for_collections_jep_café_6/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
