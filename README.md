@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Separate Microservice for a static Frontend UI?](https://www.reddit.com/r/java/comments/qxge0h/separate_microservice_for_a_static_frontend_ui/)
 - [Detect Proactively Whether Application’s Memory is Under-allocated](https://www.reddit.com/r/java/comments/qxa249/detect_proactively_whether_applications_memory_is/)
 - [I&#39;m building a new personal finance manager. Thanks, Java, thanks for being excellent at date formats](https://www.reddit.com/r/java/comments/qx96mz/im_building_a_new_personal_finance_manager_thanks/)
-- [Anything like requires.io for Java?](https://www.reddit.com/r/java/comments/qx3e6u/anything_like_requiresio_for_java/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
