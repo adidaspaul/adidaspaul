@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [New candidate JEP: 422: Linux/RISC-V Port](https://www.reddit.com/r/java/comments/qxoryc/new_candidate_jep_422_linuxriscv_port/)
 - [OptionalDesugarer: Type safety with no overhead](https://www.reddit.com/r/java/comments/qxnv9g/optionaldesugarer_type_safety_with_no_overhead/)
 - [Detect Proactively Whether Application’s Memory is Under-allocated](https://www.reddit.com/r/java/comments/qxa249/detect_proactively_whether_applications_memory_is/)
-- [I&#39;m building a new personal finance manager. Thanks, Java, thanks for being excellent at date formats](https://www.reddit.com/r/java/comments/qx96mz/im_building_a_new_personal_finance_manager_thanks/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
