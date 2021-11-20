@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [What is considered &quot;basic knowledge&quot;](https://www.reddit.com/r/java/comments/qxu59w/what_is_considered_basic_knowledge/)
 - [Will Panama allow the allocation of executable memory?](https://www.reddit.com/r/java/comments/qxtshk/will_panama_allow_the_allocation_of_executable/)
 - [New candidate JEP: 422: Linux/RISC-V Port](https://www.reddit.com/r/java/comments/qxoryc/new_candidate_jep_422_linuxriscv_port/)
-- [OptionalDesugarer: Type safety with no overhead](https://www.reddit.com/r/java/comments/qxnv9g/optionaldesugarer_type_safety_with_no_overhead/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
