@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Don’t know Java. Starting a Java job. Essential things to know or resources you could point me to?](https://www.reddit.com/r/java/comments/qy8oqx/dont_know_java_starting_a_java_job_essential/)
+- [The Future of Java: Records, Sealed Classes and Pattern Matching with José Paumard](https://www.reddit.com/r/java/comments/qy7qxv/the_future_of_java_records_sealed_classes_and/)
 - [Web apis without async-await or futures block threads?](https://www.reddit.com/r/java/comments/qy2ov5/web_apis_without_asyncawait_or_futures_block/)
-- [What is considered &quot;basic knowledge&quot;](https://www.reddit.com/r/java/comments/qxu59w/what_is_considered_basic_knowledge/)
-- [Will Panama allow the allocation of executable memory?](https://www.reddit.com/r/java/comments/qxtshk/will_panama_allow_the_allocation_of_executable/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
