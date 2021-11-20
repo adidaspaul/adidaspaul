@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How&#39;s the situation in the Java job market?](https://www.reddit.com/r/java/comments/qyby48/hows_the_situation_in_the_java_job_market/)
 - [The Future of Java: Records, Sealed Classes and Pattern Matching with José Paumard](https://www.reddit.com/r/java/comments/qy7qxv/the_future_of_java_records_sealed_classes_and/)
 - [Web apis without async-await or futures block threads?](https://www.reddit.com/r/java/comments/qy2ov5/web_apis_without_asyncawait_or_futures_block/)
-- [What is considered &quot;basic knowledge&quot;](https://www.reddit.com/r/java/comments/qxu59w/what_is_considered_basic_knowledge/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
