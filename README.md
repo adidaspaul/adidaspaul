@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Will Panama allow the allocation of executable memory?](https://www.reddit.com/r/java/comments/qxtshk/will_panama_allow_the_allocation_of_executable/)
 - [New candidate JEP: 422: Linux/RISC-V Port](https://www.reddit.com/r/java/comments/qxoryc/new_candidate_jep_422_linuxriscv_port/)
 - [OptionalDesugarer: Type safety with no overhead](https://www.reddit.com/r/java/comments/qxnv9g/optionaldesugarer_type_safety_with_no_overhead/)
-- [Detect Proactively Whether Application’s Memory is Under-allocated](https://www.reddit.com/r/java/comments/qxa249/detect_proactively_whether_applications_memory_is/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
