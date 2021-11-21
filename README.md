@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to go from a beginner to a professional.](https://www.reddit.com/r/java/comments/qywiea/how_to_go_from_a_beginner_to_a_professional/)
 - [Using Kotlin as &quot;better syntax&quot; - compatibility pitfalls?](https://www.reddit.com/r/java/comments/qyvp64/using_kotlin_as_better_syntax_compatibility/)
 - [Forking google](https://www.reddit.com/r/java/comments/qypqbd/forking_google/)
-- [How complex of a state machine could be made using the JLS, the grammar, the type system incl. sealed classes and operated by pattern matching?](https://www.reddit.com/r/java/comments/qynza9/how_complex_of_a_state_machine_could_be_made/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
