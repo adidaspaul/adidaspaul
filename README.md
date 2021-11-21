@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Forking google](https://www.reddit.com/r/java/comments/qypqbd/forking_google/)
 - [How complex of a state machine could be made using the JLS, the grammar, the type system incl. sealed classes and operated by pattern matching?](https://www.reddit.com/r/java/comments/qynza9/how_complex_of_a_state_machine_could_be_made/)
 - [How&#39;s the situation in the Java job market?](https://www.reddit.com/r/java/comments/qyby48/hows_the_situation_in_the_java_job_market/)
-- [The Future of Java: Records, Sealed Classes and Pattern Matching with José Paumard](https://www.reddit.com/r/java/comments/qy7qxv/the_future_of_java_records_sealed_classes_and/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
