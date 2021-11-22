@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Which Java frameworks should I learn to get a high paying job?](https://www.reddit.com/r/java/comments/qzl3qc/which_java_frameworks_should_i_learn_to_get_a/)
 - [Why use gradle subprojects to structure an app?](https://www.reddit.com/r/java/comments/qzfj1r/why_use_gradle_subprojects_to_structure_an_app/)
 - [Forking google](https://www.reddit.com/r/java/comments/qypqbd/forking_google/)
-- [How complex of a state machine could be made using the JLS, the grammar, the type system incl. sealed classes and operated by pattern matching?](https://www.reddit.com/r/java/comments/qynza9/how_complex_of_a_state_machine_could_be_made/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
