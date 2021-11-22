@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Finished game](https://www.reddit.com/r/java/comments/qzu2w1/finished_game/)
 - [Hibernate goes Reactive - What Does That Mean?](https://www.reddit.com/r/java/comments/qzswp3/hibernate_goes_reactive_what_does_that_mean/)
 - [Libraries to a simple java application&#39;s GUI](https://www.reddit.com/r/java/comments/qzsrgu/libraries_to_a_simple_java_applications_gui/)
+- [Which Java frameworks should I learn to get a high paying job?](https://www.reddit.com/r/java/comments/qzl3qc/which_java_frameworks_should_i_learn_to_get_a/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
