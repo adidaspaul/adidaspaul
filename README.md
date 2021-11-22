@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Becoming fluent in Java](https://www.reddit.com/r/java/comments/qzm973/becoming_fluent_in_java/)
 - [Which Java frameworks should I learn to get a high paying job?](https://www.reddit.com/r/java/comments/qzl3qc/which_java_frameworks_should_i_learn_to_get_a/)
 - [Why use gradle subprojects to structure an app?](https://www.reddit.com/r/java/comments/qzfj1r/why_use_gradle_subprojects_to_structure_an_app/)
-- [Forking google](https://www.reddit.com/r/java/comments/qypqbd/forking_google/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
