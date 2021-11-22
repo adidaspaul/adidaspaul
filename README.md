@@ -64,7 +64,7 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Lonely, Desperate and Broke....](https://www.reddit.com/r/java/comments/qz98hd/lonely_desperate_and_broke/)
+- [Github copilot](https://www.reddit.com/r/java/comments/qzagiu/github_copilot/)
 - [Need help with this HW Problem](https://www.reddit.com/r/java/comments/qz8xnr/need_help_with_this_hw_problem/)
 - [Forking google](https://www.reddit.com/r/java/comments/qypqbd/forking_google/)
 <!-- BLOG-POST-LIST:END -->
