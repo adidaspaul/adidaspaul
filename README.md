@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Three Steps to Accelerate Java Application Performance](https://www.reddit.com/r/java/comments/r076q8/three_steps_to_accelerate_java_application/)
 - [Hibernate goes Reactive - What Does That Mean?](https://www.reddit.com/r/java/comments/qzswp3/hibernate_goes_reactive_what_does_that_mean/)
 - [Why use gradle subprojects to structure an app?](https://www.reddit.com/r/java/comments/qzfj1r/why_use_gradle_subprojects_to_structure_an_app/)
-- [Forking google](https://www.reddit.com/r/java/comments/qypqbd/forking_google/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
