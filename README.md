@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [What are the best books to prepare for FAANG Java interview?](https://www.reddit.com/r/java/comments/r0iu9o/what_are_the_best_books_to_prepare_for_faang_java/)
 - [Book recommendation for Java Functional Programming?](https://www.reddit.com/r/java/comments/r0dbku/book_recommendation_for_java_functional/)
 - [A tale of Java Hash Tables](https://www.reddit.com/r/java/comments/r0b9o9/a_tale_of_java_hash_tables/)
-- [Hibernate goes Reactive - What Does That Mean?](https://www.reddit.com/r/java/comments/qzswp3/hibernate_goes_reactive_what_does_that_mean/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
