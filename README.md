@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [I can’t install chunky because I keep getting this java error message anyone know what it means and how to fix it](https://www.reddit.com/r/java/comments/r02ruz/i_cant_install_chunky_because_i_keep_getting_this/)
 - [Good resource to quickly go through Java fundamentals as a refresher? Have not used the language in 2+ years.](https://www.reddit.com/r/java/comments/r01avz/good_resource_to_quickly_go_through_java/)
 - [Hibernate goes Reactive - What Does That Mean?](https://www.reddit.com/r/java/comments/qzswp3/hibernate_goes_reactive_what_does_that_mean/)
+- [Libraries to a simple java application&#39;s GUI](https://www.reddit.com/r/java/comments/qzsrgu/libraries_to_a_simple_java_applications_gui/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
