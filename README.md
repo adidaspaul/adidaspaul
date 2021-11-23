@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Good resource to quickly go through Java fundamentals as a refresher? Have not used the language in 2+ years.](https://www.reddit.com/r/java/comments/r01avz/good_resource_to_quickly_go_through_java/)
 - [Hibernate goes Reactive - What Does That Mean?](https://www.reddit.com/r/java/comments/qzswp3/hibernate_goes_reactive_what_does_that_mean/)
-- [Libraries to a simple java application&#39;s GUI](https://www.reddit.com/r/java/comments/qzsrgu/libraries_to_a_simple_java_applications_gui/)
+- [Why use gradle subprojects to structure an app?](https://www.reddit.com/r/java/comments/qzfj1r/why_use_gradle_subprojects_to_structure_an_app/)
+- [Forking google](https://www.reddit.com/r/java/comments/qypqbd/forking_google/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
