@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Java 17 Features and Migration Considerations - DZone Java](https://www.reddit.com/r/java/comments/r1dmn2/java_17_features_and_migration_considerations/)
 - [Refining The Return Type Of Java Methods Without Breaking Backwards-Compatibility](https://www.reddit.com/r/java/comments/r15jjj/refining_the_return_type_of_java_methods_without/)
 - [Do developers use SWT/FX GUI Editors to develop UI&#39;s or is the UI code written by hand?](https://www.reddit.com/r/java/comments/r137ly/do_developers_use_swtfx_gui_editors_to_develop/)
-- [Kafka Streams with Quarkus - Piotr&#39;s TechBlog](https://www.reddit.com/r/java/comments/r10rn1/kafka_streams_with_quarkus_piotrs_techblog/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
