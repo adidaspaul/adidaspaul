@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [[ANN] Apache Maven 3.8.4 released](https://www.reddit.com/r/java/comments/r1gqxf/ann_apache_maven_384_released/)
+- [Don’t miss these 4 talks about Jakarta EE at this year&#39;s JakartaOne Livestream](https://www.reddit.com/r/java/comments/r1fz99/dont_miss_these_4_talks_about_jakarta_ee_at_this/)
 - [Java 17 Features and Migration Considerations - DZone Java](https://www.reddit.com/r/java/comments/r1dmn2/java_17_features_and_migration_considerations/)
-- [Refining The Return Type Of Java Methods Without Breaking Backwards-Compatibility](https://www.reddit.com/r/java/comments/r15jjj/refining_the_return_type_of_java_methods_without/)
-- [Do developers use SWT/FX GUI Editors to develop UI&#39;s or is the UI code written by hand?](https://www.reddit.com/r/java/comments/r137ly/do_developers_use_swtfx_gui_editors_to_develop/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
