@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Spring Cloud Feign traffic cut-off with Resilience4J TimeLimiter](https://www.reddit.com/r/java/comments/r106kq/spring_cloud_feign_traffic_cutoff_with/)
+- [RevoGain Software Architecture - A boring Java stack that works like a charm](https://www.reddit.com/r/java/comments/r0zq2f/revogain_software_architecture_a_boring_java/)
 - [Helidon, Testcontainers, Cucumber, Kafka messaging and a lot more!](https://www.reddit.com/r/java/comments/r0xmzw/helidon_testcontainers_cucumber_kafka_messaging/)
-- [Book recommendation for Java Functional Programming?](https://www.reddit.com/r/java/comments/r0dbku/book_recommendation_for_java_functional/)
-- [A tale of Java Hash Tables](https://www.reddit.com/r/java/comments/r0b9o9/a_tale_of_java_hash_tables/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
