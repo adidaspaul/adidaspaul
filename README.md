@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Do developers use SWT/FX GUI Editors to develop UI&#39;s or is the UI code written by hand?](https://www.reddit.com/r/java/comments/r137ly/do_developers_use_swtfx_gui_editors_to_develop/)
+- [Java for backend ?](https://www.reddit.com/r/java/comments/r134qy/java_for_backend/)
 - [Kafka Streams with Quarkus - Piotr&#39;s TechBlog](https://www.reddit.com/r/java/comments/r10rn1/kafka_streams_with_quarkus_piotrs_techblog/)
-- [GC progress from JDK 8 to JDK 17](https://www.reddit.com/r/java/comments/r10hev/gc_progress_from_jdk_8_to_jdk_17/)
-- [Spring Cloud Feign traffic cut-off with Resilience4J TimeLimiter](https://www.reddit.com/r/java/comments/r106kq/spring_cloud_feign_traffic_cutoff_with/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
