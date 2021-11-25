@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Please help this is not about Coding. how can I change the Language of my Eclipse ??](https://www.reddit.com/r/java/comments/r1qq5u/please_help_this_is_not_about_coding_how_can_i/)
 - [qbicc - Exploring the possibilities of Java native images.](https://www.reddit.com/r/java/comments/r1ql3w/qbicc_exploring_the_possibilities_of_java_native/)
 - [[ANN] Apache Maven 3.8.4 released](https://www.reddit.com/r/java/comments/r1gqxf/ann_apache_maven_384_released/)
+- [Don’t miss these 4 talks about Jakarta EE at this year&#39;s JakartaOne Livestream](https://www.reddit.com/r/java/comments/r1fz99/dont_miss_these_4_talks_about_jakarta_ee_at_this/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
