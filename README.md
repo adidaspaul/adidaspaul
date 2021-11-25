@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Don&#39;t know whether Coursera has Java courses but still you may want to consider Coursera Plus Subscription at $1 with Cyber Week](https://www.reddit.com/r/java/comments/r1tkqk/dont_know_whether_coursera_has_java_courses_but/)
+- [Check if your Intellij Idea is using the new G1 GC](https://www.reddit.com/r/java/comments/r1sz74/check_if_your_intellij_idea_is_using_the_new_g1_gc/)
 - [qbicc - Exploring the possibilities of Java native images.](https://www.reddit.com/r/java/comments/r1ql3w/qbicc_exploring_the_possibilities_of_java_native/)
-- [[ANN] Apache Maven 3.8.4 released](https://www.reddit.com/r/java/comments/r1gqxf/ann_apache_maven_384_released/)
-- [Don’t miss these 4 talks about Jakarta EE at this year&#39;s JakartaOne Livestream](https://www.reddit.com/r/java/comments/r1fz99/dont_miss_these_4_talks_about_jakarta_ee_at_this/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
