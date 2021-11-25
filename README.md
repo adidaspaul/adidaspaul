@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to fix PKIX struggles using cacerts](https://www.reddit.com/r/java/comments/r25bui/how_to_fix_pkix_struggles_using_cacerts/)
+- [The power of Kotlin // Beyond Coding Podcast #28 - Patrick Akil with Paulien van Alst and Urs Peter](https://www.reddit.com/r/java/comments/r257lx/the_power_of_kotlin_beyond_coding_podcast_28/)
 - [Helidon and JBatch](https://www.reddit.com/r/java/comments/r2009n/helidon_and_jbatch/)
-- [Check if your Intellij Idea is using the new G1 GC](https://www.reddit.com/r/java/comments/r1sz74/check_if_your_intellij_idea_is_using_the_new_g1_gc/)
-- [qbicc - Exploring the possibilities of Java native images.](https://www.reddit.com/r/java/comments/r1ql3w/qbicc_exploring_the_possibilities_of_java_native/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
