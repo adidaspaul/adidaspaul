@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Has any one attempted to write logs directly to Kafka?](https://www.reddit.com/r/java/comments/r2z17a/has_any_one_attempted_to_write_logs_directly_to/)
 - [Junit5 what is the diffrence between surfire 3.0.0-M5 and 2.22.2](https://www.reddit.com/r/java/comments/r2vwxq/junit5_what_is_the_diffrence_between_surfire/)
 - [LWJGL - The Lightweight Java Game Library Version 3.3 Released](https://www.reddit.com/r/java/comments/r2vlhs/lwjgl_the_lightweight_java_game_library_version/)
-- [Java Experts Spill the Beans](https://www.reddit.com/r/java/comments/r2m3jx/java_experts_spill_the_beans/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
