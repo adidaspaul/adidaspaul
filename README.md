@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [What are some good sites / blogs that contain in-depth spring guides / tutorials?](https://www.reddit.com/r/java/comments/r2jies/what_are_some_good_sites_blogs_that_contain/)
+- [Understanding Apache Kafka with Factorio](https://www.reddit.com/r/java/comments/r2jcxk/understanding_apache_kafka_with_factorio/)
 - [Helidon and JBatch](https://www.reddit.com/r/java/comments/r2009n/helidon_and_jbatch/)
-- [Check if your Intellij Idea is using the new G1 GC](https://www.reddit.com/r/java/comments/r1sz74/check_if_your_intellij_idea_is_using_the_new_g1_gc/)
-- [qbicc - Exploring the possibilities of Java native images.](https://www.reddit.com/r/java/comments/r1ql3w/qbicc_exploring_the_possibilities_of_java_native/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
