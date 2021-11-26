@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [LWJGL - The Lightweight Java Game Library Version 3.3 Released](https://www.reddit.com/r/java/comments/r2vlhs/lwjgl_the_lightweight_java_game_library_version/)
 - [Java Experts Spill the Beans](https://www.reddit.com/r/java/comments/r2m3jx/java_experts_spill_the_beans/)
 - [What are some good sites / blogs that contain in-depth spring guides / tutorials?](https://www.reddit.com/r/java/comments/r2jies/what_are_some_good_sites_blogs_that_contain/)
-- [Understanding Apache Kafka with Factorio](https://www.reddit.com/r/java/comments/r2jcxk/understanding_apache_kafka_with_factorio/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
