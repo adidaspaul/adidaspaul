@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How does the community like the fact that Spring 5 goes &quot;reactive&quot; for restful?](https://www.reddit.com/r/java/comments/r32ud6/how_does_the_community_like_the_fact_that_spring/)
 - [jMolecules 2021.2.0 released](https://www.reddit.com/r/java/comments/r2zo2s/jmolecules_202120_released/)
 - [Has any one attempted to write logs directly to Kafka?](https://www.reddit.com/r/java/comments/r2z17a/has_any_one_attempted_to_write_logs_directly_to/)
-- [Junit5 what is the diffrence between surfire 3.0.0-M5 and 2.22.2](https://www.reddit.com/r/java/comments/r2vwxq/junit5_what_is_the_diffrence_between_surfire/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
