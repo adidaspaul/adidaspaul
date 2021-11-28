@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Review my test case](https://www.reddit.com/r/java/comments/r3t6wk/review_my_test_case/)
 - [9 High-Performance Tips when using MySQL and Java](https://www.reddit.com/r/java/comments/r3ake7/9_highperformance_tips_when_using_mysql_and_java/)
 - [How does the community like the fact that Spring 5 goes &quot;reactive&quot; for restful?](https://www.reddit.com/r/java/comments/r32ud6/how_does_the_community_like_the_fact_that_spring/)
-- [jMolecules 2021.2.0 released](https://www.reddit.com/r/java/comments/r2zo2s/jmolecules_202120_released/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
