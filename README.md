@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [GitHub - eclipse/eclipse-collections-kata: Eclipse Collections Katas](https://www.reddit.com/r/java/comments/r488r0/github_eclipseeclipsecollectionskata_eclipse/)
 - [Mojarra 2.3.17 released!](https://www.reddit.com/r/java/comments/r47cn3/mojarra_2317_released/)
 - [Hashtag Jakarta EE #100](https://www.reddit.com/r/java/comments/r46o31/hashtag_jakarta_ee_100/)
-- [5 Mundane Java Performance Tips](https://www.reddit.com/r/java/comments/r3xzqw/5_mundane_java_performance_tips/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
