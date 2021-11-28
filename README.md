@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Mojarra 2.3.17 released!](https://www.reddit.com/r/java/comments/r47cn3/mojarra_2317_released/)
+- [Hashtag Jakarta EE #100](https://www.reddit.com/r/java/comments/r46o31/hashtag_jakarta_ee_100/)
 - [5 Mundane Java Performance Tips](https://www.reddit.com/r/java/comments/r3xzqw/5_mundane_java_performance_tips/)
-- [9 High-Performance Tips when using MySQL and Java](https://www.reddit.com/r/java/comments/r3ake7/9_highperformance_tips_when_using_mysql_and_java/)
-- [How does the community like the fact that Spring 5 goes &quot;reactive&quot; for restful?](https://www.reddit.com/r/java/comments/r32ud6/how_does_the_community_like_the_fact_that_spring/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
