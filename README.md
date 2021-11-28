@@ -65,8 +65,8 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [5 Mundane Java Performance Tips](https://www.reddit.com/r/java/comments/r3xzqw/5_mundane_java_performance_tips/)
-- [Review my test case](https://www.reddit.com/r/java/comments/r3t6wk/review_my_test_case/)
 - [9 High-Performance Tips when using MySQL and Java](https://www.reddit.com/r/java/comments/r3ake7/9_highperformance_tips_when_using_mysql_and_java/)
+- [How does the community like the fact that Spring 5 goes &quot;reactive&quot; for restful?](https://www.reddit.com/r/java/comments/r32ud6/how_does_the_community_like_the_fact_that_spring/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
