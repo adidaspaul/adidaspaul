@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Automating entity activity fields using ThreadLocale and JPAs @Embeddable, @Embedded](https://www.reddit.com/r/java/comments/r4y2y1/automating_entity_activity_fields_using/)
 - [Fleet - A lightweight editor by JetBrains](https://www.reddit.com/r/java/comments/r4rqsu/fleet_a_lightweight_editor_by_jetbrains/)
 - [Introducing Remote Development for JetBrains IDEs](https://www.reddit.com/r/java/comments/r4rozu/introducing_remote_development_for_jetbrains_ides/)
-- [Taking job with Java RMI](https://www.reddit.com/r/java/comments/r4r8eg/taking_job_with_java_rmi/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
