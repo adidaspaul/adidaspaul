@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [What are the best online resources to use to study for the Java Certification? Does not have to be free.](https://www.reddit.com/r/java/comments/r4mvmn/what_are_the_best_online_resources_to_use_to/)
 - [Is it possible to deploy war to a jakarta ee compatible cluster in kubernetes?](https://www.reddit.com/r/java/comments/r4c38v/is_it_possible_to_deploy_war_to_a_jakarta_ee/)
 - [GitHub - eclipse/eclipse-collections-kata: Eclipse Collections Katas](https://www.reddit.com/r/java/comments/r488r0/github_eclipseeclipsecollectionskata_eclipse/)
-- [Mojarra 2.3.17 released!](https://www.reddit.com/r/java/comments/r47cn3/mojarra_2317_released/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
