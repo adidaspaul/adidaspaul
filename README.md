@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [What are the best online resources to use to study for the Java Certification? Does not have to be free.](https://www.reddit.com/r/java/comments/r4mvmn/what_are_the_best_online_resources_to_use_to/)
-- [avaje-jsonb v0.8 - json binding via source code generation &lpar;apt&rpar; targeting jackson core](https://www.reddit.com/r/java/comments/r4gau4/avajejsonb_v08_json_binding_via_source_code/)
-- [Is it possible to deploy war to a jakarta ee compatible cluster in kubernetes?](https://www.reddit.com/r/java/comments/r4c38v/is_it_possible_to_deploy_war_to_a_jakarta_ee/)
+- [Fleet - A lightweight editor by JetBrains](https://www.reddit.com/r/java/comments/r4rqsu/fleet_a_lightweight_editor_by_jetbrains/)
+- [Introducing Remote Development for JetBrains IDEs](https://www.reddit.com/r/java/comments/r4rozu/introducing_remote_development_for_jetbrains_ides/)
+- [Taking job with Java RMI](https://www.reddit.com/r/java/comments/r4r8eg/taking_job_with_java_rmi/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
