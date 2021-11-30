@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Java8-Java18 what has changed?](https://www.reddit.com/r/java/comments/r54mey/java8java18_what_has_changed/)
-- [Automatically unlocking concurrent builds and fine-grained caching for Java with dependency inference](https://www.reddit.com/r/java/comments/r539jx/automatically_unlocking_concurrent_builds_and/)
-- [Automating entity activity fields using ThreadLocale and JPAs @Embeddable, @Embedded](https://www.reddit.com/r/java/comments/r4y2y1/automating_entity_activity_fields_using/)
+- [Persism 2.0.0 Released - A zero ceremony ORM for Java](https://www.reddit.com/r/java/comments/r5p8qg/persism_200_released_a_zero_ceremony_orm_for_java/)
+- [Serverless Java Functions on OpenShift - Piotr&#39;s TechBlog](https://www.reddit.com/r/java/comments/r5o447/serverless_java_functions_on_openshift_piotrs/)
+- [Writing a simple filesystem in Java with Fuse and project Panama](https://www.reddit.com/r/java/comments/r5n1i5/writing_a_simple_filesystem_in_java_with_fuse_and/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
