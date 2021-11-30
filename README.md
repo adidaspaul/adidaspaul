@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [OdinCodeBrowser: Navigate Code Like in your IDE but on a Static Webpage](https://www.reddit.com/r/java/comments/r5rwvn/odincodebrowser_navigate_code_like_in_your_ide/)
+- [Caves &amp; Cliffs: Part II out today on Java - based on Java 17](https://www.reddit.com/r/java/comments/r5ra2n/caves_cliffs_part_ii_out_today_on_java_based_on/)
 - [IntelliJ IDEA 2021.3 has been released](https://www.reddit.com/r/java/comments/r5r0ej/intellij_idea_20213_has_been_released/)
-- [Persism 2.0.0 Released - A zero ceremony ORM for Java](https://www.reddit.com/r/java/comments/r5p8qg/persism_200_released_a_zero_ceremony_orm_for_java/)
-- [Serverless Java Functions on OpenShift - Piotr&#39;s TechBlog](https://www.reddit.com/r/java/comments/r5o447/serverless_java_functions_on_openshift_piotrs/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
