@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Java8-Java18 what has changed?](https://www.reddit.com/r/java/comments/r54mey/java8java18_what_has_changed/)
+- [Automatically unlocking concurrent builds and fine-grained caching for Java with dependency inference](https://www.reddit.com/r/java/comments/r539jx/automatically_unlocking_concurrent_builds_and/)
 - [Automating entity activity fields using ThreadLocale and JPAs @Embeddable, @Embedded](https://www.reddit.com/r/java/comments/r4y2y1/automating_entity_activity_fields_using/)
-- [Fleet - A lightweight editor by JetBrains](https://www.reddit.com/r/java/comments/r4rqsu/fleet_a_lightweight_editor_by_jetbrains/)
-- [Introducing Remote Development for JetBrains IDEs](https://www.reddit.com/r/java/comments/r4rozu/introducing_remote_development_for_jetbrains_ides/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
