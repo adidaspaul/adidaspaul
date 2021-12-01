@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Java 17 not supported iMac late 2013?](https://www.reddit.com/r/java/comments/r60kjr/java_17_not_supported_imac_late_2013/)
 - [Best web server for reactive app](https://www.reddit.com/r/java/comments/r5ztcf/best_web_server_for_reactive_app/)
 - [OdinCodeBrowser: Navigate Code Like in your IDE but on a Static Webpage](https://www.reddit.com/r/java/comments/r5rwvn/odincodebrowser_navigate_code_like_in_your_ide/)
-- [Caves &amp; Cliffs: Part II out today on Java - based on Java 17](https://www.reddit.com/r/java/comments/r5ra2n/caves_cliffs_part_ii_out_today_on_java_based_on/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
