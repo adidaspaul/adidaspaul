@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Connect with Java developers around the world at next week&#39;s JakartaOne Livestream](https://www.reddit.com/r/java/comments/r7aefr/connect_with_java_developers_around_the_world_at/)
 - [I m trying to make like a rectangle go up each frame using a for loop but I’m not sure how to do it I want it to go up and up again about like 3 times](https://www.reddit.com/r/java/comments/r78dga/i_m_trying_to_make_like_a_rectangle_go_up_each/)
 - [Loop Fission](https://www.reddit.com/r/java/comments/r74ag2/loop_fission/)
-- [What is the better way of Spring boot JwtAuthetication? Uses of OncePerRequestFilter or UsernamePasswordAuthenticationFilter?](https://www.reddit.com/r/java/comments/r6z7ag/what_is_the_better_way_of_spring_boot/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
