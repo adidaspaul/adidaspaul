@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [What&#39;s new in Faces 4.0?](https://www.reddit.com/r/java/comments/r6t836/whats_new_in_faces_40/)
 - [Fallbacks with Spring Cloud Feign](https://www.reddit.com/r/java/comments/r6a25o/fallbacks_with_spring_cloud_feign/)
 - [Avoid optional, nullable attributes with this one simple trick](https://www.reddit.com/r/java/comments/r68gw5/avoid_optional_nullable_attributes_with_this_one/)
-- [[EVENT] Java Pathfinder Day 2021 - Model Checking Java Code](https://www.reddit.com/r/java/comments/r64zjz/event_java_pathfinder_day_2021_model_checking/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
