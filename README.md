@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Detect your application’s memory under-allocation in a proactive manner](https://www.reddit.com/r/java/comments/r6y0if/detect_your_applications_memory_underallocation/)
+- [Installation fails everytime due to the error: Could not create the java virtual machine. :&lpar; Please help](https://www.reddit.com/r/java/comments/r6xn82/installation_fails_everytime_due_to_the_error/)
 - [How do I put .jar files directly into my project rather than using them as external libraries?](https://www.reddit.com/r/java/comments/r6wa2x/how_do_i_put_jar_files_directly_into_my_project/)
-- [What&#39;s new in Faces 4.0?](https://www.reddit.com/r/java/comments/r6t836/whats_new_in_faces_40/)
-- [Fallbacks with Spring Cloud Feign](https://www.reddit.com/r/java/comments/r6a25o/fallbacks_with_spring_cloud_feign/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
