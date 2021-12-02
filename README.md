@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How do I put .jar files directly into my project rather than using them as external libraries?](https://www.reddit.com/r/java/comments/r6wa2x/how_do_i_put_jar_files_directly_into_my_project/)
 - [What&#39;s new in Faces 4.0?](https://www.reddit.com/r/java/comments/r6t836/whats_new_in_faces_40/)
 - [Fallbacks with Spring Cloud Feign](https://www.reddit.com/r/java/comments/r6a25o/fallbacks_with_spring_cloud_feign/)
-- [Avoid optional, nullable attributes with this one simple trick](https://www.reddit.com/r/java/comments/r68gw5/avoid_optional_nullable_attributes_with_this_one/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
