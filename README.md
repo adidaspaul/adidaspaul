@@ -66,7 +66,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [Simple Web Server, Incremental JVM Improvements &amp; JEP 420 Update - Inside Java Newscast #16](https://www.reddit.com/r/java/comments/r7c6d2/simple_web_server_incremental_jvm_improvements/)
 - [Connect with Java developers around the world at next week&#39;s JakartaOne Livestream](https://www.reddit.com/r/java/comments/r7aefr/connect_with_java_developers_around_the_world_at/)
-- [I m trying to make like a rectangle go up each frame using a for loop but I’m not sure how to do it I want it to go up and up again about like 3 times](https://www.reddit.com/r/java/comments/r78dga/i_m_trying_to_make_like_a_rectangle_go_up_each/)
+- [Loop Fission](https://www.reddit.com/r/java/comments/r74ag2/loop_fission/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
