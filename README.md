@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Loop Fission](https://www.reddit.com/r/java/comments/r74ag2/loop_fission/)
 - [What is the better way of Spring boot JwtAuthetication? Uses of OncePerRequestFilter or UsernamePasswordAuthenticationFilter?](https://www.reddit.com/r/java/comments/r6z7ag/what_is_the_better_way_of_spring_boot/)
 - [Detect your application’s memory under-allocation in a proactive manner](https://www.reddit.com/r/java/comments/r6y0if/detect_your_applications_memory_underallocation/)
-- [What&#39;s new in Faces 4.0?](https://www.reddit.com/r/java/comments/r6t836/whats_new_in_faces_40/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
