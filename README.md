@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Is Any Java Infrastructure Code](https://www.reddit.com/r/java/comments/r7ycub/is_any_java_infrastructure_code/)
 - [The JVM Advent calendar is here!](https://www.reddit.com/r/java/comments/r7vavb/the_jvm_advent_calendar_is_here/)
 - [Eclipse GlassFish: Swimming Towards Jakarta EE 10](https://www.reddit.com/r/java/comments/r7ux8i/eclipse_glassfish_swimming_towards_jakarta_ee_10/)
-- [I just made my own Rubik&#39;s cube scrambler in Java :D](https://www.reddit.com/r/java/comments/r7k0z9/i_just_made_my_own_rubiks_cube_scrambler_in_java_d/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
