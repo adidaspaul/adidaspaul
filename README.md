@@ -64,7 +64,7 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Is Any Java Infrastructure Code](https://www.reddit.com/r/java/comments/r7ycub/is_any_java_infrastructure_code/)
+- [Why did Electron succeed but Java didn&#39;t, in creating cross-platform Desktop software?](https://www.reddit.com/r/java/comments/r7zaau/why_did_electron_succeed_but_java_didnt_in/)
 - [The JVM Advent calendar is here!](https://www.reddit.com/r/java/comments/r7vavb/the_jvm_advent_calendar_is_here/)
 - [Eclipse GlassFish: Swimming Towards Jakarta EE 10](https://www.reddit.com/r/java/comments/r7ux8i/eclipse_glassfish_swimming_towards_jakarta_ee_10/)
 <!-- BLOG-POST-LIST:END -->
