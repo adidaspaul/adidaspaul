@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [How do I install Java using zip](https://www.reddit.com/r/java/comments/r8kv0g/how_do_i_install_java_using_zip/)
 - [panama/foreign status update](https://www.reddit.com/r/java/comments/r85v0z/panamaforeign_status_update/)
 - [Why did Electron succeed but Java didn&#39;t, in creating cross-platform Desktop software?](https://www.reddit.com/r/java/comments/r7zaau/why_did_electron_succeed_but_java_didnt_in/)
+- [The JVM Advent calendar is here!](https://www.reddit.com/r/java/comments/r7vavb/the_jvm_advent_calendar_is_here/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
