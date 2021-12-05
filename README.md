@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Arrays of Wisdom of the Ancients](https://www.reddit.com/r/java/comments/r9is3p/arrays_of_wisdom_of_the_ancients/)
 - [Announcing preview release for the generational mode to the Shenandoah GC | Amazon Web Services](https://www.reddit.com/r/java/comments/r9gbmb/announcing_preview_release_for_the_generational/)
 - [Introducing the OSS Quickstart Archetype](https://www.reddit.com/r/java/comments/r8y4gw/introducing_the_oss_quickstart_archetype/)
-- [panama/foreign status update](https://www.reddit.com/r/java/comments/r85v0z/panamaforeign_status_update/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
