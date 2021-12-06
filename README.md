@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to build SpringBoot API for eCommerce App using NoSQL Datastore](https://www.reddit.com/r/java/comments/ra4hp7/how_to_build_springboot_api_for_ecommerce_app/)
+- [PerfUnit - Java Agent which helps to take control over applications bottlenecks, expensive calls, or simply control your performance SLO budget.](https://www.reddit.com/r/java/comments/ra4apv/perfunit_java_agent_which_helps_to_take_control/)
 - [Introducing the Free Java License](https://www.reddit.com/r/java/comments/ra2iaj/introducing_the_free_java_license/)
-- [Awesome Software Architecture: A curated list of useful resources about software architecture and design principles.](https://www.reddit.com/r/java/comments/ra2hvo/awesome_software_architecture_a_curated_list_of/)
-- [Diagnosing a JVM Crash](https://www.reddit.com/r/java/comments/r9zqeb/diagnosing_a_jvm_crash/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
