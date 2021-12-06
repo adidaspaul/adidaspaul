@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [1. In June 1991, James Gosling, Mike Sheridan, and Patrick Naughton began the Java language project. This programming language was originally created for interactive television, but this language was too modern for the digital cable television sector at that period.](https://www.reddit.com/r/java/comments/ra5tmw/1_in_june_1991_james_gosling_mike_sheridan_and/)
 - [How to build SpringBoot API for eCommerce App using NoSQL Datastore](https://www.reddit.com/r/java/comments/ra4hp7/how_to_build_springboot_api_for_ecommerce_app/)
 - [PerfUnit - Java Agent which helps to take control over applications bottlenecks, expensive calls, or simply control your performance SLO budget.](https://www.reddit.com/r/java/comments/ra4apv/perfunit_java_agent_which_helps_to_take_control/)
-- [Introducing the Free Java License](https://www.reddit.com/r/java/comments/ra2iaj/introducing_the_free_java_license/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
