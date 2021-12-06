@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Introducing the Free Java License](https://www.reddit.com/r/java/comments/ra2iaj/introducing_the_free_java_license/)
+- [Awesome Software Architecture: A curated list of useful resources about software architecture and design principles.](https://www.reddit.com/r/java/comments/ra2hvo/awesome_software_architecture_a_curated_list_of/)
 - [Diagnosing a JVM Crash](https://www.reddit.com/r/java/comments/r9zqeb/diagnosing_a_jvm_crash/)
-- [Minecraft Optifine download help?](https://www.reddit.com/r/java/comments/r9yi87/minecraft_optifine_download_help/)
-- [What’s a low-stress/commitment way to stay sharp on my Java skills?](https://www.reddit.com/r/java/comments/r9wjcl/whats_a_lowstresscommitment_way_to_stay_sharp_on/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
