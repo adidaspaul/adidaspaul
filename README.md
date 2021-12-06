@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [New drop in templated strings branch](https://www.reddit.com/r/java/comments/radhxp/new_drop_in_templated_strings_branch/)
+- [Turning a JDBC link into a HTTP/HTTPS link.](https://www.reddit.com/r/java/comments/racgsf/turning_a_jdbc_link_into_a_httphttps_link/)
 - [Gitember v 2.3](https://www.reddit.com/r/java/comments/rab2z1/gitember_v_23/)
-- [Working with the Simple Web Server #JDK18](https://www.reddit.com/r/java/comments/ra990q/working_with_the_simple_web_server_jdk18/)
-- [Red Hat response to Java release cadence change](https://www.reddit.com/r/java/comments/ra8ssl/red_hat_response_to_java_release_cadence_change/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
