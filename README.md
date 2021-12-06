@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Apache NetBeans 12.6 released](https://www.reddit.com/r/java/comments/ragnef/apache_netbeans_126_released/)
+- [Humble Bundle: Over $1300 in Wrox programming books for donation to charity](https://www.reddit.com/r/java/comments/rag4j9/humble_bundle_over_1300_in_wrox_programming_books/)
 - [New drop in templated strings branch](https://www.reddit.com/r/java/comments/radhxp/new_drop_in_templated_strings_branch/)
-- [Turning a JDBC link into a HTTP/HTTPS link.](https://www.reddit.com/r/java/comments/racgsf/turning_a_jdbc_link_into_a_httphttps_link/)
-- [Gitember v 2.3](https://www.reddit.com/r/java/comments/rab2z1/gitember_v_23/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
