@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Gitember v 2.3](https://www.reddit.com/r/java/comments/rab2z1/gitember_v_23/)
 - [Working with the Simple Web Server #JDK18](https://www.reddit.com/r/java/comments/ra990q/working_with_the_simple_web_server_jdk18/)
 - [Red Hat response to Java release cadence change](https://www.reddit.com/r/java/comments/ra8ssl/red_hat_response_to_java_release_cadence_change/)
-- [1. In June 1991, James Gosling, Mike Sheridan, and Patrick Naughton began the Java language project. This programming language was originally created for interactive television, but this language was too modern for the digital cable television sector at that period.](https://www.reddit.com/r/java/comments/ra5tmw/1_in_june_1991_james_gosling_mike_sheridan_and/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
