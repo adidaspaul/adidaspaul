@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Diagnosing a JVM Crash](https://www.reddit.com/r/java/comments/r9zqeb/diagnosing_a_jvm_crash/)
 - [Minecraft Optifine download help?](https://www.reddit.com/r/java/comments/r9yi87/minecraft_optifine_download_help/)
 - [What’s a low-stress/commitment way to stay sharp on my Java skills?](https://www.reddit.com/r/java/comments/r9wjcl/whats_a_lowstresscommitment_way_to_stay_sharp_on/)
-- [Multiple Spring Boot applications in the same project](https://www.reddit.com/r/java/comments/r9jut5/multiple_spring_boot_applications_in_the_same/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
