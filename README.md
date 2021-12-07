@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [DevJam Diaries #2 Rory Preddy | Microsoft](https://www.reddit.com/r/java/comments/rau49d/devjam_diaries_2_rory_preddy_microsoft/)
 - [How to speed up Java desktop application](https://www.reddit.com/r/java/comments/rarbnh/how_to_speed_up_java_desktop_application/)
 - [Interesting Garbage Collection Patterns](https://www.reddit.com/r/java/comments/raq0ew/interesting_garbage_collection_patterns/)
-- [Apache NetBeans 12.6 released](https://www.reddit.com/r/java/comments/ragnef/apache_netbeans_126_released/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
