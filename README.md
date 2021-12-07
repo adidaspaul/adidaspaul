@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Static Java &lpar;Leyden&rpar;, GraalVM Native and OpenJDK - Andrew Dinn](https://www.reddit.com/r/java/comments/rbarej/static_java_leyden_graalvm_native_and_openjdk/)
 - [What is the complexity of contains method of HashSet?](https://www.reddit.com/r/java/comments/rb24ks/what_is_the_complexity_of_contains_method_of/)
 - [Package by feature, not by layer](https://www.reddit.com/r/java/comments/rb1n7e/package_by_feature_not_by_layer/)
-- [A bit confused about GC, Java, Memory Utilization and High CPU.](https://www.reddit.com/r/java/comments/raym04/a_bit_confused_about_gc_java_memory_utilization/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
