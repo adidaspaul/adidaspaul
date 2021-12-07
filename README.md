@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Did i get anything wrong here? Java beginner](https://www.reddit.com/r/java/comments/raqhgt/did_i_get_anything_wrong_here_java_beginner/)
+- [Interesting Garbage Collection Patterns](https://www.reddit.com/r/java/comments/raq0ew/interesting_garbage_collection_patterns/)
 - [Apache NetBeans 12.6 released](https://www.reddit.com/r/java/comments/ragnef/apache_netbeans_126_released/)
-- [Humble Bundle: Over $1300 in Wrox programming books for donation to charity](https://www.reddit.com/r/java/comments/rag4j9/humble_bundle_over_1300_in_wrox_programming_books/)
-- [New drop in templated strings branch](https://www.reddit.com/r/java/comments/radhxp/new_drop_in_templated_strings_branch/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
