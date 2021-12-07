@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [What is the complexity of contains method of HashSet?](https://www.reddit.com/r/java/comments/rb24ks/what_is_the_complexity_of_contains_method_of/)
+- [Package by feature, not by layer](https://www.reddit.com/r/java/comments/rb1n7e/package_by_feature_not_by_layer/)
 - [A bit confused about GC, Java, Memory Utilization and High CPU.](https://www.reddit.com/r/java/comments/raym04/a_bit_confused_about_gc_java_memory_utilization/)
-- [What are the most important skills as a Java Software Engineer?](https://www.reddit.com/r/java/comments/rauj3e/what_are_the_most_important_skills_as_a_java/)
-- [DevJam Diaries #2 Rory Preddy | Microsoft](https://www.reddit.com/r/java/comments/rau49d/devjam_diaries_2_rory_preddy_microsoft/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
