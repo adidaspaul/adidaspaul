@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [What are the most important skills as a Java Software Engineer?](https://www.reddit.com/r/java/comments/rauj3e/what_are_the_most_important_skills_as_a_java/)
+- [The Technological Singularity ~ Easy to try! Keep computing and it ☼BLOOMS☼!](https://www.reddit.com/r/java/comments/raug5j/the_technological_singularity_easy_to_try_keep/)
 - [DevJam Diaries #2 Rory Preddy | Microsoft](https://www.reddit.com/r/java/comments/rau49d/devjam_diaries_2_rory_preddy_microsoft/)
-- [How to speed up Java desktop application](https://www.reddit.com/r/java/comments/rarbnh/how_to_speed_up_java_desktop_application/)
-- [Interesting Garbage Collection Patterns](https://www.reddit.com/r/java/comments/raq0ew/interesting_garbage_collection_patterns/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
