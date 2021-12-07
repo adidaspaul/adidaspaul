@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Hey! I’m trying to build a Age verification for website and can someone tell me why there a red like on bottom? Is my code ok?](https://www.reddit.com/r/java/comments/rbc1nu/hey_im_trying_to_build_a_age_verification_for/)
 - [Static Java &lpar;Leyden&rpar;, GraalVM Native and OpenJDK - Andrew Dinn](https://www.reddit.com/r/java/comments/rbarej/static_java_leyden_graalvm_native_and_openjdk/)
 - [What is the complexity of contains method of HashSet?](https://www.reddit.com/r/java/comments/rb24ks/what_is_the_complexity_of_contains_method_of/)
-- [Package by feature, not by layer](https://www.reddit.com/r/java/comments/rb1n7e/package_by_feature_not_by_layer/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
