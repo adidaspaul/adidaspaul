@@ -66,7 +66,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [A bit confused about GC, Java, Memory Utilization and High CPU.](https://www.reddit.com/r/java/comments/raym04/a_bit_confused_about_gc_java_memory_utilization/)
 - [What are the most important skills as a Java Software Engineer?](https://www.reddit.com/r/java/comments/rauj3e/what_are_the_most_important_skills_as_a_java/)
-- [The Technological Singularity ~ Easy to try! Keep computing and it ☼BLOOMS☼!](https://www.reddit.com/r/java/comments/raug5j/the_technological_singularity_easy_to_try_keep/)
+- [DevJam Diaries #2 Rory Preddy | Microsoft](https://www.reddit.com/r/java/comments/rau49d/devjam_diaries_2_rory_preddy_microsoft/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
