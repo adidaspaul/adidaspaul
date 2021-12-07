@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to speed up Java desktop application](https://www.reddit.com/r/java/comments/rarbnh/how_to_speed_up_java_desktop_application/)
 - [Did i get anything wrong here? Java beginner](https://www.reddit.com/r/java/comments/raqhgt/did_i_get_anything_wrong_here_java_beginner/)
 - [Interesting Garbage Collection Patterns](https://www.reddit.com/r/java/comments/raq0ew/interesting_garbage_collection_patterns/)
-- [Apache NetBeans 12.6 released](https://www.reddit.com/r/java/comments/ragnef/apache_netbeans_126_released/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
