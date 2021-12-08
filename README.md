@@ -65,8 +65,8 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Creating scalable microservices for practice?](https://www.reddit.com/r/java/comments/rbs15e/creating_scalable_microservices_for_practice/)
-- [[OC] The Most Popular Programming Languages - 1965/2020](https://www.reddit.com/r/java/comments/rbrmqu/oc_the_most_popular_programming_languages_19652020/)
 - [Static Java &lpar;Leyden&rpar;, GraalVM Native and OpenJDK - Andrew Dinn](https://www.reddit.com/r/java/comments/rbarej/static_java_leyden_graalvm_native_and_openjdk/)
+- [What is the complexity of contains method of HashSet?](https://www.reddit.com/r/java/comments/rb24ks/what_is_the_complexity_of_contains_method_of/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
