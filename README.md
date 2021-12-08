@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Java sdk 17 kills jre 8.0 Minecraft servers How would I be able to use both Java to run two servers at the same time?](https://www.reddit.com/r/java/comments/rbdu8k/java_sdk_17_kills_jre_80_minecraft_servers_how/)
 - [Static Java &lpar;Leyden&rpar;, GraalVM Native and OpenJDK - Andrew Dinn](https://www.reddit.com/r/java/comments/rbarej/static_java_leyden_graalvm_native_and_openjdk/)
 - [What is the complexity of contains method of HashSet?](https://www.reddit.com/r/java/comments/rb24ks/what_is_the_complexity_of_contains_method_of/)
+- [Package by feature, not by layer](https://www.reddit.com/r/java/comments/rb1n7e/package_by_feature_not_by_layer/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
