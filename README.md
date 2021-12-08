@@ -66,7 +66,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [jdk 17 case statement using Class representing a sealed hierarchy.](https://www.reddit.com/r/java/comments/rbutzy/jdk_17_case_statement_using_class_representing_a/)
 - [Running IntelliJ IDEA with JDK 17 for Better Render Performance with Metal](https://www.reddit.com/r/java/comments/rbum2q/running_intellij_idea_with_jdk_17_for_better/)
-- [Apache Kafka](https://www.reddit.com/r/java/comments/rbu8xg/apache_kafka/)
+- [Creating scalable microservices for practice?](https://www.reddit.com/r/java/comments/rbs15e/creating_scalable_microservices_for_practice/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
