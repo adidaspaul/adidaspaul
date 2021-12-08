@@ -64,7 +64,7 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Hey! I’m trying to build a Age verification for website and can someone tell me why there a red like on bottom? Is my code ok?](https://www.reddit.com/r/java/comments/rbc1nu/hey_im_trying_to_build_a_age_verification_for/)
+- [Java sdk 17 kills jre 8.0 Minecraft servers How would I be able to use both Java to run two servers at the same time?](https://www.reddit.com/r/java/comments/rbdu8k/java_sdk_17_kills_jre_80_minecraft_servers_how/)
 - [Static Java &lpar;Leyden&rpar;, GraalVM Native and OpenJDK - Andrew Dinn](https://www.reddit.com/r/java/comments/rbarej/static_java_leyden_graalvm_native_and_openjdk/)
 - [What is the complexity of contains method of HashSet?](https://www.reddit.com/r/java/comments/rb24ks/what_is_the_complexity_of_contains_method_of/)
 <!-- BLOG-POST-LIST:END -->
