@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [&quot;Performance Analysis and Tuning on Modern CPU&quot; by Denis Bakhvalov](https://www.reddit.com/r/java/comments/rcdrz3/performance_analysis_and_tuning_on_modern_cpu_by/)
+- [JDK Migration Guide](https://www.reddit.com/r/java/comments/rcdedt/jdk_migration_guide/)
 - [5 Java Coding Skills I Didn’t Learn at University](https://www.reddit.com/r/java/comments/rcbbry/5_java_coding_skills_i_didnt_learn_at_university/)
-- [Running IntelliJ IDEA with JDK 17 for Better Render Performance with Metal](https://www.reddit.com/r/java/comments/rbum2q/running_intellij_idea_with_jdk_17_for_better/)
-- [Creating scalable microservices for practice?](https://www.reddit.com/r/java/comments/rbs15e/creating_scalable_microservices_for_practice/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
