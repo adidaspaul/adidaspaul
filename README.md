@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Get to Know Jakarta MVC](https://www.reddit.com/r/java/comments/rcmo4b/get_to_know_jakarta_mvc/)
 - [String Concatenation - JEP Café #7](https://www.reddit.com/r/java/comments/rcltdb/string_concatenation_jep_café_7/)
 - [New AOT Engine Brings Spring Native to the Next Level](https://www.reddit.com/r/java/comments/rcjdgz/new_aot_engine_brings_spring_native_to_the_next/)
-- [JDK Migration Guide](https://www.reddit.com/r/java/comments/rcdedt/jdk_migration_guide/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
