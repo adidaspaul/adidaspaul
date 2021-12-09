@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [What are Literals in JAVA | Binary Literals in Java for Beginners](https://www.reddit.com/r/java/comments/rcf4eg/what_are_literals_in_java_binary_literals_in_java/)
 - [Making text-to-speech outbound calls with AWS Connect and AWS Polly](https://www.reddit.com/r/java/comments/rcea1l/making_texttospeech_outbound_calls_with_aws/)
 - [&quot;Performance Analysis and Tuning on Modern CPU&quot; by Denis Bakhvalov](https://www.reddit.com/r/java/comments/rcdrz3/performance_analysis_and_tuning_on_modern_cpu_by/)
-- [JDK Migration Guide](https://www.reddit.com/r/java/comments/rcdedt/jdk_migration_guide/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
