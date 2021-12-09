@@ -65,8 +65,8 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [New AOT Engine Brings Spring Native to the Next Level](https://www.reddit.com/r/java/comments/rcjdgz/new_aot_engine_brings_spring_native_to_the_next/)
-- [Making text-to-speech outbound calls with AWS Connect and AWS Polly](https://www.reddit.com/r/java/comments/rcea1l/making_texttospeech_outbound_calls_with_aws/)
-- [&quot;Performance Analysis and Tuning on Modern CPU&quot; by Denis Bakhvalov](https://www.reddit.com/r/java/comments/rcdrz3/performance_analysis_and_tuning_on_modern_cpu_by/)
+- [JDK Migration Guide](https://www.reddit.com/r/java/comments/rcdedt/jdk_migration_guide/)
+- [Running IntelliJ IDEA with JDK 17 for Better Render Performance with Metal](https://www.reddit.com/r/java/comments/rbum2q/running_intellij_idea_with_jdk_17_for_better/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
