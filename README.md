@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Making text-to-speech outbound calls with AWS Connect and AWS Polly](https://www.reddit.com/r/java/comments/rcea1l/making_texttospeech_outbound_calls_with_aws/)
 - [&quot;Performance Analysis and Tuning on Modern CPU&quot; by Denis Bakhvalov](https://www.reddit.com/r/java/comments/rcdrz3/performance_analysis_and_tuning_on_modern_cpu_by/)
 - [JDK Migration Guide](https://www.reddit.com/r/java/comments/rcdedt/jdk_migration_guide/)
-- [5 Java Coding Skills I Didn’t Learn at University](https://www.reddit.com/r/java/comments/rcbbry/5_java_coding_skills_i_didnt_learn_at_university/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
