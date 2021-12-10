@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [RCE 0-day exploit found in log4j, a popular Java logging package](https://www.reddit.com/r/java/comments/rd00ak/rce_0day_exploit_found_in_log4j_a_popular_java/)
 - [Remote code injection in Log4j](https://www.reddit.com/r/java/comments/rcy3nf/remote_code_injection_in_log4j/)
 - [Resize me - Easily compress and resize images](https://www.reddit.com/r/java/comments/rcvu0r/resize_me_easily_compress_and_resize_images/)
-- [How to Add Auth0 Authentication to Java Application using Datawiza in 5 Mins](https://www.reddit.com/r/java/comments/rcui46/how_to_add_auth0_authentication_to_java/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
