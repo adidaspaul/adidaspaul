@@ -65,8 +65,8 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Resize me - Easily compress and resize images](https://www.reddit.com/r/java/comments/rcvu0r/resize_me_easily_compress_and_resize_images/)
-- [Stack Overflow Problem](https://www.reddit.com/r/java/comments/rcuzxv/stack_overflow_problem/)
 - [How to Add Auth0 Authentication to Java Application using Datawiza in 5 Mins](https://www.reddit.com/r/java/comments/rcui46/how_to_add_auth0_authentication_to_java/)
+- [Get to Know Jakarta MVC](https://www.reddit.com/r/java/comments/rcmo4b/get_to_know_jakarta_mvc/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
