@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Kind of a game theory question but I feel programming minds maybe able to figure it out](https://www.reddit.com/r/java/comments/rdkjc1/kind_of_a_game_theory_question_but_i_feel/)
 - [Spring Tips: Spring Native 0.11](https://www.reddit.com/r/java/comments/rd5qd2/spring_tips_spring_native_011/)
 - [RCE 0-day exploit found in log4j, a popular Java logging package](https://www.reddit.com/r/java/comments/rd00ak/rce_0day_exploit_found_in_log4j_a_popular_java/)
-- [Remote code injection in Log4j](https://www.reddit.com/r/java/comments/rcy3nf/remote_code_injection_in_log4j/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
