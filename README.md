@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [I’m trying to learn uml diagrams, i wonder about the relationship between mediaRentalManager and customers for example. I know it’s one to many relationship but i’m wondering who’s the super and subclass here between mediaRentalManager and customer](https://www.reddit.com/r/java/comments/rd5uup/im_trying_to_learn_uml_diagrams_i_wonder_about/)
 - [Spring Tips: Spring Native 0.11](https://www.reddit.com/r/java/comments/rd5qd2/spring_tips_spring_native_011/)
 - [RCE 0-day exploit found in log4j, a popular Java logging package](https://www.reddit.com/r/java/comments/rd00ak/rce_0day_exploit_found_in_log4j_a_popular_java/)
+- [Remote code injection in Log4j](https://www.reddit.com/r/java/comments/rcy3nf/remote_code_injection_in_log4j/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
