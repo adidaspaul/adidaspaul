@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Get to Know Jakarta MVC](https://www.reddit.com/r/java/comments/rcmo4b/get_to_know_jakarta_mvc/)
-- [String Concatenation - JEP Café #7](https://www.reddit.com/r/java/comments/rcltdb/string_concatenation_jep_café_7/)
-- [New AOT Engine Brings Spring Native to the Next Level](https://www.reddit.com/r/java/comments/rcjdgz/new_aot_engine_brings_spring_native_to_the_next/)
+- [Resize me - Easily compress and resize images](https://www.reddit.com/r/java/comments/rcvu0r/resize_me_easily_compress_and_resize_images/)
+- [Stack Overflow Problem](https://www.reddit.com/r/java/comments/rcuzxv/stack_overflow_problem/)
+- [How to Add Auth0 Authentication to Java Application using Datawiza in 5 Mins](https://www.reddit.com/r/java/comments/rcui46/how_to_add_auth0_authentication_to_java/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
