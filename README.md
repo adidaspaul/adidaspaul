@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [wtf is log4j exploit with minecraft my friend is so annoying and he doesn&#39;t let me play minecraft multiplayer.](https://www.reddit.com/r/java/comments/rdtq94/wtf_is_log4j_exploit_with_minecraft_my_friend_is/)
-- [Need help with parameters](https://www.reddit.com/r/java/comments/rdq2w5/need_help_with_parameters/)
-- [About Log4j](https://www.reddit.com/r/java/comments/rdluh3/about_log4j/)
+- [Have you ever wondered how Java&#39;s Logging framework came to be so complex and numerous?](https://www.reddit.com/r/java/comments/rdv98z/have_you_ever_wondered_how_javas_logging/)
+- [graal-bindgen - safe rust bindings to make java/rust interop painless](https://www.reddit.com/r/java/comments/rdk348/graalbindgen_safe_rust_bindings_to_make_javarust/)
+- [Spring Tips: Spring Native 0.11](https://www.reddit.com/r/java/comments/rd5qd2/spring_tips_spring_native_011/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
