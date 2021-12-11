@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [wtf is log4j exploit with minecraft my friend is so annoying and he doesn&#39;t let me play minecraft multiplayer.](https://www.reddit.com/r/java/comments/rdtq94/wtf_is_log4j_exploit_with_minecraft_my_friend_is/)
 - [Need help with parameters](https://www.reddit.com/r/java/comments/rdq2w5/need_help_with_parameters/)
 - [About Log4j](https://www.reddit.com/r/java/comments/rdluh3/about_log4j/)
-- [Kind of a game theory question but I feel programming minds maybe able to figure it out](https://www.reddit.com/r/java/comments/rdkjc1/kind_of_a_game_theory_question_but_i_feel/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
