@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Persism and the SELECT N+1 problem](https://www.reddit.com/r/java/comments/re0hqn/persism_and_the_select_n1_problem/)
 - [2021-12-10 benchmark results · LesnyRumcajs/grpc_bench Wiki](https://www.reddit.com/r/java/comments/rdvomv/20211210_benchmark_results_lesnyrumcajsgrpc_bench/)
 - [Have you ever wondered how Java&#39;s Logging framework came to be so complex and numerous?](https://www.reddit.com/r/java/comments/rdv98z/have_you_ever_wondered_how_javas_logging/)
-- [graal-bindgen - safe rust bindings to make java/rust interop painless](https://www.reddit.com/r/java/comments/rdk348/graalbindgen_safe_rust_bindings_to_make_javarust/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
