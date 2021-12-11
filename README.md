@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Need help with parameters](https://www.reddit.com/r/java/comments/rdq2w5/need_help_with_parameters/)
 - [About Log4j](https://www.reddit.com/r/java/comments/rdluh3/about_log4j/)
 - [Kind of a game theory question but I feel programming minds maybe able to figure it out](https://www.reddit.com/r/java/comments/rdkjc1/kind_of_a_game_theory_question_but_i_feel/)
-- [Spring Tips: Spring Native 0.11](https://www.reddit.com/r/java/comments/rd5qd2/spring_tips_spring_native_011/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
