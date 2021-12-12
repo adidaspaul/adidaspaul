@@ -65,8 +65,8 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [How does RCE vulnerability in Log4j work?](https://www.reddit.com/r/java/comments/refd4f/how_does_rce_vulnerability_in_log4j_work/)
-- [I Don&#39;t Seem Have Java Installed?](https://www.reddit.com/r/java/comments/red9qw/i_dont_seem_have_java_installed/)
 - [Log4j Developer Response](https://www.reddit.com/r/java/comments/rebl16/log4j_developer_response/)
+- [What is your take on the current state of JavaFX as a GUI library?](https://www.reddit.com/r/java/comments/re4czb/what_is_your_take_on_the_current_state_of_javafx/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
