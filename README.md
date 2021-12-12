@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [I Don&#39;t Seem Have Java Installed?](https://www.reddit.com/r/java/comments/red9qw/i_dont_seem_have_java_installed/)
+- [Log4j Developer Response](https://www.reddit.com/r/java/comments/rebl16/log4j_developer_response/)
 - [What is your take on the current state of JavaFX as a GUI library?](https://www.reddit.com/r/java/comments/re4czb/what_is_your_take_on_the_current_state_of_javafx/)
-- [Persism and the SELECT N+1 problem](https://www.reddit.com/r/java/comments/re0hqn/persism_and_the_select_n1_problem/)
-- [2021-12-10 benchmark results · LesnyRumcajs/grpc_bench Wiki](https://www.reddit.com/r/java/comments/rdvomv/20211210_benchmark_results_lesnyrumcajsgrpc_bench/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
