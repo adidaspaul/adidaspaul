@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [I made a simple way to publish and view your logs!](https://www.reddit.com/r/java/comments/revjx1/i_made_a_simple_way_to_publish_and_view_your_logs/)
 - [Java based hotpatch for Log4shell &lpar;log4j2 vulnerability&rpar;](https://www.reddit.com/r/java/comments/resvaz/java_based_hotpatch_for_log4shell_log4j2/)
 - [A tool for checking log4shell vulnerability mitigations](https://www.reddit.com/r/java/comments/rerm9v/a_tool_for_checking_log4shell_vulnerability/)
-- [Is Kathy Sierra still writing?](https://www.reddit.com/r/java/comments/reqxuz/is_kathy_sierra_still_writing/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
