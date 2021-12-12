@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [How does RCE vulnerability in Log4j work?](https://www.reddit.com/r/java/comments/refd4f/how_does_rce_vulnerability_in_log4j_work/)
 - [What is your take on the current state of JavaFX as a GUI library?](https://www.reddit.com/r/java/comments/re4czb/what_is_your_take_on_the_current_state_of_javafx/)
 - [Persism and the SELECT N+1 problem](https://www.reddit.com/r/java/comments/re0hqn/persism_and_the_select_n1_problem/)
+- [2021-12-10 benchmark results · LesnyRumcajs/grpc_bench Wiki](https://www.reddit.com/r/java/comments/rdvomv/20211210_benchmark_results_lesnyrumcajsgrpc_bench/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
