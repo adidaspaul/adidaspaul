@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Is Kathy Sierra still writing?](https://www.reddit.com/r/java/comments/reqxuz/is_kathy_sierra_still_writing/)
 - [OneDev 6.0 - Java based self-hosted git service with CI/CD and issue board](https://www.reddit.com/r/java/comments/renyj2/onedev_60_java_based_selfhosted_git_service_with/)
 - [What is your take on the current state of JavaFX as a GUI library?](https://www.reddit.com/r/java/comments/re4czb/what_is_your_take_on_the_current_state_of_javafx/)
-- [Persism and the SELECT N+1 problem](https://www.reddit.com/r/java/comments/re0hqn/persism_and_the_select_n1_problem/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
