@@ -66,7 +66,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [Type You An Actor Runtime For Greater Good! &lpar;with Java 17, records, switch expressions and JBang&rpar; - JVM Advent](https://www.reddit.com/r/java/comments/rffozl/type_you_an_actor_runtime_for_greater_good_with/)
 - [Eclipse 2021-12 Java IDE Improvements](https://www.reddit.com/r/java/comments/rffkqq/eclipse_202112_java_ide_improvements/)
-- [How is a library like log4j even allowed to do random jndi calls outside the server secure environment?](https://www.reddit.com/r/java/comments/rf6t8c/how_is_a_library_like_log4j_even_allowed_to_do/)
+- [Why Log4Shell was not discovered earlier?](https://www.reddit.com/r/java/comments/rff721/why_log4shell_was_not_discovered_earlier/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
