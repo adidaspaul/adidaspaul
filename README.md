@@ -64,7 +64,7 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [JDK classes, and packages are modularized?](https://www.reddit.com/r/java/comments/rf5gt3/jdk_classes_and_packages_are_modularized/)
+- [How is a library like log4j even allowed to do random jndi calls outside the server secure environment?](https://www.reddit.com/r/java/comments/rf6t8c/how_is_a_library_like_log4j_even_allowed_to_do/)
 - [Test your tests](https://www.reddit.com/r/java/comments/rf3ryp/test_your_tests/)
 - [Can you create an instance of abstract class?](https://www.reddit.com/r/java/comments/rf3h2j/can_you_create_an_instance_of_abstract_class/)
 <!-- BLOG-POST-LIST:END -->
