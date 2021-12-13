@@ -66,7 +66,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [How is a library like log4j even allowed to do random jndi calls outside the server secure environment?](https://www.reddit.com/r/java/comments/rf6t8c/how_is_a_library_like_log4j_even_allowed_to_do/)
 - [Test your tests](https://www.reddit.com/r/java/comments/rf3ryp/test_your_tests/)
-- [Can you create an instance of abstract class?](https://www.reddit.com/r/java/comments/rf3h2j/can_you_create_an_instance_of_abstract_class/)
+- [Java based hotpatch for Log4shell &lpar;log4j2 vulnerability&rpar;](https://www.reddit.com/r/java/comments/resvaz/java_based_hotpatch_for_log4shell_log4j2/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
