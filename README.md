@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Java based hotpatch for Log4shell &lpar;log4j2 vulnerability&rpar;](https://www.reddit.com/r/java/comments/resvaz/java_based_hotpatch_for_log4shell_log4j2/)
-- [A tool for checking log4shell vulnerability mitigations](https://www.reddit.com/r/java/comments/rerm9v/a_tool_for_checking_log4shell_vulnerability/)
-- [Is Kathy Sierra still writing?](https://www.reddit.com/r/java/comments/reqxuz/is_kathy_sierra_still_writing/)
+- [Can abstract class be final in Java?](https://www.reddit.com/r/java/comments/rf342d/can_abstract_class_be_final_in_java/)
+- [Is it necessary for abstract class to have an abstract method?](https://www.reddit.com/r/java/comments/rf33p7/is_it_necessary_for_abstract_class_to_have_an/)
+- [Can abstract class have constructors in Java?](https://www.reddit.com/r/java/comments/rf33aa/can_abstract_class_have_constructors_in_java/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
