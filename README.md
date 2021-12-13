@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [JDK classes, and packages are modularized?](https://www.reddit.com/r/java/comments/rf5gt3/jdk_classes_and_packages_are_modularized/)
 - [Test your tests](https://www.reddit.com/r/java/comments/rf3ryp/test_your_tests/)
 - [Can you create an instance of abstract class?](https://www.reddit.com/r/java/comments/rf3h2j/can_you_create_an_instance_of_abstract_class/)
-- [Can abstract class be final in Java?](https://www.reddit.com/r/java/comments/rf342d/can_abstract_class_be_final_in_java/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
