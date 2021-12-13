@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Bytecode annotation processor](https://www.reddit.com/r/java/comments/rfmqew/bytecode_annotation_processor/)
 - [Type You An Actor Runtime For Greater Good! &lpar;with Java 17, records, switch expressions and JBang&rpar; - JVM Advent](https://www.reddit.com/r/java/comments/rffozl/type_you_an_actor_runtime_for_greater_good_with/)
 - [Eclipse 2021-12 Java IDE Improvements](https://www.reddit.com/r/java/comments/rffkqq/eclipse_202112_java_ide_improvements/)
-- [Why Log4Shell was not discovered earlier?](https://www.reddit.com/r/java/comments/rff721/why_log4shell_was_not_discovered_earlier/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
