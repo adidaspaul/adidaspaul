@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Log4J2 Vulnerability and Spring Boot](https://www.reddit.com/r/java/comments/rfydip/log4j2_vulnerability_and_spring_boot/)
 - [Log4j used indirectly in 60+% of java projects it&#39;s utilized, per Snyk data](https://www.reddit.com/r/java/comments/rfpdwy/log4j_used_indirectly_in_60_of_java_projects_its/)
 - [Features I’d like to have...](https://www.reddit.com/r/java/comments/rfoo3i/features_id_like_to_have/)
-- [Adoptium Temurin Log4j?](https://www.reddit.com/r/java/comments/rfnvr5/adoptium_temurin_log4j/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
