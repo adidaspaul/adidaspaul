@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Logback disables JNDI lookup in response to Log4j2 vulnerability](https://www.reddit.com/r/java/comments/rgbc40/logback_disables_jndi_lookup_in_response_to/)
 - [What&#39;s everyones favorite Stream utility library &lpar;or ies&rpar;? I see jOOL and StreamEx mentioned occasionally, are there others?](https://www.reddit.com/r/java/comments/rga2ar/whats_everyones_favorite_stream_utility_library/)
 - [Does anyone remember if having functions in a static block caused problems?](https://www.reddit.com/r/java/comments/rg9uv0/does_anyone_remember_if_having_functions_in_a/)
-- [Is my copy of IntelliJ broken, or does IntelliJ IDEA just suck?](https://www.reddit.com/r/java/comments/rg90bn/is_my_copy_of_intellij_broken_or_does_intellij/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
