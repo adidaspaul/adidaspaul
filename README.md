@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Silly noob question why don&#39;t Java just use the word constructor when creating a constructor?](https://www.reddit.com/r/java/comments/rg4z5k/silly_noob_question_why_dont_java_just_use_the/)
 - [Primitive Collections Library](https://www.reddit.com/r/java/comments/rg30a0/primitive_collections_library/)
 - [Data in Java programs: a basic conceptual model](https://www.reddit.com/r/java/comments/rfzcju/data_in_java_programs_a_basic_conceptual_model/)
-- [Log4J2 Vulnerability and Spring Boot](https://www.reddit.com/r/java/comments/rfydip/log4j2_vulnerability_and_spring_boot/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
