@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Apache Log4j 2.16 Released to Address Missed Edge Case](https://www.reddit.com/r/java/comments/rgg5hg/apache_log4j_216_released_to_address_missed_edge/)
 - [Logback disables JNDI lookup in response to Log4j2 vulnerability](https://www.reddit.com/r/java/comments/rgbc40/logback_disables_jndi_lookup_in_response_to/)
 - [What&#39;s everyones favorite Stream utility library &lpar;or ies&rpar;? I see jOOL and StreamEx mentioned occasionally, are there others?](https://www.reddit.com/r/java/comments/rga2ar/whats_everyones_favorite_stream_utility_library/)
-- [Does anyone remember if having functions in a static block caused problems?](https://www.reddit.com/r/java/comments/rg9uv0/does_anyone_remember_if_having_functions_in_a/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
