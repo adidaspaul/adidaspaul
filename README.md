@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [😰 Log4J vulnerability in detail and the bigger picture](https://www.reddit.com/r/java/comments/rgh5xa/log4j_vulnerability_in_detail_and_the_bigger/)
+- [Java rate-limiting library based on the token-bucket algorithm.](https://www.reddit.com/r/java/comments/rggqb2/java_ratelimiting_library_based_on_the/)
 - [Apache Log4j 2.16 Released to Address Missed Edge Case](https://www.reddit.com/r/java/comments/rgg5hg/apache_log4j_216_released_to_address_missed_edge/)
-- [Logback disables JNDI lookup in response to Log4j2 vulnerability](https://www.reddit.com/r/java/comments/rgbc40/logback_disables_jndi_lookup_in_response_to/)
-- [What&#39;s everyones favorite Stream utility library &lpar;or ies&rpar;? I see jOOL and StreamEx mentioned occasionally, are there others?](https://www.reddit.com/r/java/comments/rga2ar/whats_everyones_favorite_stream_utility_library/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
