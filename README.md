@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [New Developer Friendly Features After Java 8 - Piotr&#39;s TechBlog](https://www.reddit.com/r/java/comments/rg6f7c/new_developer_friendly_features_after_java_8/)
 - [Silly noob question why don&#39;t Java just use the word constructor when creating a constructor?](https://www.reddit.com/r/java/comments/rg4z5k/silly_noob_question_why_dont_java_just_use_the/)
 - [Primitive Collections Library](https://www.reddit.com/r/java/comments/rg30a0/primitive_collections_library/)
-- [Data in Java programs: a basic conceptual model](https://www.reddit.com/r/java/comments/rfzcju/data_in_java_programs_a_basic_conceptual_model/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
