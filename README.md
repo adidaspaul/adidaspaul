@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Java putting an unwanted framerate cap](https://www.reddit.com/r/java/comments/rgktxm/java_putting_an_unwanted_framerate_cap/)
 - [😰 Log4J vulnerability in detail and the bigger picture](https://www.reddit.com/r/java/comments/rgh5xa/log4j_vulnerability_in_detail_and_the_bigger/)
 - [Java rate-limiting library based on the token-bucket algorithm.](https://www.reddit.com/r/java/comments/rggqb2/java_ratelimiting_library_based_on_the/)
-- [Apache Log4j 2.16 Released to Address Missed Edge Case](https://www.reddit.com/r/java/comments/rgg5hg/apache_log4j_216_released_to_address_missed_edge/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
