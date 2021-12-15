@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [A JavaAgent based hotpatch for fixing live JVMs with the log4shell vulnerability](https://www.reddit.com/r/java/comments/rgwfpb/a_javaagent_based_hotpatch_for_fixing_live_jvms/)
 - [Implementing Approval Tests For PDF Document Generation](https://www.reddit.com/r/java/comments/rguyn4/implementing_approval_tests_for_pdf_document/)
 - [Hey guys uhmm can you help me? I&#39;m a little bit confused as of now........](https://www.reddit.com/r/java/comments/rgulg4/hey_guys_uhmm_can_you_help_me_im_a_little_bit/)
-- [Eclipse/jifa - Analyze heap dump files using a browser.](https://www.reddit.com/r/java/comments/rgqrmz/eclipsejifa_analyze_heap_dump_files_using_a/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
