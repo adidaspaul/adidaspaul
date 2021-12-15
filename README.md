@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Log4Shell Remediation Cheat Sheet | Created by Java Champion and security researcher at Snyk](https://www.reddit.com/r/java/comments/rgxfgl/log4shell_remediation_cheat_sheet_created_by_java/)
 - [A JavaAgent based hotpatch for fixing live JVMs with the log4shell vulnerability](https://www.reddit.com/r/java/comments/rgwfpb/a_javaagent_based_hotpatch_for_fixing_live_jvms/)
 - [Implementing Approval Tests For PDF Document Generation](https://www.reddit.com/r/java/comments/rguyn4/implementing_approval_tests_for_pdf_document/)
-- [Hey guys uhmm can you help me? I&#39;m a little bit confused as of now........](https://www.reddit.com/r/java/comments/rgulg4/hey_guys_uhmm_can_you_help_me_im_a_little_bit/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
