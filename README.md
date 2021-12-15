@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Hiring a junior JAVA developer](https://www.reddit.com/r/java/comments/rgntfi/hiring_a_junior_java_developer/)
 - [Introduction: AWS SAM Serverless Java REST API with S3 Datastore](https://www.reddit.com/r/java/comments/rgnqms/introduction_aws_sam_serverless_java_rest_api/)
 - [Java putting an unwanted framerate cap](https://www.reddit.com/r/java/comments/rgktxm/java_putting_an_unwanted_framerate_cap/)
+- [😰 Log4J vulnerability in detail and the bigger picture](https://www.reddit.com/r/java/comments/rgh5xa/log4j_vulnerability_in_detail_and_the_bigger/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
