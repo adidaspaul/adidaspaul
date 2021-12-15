@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [jfreechart developer guide?](https://www.reddit.com/r/java/comments/rh3msg/jfreechart_developer_guide/)
-- [Apache Kafka CVE statement re. log4j](https://www.reddit.com/r/java/comments/rh00x5/apache_kafka_cve_statement_re_log4j/)
-- [Hi folks! Is Jedis affected by CVE-2021-44228 in any way?](https://www.reddit.com/r/java/comments/rgz3jn/hi_folks_is_jedis_affected_by_cve202144228_in_any/)
+- [Can a mod create a megathread?](https://www.reddit.com/r/java/comments/rhapvh/can_a_mod_create_a_megathread/)
+- [CDI Build Extensions vs Runtime Extensions](https://www.reddit.com/r/java/comments/rhabmm/cdi_build_extensions_vs_runtime_extensions/)
+- [Log4Shell Public Bug Bounty Hitlist](https://www.reddit.com/r/java/comments/rha021/log4shell_public_bug_bounty_hitlist/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
