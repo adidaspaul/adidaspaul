@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Implementing Approval Tests For PDF Document Generation](https://www.reddit.com/r/java/comments/rguyn4/implementing_approval_tests_for_pdf_document/)
+- [Hey guys uhmm can you help me? I&#39;m a little bit confused as of now........](https://www.reddit.com/r/java/comments/rgulg4/hey_guys_uhmm_can_you_help_me_im_a_little_bit/)
 - [Eclipse/jifa - Analyze heap dump files using a browser.](https://www.reddit.com/r/java/comments/rgqrmz/eclipsejifa_analyze_heap_dump_files_using_a/)
-- [Introduction: AWS SAM Serverless Java REST API with S3 Datastore](https://www.reddit.com/r/java/comments/rgnqms/introduction_aws_sam_serverless_java_rest_api/)
-- [😰 Log4J vulnerability in detail and the bigger picture](https://www.reddit.com/r/java/comments/rgh5xa/log4j_vulnerability_in_detail_and_the_bigger/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
