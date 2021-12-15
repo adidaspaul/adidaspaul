@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Apache Kafka CVE statement re. log4j](https://www.reddit.com/r/java/comments/rh00x5/apache_kafka_cve_statement_re_log4j/)
+- [Hi folks! Is Jedis affected by CVE-2021-44228 in any way?](https://www.reddit.com/r/java/comments/rgz3jn/hi_folks_is_jedis_affected_by_cve202144228_in_any/)
 - [Log4Shell Remediation Cheat Sheet | Created by Java Champion and security researcher at Snyk](https://www.reddit.com/r/java/comments/rgxfgl/log4shell_remediation_cheat_sheet_created_by_java/)
-- [A JavaAgent based hotpatch for fixing live JVMs with the log4shell vulnerability](https://www.reddit.com/r/java/comments/rgwfpb/a_javaagent_based_hotpatch_for_fixing_live_jvms/)
-- [Implementing Approval Tests For PDF Document Generation](https://www.reddit.com/r/java/comments/rguyn4/implementing_approval_tests_for_pdf_document/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
