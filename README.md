@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [An Empirical Lower Bound on the Overheads of Production Garbage Collectors](https://www.reddit.com/r/java/comments/ri0kwd/an_empirical_lower_bound_on_the_overheads_of/)
 - [IDE Plugins for Performance Testing Code?](https://www.reddit.com/r/java/comments/rhzaku/ide_plugins_for_performance_testing_code/)
 - [Log4j MEGATHREAD](https://www.reddit.com/r/java/comments/rhywh5/log4j_megathread/)
-- [Log4j : Logpresso patch issue - remove jndi from jar](https://www.reddit.com/r/java/comments/rhusxn/log4j_logpresso_patch_issue_remove_jndi_from_jar/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
