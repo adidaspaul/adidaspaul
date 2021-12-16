@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Talk: Testcontainers with Kevin Wittek](https://www.reddit.com/r/java/comments/rhpijr/talk_testcontainers_with_kevin_wittek/)
 - [Second Log4j vulnerability discovered, patch already released](https://www.reddit.com/r/java/comments/rhm281/second_log4j_vulnerability_discovered_patch/)
 - [CDI Build Extensions vs Runtime Extensions](https://www.reddit.com/r/java/comments/rhabmm/cdi_build_extensions_vs_runtime_extensions/)
-- [Log4Shell Public Bug Bounty Hitlist](https://www.reddit.com/r/java/comments/rha021/log4shell_public_bug_bounty_hitlist/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
