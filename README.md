@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Second Log4j vulnerability discovered, patch already released](https://www.reddit.com/r/java/comments/rhm281/second_log4j_vulnerability_discovered_patch/)
 - [CDI Build Extensions vs Runtime Extensions](https://www.reddit.com/r/java/comments/rhabmm/cdi_build_extensions_vs_runtime_extensions/)
 - [Log4Shell Public Bug Bounty Hitlist](https://www.reddit.com/r/java/comments/rha021/log4shell_public_bug_bounty_hitlist/)
-- [Apache Kafka CVE statement re. log4j](https://www.reddit.com/r/java/comments/rh00x5/apache_kafka_cve_statement_re_log4j/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
