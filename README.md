@@ -64,7 +64,7 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Beginner in Java](https://www.reddit.com/r/java/comments/rhx1ls/beginner_in_java/)
+- [Log4j MEGATHREAD](https://www.reddit.com/r/java/comments/rhywh5/log4j_megathread/)
 - [Log4j : Logpresso patch issue - remove jndi from jar](https://www.reddit.com/r/java/comments/rhusxn/log4j_logpresso_patch_issue_remove_jndi_from_jar/)
 - [The wrong lessons to learn from the Log4j vulnerability](https://www.reddit.com/r/java/comments/rhuqym/the_wrong_lessons_to_learn_from_the_log4j/)
 <!-- BLOG-POST-LIST:END -->
