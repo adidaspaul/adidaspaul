@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [code faster by swearing at your command lind](https://www.reddit.com/r/java/comments/rhs157/code_faster_by_swearing_at_your_command_lind/)
-- [Still calling remote server with version 2.16.0!](https://www.reddit.com/r/java/comments/rhq2jk/still_calling_remote_server_with_version_2160/)
-- [Talk: Testcontainers with Kevin Wittek](https://www.reddit.com/r/java/comments/rhpijr/talk_testcontainers_with_kevin_wittek/)
+- [Log4j : Logpresso patch issue - remove jndi from jar](https://www.reddit.com/r/java/comments/rhusxn/log4j_logpresso_patch_issue_remove_jndi_from_jar/)
+- [The wrong lessons to learn from the Log4j vulnerability](https://www.reddit.com/r/java/comments/rhuqym/the_wrong_lessons_to_learn_from_the_log4j/)
+- [Keep Your SQL in Check With Flight Recorder, JMC Agent and JfrUnit](https://www.reddit.com/r/java/comments/rhuh6m/keep_your_sql_in_check_with_flight_recorder_jmc/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
