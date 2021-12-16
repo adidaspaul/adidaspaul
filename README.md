@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Layer order within layer Order? New to this all so I am trying to figure out how to include a subfolder within the layerOrder](https://www.reddit.com/r/java/comments/rhqh3r/layer_order_within_layer_order_new_to_this_all_so/)
 - [Still calling remote server with version 2.16.0!](https://www.reddit.com/r/java/comments/rhq2jk/still_calling_remote_server_with_version_2160/)
 - [Talk: Testcontainers with Kevin Wittek](https://www.reddit.com/r/java/comments/rhpijr/talk_testcontainers_with_kevin_wittek/)
+- [Second Log4j vulnerability discovered, patch already released](https://www.reddit.com/r/java/comments/rhm281/second_log4j_vulnerability_discovered_patch/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
