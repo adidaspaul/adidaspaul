@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [code faster by swearing at your command lind](https://www.reddit.com/r/java/comments/rhs157/code_faster_by_swearing_at_your_command_lind/)
 - [Still calling remote server with version 2.16.0!](https://www.reddit.com/r/java/comments/rhq2jk/still_calling_remote_server_with_version_2160/)
 - [Talk: Testcontainers with Kevin Wittek](https://www.reddit.com/r/java/comments/rhpijr/talk_testcontainers_with_kevin_wittek/)
-- [Second Log4j vulnerability discovered, patch already released](https://www.reddit.com/r/java/comments/rhm281/second_log4j_vulnerability_discovered_patch/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
