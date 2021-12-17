@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [[Update] Primitive Collections Benchmarks](https://www.reddit.com/r/java/comments/rilyud/update_primitive_collections_benchmarks/)
+- [Project Loom Brings Structured Concurrency - Inside Java Newscast #17](https://www.reddit.com/r/java/comments/riljht/project_loom_brings_structured_concurrency_inside/)
 - [Getting started with JSON, Spring [Data, Boot] and Oracle Database](https://www.reddit.com/r/java/comments/rik2ia/getting_started_with_json_spring_data_boot_and/)
-- [Automating your release process](https://www.reddit.com/r/java/comments/rigwjp/automating_your_release_process/)
-- [Spring Boot 2.6 Improves Docker Images and Metrics, Version 2.4 Is EOL](https://www.reddit.com/r/java/comments/rigup2/spring_boot_26_improves_docker_images_and_metrics/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
