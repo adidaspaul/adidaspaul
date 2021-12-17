@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Automating your release process](https://www.reddit.com/r/java/comments/rigwjp/automating_your_release_process/)
+- [Spring Boot 2.6 Improves Docker Images and Metrics, Version 2.4 Is EOL](https://www.reddit.com/r/java/comments/rigup2/spring_boot_26_improves_docker_images_and_metrics/)
 - [Detect your application’s memory under-allocation in a proactive manner](https://www.reddit.com/r/java/comments/rifr5o/detect_your_applications_memory_underallocation/)
-- [Spring Framework 6.0 M1 released](https://www.reddit.com/r/java/comments/ri44uc/spring_framework_60_m1_released/)
-- [An Empirical Lower Bound on the Overheads of Production Garbage Collectors](https://www.reddit.com/r/java/comments/ri0kwd/an_empirical_lower_bound_on_the_overheads_of/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
