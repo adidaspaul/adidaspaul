@@ -64,7 +64,7 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Logging what &lpar;log4j&rpar;](https://www.reddit.com/r/java/comments/rinh7g/logging_what_log4j/)
+- [Azul introduces remote compilation for Java](https://www.reddit.com/r/java/comments/rinma7/azul_introduces_remote_compilation_for_java/)
 - [[Update] Primitive Collections Benchmarks](https://www.reddit.com/r/java/comments/rilyud/update_primitive_collections_benchmarks/)
 - [Project Loom Brings Structured Concurrency - Inside Java Newscast #17](https://www.reddit.com/r/java/comments/riljht/project_loom_brings_structured_concurrency_inside/)
 <!-- BLOG-POST-LIST:END -->
