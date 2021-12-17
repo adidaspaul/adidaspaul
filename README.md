@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Getting started with JSON, Spring [Data, Boot] and Oracle Database](https://www.reddit.com/r/java/comments/rik2ia/getting_started_with_json_spring_data_boot_and/)
 - [Automating your release process](https://www.reddit.com/r/java/comments/rigwjp/automating_your_release_process/)
 - [Spring Boot 2.6 Improves Docker Images and Metrics, Version 2.4 Is EOL](https://www.reddit.com/r/java/comments/rigup2/spring_boot_26_improves_docker_images_and_metrics/)
-- [Detect your application’s memory under-allocation in a proactive manner](https://www.reddit.com/r/java/comments/rifr5o/detect_your_applications_memory_underallocation/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
