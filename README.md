@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [I&#39;ve written a simple query builder inspired from PyPika](https://www.reddit.com/r/java/comments/rjhisz/ive_written_a_simple_query_builder_inspired_from/)
 - [Log4j 2.17.0 released, for third CVE &lpar;CVE-2021-45105&rpar;](https://www.reddit.com/r/java/comments/rjgiwo/log4j_2170_released_for_third_cve_cve202145105/)
 - [GitHub - Storyyeller/Krakatau: Java decompiler, assembler, and disassembler](https://www.reddit.com/r/java/comments/rjg0rk/github_storyyellerkrakatau_java_decompiler/)
-- [The Maven Wrapper has now been officially released from the Apache Maven Project](https://www.reddit.com/r/java/comments/rjf6vr/the_maven_wrapper_has_now_been_officially/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
