@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The Maven Wrapper has now been officially released from the Apache Maven Project](https://www.reddit.com/r/java/comments/rjf6vr/the_maven_wrapper_has_now_been_officially/)
 - [An epic tale: comparing JDBC and R2DBC in a real-world scenario](https://www.reddit.com/r/java/comments/rj818f/an_epic_tale_comparing_jdbc_and_r2dbc_in_a/)
 - [Logback released a new version. Update ASAP](https://www.reddit.com/r/java/comments/riv9gk/logback_released_a_new_version_update_asap/)
-- [Azul introduces remote compilation for Java](https://www.reddit.com/r/java/comments/rinma7/azul_introduces_remote_compilation_for_java/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
