@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Logback released a new version. Update ASAP](https://www.reddit.com/r/java/comments/riv9gk/logback_released_a_new_version_update_asap/)
 - [How to Add Azure AD Authentication to Java Web Application in 5 Mins](https://www.reddit.com/r/java/comments/risyi8/how_to_add_azure_ad_authentication_to_java_web/)
 - [Azul introduces remote compilation for Java](https://www.reddit.com/r/java/comments/rinma7/azul_introduces_remote_compilation_for_java/)
-- [[Update] Primitive Collections Benchmarks](https://www.reddit.com/r/java/comments/rilyud/update_primitive_collections_benchmarks/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
