@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Hands-On Lessons Exploring the Apache Log4J JNDI Injection Vulnerability](https://www.reddit.com/r/java/comments/rj7faw/handson_lessons_exploring_the_apache_log4j_jndi/)
 - [Logback released a new version. Update ASAP](https://www.reddit.com/r/java/comments/riv9gk/logback_released_a_new_version_update_asap/)
 - [How to Add Azure AD Authentication to Java Web Application in 5 Mins](https://www.reddit.com/r/java/comments/risyi8/how_to_add_azure_ad_authentication_to_java_web/)
-- [Azul introduces remote compilation for Java](https://www.reddit.com/r/java/comments/rinma7/azul_introduces_remote_compilation_for_java/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
