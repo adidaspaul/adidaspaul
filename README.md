@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Log4j 2.17.0 released, for third CVE &lpar;CVE-2021-45105&rpar;](https://www.reddit.com/r/java/comments/rjgiwo/log4j_2170_released_for_third_cve_cve202145105/)
+- [GitHub - Storyyeller/Krakatau: Java decompiler, assembler, and disassembler](https://www.reddit.com/r/java/comments/rjg0rk/github_storyyellerkrakatau_java_decompiler/)
 - [The Maven Wrapper has now been officially released from the Apache Maven Project](https://www.reddit.com/r/java/comments/rjf6vr/the_maven_wrapper_has_now_been_officially/)
-- [An epic tale: comparing JDBC and R2DBC in a real-world scenario](https://www.reddit.com/r/java/comments/rj818f/an_epic_tale_comparing_jdbc_and_r2dbc_in_a/)
-- [Logback released a new version. Update ASAP](https://www.reddit.com/r/java/comments/riv9gk/logback_released_a_new_version_update_asap/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
