@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Jakarta EE 9.1 documentation released](https://www.reddit.com/r/java/comments/rjxevz/jakarta_ee_91_documentation_released/)
 - [Are there any substantial benefits to different JDK&#39;s and their JVM implementations?](https://www.reddit.com/r/java/comments/rjx2ny/are_there_any_substantial_benefits_to_different/)
 - [I&#39;ve written a simple query builder inspired from PyPika](https://www.reddit.com/r/java/comments/rjhisz/ive_written_a_simple_query_builder_inspired_from/)
+- [Log4j 2.17.0 released, for third CVE &lpar;CVE-2021-45105&rpar;](https://www.reddit.com/r/java/comments/rjgiwo/log4j_2170_released_for_third_cve_cve202145105/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
