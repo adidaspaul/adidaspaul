@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [JWT validation with JWKs in Java](https://www.reddit.com/r/java/comments/rkfu93/jwt_validation_with_jwks_in_java/)
 - [The art of building Java APIs: Do&#39;s and Don&#39;ts - Jonathan Giles](https://www.reddit.com/r/java/comments/rkdati/the_art_of_building_java_apis_dos_and_donts/)
 - [Back to basics: threads - Adam Dubiel](https://www.reddit.com/r/java/comments/rkd35v/back_to_basics_threads_adam_dubiel/)
-- [Best online course to learn Spring Framework Java](https://www.reddit.com/r/java/comments/rk4ui9/best_online_course_to_learn_spring_framework_java/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
