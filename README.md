@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [HELP! UKNOWN ERROR](https://www.reddit.com/r/java/comments/rktgio/help_uknown_error/)
 - [Oldies but Goldies - From Erlang to Java and Back Again](https://www.reddit.com/r/java/comments/rkkuz0/oldies_but_goldies_from_erlang_to_java_and_back/)
 - [JWT validation with JWKs in Java](https://www.reddit.com/r/java/comments/rkfu93/jwt_validation_with_jwks_in_java/)
+- [The art of building Java APIs: Do&#39;s and Don&#39;ts - Jonathan Giles](https://www.reddit.com/r/java/comments/rkdati/the_art_of_building_java_apis_dos_and_donts/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
