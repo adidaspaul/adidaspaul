@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Fallacies of Doom Lessons learned from porting Doom 3 to Java - Mahmoud Abdelghany](https://www.reddit.com/r/java/comments/rl5085/fallacies_of_doom_lessons_learned_from_porting/)
 - [Yet Another Log4j Security Problem Appears](https://www.reddit.com/r/java/comments/rky7xo/yet_another_log4j_security_problem_appears/)
 - [Oldies but Goldies - From Erlang to Java and Back Again](https://www.reddit.com/r/java/comments/rkkuz0/oldies_but_goldies_from_erlang_to_java_and_back/)
-- [JWT validation with JWKs in Java](https://www.reddit.com/r/java/comments/rkfu93/jwt_validation_with_jwks_in_java/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
