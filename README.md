@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [From Maven 3 to Maven 5](https://www.reddit.com/r/java/comments/rlarbq/from_maven_3_to_maven_5/)
 - [The 5 Java Concise Syntax I Miss in Kotlin](https://www.reddit.com/r/java/comments/rl6kk2/the_5_java_concise_syntax_i_miss_in_kotlin/)
 - [Fallacies of Doom Lessons learned from porting Doom 3 to Java - Mahmoud Abdelghany](https://www.reddit.com/r/java/comments/rl5085/fallacies_of_doom_lessons_learned_from_porting/)
-- [Oldies but Goldies - From Erlang to Java and Back Again](https://www.reddit.com/r/java/comments/rkkuz0/oldies_but_goldies_from_erlang_to_java_and_back/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
