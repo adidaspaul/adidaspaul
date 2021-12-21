@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Kibana alternatives &lpar;log viewing &rpar;](https://www.reddit.com/r/java/comments/rld7pn/kibana_alternatives_log_viewing/)
 - [Why doesn&#39;t everyone use gradle?](https://www.reddit.com/r/java/comments/rlc41l/why_doesnt_everyone_use_gradle/)
 - [From Maven 3 to Maven 5](https://www.reddit.com/r/java/comments/rlarbq/from_maven_3_to_maven_5/)
-- [The 5 Java Concise Syntax I Miss in Kotlin](https://www.reddit.com/r/java/comments/rl6kk2/the_5_java_concise_syntax_i_miss_in_kotlin/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
