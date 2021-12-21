@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Adding Spring Security with JWTs into a Java Project](https://www.reddit.com/r/java/comments/rll30e/adding_spring_security_with_jwts_into_a_java/)
 - [Java documentation explanation](https://www.reddit.com/r/java/comments/rlj3rh/java_documentation_explanation/)
 - [Java News Roundup: Updates on Log4Shell, Spring Framework 6.0-M1, WildFly 26](https://www.reddit.com/r/java/comments/rlirkn/java_news_roundup_updates_on_log4shell_spring/)
-- [Kibana alternatives &lpar;log viewing &rpar;](https://www.reddit.com/r/java/comments/rld7pn/kibana_alternatives_log_viewing/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
