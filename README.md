@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Are there any other methods besides JVMTI for finding objects allocated in the heap ? &lpar;Hotspot VM&rpar;](https://www.reddit.com/r/java/comments/rlphw8/are_there_any_other_methods_besides_jvmti_for/)
 - [Monorepo with Gradle](https://www.reddit.com/r/java/comments/rlo5gb/monorepo_with_gradle/)
 - [Adding Spring Security with JWTs into a Java Project](https://www.reddit.com/r/java/comments/rll30e/adding_spring_security_with_jwts_into_a_java/)
-- [Java documentation explanation](https://www.reddit.com/r/java/comments/rlj3rh/java_documentation_explanation/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
