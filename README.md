@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Kibana alternatives &lpar;log viewing &rpar;](https://www.reddit.com/r/java/comments/rld7pn/kibana_alternatives_log_viewing/)
-- [Why doesn&#39;t everyone use gradle?](https://www.reddit.com/r/java/comments/rlc41l/why_doesnt_everyone_use_gradle/)
-- [From Maven 3 to Maven 5](https://www.reddit.com/r/java/comments/rlarbq/from_maven_3_to_maven_5/)
+- [Java documentation explanation](https://www.reddit.com/r/java/comments/rlj3rh/java_documentation_explanation/)
+- [The Truth About The Log4J Security Issue.](https://www.reddit.com/r/java/comments/rliv9l/the_truth_about_the_log4j_security_issue/)
+- [Java News Roundup: Updates on Log4Shell, Spring Framework 6.0-M1, WildFly 26](https://www.reddit.com/r/java/comments/rlirkn/java_news_roundup_updates_on_log4shell_spring/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
