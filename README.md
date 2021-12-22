@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Build Kubernetes controllers with Fabric8 Kubernetes Client, Quarkus, and JKube](https://www.reddit.com/r/java/comments/rm34qg/build_kubernetes_controllers_with_fabric8/)
 - [What’s the point?](https://www.reddit.com/r/java/comments/rm19qf/whats_the_point/)
 - [Are there any other methods besides JVMTI for finding objects allocated in the heap ? &lpar;Hotspot VM&rpar;](https://www.reddit.com/r/java/comments/rlphw8/are_there_any_other_methods_besides_jvmti_for/)
-- [Monorepo with Gradle](https://www.reddit.com/r/java/comments/rlo5gb/monorepo_with_gradle/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
