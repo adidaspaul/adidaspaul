@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [A beginner&#39;s guide to custom Spring Data Repositories](https://www.reddit.com/r/java/comments/rm7ctu/a_beginners_guide_to_custom_spring_data/)
+- [Which option should I download?](https://www.reddit.com/r/java/comments/rm69yl/which_option_should_i_download/)
 - [Does anyone know if documentation is just stale or if im missing something on Thread.sleep&lpar;long millis, int nanos&rpar;?](https://www.reddit.com/r/java/comments/rm61r0/does_anyone_know_if_documentation_is_just_stale/)
-- [Build Kubernetes controllers with Fabric8 Kubernetes Client, Quarkus, and JKube](https://www.reddit.com/r/java/comments/rm34qg/build_kubernetes_controllers_with_fabric8/)
-- [What’s the point?](https://www.reddit.com/r/java/comments/rm19qf/whats_the_point/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
