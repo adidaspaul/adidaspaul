@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Micronaut 3. 2 Released for More Performant Microservices](https://www.reddit.com/r/java/comments/rmavxu/micronaut_3_2_released_for_more_performant/)
 - [A beginner&#39;s guide to custom Spring Data Repositories](https://www.reddit.com/r/java/comments/rm7ctu/a_beginners_guide_to_custom_spring_data/)
 - [Which option should I download?](https://www.reddit.com/r/java/comments/rm69yl/which_option_should_i_download/)
-- [Does anyone know if documentation is just stale or if im missing something on Thread.sleep&lpar;long millis, int nanos&rpar;?](https://www.reddit.com/r/java/comments/rm61r0/does_anyone_know_if_documentation_is_just_stale/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
