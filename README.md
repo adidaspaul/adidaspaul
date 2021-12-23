@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Positive morning affirmations for a successful start to the day .](https://www.reddit.com/r/java/comments/rn1rwb/positive_morning_affirmations_for_a_successful/)
+- [Updated State of Valhalla documents](https://www.reddit.com/r/java/comments/rn0opy/updated_state_of_valhalla_documents/)
 - [How to Find Dangerous Log4j Libraries](https://www.reddit.com/r/java/comments/rn0ltn/how_to_find_dangerous_log4j_libraries/)
-- [AWS Is Out To Kill Mainframes: &quot;The cloud vendor wants to replace big iron with hyperscale servers, and COBOL – with Java&quot;](https://www.reddit.com/r/java/comments/rmwmmo/aws_is_out_to_kill_mainframes_the_cloud_vendor/)
-- [txtai: AI-powered search engine for Java;](https://www.reddit.com/r/java/comments/rmgfyo/txtai_aipowered_search_engine_for_java/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
