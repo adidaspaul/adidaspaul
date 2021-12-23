@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Find Dangerous Log4j Libraries](https://www.reddit.com/r/java/comments/rn0ltn/how_to_find_dangerous_log4j_libraries/)
 - [AWS Is Out To Kill Mainframes: &quot;The cloud vendor wants to replace big iron with hyperscale servers, and COBOL – with Java&quot;](https://www.reddit.com/r/java/comments/rmwmmo/aws_is_out_to_kill_mainframes_the_cloud_vendor/)
 - [txtai: AI-powered search engine for Java;](https://www.reddit.com/r/java/comments/rmgfyo/txtai_aipowered_search_engine_for_java/)
-- [Micronaut 3. 2 Released for More Performant Microservices](https://www.reddit.com/r/java/comments/rmavxu/micronaut_3_2_released_for_more_performant/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
