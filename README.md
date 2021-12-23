@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [AWS Is Out To Kill Mainframes: &quot;The cloud vendor wants to replace big iron with hyperscale servers, and COBOL – with Java&quot;](https://www.reddit.com/r/java/comments/rmwmmo/aws_is_out_to_kill_mainframes_the_cloud_vendor/)
 - [txtai: AI-powered search engine for Java;](https://www.reddit.com/r/java/comments/rmgfyo/txtai_aipowered_search_engine_for_java/)
 - [Micronaut 3. 2 Released for More Performant Microservices](https://www.reddit.com/r/java/comments/rmavxu/micronaut_3_2_released_for_more_performant/)
-- [A beginner&#39;s guide to custom Spring Data Repositories](https://www.reddit.com/r/java/comments/rm7ctu/a_beginners_guide_to_custom_spring_data/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
