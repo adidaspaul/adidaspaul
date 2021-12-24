@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [ExpressiveJava: Re-implementing a simple Scala interpreter in JDK 8/15/17. JDK 17 code nearly identical with use of Records + Pattern Matching + Sealed Types.](https://www.reddit.com/r/java/comments/rnoz2q/expressivejava_reimplementing_a_simple_scala/)
 - [Floating-point arithmetic: what every Java programmer should know](https://www.reddit.com/r/java/comments/rnim79/floatingpoint_arithmetic_what_every_java/)
 - [My real-time oscilloscope music rendering program written in Java](https://www.reddit.com/r/java/comments/rn4emr/my_realtime_oscilloscope_music_rendering_program/)
-- [New Loom EA build based on jdk-19+2 is available with some ScopeLocals changes](https://www.reddit.com/r/java/comments/rn21g0/new_loom_ea_build_based_on_jdk192_is_available/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
