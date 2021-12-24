@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Floating-point arithmetic: what every Java programmer should know](https://www.reddit.com/r/java/comments/rnim79/floatingpoint_arithmetic_what_every_java/)
 - [My real-time oscilloscope music rendering program written in Java](https://www.reddit.com/r/java/comments/rn4emr/my_realtime_oscilloscope_music_rendering_program/)
 - [New Loom EA build based on jdk-19+2 is available with some ScopeLocals changes](https://www.reddit.com/r/java/comments/rn21g0/new_loom_ea_build_based_on_jdk192_is_available/)
-- [Updated State of Valhalla documents](https://www.reddit.com/r/java/comments/rn0opy/updated_state_of_valhalla_documents/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
