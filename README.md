@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Java Development on M1 Macs](https://www.reddit.com/r/java/comments/roc2j4/java_development_on_m1_macs/)
+- [JRE &amp; JDK implementation mess](https://www.reddit.com/r/java/comments/roc1d3/jre_jdk_implementation_mess/)
 - [What is something you made in Java to automate/make your job easier?](https://www.reddit.com/r/java/comments/rnwchs/what_is_something_you_made_in_java_to/)
-- [ExpressiveJava: Re-implementing a simple Scala interpreter in JDK 8/15/17. JDK 17 code nearly identical with use of Records + Pattern Matching + Sealed Types.](https://www.reddit.com/r/java/comments/rnoz2q/expressivejava_reimplementing_a_simple_scala/)
-- [Floating-point arithmetic: what every Java programmer should know](https://www.reddit.com/r/java/comments/rnim79/floatingpoint_arithmetic_what_every_java/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
