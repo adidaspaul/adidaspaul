@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [MicroProfile 5.0 Release with Updated Jakarta EE 9.1 Dependencies](https://www.reddit.com/r/java/comments/rofyj8/microprofile_50_release_with_updated_jakarta_ee/)
 - [Java Development on M1 Macs](https://www.reddit.com/r/java/comments/roc2j4/java_development_on_m1_macs/)
 - [JRE &amp; JDK implementation mess](https://www.reddit.com/r/java/comments/roc1d3/jre_jdk_implementation_mess/)
-- [What is something you made in Java to automate/make your job easier?](https://www.reddit.com/r/java/comments/rnwchs/what_is_something_you_made_in_java_to/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
