@@ -65,8 +65,8 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Certification course in JAVA](https://www.reddit.com/r/java/comments/rp1do1/certification_course_in_java/)
-- [How did Kotlin influences/d your Java project?](https://www.reddit.com/r/java/comments/rp18ba/how_did_kotlin_influencesd_your_java_project/)
 - [Migration from Java EE to JakartaEE and Microprofile](https://www.reddit.com/r/java/comments/rovv5a/migration_from_java_ee_to_jakartaee_and/)
+- [How are LTS updates made?](https://www.reddit.com/r/java/comments/roteqw/how_are_lts_updates_made/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
