@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Do I even care about JBoss or are there better alternatives?](https://www.reddit.com/r/java/comments/rpjvjq/do_i_even_care_about_jboss_or_are_there_better/)
 - [Certification course in JAVA](https://www.reddit.com/r/java/comments/rp1do1/certification_course_in_java/)
 - [Migration from Java EE to JakartaEE and Microprofile](https://www.reddit.com/r/java/comments/rovv5a/migration_from_java_ee_to_jakartaee_and/)
-- [How are LTS updates made?](https://www.reddit.com/r/java/comments/roteqw/how_are_lts_updates_made/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
