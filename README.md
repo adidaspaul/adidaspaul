@@ -65,8 +65,8 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Is it worth looking at GraalVM native image?](https://www.reddit.com/r/java/comments/rpt4k9/is_it_worth_looking_at_graalvm_native_image/)
-- [try { return } finally {}](https://www.reddit.com/r/java/comments/rpor77/try_return_finally/)
 - [MicroStream 6.0 Supports JDK 17, Spring Boot and Helidon](https://www.reddit.com/r/java/comments/rpmjm3/microstream_60_supports_jdk_17_spring_boot_and/)
+- [Do I even care about JBoss or are there better alternatives?](https://www.reddit.com/r/java/comments/rpjvjq/do_i_even_care_about_jboss_or_are_there_better/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
