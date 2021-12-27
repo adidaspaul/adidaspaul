@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [MicroStream 6.0 Supports JDK 17, Spring Boot and Helidon](https://www.reddit.com/r/java/comments/rpmjm3/microstream_60_supports_jdk_17_spring_boot_and/)
 - [Do I even care about JBoss or are there better alternatives?](https://www.reddit.com/r/java/comments/rpjvjq/do_i_even_care_about_jboss_or_are_there_better/)
 - [Certification course in JAVA](https://www.reddit.com/r/java/comments/rp1do1/certification_course_in_java/)
-- [Migration from Java EE to JakartaEE and Microprofile](https://www.reddit.com/r/java/comments/rovv5a/migration_from_java_ee_to_jakartaee_and/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
