@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Jre or Jdk for production?](https://www.reddit.com/r/java/comments/rqsnyc/jre_or_jdk_for_production/)
 - [Spring Warehouse - A quest to learn more Java and Spring boot](https://www.reddit.com/r/java/comments/rqqvbh/spring_warehouse_a_quest_to_learn_more_java_and/)
 - [Java News Roundup: More Log4Shell Statements, Spring and Quarkus Updates, New Value Objects JEP](https://www.reddit.com/r/java/comments/rqau75/java_news_roundup_more_log4shell_statements/)
-- [Is it worth looking at GraalVM native image?](https://www.reddit.com/r/java/comments/rpt4k9/is_it_worth_looking_at_graalvm_native_image/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
