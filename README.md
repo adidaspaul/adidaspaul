@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Thought about doing a binary tree and inverting it, I don&#39;t know how to optimize it further, suggestions? &lpar;made all public for simplicity sake, I know getters and setter are the general norm&rpar;](https://www.reddit.com/r/java/comments/rqlw7g/thought_about_doing_a_binary_tree_and_inverting/)
 - [Java News Roundup: More Log4Shell Statements, Spring and Quarkus Updates, New Value Objects JEP](https://www.reddit.com/r/java/comments/rqau75/java_news_roundup_more_log4shell_statements/)
 - [Is it worth looking at GraalVM native image?](https://www.reddit.com/r/java/comments/rpt4k9/is_it_worth_looking_at_graalvm_native_image/)
+- [MicroStream 6.0 Supports JDK 17, Spring Boot and Helidon](https://www.reddit.com/r/java/comments/rpmjm3/microstream_60_supports_jdk_17_spring_boot_and/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
