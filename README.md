@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [GlassFish 7 - M1 released! &lpar;early Jakarta EE 10 alpha&rpar;](https://www.reddit.com/r/java/comments/rrfqj3/glassfish_7_m1_released_early_jakarta_ee_10_alpha/)
 - [Spring Cloud annotations simplified: useful annotations and explanations that are worth knowing for developing microservices.](https://www.reddit.com/r/java/comments/rr7g0m/spring_cloud_annotations_simplified_useful/)
 - [Spring Warehouse - A quest to learn more Java and Spring boot](https://www.reddit.com/r/java/comments/rqqvbh/spring_warehouse_a_quest_to_learn_more_java_and/)
-- [Java News Roundup: More Log4Shell Statements, Spring and Quarkus Updates, New Value Objects JEP](https://www.reddit.com/r/java/comments/rqau75/java_news_roundup_more_log4shell_statements/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
