@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Spring Cloud annotations simplified: useful annotations and explanations that are worth knowing for developing microservices.](https://www.reddit.com/r/java/comments/rr7g0m/spring_cloud_annotations_simplified_useful/)
 - [Can anyone tell me how to write java program for collatz conjecture?](https://www.reddit.com/r/java/comments/rr76r3/can_anyone_tell_me_how_to_write_java_program_for/)
 - [Jre or Jdk for production?](https://www.reddit.com/r/java/comments/rqsnyc/jre_or_jdk_for_production/)
-- [Spring Warehouse - A quest to learn more Java and Spring boot](https://www.reddit.com/r/java/comments/rqqvbh/spring_warehouse_a_quest_to_learn_more_java_and/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
