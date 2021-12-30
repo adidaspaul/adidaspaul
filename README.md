@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [When would you use Spring Integration?](https://www.reddit.com/r/java/comments/rscyoe/when_would_you_use_spring_integration/)
 - [Does anybody enjoy CompletableFuture?](https://www.reddit.com/r/java/comments/rsa40l/does_anybody_enjoy_completablefuture/)
 - [How do you respond to a non programmer asking you: “You still work with Java!?” in a negative connotation?](https://www.reddit.com/r/java/comments/rs795i/how_do_you_respond_to_a_non_programmer_asking_you/)
-- [Keyset Pagination with Spring - Vlad Mihalcea](https://www.reddit.com/r/java/comments/rs3gou/keyset_pagination_with_spring_vlad_mihalcea/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
