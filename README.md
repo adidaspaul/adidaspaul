@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Why everyone hates Java?](https://www.reddit.com/r/java/comments/rrlwi7/why_everyone_hates_java/)
 - [You don’t need an application server to run Jakarta EE applications](https://www.reddit.com/r/java/comments/rrkvcb/you_dont_need_an_application_server_to_run/)
 - [GlassFish 7 - M1 released! &lpar;early Jakarta EE 10 alpha&rpar;](https://www.reddit.com/r/java/comments/rrfqj3/glassfish_7_m1_released_early_jakarta_ee_10_alpha/)
-- [Spring Cloud annotations simplified: useful annotations and explanations that are worth knowing for developing microservices.](https://www.reddit.com/r/java/comments/rr7g0m/spring_cloud_annotations_simplified_useful/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
