@@ -64,7 +64,7 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Imperative vs reactive](https://www.reddit.com/r/java/comments/rs1hb0/imperative_vs_reactive/)
+- [Keyset Pagination with Spring - Vlad Mihalcea](https://www.reddit.com/r/java/comments/rs3gou/keyset_pagination_with_spring_vlad_mihalcea/)
 - [Coming from C# to java world.](https://www.reddit.com/r/java/comments/rruosa/coming_from_c_to_java_world/)
 - [Why everyone hates Java?](https://www.reddit.com/r/java/comments/rrlwi7/why_everyone_hates_java/)
 <!-- BLOG-POST-LIST:END -->
