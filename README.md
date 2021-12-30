@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How do you respond to a non programmer asking you: “You still work with Java!?” in a negative connotation?](https://www.reddit.com/r/java/comments/rs795i/how_do_you_respond_to_a_non_programmer_asking_you/)
 - [Keyset Pagination with Spring - Vlad Mihalcea](https://www.reddit.com/r/java/comments/rs3gou/keyset_pagination_with_spring_vlad_mihalcea/)
 - [Coming from C# to java world.](https://www.reddit.com/r/java/comments/rruosa/coming_from_c_to_java_world/)
-- [Why everyone hates Java?](https://www.reddit.com/r/java/comments/rrlwi7/why_everyone_hates_java/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
