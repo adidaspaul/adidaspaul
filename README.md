@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Java Web services](https://www.reddit.com/r/java/comments/rsinwa/java_web_services/)
-- [Want to be an expert](https://www.reddit.com/r/java/comments/rsfyb4/want_to_be_an_expert/)
 - [Notes about loading configuration Examples for Play Framework and Spring Boot](https://www.reddit.com/r/java/comments/rsffzv/notes_about_loading_configuration_examples_for/)
+- [When would you use Spring Integration?](https://www.reddit.com/r/java/comments/rscyoe/when_would_you_use_spring_integration/)
+- [Does anybody enjoy CompletableFuture?](https://www.reddit.com/r/java/comments/rsa40l/does_anybody_enjoy_completablefuture/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
