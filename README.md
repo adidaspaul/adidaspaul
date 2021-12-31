@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Want to be an expert](https://www.reddit.com/r/java/comments/rsfyb4/want_to_be_an_expert/)
+- [Notes about loading configuration Examples for Play Framework and Spring Boot](https://www.reddit.com/r/java/comments/rsffzv/notes_about_loading_configuration_examples_for/)
 - [When would you use Spring Integration?](https://www.reddit.com/r/java/comments/rscyoe/when_would_you_use_spring_integration/)
-- [Does anybody enjoy CompletableFuture?](https://www.reddit.com/r/java/comments/rsa40l/does_anybody_enjoy_completablefuture/)
-- [How do you respond to a non programmer asking you: “You still work with Java!?” in a negative connotation?](https://www.reddit.com/r/java/comments/rs795i/how_do_you_respond_to_a_non_programmer_asking_you/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
