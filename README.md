@@ -64,7 +64,7 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [&lpar;int i = 2021; i++&rpar;](https://www.reddit.com/r/java/comments/rsxgyc/int_i_2021_i/)
+- [Happy New Year 2022 in Java!](https://www.reddit.com/r/java/comments/rsyot3/happy_new_year_2022_in_java/)
 - [What exactly is &#39;tearing&#39;?](https://www.reddit.com/r/java/comments/rsr8az/what_exactly_is_tearing/)
 - [Notes about loading configuration Examples for Play Framework and Spring Boot](https://www.reddit.com/r/java/comments/rsffzv/notes_about_loading_configuration_examples_for/)
 <!-- BLOG-POST-LIST:END -->
