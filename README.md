@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [What exactly is &#39;tearing&#39;?](https://www.reddit.com/r/java/comments/rsr8az/what_exactly_is_tearing/)
 - [Notes about loading configuration Examples for Play Framework and Spring Boot](https://www.reddit.com/r/java/comments/rsffzv/notes_about_loading_configuration_examples_for/)
 - [When would you use Spring Integration?](https://www.reddit.com/r/java/comments/rscyoe/when_would_you_use_spring_integration/)
-- [Does anybody enjoy CompletableFuture?](https://www.reddit.com/r/java/comments/rsa40l/does_anybody_enjoy_completablefuture/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
