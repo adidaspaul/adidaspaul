@@ -64,7 +64,7 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Best Java 17 features](https://www.reddit.com/r/java/comments/rub36l/best_java_17_features/)
+- [Creating a maze](https://www.reddit.com/r/java/comments/rucxhi/creating_a_maze/)
 - [Vavr or PFJ for functional Java?](https://www.reddit.com/r/java/comments/ruarod/vavr_or_pfj_for_functional_java/)
 - [Switching to Java](https://www.reddit.com/r/java/comments/ru9dxc/switching_to_java/)
 <!-- BLOG-POST-LIST:END -->
