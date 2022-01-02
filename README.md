@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Best Java 17 features](https://www.reddit.com/r/java/comments/rub36l/best_java_17_features/)
+- [Vavr or PFJ for functional Java?](https://www.reddit.com/r/java/comments/ruarod/vavr_or_pfj_for_functional_java/)
 - [Switching to Java](https://www.reddit.com/r/java/comments/ru9dxc/switching_to_java/)
-- [Worth earning Java 11 certification before trying to transition to a Java position?](https://www.reddit.com/r/java/comments/rtx1lz/worth_earning_java_11_certification_before_trying/)
-- [Why is the Java Valhalla project named Valhalla?](https://www.reddit.com/r/java/comments/rt3wi8/why_is_the_java_valhalla_project_named_valhalla/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
