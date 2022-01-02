@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Worth earning Java 11 certification before trying to transition to a Java position?](https://www.reddit.com/r/java/comments/rtx1lz/worth_earning_java_11_certification_before_trying/)
 - [Why is the Java Valhalla project named Valhalla?](https://www.reddit.com/r/java/comments/rt3wi8/why_is_the_java_valhalla_project_named_valhalla/)
 - [What exactly is &#39;tearing&#39;?](https://www.reddit.com/r/java/comments/rsr8az/what_exactly_is_tearing/)
-- [Notes about loading configuration Examples for Play Framework and Spring Boot](https://www.reddit.com/r/java/comments/rsffzv/notes_about_loading_configuration_examples_for/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
