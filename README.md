@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Is Swing getting new updates, especially regarding DPI?](https://www.reddit.com/r/java/comments/ru2tvs/is_swing_getting_new_updates_especially_regarding/)
 - [Worth earning Java 11 certification before trying to transition to a Java position?](https://www.reddit.com/r/java/comments/rtx1lz/worth_earning_java_11_certification_before_trying/)
 - [Why is the Java Valhalla project named Valhalla?](https://www.reddit.com/r/java/comments/rt3wi8/why_is_the_java_valhalla_project_named_valhalla/)
+- [What exactly is &#39;tearing&#39;?](https://www.reddit.com/r/java/comments/rsr8az/what_exactly_is_tearing/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
