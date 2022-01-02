@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Echopraxia, a better Java Logging API](https://www.reddit.com/r/java/comments/ruldk5/echopraxia_a_better_java_logging_api/)
 - [Java Tutor here, should I move on to Python?](https://www.reddit.com/r/java/comments/rujx1s/java_tutor_here_should_i_move_on_to_python/)
 - [Vavr or PFJ for functional Java?](https://www.reddit.com/r/java/comments/ruarod/vavr_or_pfj_for_functional_java/)
-- [Switching to Java](https://www.reddit.com/r/java/comments/ru9dxc/switching_to_java/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
