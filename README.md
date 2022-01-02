@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Java Tutor here, should I move on to Python?](https://www.reddit.com/r/java/comments/rujx1s/java_tutor_here_should_i_move_on_to_python/)
 - [Vavr or PFJ for functional Java?](https://www.reddit.com/r/java/comments/ruarod/vavr_or_pfj_for_functional_java/)
 - [Switching to Java](https://www.reddit.com/r/java/comments/ru9dxc/switching_to_java/)
-- [Worth earning Java 11 certification before trying to transition to a Java position?](https://www.reddit.com/r/java/comments/rtx1lz/worth_earning_java_11_certification_before_trying/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
