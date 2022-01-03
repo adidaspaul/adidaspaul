@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Are there any java build tools which have not been written in Java?, If not, what could be the reason?](https://www.reddit.com/r/java/comments/ruoc37/are_there_any_java_build_tools_which_have_not/)
+- [Thoughts on Spring Boot](https://www.reddit.com/r/java/comments/ruoas7/thoughts_on_spring_boot/)
 - [Echopraxia, a better Java Logging API](https://www.reddit.com/r/java/comments/ruldk5/echopraxia_a_better_java_logging_api/)
-- [Java Tutor here, should I move on to Python?](https://www.reddit.com/r/java/comments/rujx1s/java_tutor_here_should_i_move_on_to_python/)
-- [Vavr or PFJ for functional Java?](https://www.reddit.com/r/java/comments/ruarod/vavr_or_pfj_for_functional_java/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
