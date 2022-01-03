@@ -66,7 +66,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [Book notes on the GoF Design Patterns book](https://www.reddit.com/r/java/comments/rv2i0q/book_notes_on_the_gof_design_patterns_book/)
 - [Jaybird 4.0.5 and 3.0.12 released](https://www.reddit.com/r/java/comments/rv1trm/jaybird_405_and_3012_released/)
-- [Did you know: In June 1991, James Gosling, Mike Sheridan, and Patrick Naughton began the Java language project. This programming language was originally created for interactive television, but this language was too modern for the digital cable television sector at that period.](https://www.reddit.com/r/java/comments/rv1qkc/did_you_know_in_june_1991_james_gosling_mike/)
+- [Describe your java job](https://www.reddit.com/r/java/comments/ruzkg6/describe_your_java_job/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
