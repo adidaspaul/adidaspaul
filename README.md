@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Web api benchmarking: Java &lpar;Spring Boot&rpar; vs Rust &lpar;Warp&rpar;](https://www.reddit.com/r/java/comments/rv726g/web_api_benchmarking_java_spring_boot_vs_rust_warp/)
 - [Book notes on the GoF Design Patterns book](https://www.reddit.com/r/java/comments/rv2i0q/book_notes_on_the_gof_design_patterns_book/)
 - [Jaybird 4.0.5 and 3.0.12 released](https://www.reddit.com/r/java/comments/rv1trm/jaybird_405_and_3012_released/)
+- [Describe your java job](https://www.reddit.com/r/java/comments/ruzkg6/describe_your_java_job/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
