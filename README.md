@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How long should it take a company to build a new website?](https://www.reddit.com/r/java/comments/rurn15/how_long_should_it_take_a_company_to_build_a_new/)
 - [What are some useful static analyzers for Java?](https://www.reddit.com/r/java/comments/rur1yi/what_are_some_useful_static_analyzers_for_java/)
 - [Are there any java build tools which have not been written in Java?, If not, what could be the reason?](https://www.reddit.com/r/java/comments/ruoc37/are_there_any_java_build_tools_which_have_not/)
-- [Thoughts on Spring Boot](https://www.reddit.com/r/java/comments/ruoas7/thoughts_on_spring_boot/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
