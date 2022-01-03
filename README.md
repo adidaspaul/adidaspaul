@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Java leads job posts in Europe. Python leads US.](https://www.reddit.com/r/java/comments/rvcmn6/java_leads_job_posts_in_europe_python_leads_us/)
 - [Book notes on the GoF Design Patterns book](https://www.reddit.com/r/java/comments/rv2i0q/book_notes_on_the_gof_design_patterns_book/)
 - [Jaybird 4.0.5 and 3.0.12 released](https://www.reddit.com/r/java/comments/rv1trm/jaybird_405_and_3012_released/)
-- [Performance impact of java.lang.System.getProperty&lpar;&rpar;](https://www.reddit.com/r/java/comments/ruyvnr/performance_impact_of_javalangsystemgetproperty/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
