@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Why did java disable applet?](https://www.reddit.com/r/java/comments/rw6fbb/why_did_java_disable_applet/)
 - [Is there a cheatsheet for javafx ?](https://www.reddit.com/r/java/comments/rvwbzr/is_there_a_cheatsheet_for_javafx/)
 - [Is auto wiring recommend to handle dependency injection when building a maven library?](https://www.reddit.com/r/java/comments/rvv5oj/is_auto_wiring_recommend_to_handle_dependency/)
-- [Datafaker, an alternative to using Production Data](https://www.reddit.com/r/java/comments/rvuyf7/datafaker_an_alternative_to_using_production_data/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
