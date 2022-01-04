@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Is there a cheatsheet for javafx ?](https://www.reddit.com/r/java/comments/rvwbzr/is_there_a_cheatsheet_for_javafx/)
 - [Is auto wiring recommend to handle dependency injection when building a maven library?](https://www.reddit.com/r/java/comments/rvv5oj/is_auto_wiring_recommend_to_handle_dependency/)
 - [Datafaker, an alternative to using Production Data](https://www.reddit.com/r/java/comments/rvuyf7/datafaker_an_alternative_to_using_production_data/)
-- [What&#39;s new in Java 18 for us, developers ?](https://www.reddit.com/r/java/comments/rvso80/whats_new_in_java_18_for_us_developers/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
