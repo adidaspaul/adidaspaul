@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Java News Roundup: State of Project Valhalla by Brian Goetz, GlassFish 7.0-M1 and Project Loom Lab](https://www.reddit.com/r/java/comments/rvq66u/java_news_roundup_state_of_project_valhalla_by/)
 - [What do you use to make GUI&#39;s ?](https://www.reddit.com/r/java/comments/rvn3k9/what_do_you_use_to_make_guis/)
-- [Map Efficiency Increased with Sorted Arrays](https://www.reddit.com/r/java/comments/rvmne0/map_efficiency_increased_with_sorted_arrays/)
-- [Java leads job posts in Europe. Python leads US.](https://www.reddit.com/r/java/comments/rvcmn6/java_leads_job_posts_in_europe_python_leads_us/)
+- [Book notes on the GoF Design Patterns book](https://www.reddit.com/r/java/comments/rv2i0q/book_notes_on_the_gof_design_patterns_book/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
