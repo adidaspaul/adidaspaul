@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Is auto wiring recommend to handle dependency injection when building a maven library?](https://www.reddit.com/r/java/comments/rvv5oj/is_auto_wiring_recommend_to_handle_dependency/)
+- [Datafaker, an alternative to using Production Data](https://www.reddit.com/r/java/comments/rvuyf7/datafaker_an_alternative_to_using_production_data/)
 - [What&#39;s new in Java 18 for us, developers ?](https://www.reddit.com/r/java/comments/rvso80/whats_new_in_java_18_for_us_developers/)
-- [Helidon 2.4.1 released!](https://www.reddit.com/r/java/comments/rvqtal/helidon_241_released/)
-- [Java News Roundup: State of Project Valhalla by Brian Goetz, GlassFish 7.0-M1 and Project Loom Lab](https://www.reddit.com/r/java/comments/rvq66u/java_news_roundup_state_of_project_valhalla_by/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
