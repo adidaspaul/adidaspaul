@@ -64,8 +64,8 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Helidon 2.4.1 released!](https://www.reddit.com/r/java/comments/rvqtal/helidon_241_released/)
 - [Java News Roundup: State of Project Valhalla by Brian Goetz, GlassFish 7.0-M1 and Project Loom Lab](https://www.reddit.com/r/java/comments/rvq66u/java_news_roundup_state_of_project_valhalla_by/)
-- [What do you use to make GUI&#39;s ?](https://www.reddit.com/r/java/comments/rvn3k9/what_do_you_use_to_make_guis/)
 - [Book notes on the GoF Design Patterns book](https://www.reddit.com/r/java/comments/rv2i0q/book_notes_on_the_gof_design_patterns_book/)
 <!-- BLOG-POST-LIST:END -->
 
