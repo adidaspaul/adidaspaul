@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Useful &amp; Unknown Java Features - Piotr&#39;s TechBlog](https://www.reddit.com/r/java/comments/rwq385/useful_unknown_java_features_piotrs_techblog/)
+- [John Snow Labs Spark-NLP 3.4.0: New OpenAI GPT-2, new ALBERT, XLNet, RoBERTa, XLM-RoBERTa, and Longformer for Sequence Classification, support for Spark 3.2, new distributed Word2Vec, extend support to more Databricks &amp; EMR runtimes, new state-of-the-art transformer models, bug fixes, and lots more!](https://www.reddit.com/r/java/comments/rwpssl/john_snow_labs_sparknlp_340_new_openai_gpt2_new/)
 - [IntelliJ IDEA plugin catches cut&#39;n&#39;pasted Java code](https://www.reddit.com/r/java/comments/rwm1ww/intellij_idea_plugin_catches_cutnpasted_java_code/)
-- [Making your RestTemplate fault tolerant with Resilience4J](https://www.reddit.com/r/java/comments/rwlzt9/making_your_resttemplate_fault_tolerant_with/)
-- [What are the benefits of garbage collection vs explicit memory cleanup ?](https://www.reddit.com/r/java/comments/rwim0w/what_are_the_benefits_of_garbage_collection_vs/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
