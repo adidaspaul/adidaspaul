@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [What are the benefits of garbage collection vs explicit memory cleanup ?](https://www.reddit.com/r/java/comments/rwim0w/what_are_the_benefits_of_garbage_collection_vs/)
 - [Coming from C/C++, what is Java?](https://www.reddit.com/r/java/comments/rwg1pe/coming_from_cc_what_is_java/)
 - [Why did java disable applet?](https://www.reddit.com/r/java/comments/rw6fbb/why_did_java_disable_applet/)
-- [Is there a cheatsheet for javafx ?](https://www.reddit.com/r/java/comments/rvwbzr/is_there_a_cheatsheet_for_javafx/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
