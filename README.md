@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [IntelliJ IDEA plugin catches cut&#39;n&#39;pasted Java code](https://www.reddit.com/r/java/comments/rwm1ww/intellij_idea_plugin_catches_cutnpasted_java_code/)
+- [Making your RestTemplate fault tolerant with Resilience4J](https://www.reddit.com/r/java/comments/rwlzt9/making_your_resttemplate_fault_tolerant_with/)
 - [What are the benefits of garbage collection vs explicit memory cleanup ?](https://www.reddit.com/r/java/comments/rwim0w/what_are_the_benefits_of_garbage_collection_vs/)
-- [Coming from C/C++, what is Java?](https://www.reddit.com/r/java/comments/rwg1pe/coming_from_cc_what_is_java/)
-- [Why did java disable applet?](https://www.reddit.com/r/java/comments/rw6fbb/why_did_java_disable_applet/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
