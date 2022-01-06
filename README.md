@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Modularization &lpar;modular-info.java&rpar;, maven, and testing misery](https://www.reddit.com/r/java/comments/rx2vzk/modularization_modularinfojava_maven_and_testing/)
 - [Java Installer doesn’t start](https://www.reddit.com/r/java/comments/rx1exx/java_installer_doesnt_start/)
 - [Java Matrix Benchmark is Updated! See how linear algebra libraries compare for speed](https://www.reddit.com/r/java/comments/rwyea6/java_matrix_benchmark_is_updated_see_how_linear/)
-- [Useful &amp; Unknown Java Features - Piotr&#39;s TechBlog](https://www.reddit.com/r/java/comments/rwq385/useful_unknown_java_features_piotrs_techblog/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
