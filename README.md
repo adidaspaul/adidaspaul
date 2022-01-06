@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [3.16.0 release with a new public query object model API, spatial support, YugabyteDB support and much more](https://www.reddit.com/r/java/comments/rxa5rg/3160_release_with_a_new_public_query_object_model/)
 - [learning java as a python dev](https://www.reddit.com/r/java/comments/rx4a8r/learning_java_as_a_python_dev/)
 - [FTC warns of legal action against organizations that fail to patch Log4j flaw – TechCrunch](https://www.reddit.com/r/java/comments/rx3t9e/ftc_warns_of_legal_action_against_organizations/)
-- [Modularization &lpar;modular-info.java&rpar;, maven, and testing misery](https://www.reddit.com/r/java/comments/rx2vzk/modularization_modularinfojava_maven_and_testing/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
