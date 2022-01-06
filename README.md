@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Java Installer doesn’t start](https://www.reddit.com/r/java/comments/rx1exx/java_installer_doesnt_start/)
 - [Java Matrix Benchmark is Updated! See how linear algebra libraries compare for speed](https://www.reddit.com/r/java/comments/rwyea6/java_matrix_benchmark_is_updated_see_how_linear/)
 - [Useful &amp; Unknown Java Features - Piotr&#39;s TechBlog](https://www.reddit.com/r/java/comments/rwq385/useful_unknown_java_features_piotrs_techblog/)
-- [John Snow Labs Spark-NLP 3.4.0: New OpenAI GPT-2, new ALBERT, XLNet, RoBERTa, XLM-RoBERTa, and Longformer for Sequence Classification, support for Spark 3.2, new distributed Word2Vec, extend support to more Databricks &amp; EMR runtimes, new state-of-the-art transformer models, bug fixes, and lots more!](https://www.reddit.com/r/java/comments/rwpssl/john_snow_labs_sparknlp_340_new_openai_gpt2_new/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
