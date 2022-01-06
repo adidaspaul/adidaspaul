@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Records Patterns, Performance and Serialization - JEP Café #8](https://www.reddit.com/r/java/comments/rxjgyx/records_patterns_performance_and_serialization/)
 - [Good Java Source Code](https://www.reddit.com/r/java/comments/rxg3lf/good_java_source_code/)
 - [Background: How We Got the Generics We Have](https://www.reddit.com/r/java/comments/rxg2tz/background_how_we_got_the_generics_we_have/)
-- [Java management service by oracle cloud](https://www.reddit.com/r/java/comments/rxfh0x/java_management_service_by_oracle_cloud/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
