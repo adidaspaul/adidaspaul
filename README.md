@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Is Spring Boot Still State of the Art? - DZone Java](https://www.reddit.com/r/java/comments/rxb7cz/is_spring_boot_still_state_of_the_art_dzone_java/)
+- [Java Annotated Monthly - January 2022](https://www.reddit.com/r/java/comments/rxawcz/java_annotated_monthly_january_2022/)
 - [3.16.0 release with a new public query object model API, spatial support, YugabyteDB support and much more](https://www.reddit.com/r/java/comments/rxa5rg/3160_release_with_a_new_public_query_object_model/)
-- [learning java as a python dev](https://www.reddit.com/r/java/comments/rx4a8r/learning_java_as_a_python_dev/)
-- [FTC warns of legal action against organizations that fail to patch Log4j flaw – TechCrunch](https://www.reddit.com/r/java/comments/rx3t9e/ftc_warns_of_legal_action_against_organizations/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
