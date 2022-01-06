@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Good Java Source Code](https://www.reddit.com/r/java/comments/rxg3lf/good_java_source_code/)
+- [Background: How We Got the Generics We Have](https://www.reddit.com/r/java/comments/rxg2tz/background_how_we_got_the_generics_we_have/)
 - [Java management service by oracle cloud](https://www.reddit.com/r/java/comments/rxfh0x/java_management_service_by_oracle_cloud/)
-- [How much Integration test are too much?](https://www.reddit.com/r/java/comments/rxds86/how_much_integration_test_are_too_much/)
-- [Java Annotated Monthly - January 2022](https://www.reddit.com/r/java/comments/rxawcz/java_annotated_monthly_january_2022/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
