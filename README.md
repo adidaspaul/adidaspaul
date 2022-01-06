@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [FTC warns of legal action against organizations that fail to patch Log4j flaw – TechCrunch](https://www.reddit.com/r/java/comments/rx3t9e/ftc_warns_of_legal_action_against_organizations/)
 - [Modularization &lpar;modular-info.java&rpar;, maven, and testing misery](https://www.reddit.com/r/java/comments/rx2vzk/modularization_modularinfojava_maven_and_testing/)
 - [Java Installer doesn’t start](https://www.reddit.com/r/java/comments/rx1exx/java_installer_doesnt_start/)
-- [Java Matrix Benchmark is Updated! See how linear algebra libraries compare for speed](https://www.reddit.com/r/java/comments/rwyea6/java_matrix_benchmark_is_updated_see_how_linear/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
