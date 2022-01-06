@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Is Spring Boot Still State of the Art?](https://www.reddit.com/r/java/comments/rxn3ia/is_spring_boot_still_state_of_the_art/)
 - [Are there any plans to create an official, comprehensive introductory documentation for Java 9+?](https://www.reddit.com/r/java/comments/rxm9vp/are_there_any_plans_to_create_an_official/)
 - [Records Patterns, Performance and Serialization - JEP Café #8](https://www.reddit.com/r/java/comments/rxjgyx/records_patterns_performance_and_serialization/)
+- [Good Java Source Code](https://www.reddit.com/r/java/comments/rxg3lf/good_java_source_code/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
