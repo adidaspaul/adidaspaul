@@ -64,8 +64,8 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Java management service by oracle cloud](https://www.reddit.com/r/java/comments/rxfh0x/java_management_service_by_oracle_cloud/)
 - [How much Integration test are too much?](https://www.reddit.com/r/java/comments/rxds86/how_much_integration_test_are_too_much/)
-- [Is Spring Boot Still State of the Art? - DZone Java](https://www.reddit.com/r/java/comments/rxb7cz/is_spring_boot_still_state_of_the_art_dzone_java/)
 - [Java Annotated Monthly - January 2022](https://www.reddit.com/r/java/comments/rxawcz/java_annotated_monthly_january_2022/)
 <!-- BLOG-POST-LIST:END -->
 
