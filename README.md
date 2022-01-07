@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [A question about BigInteger and random constructor](https://www.reddit.com/r/java/comments/rxsdhp/a_question_about_biginteger_and_random_constructor/)
 - [Amazon Corretto, Microsoft Build of OpenJDK, Red Hat Build, IBM Semeru, Oracle, or something else?](https://www.reddit.com/r/java/comments/rxphik/amazon_corretto_microsoft_build_of_openjdk_red/)
 - [Are there any plans to create an official, comprehensive introductory documentation for Java 9+?](https://www.reddit.com/r/java/comments/rxm9vp/are_there_any_plans_to_create_an_official/)
-- [Records Patterns, Performance and Serialization - JEP Café #8](https://www.reddit.com/r/java/comments/rxjgyx/records_patterns_performance_and_serialization/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
