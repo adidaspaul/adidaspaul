@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Android Development Oreo Tutorials still worth it?](https://www.reddit.com/r/java/comments/ry3yc0/android_development_oreo_tutorials_still_worth_it/)
 - [Why is the JCK not public?](https://www.reddit.com/r/java/comments/ry2rsf/why_is_the_jck_not_public/)
 - [This sneaky hacking group targets old Java applications to break into networks](https://www.reddit.com/r/java/comments/rxx3be/this_sneaky_hacking_group_targets_old_java/)
+- [A question about BigInteger and random constructor](https://www.reddit.com/r/java/comments/rxsdhp/a_question_about_biginteger_and_random_constructor/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
