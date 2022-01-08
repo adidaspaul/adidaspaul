@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [A refresher on modern low-level Java file I/O](https://www.reddit.com/r/java/comments/rz1j0b/a_refresher_on_modern_lowlevel_java_file_io/)
 - [Log4Shell-like security hole found in popular Java SQL database engine H2](https://www.reddit.com/r/java/comments/ryrgqb/log4shelllike_security_hole_found_in_popular_java/)
 - [Is there a &quot;Java Experts&quot; community?](https://www.reddit.com/r/java/comments/ryhjbg/is_there_a_java_experts_community/)
-- [Generating documentation sites for Maven projects](https://www.reddit.com/r/java/comments/rybhi8/generating_documentation_sites_for_maven_projects/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
