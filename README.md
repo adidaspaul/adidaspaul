@@ -65,8 +65,8 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Log4Shell-like security hole found in popular Java SQL database engine H2](https://www.reddit.com/r/java/comments/ryrgqb/log4shelllike_security_hole_found_in_popular_java/)
-- [Hi guys, I&#39;m trying to better understand the Java ecosystem but this doubt is bugging me out. Can someone help?](https://www.reddit.com/r/java/comments/ryn1ic/hi_guys_im_trying_to_better_understand_the_java/)
 - [Is there a &quot;Java Experts&quot; community?](https://www.reddit.com/r/java/comments/ryhjbg/is_there_a_java_experts_community/)
+- [Generating documentation sites for Maven projects](https://www.reddit.com/r/java/comments/rybhi8/generating_documentation_sites_for_maven_projects/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
