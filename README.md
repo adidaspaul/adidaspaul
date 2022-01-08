@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Hi guys, I&#39;m trying to better understand the Java ecosystem but this doubt is bugging me out. Can someone help?](https://www.reddit.com/r/java/comments/ryn1ic/hi_guys_im_trying_to_better_understand_the_java/)
 - [Is there a &quot;Java Experts&quot; community?](https://www.reddit.com/r/java/comments/ryhjbg/is_there_a_java_experts_community/)
 - [Generating documentation sites for Maven projects](https://www.reddit.com/r/java/comments/rybhi8/generating_documentation_sites_for_maven_projects/)
-- [R2DBC and it’s usefulness](https://www.reddit.com/r/java/comments/ry7lii/r2dbc_and_its_usefulness/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
