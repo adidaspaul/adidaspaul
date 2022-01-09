@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Beginner](https://www.reddit.com/r/java/comments/rznnuy/beginner/)
 - [Multi-release JARs - Good or bad idea?](https://www.reddit.com/r/java/comments/rzl15p/multirelease_jars_good_or_bad_idea/)
 - [Singleton Design Pattern in Java](https://www.reddit.com/r/java/comments/rzj68a/singleton_design_pattern_in_java/)
+- [Testing Log Statements in Spring Boot](https://www.reddit.com/r/java/comments/rzckzo/testing_log_statements_in_spring_boot/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
