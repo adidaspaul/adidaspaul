@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [OCA 1z0-808 format help.](https://www.reddit.com/r/java/comments/s035cp/oca_1z0808_format_help/)
 - [A tentative comparison of fault tolerance libraries on the JVM](https://www.reddit.com/r/java/comments/rzsx8a/a_tentative_comparison_of_fault_tolerance/)
 - [Multi-release JARs - Good or bad idea?](https://www.reddit.com/r/java/comments/rzl15p/multirelease_jars_good_or_bad_idea/)
-- [Singleton Design Pattern in Java](https://www.reddit.com/r/java/comments/rzj68a/singleton_design_pattern_in_java/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
