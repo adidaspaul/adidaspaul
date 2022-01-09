@@ -66,7 +66,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [Multi-release JARs - Good or bad idea?](https://www.reddit.com/r/java/comments/rzl15p/multirelease_jars_good_or_bad_idea/)
 - [Singleton Design Pattern in Java](https://www.reddit.com/r/java/comments/rzj68a/singleton_design_pattern_in_java/)
-- [@PostConstruct not working in my project ??](https://www.reddit.com/r/java/comments/rzgv96/postconstruct_not_working_in_my_project/)
+- [Testing Log Statements in Spring Boot](https://www.reddit.com/r/java/comments/rzckzo/testing_log_statements_in_spring_boot/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
