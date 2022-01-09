@@ -64,7 +64,7 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Newbie here, what are currently some great books &lpar;that covers java 11 at least&rpar; for beginners?](https://www.reddit.com/r/java/comments/rztvet/newbie_here_what_are_currently_some_great_books/)
+- [Why your organization needs a software bill of materials](https://www.reddit.com/r/java/comments/rzugy7/why_your_organization_needs_a_software_bill_of/)
 - [A tentative comparison of fault tolerance libraries on the JVM](https://www.reddit.com/r/java/comments/rzsx8a/a_tentative_comparison_of_fault_tolerance/)
 - [Multi-release JARs - Good or bad idea?](https://www.reddit.com/r/java/comments/rzl15p/multirelease_jars_good_or_bad_idea/)
 <!-- BLOG-POST-LIST:END -->
