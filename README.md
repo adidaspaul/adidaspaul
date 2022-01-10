@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [GraalVM Under The Covers](https://www.reddit.com/r/java/comments/s0ofwc/graalvm_under_the_covers/)
 - [Newbie here, what book could i use in combinaison with mooc fi java course ?](https://www.reddit.com/r/java/comments/s0mil3/newbie_here_what_book_could_i_use_in_combinaison/)
 - [Java News Roundup: JDK 18, JDK 19, Groovy DSL for Spring Integration, JHipster, Micronaut Foundation](https://www.reddit.com/r/java/comments/s0lbyp/java_news_roundup_jdk_18_jdk_19_groovy_dsl_for/)
-- [Subreddit appreciation post](https://www.reddit.com/r/java/comments/s0b17v/subreddit_appreciation_post/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
