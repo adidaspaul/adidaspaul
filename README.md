@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Log4Shell Shows The Need for “Trustworthy Java”](https://www.reddit.com/r/java/comments/s0lltx/log4shell_shows_the_need_for_trustworthy_java/)
+- [Java News Roundup: JDK 18, JDK 19, Groovy DSL for Spring Integration, JHipster, Micronaut Foundation](https://www.reddit.com/r/java/comments/s0lbyp/java_news_roundup_jdk_18_jdk_19_groovy_dsl_for/)
 - [Subreddit appreciation post](https://www.reddit.com/r/java/comments/s0b17v/subreddit_appreciation_post/)
-- [GlassFish 6.2.4 released!](https://www.reddit.com/r/java/comments/s04a2c/glassfish_624_released/)
-- [OCA 1z0-808 format help.](https://www.reddit.com/r/java/comments/s035cp/oca_1z0808_format_help/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
