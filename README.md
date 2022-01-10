@@ -64,8 +64,8 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [JDK 18: Omit enclosing instance fields from inner classes that don&#39;t use it](https://www.reddit.com/r/java/comments/s0psq1/jdk_18_omit_enclosing_instance_fields_from_inner/)
 - [GraalVM Under The Covers](https://www.reddit.com/r/java/comments/s0ofwc/graalvm_under_the_covers/)
-- [Newbie here, what book could i use in combinaison with mooc fi java course ?](https://www.reddit.com/r/java/comments/s0mil3/newbie_here_what_book_could_i_use_in_combinaison/)
 - [Java News Roundup: JDK 18, JDK 19, Groovy DSL for Spring Integration, JHipster, Micronaut Foundation](https://www.reddit.com/r/java/comments/s0lbyp/java_news_roundup_jdk_18_jdk_19_groovy_dsl_for/)
 <!-- BLOG-POST-LIST:END -->
 
