@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Gradle: JLink &amp; JPackage support](https://www.reddit.com/r/java/comments/s0xikh/gradle_jlink_jpackage_support/)
 - [JDK 18: Omit enclosing instance fields from inner classes that don&#39;t use it](https://www.reddit.com/r/java/comments/s0psq1/jdk_18_omit_enclosing_instance_fields_from_inner/)
 - [Java News Roundup: JDK 18, JDK 19, Groovy DSL for Spring Integration, JHipster, Micronaut Foundation](https://www.reddit.com/r/java/comments/s0lbyp/java_news_roundup_jdk_18_jdk_19_groovy_dsl_for/)
-- [Subreddit appreciation post](https://www.reddit.com/r/java/comments/s0b17v/subreddit_appreciation_post/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
