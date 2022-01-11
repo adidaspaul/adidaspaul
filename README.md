@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Debugging RAM - Part 1: Java Garbage Collection - Java Heap Deep Dive](https://www.reddit.com/r/java/comments/s1cbl5/debugging_ram_part_1_java_garbage_collection_java/)
 - [How to monitor in terminal what Java process is running and how much ram it uses?](https://www.reddit.com/r/java/comments/s175bh/how_to_monitor_in_terminal_what_java_process_is/)
 - [Gradle: JLink &amp; JPackage support](https://www.reddit.com/r/java/comments/s0xikh/gradle_jlink_jpackage_support/)
-- [JDK 18: Omit enclosing instance fields from inner classes that don&#39;t use it](https://www.reddit.com/r/java/comments/s0psq1/jdk_18_omit_enclosing_instance_fields_from_inner/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
