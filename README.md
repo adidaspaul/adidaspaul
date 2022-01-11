@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [[Event C4P] Last day of TypeVille Conference Call for Papers!](https://www.reddit.com/r/java/comments/s1jg8t/event_c4p_last_day_of_typeville_conference_call/)
 - [Join the DevOps - Programming - Cloud Discord Server!](https://www.reddit.com/r/java/comments/s1h21v/join_the_devops_programming_cloud_discord_server/)
 - [Open Source Java Project for Software Engineering](https://www.reddit.com/r/java/comments/s1f017/open_source_java_project_for_software_engineering/)
-- [Debugging RAM - Part 1: Java Garbage Collection - Java Heap Deep Dive](https://www.reddit.com/r/java/comments/s1cbl5/debugging_ram_part_1_java_garbage_collection_java/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
