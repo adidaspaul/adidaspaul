@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Top 10 Programming Languages 2022](https://www.reddit.com/r/java/comments/s2a3v5/top_10_programming_languages_2022/)
 - [The best way to handle time zones in a Java web application](https://www.reddit.com/r/java/comments/s289pm/the_best_way_to_handle_time_zones_in_a_java_web/)
 - [Getters and Setters are usually dumb](https://www.reddit.com/r/java/comments/s25v2r/getters_and_setters_are_usually_dumb/)
-- [2022-01-11 gRPC benchmark results](https://www.reddit.com/r/java/comments/s22vkv/20220111_grpc_benchmark_results/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
