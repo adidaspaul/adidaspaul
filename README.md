@@ -65,8 +65,8 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Does anyone have experience with Java ME Embedded?](https://www.reddit.com/r/java/comments/s1x5vh/does_anyone_have_experience_with_java_me_embedded/)
-- [What are some of your tips for improving the Java development experience?](https://www.reddit.com/r/java/comments/s1rgdy/what_are_some_of_your_tips_for_improving_the_java/)
 - [Java 17 Deep Dive by José Paumard](https://www.reddit.com/r/java/comments/s1okz6/java_17_deep_dive_by_josé_paumard/)
+- [Cattle - Run and Share Java Code](https://www.reddit.com/r/java/comments/s1o8nl/cattle_run_and_share_java_code/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
