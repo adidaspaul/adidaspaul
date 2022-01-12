@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Pants 2.9: Alpha support for Java and Scala](https://www.reddit.com/r/java/comments/s2iswp/pants_29_alpha_support_for_java_and_scala/)
 - [Zephyr 2.0.92 released!](https://www.reddit.com/r/java/comments/s2cg1y/zephyr_2092_released/)
 - [5 Common Pitfalls When Using Apache Kafka](https://www.reddit.com/r/java/comments/s2apa9/5_common_pitfalls_when_using_apache_kafka/)
-- [Getters and Setters are usually dumb](https://www.reddit.com/r/java/comments/s25v2r/getters_and_setters_are_usually_dumb/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
