@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [What are some of your tips for improving the Java development experience?](https://www.reddit.com/r/java/comments/s1rgdy/what_are_some_of_your_tips_for_improving_the_java/)
 - [Java 17 Deep Dive by José Paumard](https://www.reddit.com/r/java/comments/s1okz6/java_17_deep_dive_by_josé_paumard/)
 - [Cattle - Run and Share Java Code](https://www.reddit.com/r/java/comments/s1o8nl/cattle_run_and_share_java_code/)
-- [Resources files not working in .jar](https://www.reddit.com/r/java/comments/s1nqz0/resources_files_not_working_in_jar/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
