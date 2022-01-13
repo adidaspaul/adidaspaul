@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Signals: A library for using decoupled observers](https://www.reddit.com/r/java/comments/s2nztt/signals_a_library_for_using_decoupled_observers/)
 - [Pants 2.9: Alpha support for Java and Scala](https://www.reddit.com/r/java/comments/s2iswp/pants_29_alpha_support_for_java_and_scala/)
 - [Zephyr 2.0.92 released!](https://www.reddit.com/r/java/comments/s2cg1y/zephyr_2092_released/)
-- [5 Common Pitfalls When Using Apache Kafka](https://www.reddit.com/r/java/comments/s2apa9/5_common_pitfalls_when_using_apache_kafka/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
