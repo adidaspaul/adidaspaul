@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Learning - Guidance on creating my own Import Library.](https://www.reddit.com/r/java/comments/s38m8d/learning_guidance_on_creating_my_own_import/)
+- [Java&#39;s Plans for 2022 - Inside Java Newscast #18](https://www.reddit.com/r/java/comments/s37cum/javas_plans_for_2022_inside_java_newscast_18/)
 - [Piranha 22.1.0 released!](https://www.reddit.com/r/java/comments/s30a06/piranha_2210_released/)
-- [Signals: A library for using decoupled observers](https://www.reddit.com/r/java/comments/s2nztt/signals_a_library_for_using_decoupled_observers/)
-- [Pants 2.9: Alpha support for Java and Scala](https://www.reddit.com/r/java/comments/s2iswp/pants_29_alpha_support_for_java_and_scala/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
