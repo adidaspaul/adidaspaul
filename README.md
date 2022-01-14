@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Nullaway fully supports switch expressions without issues now in 0.9.5](https://www.reddit.com/r/java/comments/s3g57f/nullaway_fully_supports_switch_expressions/)
 - [Java&#39;s Plans for 2022 - Inside Java Newscast #18](https://www.reddit.com/r/java/comments/s37cum/javas_plans_for_2022_inside_java_newscast_18/)
 - [Piranha 22.1.0 released!](https://www.reddit.com/r/java/comments/s30a06/piranha_2210_released/)
-- [Signals: A library for using decoupled observers](https://www.reddit.com/r/java/comments/s2nztt/signals_a_library_for_using_decoupled_observers/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
