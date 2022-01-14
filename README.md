@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Maintaining a medium-sized Java library in 2022 and beyond](https://www.reddit.com/r/java/comments/s3oypy/maintaining_a_mediumsized_java_library_in_2022/)
-- [Making your Spring WebClient fault tolerant with Resilience4J](https://www.reddit.com/r/java/comments/s3opyl/making_your_spring_webclient_fault_tolerant_with/)
-- [Nullaway fully supports switch expressions without issues now in 0.9.5](https://www.reddit.com/r/java/comments/s3g57f/nullaway_fully_supports_switch_expressions/)
+- [[video] Java enums explained](https://www.reddit.com/r/java/comments/s3s4it/video_java_enums_explained/)
+- [The JVM Lunch #1 - Log4Shell, Upcoming Java releases](https://www.reddit.com/r/java/comments/s3rlmd/the_jvm_lunch_1_log4shell_upcoming_java_releases/)
+- [What&#39;s in a Good Error Message?](https://www.reddit.com/r/java/comments/s3rf85/whats_in_a_good_error_message/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
