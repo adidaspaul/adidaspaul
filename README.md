@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Why accessing Java HashMap may cause infinite loop in concurrent environment](https://www.reddit.com/r/java/comments/s3t8bp/why_accessing_java_hashmap_may_cause_infinite/)
 - [[video] Java enums explained](https://www.reddit.com/r/java/comments/s3s4it/video_java_enums_explained/)
 - [The JVM Lunch #1 - Log4Shell, Upcoming Java releases](https://www.reddit.com/r/java/comments/s3rlmd/the_jvm_lunch_1_log4shell_upcoming_java_releases/)
-- [What&#39;s in a Good Error Message?](https://www.reddit.com/r/java/comments/s3rf85/whats_in_a_good_error_message/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
