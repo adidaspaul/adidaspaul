@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Maintaining a medium-sized Java library in 2022 and beyond](https://www.reddit.com/r/java/comments/s3oypy/maintaining_a_mediumsized_java_library_in_2022/)
+- [Making your Spring WebClient fault tolerant with Resilience4J](https://www.reddit.com/r/java/comments/s3opyl/making_your_spring_webclient_fault_tolerant_with/)
 - [Nullaway fully supports switch expressions without issues now in 0.9.5](https://www.reddit.com/r/java/comments/s3g57f/nullaway_fully_supports_switch_expressions/)
-- [Java&#39;s Plans for 2022 - Inside Java Newscast #18](https://www.reddit.com/r/java/comments/s37cum/javas_plans_for_2022_inside_java_newscast_18/)
-- [Piranha 22.1.0 released!](https://www.reddit.com/r/java/comments/s30a06/piranha_2210_released/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
