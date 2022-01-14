@@ -64,7 +64,7 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [[video] Java enums explained](https://www.reddit.com/r/java/comments/s3s4it/video_java_enums_explained/)
+- [Version 11 of Jailer, the real relational database client, is out now.](https://www.reddit.com/r/java/comments/s3ypuk/version_11_of_jailer_the_real_relational_database/)
 - [The JVM Lunch #1 - Log4Shell, Upcoming Java releases](https://www.reddit.com/r/java/comments/s3rlmd/the_jvm_lunch_1_log4shell_upcoming_java_releases/)
 - [What&#39;s in a Good Error Message?](https://www.reddit.com/r/java/comments/s3rf85/whats_in_a_good_error_message/)
 <!-- BLOG-POST-LIST:END -->
