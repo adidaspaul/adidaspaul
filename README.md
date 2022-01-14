@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Just to make sure, this is the official mooc.fi helsinki site that people have been learning on right?](https://www.reddit.com/r/java/comments/s44t5z/just_to_make_sure_this_is_the_official_moocfi/)
 - [Version 11 of Jailer, the real relational database client, is out now.](https://www.reddit.com/r/java/comments/s3ypuk/version_11_of_jailer_the_real_relational_database/)
 - [The JVM Lunch #1 - Log4Shell, Upcoming Java releases](https://www.reddit.com/r/java/comments/s3rlmd/the_jvm_lunch_1_log4shell_upcoming_java_releases/)
-- [Maintaining a medium-sized Java library in 2022 and beyond](https://www.reddit.com/r/java/comments/s3oypy/maintaining_a_mediumsized_java_library_in_2022/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
