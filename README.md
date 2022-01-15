@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Java 9 Process API Improvements](https://www.reddit.com/r/java/comments/s4wbz9/java_9_process_api_improvements/)
 - [Keystore password in windows control panel vs keytool -&gt; where are the keys stored ?](https://www.reddit.com/r/java/comments/s4us5e/keystore_password_in_windows_control_panel_vs/)
 - [Rapid Micronaut Development With Microstarter CLI](https://www.reddit.com/r/java/comments/s4mwea/rapid_micronaut_development_with_microstarter_cli/)
-- [I created a library that exports your Spring endpoints into a Postman collection! Please, let me know what you think of it :&rpar;](https://www.reddit.com/r/java/comments/s4ldnm/i_created_a_library_that_exports_your_spring/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
