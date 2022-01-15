@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [txtai 4.0 - semantic search with SQL, content storage, object storage and reindexing in Java](https://www.reddit.com/r/java/comments/s4ivk9/txtai_40_semantic_search_with_sql_content_storage/)
 - [we had to create a sorting method other than selection and inseruon, I present the mayhem sort.](https://www.reddit.com/r/java/comments/s4aa9z/we_had_to_create_a_sorting_method_other_than/)
 - [Just to make sure, this is the official mooc.fi helsinki site that people have been learning on right?](https://www.reddit.com/r/java/comments/s44t5z/just_to_make_sure_this_is_the_official_moocfi/)
-- [Version 11 of Jailer, the real relational database client, is out now.](https://www.reddit.com/r/java/comments/s3ypuk/version_11_of_jailer_the_real_relational_database/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
