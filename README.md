@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to make .jar file that run when activated other .jar files?](https://www.reddit.com/r/java/comments/s5egk4/how_to_make_jar_file_that_run_when_activated/)
 - [Does java swing &lpar;GUI&rpar; works on mac M1 architecture?](https://www.reddit.com/r/java/comments/s5chkl/does_java_swing_gui_works_on_mac_m1_architecture/)
 - [Replacing Logging APIs with java.lang.System.Logger](https://www.reddit.com/r/java/comments/s5bomf/replacing_logging_apis_with_javalangsystemlogger/)
-- [Rapid Micronaut Development With Microstarter CLI](https://www.reddit.com/r/java/comments/s4mwea/rapid_micronaut_development_with_microstarter_cli/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
