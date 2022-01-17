@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [I need your help!](https://www.reddit.com/r/java/comments/s5s7se/i_need_your_help/)
 - [You&#39;re running untrusted code!](https://www.reddit.com/r/java/comments/s5i5td/youre_running_untrusted_code/)
 - [Replacing Logging APIs with java.lang.System.Logger](https://www.reddit.com/r/java/comments/s5bomf/replacing_logging_apis_with_javalangsystemlogger/)
+- [Rapid Micronaut Development With Microstarter CLI](https://www.reddit.com/r/java/comments/s4mwea/rapid_micronaut_development_with_microstarter_cli/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
