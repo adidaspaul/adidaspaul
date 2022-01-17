@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Java beans](https://www.reddit.com/r/java/comments/s6g4qx/java_beans/)
 - [Kafka Clients in Java with Avro Serialization and Confluent Schema Registry](https://www.reddit.com/r/java/comments/s6bm2n/kafka_clients_in_java_with_avro_serialization_and/)
 - [Who remembers the Java applet game, Rollerboy 2? A group of Reddit users managed to track down the original source codes and this is the result](https://www.reddit.com/r/java/comments/s687o2/who_remembers_the_java_applet_game_rollerboy_2_a/)
-- [Java News Roundup: Java Plans for 2022, Spring 6.0-M2, Piranha 22.1.0, Quarkus 2.6.2](https://www.reddit.com/r/java/comments/s668ox/java_news_roundup_java_plans_for_2022_spring_60m2/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
