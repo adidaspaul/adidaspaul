@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Kafka Clients in Java with Avro Serialization and Confluent Schema Registry](https://www.reddit.com/r/java/comments/s6bm2n/kafka_clients_in_java_with_avro_serialization_and/)
 - [Martin Fowler’s Javascript Example of Refactoring, adapted to Java](https://www.reddit.com/r/java/comments/s69p3i/martin_fowlers_javascript_example_of_refactoring/)
 - [Who remembers the Java applet game, Rollerboy 2? A group of Reddit users managed to track down the original source codes and this is the result](https://www.reddit.com/r/java/comments/s687o2/who_remembers_the_java_applet_game_rollerboy_2_a/)
-- [Is it worth learning LWJGL?](https://www.reddit.com/r/java/comments/s67zi4/is_it_worth_learning_lwjgl/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
