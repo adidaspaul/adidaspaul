@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Is it worth learning LWJGL?](https://www.reddit.com/r/java/comments/s67zi4/is_it_worth_learning_lwjgl/)
 - [Java News Roundup: Java Plans for 2022, Spring 6.0-M2, Piranha 22.1.0, Quarkus 2.6.2](https://www.reddit.com/r/java/comments/s668ox/java_news_roundup_java_plans_for_2022_spring_60m2/)
 - [Using Playwright to automatically play Wordle](https://www.reddit.com/r/java/comments/s65vkt/using_playwright_to_automatically_play_wordle/)
-- [Reload4j. A drop-in replacement for log4j 1.2.17 &lpar;with the security issues fixed&rpar;](https://www.reddit.com/r/java/comments/s6151e/reload4j_a_dropin_replacement_for_log4j_1217_with/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
