@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Reload4j. A drop-in replacement for log4j 1.2.17 &lpar;with the security issues fixed&rpar;](https://www.reddit.com/r/java/comments/s6151e/reload4j_a_dropin_replacement_for_log4j_1217_with/)
 - [JEP 421 and Finalization Deprecation - Inside Java Podcast](https://www.reddit.com/r/java/comments/s5wht4/jep_421_and_finalization_deprecation_inside_java/)
 - [Replacing Logging APIs with java.lang.System.Logger](https://www.reddit.com/r/java/comments/s5bomf/replacing_logging_apis_with_javalangsystemlogger/)
-- [Rapid Micronaut Development With Microstarter CLI](https://www.reddit.com/r/java/comments/s4mwea/rapid_micronaut_development_with_microstarter_cli/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
