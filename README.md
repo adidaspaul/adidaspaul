@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [I&#39;m new to Java. What are some good projects?](https://www.reddit.com/r/java/comments/s5z8o0/im_new_to_java_what_are_some_good_projects/)
 - [JEP 421 and Finalization Deprecation - Inside Java Podcast](https://www.reddit.com/r/java/comments/s5wht4/jep_421_and_finalization_deprecation_inside_java/)
 - [Replacing Logging APIs with java.lang.System.Logger](https://www.reddit.com/r/java/comments/s5bomf/replacing_logging_apis_with_javalangsystemlogger/)
+- [Rapid Micronaut Development With Microstarter CLI](https://www.reddit.com/r/java/comments/s4mwea/rapid_micronaut_development_with_microstarter_cli/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
