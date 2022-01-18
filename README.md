@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Is OCAJP still worth it?](https://www.reddit.com/r/java/comments/s6x5kp/is_ocajp_still_worth_it/)
 - [Trouble with file I/O. file.exists&lpar;&rpar; repeatedly returns false, even though the file exists, and I use the absolute path.](https://www.reddit.com/r/java/comments/s6vwl8/trouble_with_file_io_fileexists_repeatedly/)
 - [What are some very less known facts about java?](https://www.reddit.com/r/java/comments/s6rymt/what_are_some_very_less_known_facts_about_java/)
-- [Java beans](https://www.reddit.com/r/java/comments/s6g4qx/java_beans/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
