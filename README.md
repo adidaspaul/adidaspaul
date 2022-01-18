@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [What are some very less known facts about java?](https://www.reddit.com/r/java/comments/s6rymt/what_are_some_very_less_known_facts_about_java/)
 - [Java beans](https://www.reddit.com/r/java/comments/s6g4qx/java_beans/)
 - [Kafka Clients in Java with Avro Serialization and Confluent Schema Registry](https://www.reddit.com/r/java/comments/s6bm2n/kafka_clients_in_java_with_avro_serialization_and/)
-- [Who remembers the Java applet game, Rollerboy 2? A group of Reddit users managed to track down the original source codes and this is the result](https://www.reddit.com/r/java/comments/s687o2/who_remembers_the_java_applet_game_rollerboy_2_a/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
