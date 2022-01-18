@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Trouble with file I/O. file.exists&lpar;&rpar; repeatedly returns false, even though the file exists, and I use the absolute path.](https://www.reddit.com/r/java/comments/s6vwl8/trouble_with_file_io_fileexists_repeatedly/)
 - [What are some very less known facts about java?](https://www.reddit.com/r/java/comments/s6rymt/what_are_some_very_less_known_facts_about_java/)
 - [Java beans](https://www.reddit.com/r/java/comments/s6g4qx/java_beans/)
-- [Kafka Clients in Java with Avro Serialization and Confluent Schema Registry](https://www.reddit.com/r/java/comments/s6bm2n/kafka_clients_in_java_with_avro_serialization_and/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
