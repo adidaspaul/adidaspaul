@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [How To Integrate Microservices](https://www.reddit.com/r/java/comments/s72t2g/how_to_integrate_microservices/)
 - [Is OCAJP still worth it?](https://www.reddit.com/r/java/comments/s6x5kp/is_ocajp_still_worth_it/)
 - [What are some very less known facts about java?](https://www.reddit.com/r/java/comments/s6rymt/what_are_some_very_less_known_facts_about_java/)
+- [Java beans](https://www.reddit.com/r/java/comments/s6g4qx/java_beans/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
