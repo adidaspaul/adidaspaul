@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Posted by Intellij gang](https://www.reddit.com/r/java/comments/s7udre/posted_by_intellij_gang/)
 - [The truth about starting with microservices](https://www.reddit.com/r/java/comments/s7lnew/the_truth_about_starting_with_microservices/)
 - [How about this relic?](https://www.reddit.com/r/java/comments/s7d57r/how_about_this_relic/)
-- [What are some very less known facts about java?](https://www.reddit.com/r/java/comments/s6rymt/what_are_some_very_less_known_facts_about_java/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
