@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How about this relic?](https://www.reddit.com/r/java/comments/s7d57r/how_about_this_relic/)
 - [Big Java Project - Gradle Update 5.x to 7.x](https://www.reddit.com/r/java/comments/s7ab7j/big_java_project_gradle_update_5x_to_7x/)
 - [Which O/S libraries does your Java code *interact* with the most?](https://www.reddit.com/r/java/comments/s79ylp/which_os_libraries_does_your_java_code_interact/)
-- [Hello can anyone please recommend me an advanced java course on udemy or any free course i can get](https://www.reddit.com/r/java/comments/s79d79/hello_can_anyone_please_recommend_me_an_advanced/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
