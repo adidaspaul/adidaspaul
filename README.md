@@ -64,7 +64,7 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Moving from Ruby to Java](https://www.reddit.com/r/java/comments/s7vepb/moving_from_ruby_to_java/)
+- [ParallelGC throughput](https://www.reddit.com/r/java/comments/s7yr43/parallelgc_throughput/)
 - [The truth about starting with microservices](https://www.reddit.com/r/java/comments/s7lnew/the_truth_about_starting_with_microservices/)
 - [How about this relic?](https://www.reddit.com/r/java/comments/s7d57r/how_about_this_relic/)
 <!-- BLOG-POST-LIST:END -->
