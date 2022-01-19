@@ -64,7 +64,7 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Posted by Intellij gang](https://www.reddit.com/r/java/comments/s7udre/posted_by_intellij_gang/)
+- [Moving from Ruby to Java](https://www.reddit.com/r/java/comments/s7vepb/moving_from_ruby_to_java/)
 - [The truth about starting with microservices](https://www.reddit.com/r/java/comments/s7lnew/the_truth_about_starting_with_microservices/)
 - [How about this relic?](https://www.reddit.com/r/java/comments/s7d57r/how_about_this_relic/)
 <!-- BLOG-POST-LIST:END -->
