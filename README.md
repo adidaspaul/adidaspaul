@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [How do i do image recognition + clicking](https://www.reddit.com/r/java/comments/s7i5n9/how_do_i_do_image_recognition_clicking/)
 - [How about this relic?](https://www.reddit.com/r/java/comments/s7d57r/how_about_this_relic/)
 - [What are some very less known facts about java?](https://www.reddit.com/r/java/comments/s6rymt/what_are_some_very_less_known_facts_about_java/)
+- [Java beans](https://www.reddit.com/r/java/comments/s6g4qx/java_beans/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
