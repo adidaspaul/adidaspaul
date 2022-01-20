@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [HashMap explained video](https://www.reddit.com/r/java/comments/s8ejkr/hashmap_explained_video/)
 - [Suggestion: completely disable serialization and JNDI in your application](https://www.reddit.com/r/java/comments/s8cua7/suggestion_completely_disable_serialization_and/)
 - [Get the Grokking the Spring Boot Interview [Free Sample Copy] from u/javinpaul on r/Gumroad](https://www.reddit.com/r/java/comments/s8ckak/get_the_grokking_the_spring_boot_interview_free/)
-- [I just realised... the toString contract does not require deterministic behaviour.](https://www.reddit.com/r/java/comments/s84ifr/i_just_realised_the_tostring_contract_does_not/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
