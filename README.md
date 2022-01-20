@@ -64,7 +64,7 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [HashMap explained video](https://www.reddit.com/r/java/comments/s8ejkr/hashmap_explained_video/)
+- [Can one technically use IntellJ CE for unsupported frameworks?](https://www.reddit.com/r/java/comments/s8f5ar/can_one_technically_use_intellj_ce_for/)
 - [Suggestion: completely disable serialization and JNDI in your application](https://www.reddit.com/r/java/comments/s8cua7/suggestion_completely_disable_serialization_and/)
 - [Get the Grokking the Spring Boot Interview [Free Sample Copy] from u/javinpaul on r/Gumroad](https://www.reddit.com/r/java/comments/s8ckak/get_the_grokking_the_spring_boot_interview_free/)
 <!-- BLOG-POST-LIST:END -->
