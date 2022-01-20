@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Loading Image into Java with general source](https://www.reddit.com/r/java/comments/s8gnrd/loading_image_into_java_with_general_source/)
 - [Can one technically use IntellJ CE for unsupported frameworks?](https://www.reddit.com/r/java/comments/s8f5ar/can_one_technically_use_intellj_ce_for/)
 - [Suggestion: completely disable serialization and JNDI in your application](https://www.reddit.com/r/java/comments/s8cua7/suggestion_completely_disable_serialization_and/)
+- [I just realised... the toString contract does not require deterministic behaviour.](https://www.reddit.com/r/java/comments/s84ifr/i_just_realised_the_tostring_contract_does_not/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
