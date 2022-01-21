@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Guys! I need help please atleast read this](https://www.reddit.com/r/java/comments/s9428f/guys_i_need_help_please_atleast_read_this/)
-- [Can one technically use IntellJ CE for unsupported frameworks?](https://www.reddit.com/r/java/comments/s8f5ar/can_one_technically_use_intellj_ce_for/)
 - [Suggestion: completely disable serialization and JNDI in your application](https://www.reddit.com/r/java/comments/s8cua7/suggestion_completely_disable_serialization_and/)
+- [I just realised... the toString contract does not require deterministic behaviour.](https://www.reddit.com/r/java/comments/s84ifr/i_just_realised_the_tostring_contract_does_not/)
+- [ParallelGC throughput](https://www.reddit.com/r/java/comments/s7yr43/parallelgc_throughput/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
