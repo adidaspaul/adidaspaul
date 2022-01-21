@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Thanks Redhat!](https://www.reddit.com/r/java/comments/s9lys2/thanks_redhat/)
 - [lambda x method reference taste](https://www.reddit.com/r/java/comments/s9hlfb/lambda_x_method_reference_taste/)
 - [Helidon FAQ:](https://www.reddit.com/r/java/comments/s9ar7a/helidon_faq/)
+- [.NET &lpar;Core&rpar; developer, looking for Java starting point for web applications](https://www.reddit.com/r/java/comments/s97sw4/net_core_developer_looking_for_java_starting/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
