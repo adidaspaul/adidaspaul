@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [.NET &lpar;Core&rpar; developer, looking for Java starting point for web applications](https://www.reddit.com/r/java/comments/s97sw4/net_core_developer_looking_for_java_starting/)
 - [Suggestion: completely disable serialization and JNDI in your application](https://www.reddit.com/r/java/comments/s8cua7/suggestion_completely_disable_serialization_and/)
 - [I just realised... the toString contract does not require deterministic behaviour.](https://www.reddit.com/r/java/comments/s84ifr/i_just_realised_the_tostring_contract_does_not/)
-- [ParallelGC throughput](https://www.reddit.com/r/java/comments/s7yr43/parallelgc_throughput/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
