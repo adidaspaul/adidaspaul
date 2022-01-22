@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Setuid java?](https://www.reddit.com/r/java/comments/s9tqhq/setuid_java/)
 - [Video Demonstration of Zephyr&#39;s new UI!](https://www.reddit.com/r/java/comments/s9sc6o/video_demonstration_of_zephyrs_new_ui/)
 - [lambda x method reference taste](https://www.reddit.com/r/java/comments/s9hlfb/lambda_x_method_reference_taste/)
-- [Helidon FAQ:](https://www.reddit.com/r/java/comments/s9ar7a/helidon_faq/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
