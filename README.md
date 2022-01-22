@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [WildFly Release Plans for 2022](https://www.reddit.com/r/java/comments/sa2ln8/wildfly_release_plans_for_2022/)
 - [Effective Java SE 9 through 16 APIs/Lang features, makes your life easier](https://www.reddit.com/r/java/comments/s9zd3f/effective_java_se_9_through_16_apislang_features/)
 - [Novel uses of Core Java](https://www.reddit.com/r/java/comments/s9ywg9/novel_uses_of_core_java/)
-- [Magic Beans - automatic get/set, equals, hashCode, toString without any compiler hacks](https://www.reddit.com/r/java/comments/s9ypud/magic_beans_automatic_getset_equals_hashcode/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
