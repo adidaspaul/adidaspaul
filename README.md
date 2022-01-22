@@ -64,7 +64,7 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [What‘s IDE should I use for JAVA, VSCode or IntelliJ?](https://www.reddit.com/r/java/comments/saanh3/whats_ide_should_i_use_for_java_vscode_or_intellij/)
+- [OmniFaces 3.13 has been released!](https://www.reddit.com/r/java/comments/sabun3/omnifaces_313_has_been_released/)
 - [WildFly Release Plans for 2022](https://www.reddit.com/r/java/comments/sa2ln8/wildfly_release_plans_for_2022/)
 - [Effective Java SE 9 through 16 APIs/Lang features, makes your life easier](https://www.reddit.com/r/java/comments/s9zd3f/effective_java_se_9_through_16_apislang_features/)
 <!-- BLOG-POST-LIST:END -->
