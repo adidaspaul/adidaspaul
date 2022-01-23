@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Design patterns project help](https://www.reddit.com/r/java/comments/sar2xt/design_patterns_project_help/)
+- [ssslasher, a multithreaded and easy to use tool to bruteforce user passwords over ssh written &lpar;mainly&rpar; in java.](https://www.reddit.com/r/java/comments/sar13i/ssslasher_a_multithreaded_and_easy_to_use_tool_to/)
 - [Employee motivation](https://www.reddit.com/r/java/comments/sapil0/employee_motivation/)
-- [Last weekend&#39;s cassette audio. Enjoy?](https://www.reddit.com/r/java/comments/sampra/last_weekends_cassette_audio_enjoy/)
-- [Recommended book resource for Java web development](https://www.reddit.com/r/java/comments/salg43/recommended_book_resource_for_java_web_development/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
