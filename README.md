@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [I don’t know where to post this, tried downloading forge and then Java and when I tried to open forge with Java this happened. Anyone know how to fix this?](https://www.reddit.com/r/java/comments/sajzgl/i_dont_know_where_to_post_this_tried_downloading/)
 - [OmniFaces 3.13 has been released!](https://www.reddit.com/r/java/comments/sabun3/omnifaces_313_has_been_released/)
 - [WildFly Release Plans for 2022](https://www.reddit.com/r/java/comments/sa2ln8/wildfly_release_plans_for_2022/)
-- [Effective Java SE 9 through 16 APIs/Lang features, makes your life easier](https://www.reddit.com/r/java/comments/s9zd3f/effective_java_se_9_through_16_apislang_features/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
