@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Employee motivation](https://www.reddit.com/r/java/comments/sapil0/employee_motivation/)
 - [Last weekend&#39;s cassette audio. Enjoy?](https://www.reddit.com/r/java/comments/sampra/last_weekends_cassette_audio_enjoy/)
 - [Recommended book resource for Java web development](https://www.reddit.com/r/java/comments/salg43/recommended_book_resource_for_java_web_development/)
-- [I don’t know where to post this, tried downloading forge and then Java and when I tried to open forge with Java this happened. Anyone know how to fix this?](https://www.reddit.com/r/java/comments/sajzgl/i_dont_know_where_to_post_this_tried_downloading/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
