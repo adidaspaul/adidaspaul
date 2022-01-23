@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Opinions on using Optional&lt;&gt; as parameter](https://www.reddit.com/r/java/comments/sat1j4/opinions_on_using_optional_as_parameter/)
 - [ssslasher, a multithreaded and easy to use tool to bruteforce user passwords over ssh written &lpar;mainly&rpar; in java.](https://www.reddit.com/r/java/comments/sar13i/ssslasher_a_multithreaded_and_easy_to_use_tool_to/)
 - [Employee motivation](https://www.reddit.com/r/java/comments/sapil0/employee_motivation/)
-- [Last weekend&#39;s cassette audio. Enjoy?](https://www.reddit.com/r/java/comments/sampra/last_weekends_cassette_audio_enjoy/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
