@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Recommended book resource for Java web development](https://www.reddit.com/r/java/comments/salg43/recommended_book_resource_for_java_web_development/)
 - [I don’t know where to post this, tried downloading forge and then Java and when I tried to open forge with Java this happened. Anyone know how to fix this?](https://www.reddit.com/r/java/comments/sajzgl/i_dont_know_where_to_post_this_tried_downloading/)
 - [OmniFaces 3.13 has been released!](https://www.reddit.com/r/java/comments/sabun3/omnifaces_313_has_been_released/)
-- [WildFly Release Plans for 2022](https://www.reddit.com/r/java/comments/sa2ln8/wildfly_release_plans_for_2022/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
