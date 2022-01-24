@@ -65,8 +65,8 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [New generation of Java programers](https://www.reddit.com/r/java/comments/sbd0ya/new_generation_of_java_programers/)
-- [Netbeans vs Eclipse vs IntellJ](https://www.reddit.com/r/java/comments/sb7ag6/netbeans_vs_eclipse_vs_intellj/)
 - [Example Project for setting up Spring Boot with PostgreSQL. Complete with unit and integration testing.](https://www.reddit.com/r/java/comments/sb46mc/example_project_for_setting_up_spring_boot_with/)
+- [Treat security as a risk](https://www.reddit.com/r/java/comments/say8qc/treat_security_as_a_risk/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
