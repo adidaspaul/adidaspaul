@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Netbeans vs Eclipse vs IntellJ](https://www.reddit.com/r/java/comments/sb7ag6/netbeans_vs_eclipse_vs_intellj/)
 - [Example Project for setting up Spring Boot with PostgreSQL. Complete with unit and integration testing.](https://www.reddit.com/r/java/comments/sb46mc/example_project_for_setting_up_spring_boot_with/)
 - [Treat security as a risk](https://www.reddit.com/r/java/comments/say8qc/treat_security_as_a_risk/)
-- [I created a library like Retrofit and OpenFeign, but using codegen](https://www.reddit.com/r/java/comments/sax4vb/i_created_a_library_like_retrofit_and_openfeign/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
