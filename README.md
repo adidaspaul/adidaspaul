@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Caribou: Use data-driven metrics to reduce your technical debt](https://www.reddit.com/r/java/comments/sbth9i/caribou_use_datadriven_metrics_to_reduce_your/)
 - [Distributed Transactions in Microservices with Kafka Streams and Spring Boot - Piotr&#39;s TechBlog](https://www.reddit.com/r/java/comments/sbjwl7/distributed_transactions_in_microservices_with/)
 - [New generation of Java programers](https://www.reddit.com/r/java/comments/sbd0ya/new_generation_of_java_programers/)
-- [Example Project for setting up Spring Boot with PostgreSQL. Complete with unit and integration testing.](https://www.reddit.com/r/java/comments/sb46mc/example_project_for_setting_up_spring_boot_with/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
