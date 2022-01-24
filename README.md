@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [It’s happening guys!](https://www.reddit.com/r/java/comments/sbxc3d/its_happening_guys/)
 - [Caribou: Use data-driven metrics to reduce your technical debt](https://www.reddit.com/r/java/comments/sbth9i/caribou_use_datadriven_metrics_to_reduce_your/)
 - [Distributed Transactions in Microservices with Kafka Streams and Spring Boot - Piotr&#39;s TechBlog](https://www.reddit.com/r/java/comments/sbjwl7/distributed_transactions_in_microservices_with/)
-- [New generation of Java programers](https://www.reddit.com/r/java/comments/sbd0ya/new_generation_of_java_programers/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
