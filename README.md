@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Reviewing feedback on patterns in switch &lpar;Brian Goetz&rpar;](https://www.reddit.com/r/java/comments/scnkm2/reviewing_feedback_on_patterns_in_switch_brian/)
 - [Dagger clone with a module info](https://www.reddit.com/r/java/comments/scky5t/dagger_clone_with_a_module_info/)
 - [Missing offline Java conferences? Check out TypeVille!](https://www.reddit.com/r/java/comments/scg6xj/missing_offline_java_conferences_check_out/)
-- [Do you think Java will some day finally remove the need of Lombok&#39;s @Data annotation?](https://www.reddit.com/r/java/comments/sc9tju/do_you_think_java_will_some_day_finally_remove/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
