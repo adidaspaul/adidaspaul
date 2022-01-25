@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Missing offline Java conferences? Check out TypeVille!](https://www.reddit.com/r/java/comments/scg6xj/missing_offline_java_conferences_check_out/)
 - [Do you think Java will some day finally remove the need of Lombok&#39;s @Data annotation?](https://www.reddit.com/r/java/comments/sc9tju/do_you_think_java_will_some_day_finally_remove/)
 - [It’s happening guys!](https://www.reddit.com/r/java/comments/sbxc3d/its_happening_guys/)
-- [Caribou: Use data-driven metrics to reduce your technical debt](https://www.reddit.com/r/java/comments/sbth9i/caribou_use_datadriven_metrics_to_reduce_your/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
