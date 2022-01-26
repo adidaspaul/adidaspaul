@@ -66,7 +66,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [JSpecify: Express specifications &lpar;initially, just nullness properties&rpar; in a machine-readable way](https://www.reddit.com/r/java/comments/sdcqwq/jspecify_express_specifications_initially_just/)
 - [Support for new changes to SSL certificates in Open Liberty 22.0.0.2-beta](https://www.reddit.com/r/java/comments/sdclsp/support_for_new_changes_to_ssl_certificates_in/)
-- [Is there any other alternative similar to Codegym?](https://www.reddit.com/r/java/comments/sdc3j0/is_there_any_other_alternative_similar_to_codegym/)
+- [Error Prone 2.11.0 Released. Requires JDK11+](https://www.reddit.com/r/java/comments/scxd1e/error_prone_2110_released_requires_jdk11/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
