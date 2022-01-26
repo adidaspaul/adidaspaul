@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Error Prone 2.11.0 Released. Requires JDK11+](https://www.reddit.com/r/java/comments/scxd1e/error_prone_2110_released_requires_jdk11/)
 - [Reviewing feedback on patterns in switch &lpar;Brian Goetz&rpar;](https://www.reddit.com/r/java/comments/scnkm2/reviewing_feedback_on_patterns_in_switch_brian/)
 - [Dagger clone with a module info](https://www.reddit.com/r/java/comments/scky5t/dagger_clone_with_a_module_info/)
-- [Missing offline Java conferences? Check out TypeVille!](https://www.reddit.com/r/java/comments/scg6xj/missing_offline_java_conferences_check_out/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
