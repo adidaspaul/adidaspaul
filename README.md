@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Lenses in Java](https://www.reddit.com/r/java/comments/sdm12w/lenses_in_java/)
 - [JSpecify: Express specifications &lpar;initially, just nullness properties&rpar; in a machine-readable way](https://www.reddit.com/r/java/comments/sdcqwq/jspecify_express_specifications_initially_just/)
 - [Support for new changes to SSL certificates in Open Liberty 22.0.0.2-beta](https://www.reddit.com/r/java/comments/sdclsp/support_for_new_changes_to_ssl_certificates_in/)
-- [Error Prone 2.11.0 Released. Requires JDK11+](https://www.reddit.com/r/java/comments/scxd1e/error_prone_2110_released_requires_jdk11/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
