@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [What GUI options are available for Java?](https://www.reddit.com/r/java/comments/se5wxl/what_gui_options_are_available_for_java/)
+- [Netflix runs their own JVM](https://www.reddit.com/r/java/comments/se5q9y/netflix_runs_their_own_jvm/)
 - [Profiling a native agent ?](https://www.reddit.com/r/java/comments/se2ji8/profiling_a_native_agent/)
-- [What&#39;s New in MicroProfile 5.0](https://www.reddit.com/r/java/comments/se24eg/whats_new_in_microprofile_50/)
-- [Weld 5.0.0.Beta1 released!](https://www.reddit.com/r/java/comments/se0ykt/weld_500beta1_released/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
