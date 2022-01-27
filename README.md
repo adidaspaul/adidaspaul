@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Profiling a native agent ?](https://www.reddit.com/r/java/comments/se2ji8/profiling_a_native_agent/)
 - [What&#39;s New in MicroProfile 5.0](https://www.reddit.com/r/java/comments/se24eg/whats_new_in_microprofile_50/)
 - [Weld 5.0.0.Beta1 released!](https://www.reddit.com/r/java/comments/se0ykt/weld_500beta1_released/)
-- [Lenses in Java](https://www.reddit.com/r/java/comments/sdm12w/lenses_in_java/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
