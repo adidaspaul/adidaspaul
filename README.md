@@ -64,8 +64,8 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Netflix builds their own OpenJDK](https://www.reddit.com/r/java/comments/se6s7p/netflix_builds_their_own_openjdk/)
 - [What GUI options are available for Java?](https://www.reddit.com/r/java/comments/se5wxl/what_gui_options_are_available_for_java/)
-- [Netflix runs their own JVM](https://www.reddit.com/r/java/comments/se5q9y/netflix_runs_their_own_jvm/)
 - [Profiling a native agent ?](https://www.reddit.com/r/java/comments/se2ji8/profiling_a_native_agent/)
 <!-- BLOG-POST-LIST:END -->
 
