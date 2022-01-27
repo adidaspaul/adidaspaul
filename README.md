@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [What&#39;s New in MicroProfile 5.0](https://www.reddit.com/r/java/comments/se24eg/whats_new_in_microprofile_50/)
+- [Weld 5.0.0.Beta1 released!](https://www.reddit.com/r/java/comments/se0ykt/weld_500beta1_released/)
 - [Lenses in Java](https://www.reddit.com/r/java/comments/sdm12w/lenses_in_java/)
-- [JSpecify: Express specifications &lpar;initially, just nullness properties&rpar; in a machine-readable way](https://www.reddit.com/r/java/comments/sdcqwq/jspecify_express_specifications_initially_just/)
-- [Support for new changes to SSL certificates in Open Liberty 22.0.0.2-beta](https://www.reddit.com/r/java/comments/sdclsp/support_for_new_changes_to_ssl_certificates_in/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
