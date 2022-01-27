@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [GitHub - locationtech/jts: The JTS Topology Suite is a Java library for creating and manipulating vector geometry.](https://www.reddit.com/r/java/comments/se98xn/github_locationtechjts_the_jts_topology_suite_is/)
 - [Netflix builds their own OpenJDK](https://www.reddit.com/r/java/comments/se6s7p/netflix_builds_their_own_openjdk/)
 - [What GUI options are available for Java?](https://www.reddit.com/r/java/comments/se5wxl/what_gui_options_are_available_for_java/)
-- [Profiling a native agent ?](https://www.reddit.com/r/java/comments/se2ji8/profiling_a_native_agent/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
