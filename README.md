@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Synchronized vs Concurrent collection](https://www.reddit.com/r/java/comments/semvsa/synchronized_vs_concurrent_collection/)
 - [Fake news or fun fact: Java was initially named C++++--?](https://www.reddit.com/r/java/comments/sef5os/fake_news_or_fun_fact_java_was_initially_named_c/)
 - [Where to use Optional [Inside Java Newscast]](https://www.reddit.com/r/java/comments/seali3/where_to_use_optional_inside_java_newscast/)
-- [GitHub - locationtech/jts: The JTS Topology Suite is a Java library for creating and manipulating vector geometry.](https://www.reddit.com/r/java/comments/se98xn/github_locationtechjts_the_jts_topology_suite_is/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
