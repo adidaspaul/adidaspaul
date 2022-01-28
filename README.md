@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Writing Lamba Expressions In Java](https://www.reddit.com/r/java/comments/sesubm/writing_lamba_expressions_in_java/)
 - [How threading works with Hystrix and Spring Boot?](https://www.reddit.com/r/java/comments/serqwz/how_threading_works_with_hystrix_and_spring_boot/)
 - [Synchronized vs Concurrent collection](https://www.reddit.com/r/java/comments/semvsa/synchronized_vs_concurrent_collection/)
-- [Fake news or fun fact: Java was initially named C++++--?](https://www.reddit.com/r/java/comments/sef5os/fake_news_or_fun_fact_java_was_initially_named_c/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
