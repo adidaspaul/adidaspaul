@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Writing Lamba Expressions In Java](https://www.reddit.com/r/java/comments/sesubm/writing_lamba_expressions_in_java/)
-- [How threading works with Hystrix and Spring Boot?](https://www.reddit.com/r/java/comments/serqwz/how_threading_works_with_hystrix_and_spring_boot/)
-- [Synchronized vs Concurrent collection](https://www.reddit.com/r/java/comments/semvsa/synchronized_vs_concurrent_collection/)
+- [Where to use Optional [Inside Java Newscast]](https://www.reddit.com/r/java/comments/seali3/where_to_use_optional_inside_java_newscast/)
+- [GitHub - locationtech/jts: The JTS Topology Suite is a Java library for creating and manipulating vector geometry.](https://www.reddit.com/r/java/comments/se98xn/github_locationtechjts_the_jts_topology_suite_is/)
+- [Profiling a native agent ?](https://www.reddit.com/r/java/comments/se2ji8/profiling_a_native_agent/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
