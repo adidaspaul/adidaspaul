@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Hibernate 6 rc1 released!](https://www.reddit.com/r/java/comments/sftz7y/hibernate_6_rc1_released/)
 - [Foreign function interface in JDK?](https://www.reddit.com/r/java/comments/sfiq9k/foreign_function_interface_in_jdk/)
 - [new panama/foreign EA](https://www.reddit.com/r/java/comments/sfbx9c/new_panamaforeign_ea/)
-- [JEP draft: Sequenced Collections](https://www.reddit.com/r/java/comments/sf8qrv/jep_draft_sequenced_collections/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
