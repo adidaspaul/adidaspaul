@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The original java.util.Date class is Java&#39;s best date/time API. You know I&#39;m right.](https://www.reddit.com/r/java/comments/sfco6w/the_original_javautildate_class_is_javas_best/)
+- [new panama/foreign EA](https://www.reddit.com/r/java/comments/sfbx9c/new_panamaforeign_ea/)
 - [JEP draft: Sequenced Collections](https://www.reddit.com/r/java/comments/sf8qrv/jep_draft_sequenced_collections/)
-- [Where to use Optional [Inside Java Newscast]](https://www.reddit.com/r/java/comments/seali3/where_to_use_optional_inside_java_newscast/)
-- [GitHub - locationtech/jts: The JTS Topology Suite is a Java library for creating and manipulating vector geometry.](https://www.reddit.com/r/java/comments/se98xn/github_locationtechjts_the_jts_topology_suite_is/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
