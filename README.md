@@ -64,7 +64,7 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [The original java.util.Date class is Java&#39;s best date/time API. You know I&#39;m right.](https://www.reddit.com/r/java/comments/sfco6w/the_original_javautildate_class_is_javas_best/)
+- [I&#39;m looking for a way to connect a lot of Social media and read the messages](https://www.reddit.com/r/java/comments/sfd9id/im_looking_for_a_way_to_connect_a_lot_of_social/)
 - [new panama/foreign EA](https://www.reddit.com/r/java/comments/sfbx9c/new_panamaforeign_ea/)
 - [JEP draft: Sequenced Collections](https://www.reddit.com/r/java/comments/sf8qrv/jep_draft_sequenced_collections/)
 <!-- BLOG-POST-LIST:END -->
