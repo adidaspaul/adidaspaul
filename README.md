@@ -64,7 +64,7 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Java and Kotlin in same project/service](https://www.reddit.com/r/java/comments/sg6m1i/java_and_kotlin_in_same_projectservice/)
+- [Feature Idea: a --beginner &lpar;-b&rpar; flag for JShell?](https://www.reddit.com/r/java/comments/sg70pt/feature_idea_a_beginner_b_flag_for_jshell/)
 - [Hibernate 6 rc1 released!](https://www.reddit.com/r/java/comments/sftz7y/hibernate_6_rc1_released/)
 - [Foreign function interface in JDK?](https://www.reddit.com/r/java/comments/sfiq9k/foreign_function_interface_in_jdk/)
 <!-- BLOG-POST-LIST:END -->
