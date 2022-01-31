@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [GitHub - grakkit/grakkit: A modern JavaScript development environment for Minecraft.](https://www.reddit.com/r/java/comments/sh73rs/github_grakkitgrakkit_a_modern_javascript/)
 - [How to organise a proper contract testing solution?](https://www.reddit.com/r/java/comments/sgzu34/how_to_organise_a_proper_contract_testing_solution/)
 - [The Flatten Maven plugin](https://www.reddit.com/r/java/comments/sgd4dk/the_flatten_maven_plugin/)
-- [Polyglot: Compiler Framework for Extending Java || Type Theory 101](https://www.reddit.com/r/java/comments/sgcf8a/polyglot_compiler_framework_for_extending_java/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
