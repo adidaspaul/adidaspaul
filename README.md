@@ -64,7 +64,7 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [GitHub - grakkit/grakkit: A modern JavaScript development environment for Minecraft.](https://www.reddit.com/r/java/comments/sh73rs/github_grakkitgrakkit_a_modern_javascript/)
+- [Is the java 17 64 bit windows safe from log 4j if not what version should I get?](https://www.reddit.com/r/java/comments/sh9dga/is_the_java_17_64_bit_windows_safe_from_log_4j_if/)
 - [How to organise a proper contract testing solution?](https://www.reddit.com/r/java/comments/sgzu34/how_to_organise_a_proper_contract_testing_solution/)
 - [The Flatten Maven plugin](https://www.reddit.com/r/java/comments/sgd4dk/the_flatten_maven_plugin/)
 <!-- BLOG-POST-LIST:END -->
