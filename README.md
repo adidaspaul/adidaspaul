@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [JVM Testing Newsletter: 1/2022](https://www.reddit.com/r/java/comments/sgyr20/jvm_testing_newsletter_12022/)
 - [The Flatten Maven plugin](https://www.reddit.com/r/java/comments/sgd4dk/the_flatten_maven_plugin/)
 - [Polyglot: Compiler Framework for Extending Java || Type Theory 101](https://www.reddit.com/r/java/comments/sgcf8a/polyglot_compiler_framework_for_extending_java/)
-- [Feature Idea: a --beginner &lpar;-b&rpar; flag for JShell?](https://www.reddit.com/r/java/comments/sg70pt/feature_idea_a_beginner_b_flag_for_jshell/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
