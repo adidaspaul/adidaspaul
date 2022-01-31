@@ -64,7 +64,7 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [JVM Testing Newsletter: 1/2022](https://www.reddit.com/r/java/comments/sgyr20/jvm_testing_newsletter_12022/)
+- [How to organise a proper contract testing solution?](https://www.reddit.com/r/java/comments/sgzu34/how_to_organise_a_proper_contract_testing_solution/)
 - [The Flatten Maven plugin](https://www.reddit.com/r/java/comments/sgd4dk/the_flatten_maven_plugin/)
 - [Polyglot: Compiler Framework for Extending Java || Type Theory 101](https://www.reddit.com/r/java/comments/sgcf8a/polyglot_compiler_framework_for_extending_java/)
 <!-- BLOG-POST-LIST:END -->
