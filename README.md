@@ -66,7 +66,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [Failsafe 3.2 is released, with new resilience policies](https://www.reddit.com/r/java/comments/shl5gd/failsafe_32_is_released_with_new_resilience/)
 - [Friendly reminder: get ride of any JCenter repository dependencies you might still have](https://www.reddit.com/r/java/comments/shfuz2/friendly_reminder_get_ride_of_any_jcenter/)
-- [An open-source Java application to Test](https://www.reddit.com/r/java/comments/shfda2/an_opensource_java_application_to_test/)
+- [How to organise a proper contract testing solution?](https://www.reddit.com/r/java/comments/sgzu34/how_to_organise_a_proper_contract_testing_solution/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
