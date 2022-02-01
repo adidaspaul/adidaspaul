@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Datafaker 1.1.0 is released, with more features and fewer dependencies](https://www.reddit.com/r/java/comments/shry6s/datafaker_110_is_released_with_more_features_and/)
 - [Java Annotated Monthly – February 2022](https://www.reddit.com/r/java/comments/shqpbh/java_annotated_monthly_february_2022/)
 - [Failsafe 3.2 is released, with new resilience policies](https://www.reddit.com/r/java/comments/shl5gd/failsafe_32_is_released_with_new_resilience/)
-- [Friendly reminder: get ride of any JCenter repository dependencies you might still have](https://www.reddit.com/r/java/comments/shfuz2/friendly_reminder_get_ride_of_any_jcenter/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
