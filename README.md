@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Refactoring Java 8 code with Java 17 features - JEP Café #9](https://www.reddit.com/r/java/comments/shzz4v/refactoring_java_8_code_with_java_17_features_jep/)
 - [Datafaker 1.1.0 is released, with more features and fewer dependencies](https://www.reddit.com/r/java/comments/shry6s/datafaker_110_is_released_with_more_features_and/)
 - [Java Annotated Monthly – February 2022](https://www.reddit.com/r/java/comments/shqpbh/java_annotated_monthly_february_2022/)
-- [Failsafe 3.2 is released, with new resilience policies](https://www.reddit.com/r/java/comments/shl5gd/failsafe_32_is_released_with_new_resilience/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
