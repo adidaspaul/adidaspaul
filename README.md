@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [I&#39;ve created a command framework for JDA &lpar;Discord Bots&rpar;](https://www.reddit.com/r/java/comments/sinqnx/ive_created_a_command_framework_for_jda_discord/)
+- [Understanding Java Compilation: From Bytecodes to Machine Code in the JVM](https://www.reddit.com/r/java/comments/sinj6q/understanding_java_compilation_from_bytecodes_to/)
 - [changes to the foreign preview API](https://www.reddit.com/r/java/comments/si4vqo/changes_to_the_foreign_preview_api/)
-- [Refactoring Java 8 code with Java 17 features - JEP Café #9](https://www.reddit.com/r/java/comments/shzz4v/refactoring_java_8_code_with_java_17_features_jep/)
-- [Datafaker 1.1.0 is released, with more features and fewer dependencies](https://www.reddit.com/r/java/comments/shry6s/datafaker_110_is_released_with_more_features_and/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
