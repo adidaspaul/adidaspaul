@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [is this the beginning of the end for programmers?](https://www.reddit.com/r/java/comments/sj17lg/is_this_the_beginning_of_the_end_for_programmers/)
 - [Named and Optional Parameters in Java](https://www.reddit.com/r/java/comments/siv00z/named_and_optional_parameters_in_java/)
 - [I&#39;ve created a command framework for JDA &lpar;Discord Bots&rpar;](https://www.reddit.com/r/java/comments/sinqnx/ive_created_a_command_framework_for_jda_discord/)
-- [Understanding Java Compilation: From Bytecodes to Machine Code in the JVM](https://www.reddit.com/r/java/comments/sinj6q/understanding_java_compilation_from_bytecodes_to/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
