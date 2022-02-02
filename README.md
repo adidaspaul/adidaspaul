@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Experienced Java/Kotlin developers: what libraries do you use in your day to day work?](https://www.reddit.com/r/java/comments/sj2s7z/experienced_javakotlin_developers_what_libraries/)
+- [Can you guys help me understand why it’s outputting these results for 1-7? Like for #1 how is 5 divided 2 equal to 2? Shouldn’t it be 2.5](https://www.reddit.com/r/java/comments/sj2qsn/can_you_guys_help_me_understand_why_its/)
 - [is this the beginning of the end for programmers?](https://www.reddit.com/r/java/comments/sj17lg/is_this_the_beginning_of_the_end_for_programmers/)
-- [Named and Optional Parameters in Java](https://www.reddit.com/r/java/comments/siv00z/named_and_optional_parameters_in_java/)
-- [I&#39;ve created a command framework for JDA &lpar;Discord Bots&rpar;](https://www.reddit.com/r/java/comments/sinqnx/ive_created_a_command_framework_for_jda_discord/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
