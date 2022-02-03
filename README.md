@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Find Duplicate Characters in String [Java Coding Problems]](https://www.reddit.com/r/java/comments/sj81a1/how_to_find_duplicate_characters_in_string_java/)
 - [Is there an Intelli-j plugin that&#39;ll tell you when you have done something considered bad practice?](https://www.reddit.com/r/java/comments/sj6bk9/is_there_an_intellij_plugin_thatll_tell_you_when/)
 - [https://blog.sunshower.io/2022/02/02/thoughts-on-testing-is-an-unsolved-problem/](https://www.reddit.com/r/java/comments/sj52bh/httpsblogsunshowerio20220202thoughtsontestingisanu/)
+- [Experienced Java/Kotlin developers: what libraries do you use in your day to day work?](https://www.reddit.com/r/java/comments/sj2s7z/experienced_javakotlin_developers_what_libraries/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
