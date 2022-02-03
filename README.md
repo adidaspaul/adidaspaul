@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [https://blog.sunshower.io/2022/02/02/thoughts-on-testing-is-an-unsolved-problem/](https://www.reddit.com/r/java/comments/sj52bh/httpsblogsunshowerio20220202thoughtsontestingisanu/)
+- [When I Create New Project in Java, it Copies the Code from my Last Project](https://www.reddit.com/r/java/comments/sj3yla/when_i_create_new_project_in_java_it_copies_the/)
 - [Experienced Java/Kotlin developers: what libraries do you use in your day to day work?](https://www.reddit.com/r/java/comments/sj2s7z/experienced_javakotlin_developers_what_libraries/)
-- [Can you guys help me understand why it’s outputting these results for 1-7? Like for #1 how is 5 divided 2 equal to 2? Shouldn’t it be 2.5](https://www.reddit.com/r/java/comments/sj2qsn/can_you_guys_help_me_understand_why_its/)
-- [is this the beginning of the end for programmers?](https://www.reddit.com/r/java/comments/sj17lg/is_this_the_beginning_of_the_end_for_programmers/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
