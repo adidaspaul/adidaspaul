@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The impact of reflection and annotations on AWS lambda&#39;s performance](https://www.reddit.com/r/java/comments/sjgfpg/the_impact_of_reflection_and_annotations_on_aws/)
+- [Not sure if this is the best place to ask but I can&#39;t get to the Java website.](https://www.reddit.com/r/java/comments/sjg7wb/not_sure_if_this_is_the_best_place_to_ask_but_i/)
 - [Named and Optional Parameters in Java](https://www.reddit.com/r/java/comments/siv00z/named_and_optional_parameters_in_java/)
-- [I&#39;ve created a command framework for JDA &lpar;Discord Bots&rpar;](https://www.reddit.com/r/java/comments/sinqnx/ive_created_a_command_framework_for_jda_discord/)
-- [Understanding Java Compilation: From Bytecodes to Machine Code in the JVM](https://www.reddit.com/r/java/comments/sinj6q/understanding_java_compilation_from_bytecodes_to/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
