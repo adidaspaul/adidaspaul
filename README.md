@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [When I make a new Java project, whatever code I enter goes into my other projects, and vice versa. How do I start projects from scratch and not have them connected to every other project I have?](https://www.reddit.com/r/java/comments/sjt22s/when_i_make_a_new_java_project_whatever_code_i/)
 - [Jexer 1.6.0 release - Java advanced TUI framework](https://www.reddit.com/r/java/comments/sjoail/jexer_160_release_java_advanced_tui_framework/)
 - [The impact of reflection and annotations on AWS lambda&#39;s performance](https://www.reddit.com/r/java/comments/sjgfpg/the_impact_of_reflection_and_annotations_on_aws/)
+- [Named and Optional Parameters in Java](https://www.reddit.com/r/java/comments/siv00z/named_and_optional_parameters_in_java/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
