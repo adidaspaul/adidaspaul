@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Jexer 1.6.0 release - Java advanced TUI framework](https://www.reddit.com/r/java/comments/sjoail/jexer_160_release_java_advanced_tui_framework/)
 - [The impact of reflection and annotations on AWS lambda&#39;s performance](https://www.reddit.com/r/java/comments/sjgfpg/the_impact_of_reflection_and_annotations_on_aws/)
 - [Named and Optional Parameters in Java](https://www.reddit.com/r/java/comments/siv00z/named_and_optional_parameters_in_java/)
-- [I&#39;ve created a command framework for JDA &lpar;Discord Bots&rpar;](https://www.reddit.com/r/java/comments/sinqnx/ive_created_a_command_framework_for_jda_discord/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
