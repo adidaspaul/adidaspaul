@@ -65,8 +65,8 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Create native JavaFX applications using GraalVM 22 builds](https://www.reddit.com/r/java/comments/sklbwd/create_native_javafx_applications_using_graalvm/)
-- [Is it possible, that i can download java without admin rights on win 10?](https://www.reddit.com/r/java/comments/skjseo/is_it_possible_that_i_can_download_java_without/)
 - [Extension that generates Javadocs for you using AI](https://www.reddit.com/r/java/comments/sjvyij/extension_that_generates_javadocs_for_you_using_ai/)
+- [Is there a way to know if my java game is slow on other computers?](https://www.reddit.com/r/java/comments/sjuw8d/is_there_a_way_to_know_if_my_java_game_is_slow_on/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
