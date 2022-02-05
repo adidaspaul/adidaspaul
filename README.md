@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [For anyone that uses vs code, do you know how to get rid of this bulb?](https://www.reddit.com/r/java/comments/skzzkw/for_anyone_that_uses_vs_code_do_you_know_how_to/)
+- [GraalVM native image is getting ready for Loom &lpar;Virtual thread&rpar; Support?](https://www.reddit.com/r/java/comments/skzks5/graalvm_native_image_is_getting_ready_for_loom/)
 - [Create native JavaFX applications using GraalVM 22 builds](https://www.reddit.com/r/java/comments/sklbwd/create_native_javafx_applications_using_graalvm/)
-- [Extension that generates Javadocs for you using AI](https://www.reddit.com/r/java/comments/sjvyij/extension_that_generates_javadocs_for_you_using_ai/)
-- [Is there a way to know if my java game is slow on other computers?](https://www.reddit.com/r/java/comments/sjuw8d/is_there_a_way_to_know_if_my_java_game_is_slow_on/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
