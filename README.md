@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [What’s the most efficient way to learn Java as a beginner ?](https://www.reddit.com/r/java/comments/sl1zeq/whats_the_most_efficient_way_to_learn_java_as_a/)
 - [Create an official jooq-codegen-gradle plugin](https://www.reddit.com/r/java/comments/sl0dvp/create_an_official_jooqcodegengradle_plugin/)
 - [For anyone that uses vs code, do you know how to get rid of this bulb?](https://www.reddit.com/r/java/comments/skzzkw/for_anyone_that_uses_vs_code_do_you_know_how_to/)
-- [GraalVM native image is getting ready for Loom &lpar;Virtual thread&rpar; Support?](https://www.reddit.com/r/java/comments/skzks5/graalvm_native_image_is_getting_ready_for_loom/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
