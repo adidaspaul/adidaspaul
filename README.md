@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [java logo but animated](https://www.reddit.com/r/java/comments/sm5zke/java_logo_but_animated/)
 - [JRE/JDK compiled with x86-64-v3 instruction set](https://www.reddit.com/r/java/comments/sm0tmn/jrejdk_compiled_with_x8664v3_instruction_set/)
 - [What are the most exciting future features in Java and JVM?](https://www.reddit.com/r/java/comments/slz70e/what_are_the_most_exciting_future_features_in/)
-- [Use case for non application scopes in Dagger.](https://www.reddit.com/r/java/comments/sln7kf/use_case_for_non_application_scopes_in_dagger/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
