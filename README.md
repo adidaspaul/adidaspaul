@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [JRE/JDK compiled with x86-64-v3 instruction set](https://www.reddit.com/r/java/comments/sm0tmn/jrejdk_compiled_with_x8664v3_instruction_set/)
 - [What are the most exciting future features in Java and JVM?](https://www.reddit.com/r/java/comments/slz70e/what_are_the_most_exciting_future_features_in/)
 - [looked up r/java just so i could let you all know that i just really love switch statements mm they so good and never feel repetitive](https://www.reddit.com/r/java/comments/slyuux/looked_up_rjava_just_so_i_could_let_you_all_know/)
-- [Open Source solution to scan Java Code for security and best practices &lpar;also other tech stacks&rpar;](https://www.reddit.com/r/java/comments/sltx9z/open_source_solution_to_scan_java_code_for/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
