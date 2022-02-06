@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [SpotBugs considers TimeZone mutable](https://www.reddit.com/r/java/comments/slswtm/spotbugs_considers_timezone_mutable/)
 - [Use case for non application scopes in Dagger.](https://www.reddit.com/r/java/comments/sln7kf/use_case_for_non_application_scopes_in_dagger/)
 - [GraalVM native image is getting ready for Loom &lpar;Virtual thread&rpar; Support?](https://www.reddit.com/r/java/comments/skzks5/graalvm_native_image_is_getting_ready_for_loom/)
-- [Create native JavaFX applications using GraalVM 22 builds](https://www.reddit.com/r/java/comments/sklbwd/create_native_javafx_applications_using_graalvm/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
