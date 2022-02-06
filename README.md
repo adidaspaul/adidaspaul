@@ -65,8 +65,8 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Use case for non application scopes in Dagger.](https://www.reddit.com/r/java/comments/sln7kf/use_case_for_non_application_scopes_in_dagger/)
-- [What is the best Java IDE?](https://www.reddit.com/r/java/comments/sll9fs/what_is_the_best_java_ide/)
 - [GraalVM native image is getting ready for Loom &lpar;Virtual thread&rpar; Support?](https://www.reddit.com/r/java/comments/skzks5/graalvm_native_image_is_getting_ready_for_loom/)
+- [Create native JavaFX applications using GraalVM 22 builds](https://www.reddit.com/r/java/comments/sklbwd/create_native_javafx_applications_using_graalvm/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
