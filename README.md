@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Help solve this Java BitSet performance-flicker mystery](https://www.reddit.com/r/java/comments/slu48q/help_solve_this_java_bitset_performanceflicker/)
 - [Open Source solution to scan Java Code for security and best practices &lpar;also other tech stacks&rpar;](https://www.reddit.com/r/java/comments/sltx9z/open_source_solution_to_scan_java_code_for/)
 - [Use case for non application scopes in Dagger.](https://www.reddit.com/r/java/comments/sln7kf/use_case_for_non_application_scopes_in_dagger/)
+- [GraalVM native image is getting ready for Loom &lpar;Virtual thread&rpar; Support?](https://www.reddit.com/r/java/comments/skzks5/graalvm_native_image_is_getting_ready_for_loom/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
