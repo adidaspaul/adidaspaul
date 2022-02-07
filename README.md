@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Event-Driven Architectures with Kotlin on Serverless Kafka](https://www.reddit.com/r/java/comments/smhgq4/eventdriven_architectures_with_kotlin_on/)
-- [And then there are these kinda people](https://www.reddit.com/r/java/comments/smbf5x/and_then_there_are_these_kinda_people/)
 - [What are the most exciting future features in Java and JVM?](https://www.reddit.com/r/java/comments/slz70e/what_are_the_most_exciting_future_features_in/)
+- [GraalVM native image is getting ready for Loom &lpar;Virtual thread&rpar; Support?](https://www.reddit.com/r/java/comments/skzks5/graalvm_native_image_is_getting_ready_for_loom/)
+- [Create native JavaFX applications using GraalVM 22 builds](https://www.reddit.com/r/java/comments/sklbwd/create_native_javafx_applications_using_graalvm/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
