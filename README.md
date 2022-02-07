@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How do I determine the minimum number of threads needed for the thread pools in my IO-bound Java apps?](https://www.reddit.com/r/java/comments/smd1qx/how_do_i_determine_the_minimum_number_of_threads/)
+- [And then there are these kinda people](https://www.reddit.com/r/java/comments/smbf5x/and_then_there_are_these_kinda_people/)
 - [java logo but animated](https://www.reddit.com/r/java/comments/sm5zke/java_logo_but_animated/)
-- [JRE/JDK compiled with x86-64-v3 instruction set](https://www.reddit.com/r/java/comments/sm0tmn/jrejdk_compiled_with_x8664v3_instruction_set/)
-- [What are the most exciting future features in Java and JVM?](https://www.reddit.com/r/java/comments/slz70e/what_are_the_most_exciting_future_features_in/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
