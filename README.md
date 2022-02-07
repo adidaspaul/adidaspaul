@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [How To Use Java Event Listeners in Selenium WebDriver?](https://www.reddit.com/r/java/comments/smqy4h/how_to_use_java_event_listeners_in_selenium/)
-- [Where and how are external dependencies downloaded with maven?](https://www.reddit.com/r/java/comments/smooi2/where_and_how_are_external_dependencies/)
 - [What are the most exciting future features in Java and JVM?](https://www.reddit.com/r/java/comments/slz70e/what_are_the_most_exciting_future_features_in/)
+- [GraalVM native image is getting ready for Loom &lpar;Virtual thread&rpar; Support?](https://www.reddit.com/r/java/comments/skzks5/graalvm_native_image_is_getting_ready_for_loom/)
+- [Create native JavaFX applications using GraalVM 22 builds](https://www.reddit.com/r/java/comments/sklbwd/create_native_javafx_applications_using_graalvm/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
