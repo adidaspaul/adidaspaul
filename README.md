@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [We created an open source to view API traffic for Kubernetes enabling you to view all API communication between microservices. Mizu open source Monitoring network traffic in real-time. Supported protocols: HTTP/1.1 &lpar;REST, etc.&rpar; HTTP/2 &lpar;gRPC&rpar; AMQP &lpar;RabbitMQ, Apache Qpid, etc.&rpar;](https://www.reddit.com/r/java/comments/smvhqw/we_created_an_open_source_to_view_api_traffic_for/)
 - [I&#39;ve never thought JSON parsing can go wrong ..](https://www.reddit.com/r/java/comments/smta0y/ive_never_thought_json_parsing_can_go_wrong/)
 - [What are the most exciting future features in Java and JVM?](https://www.reddit.com/r/java/comments/slz70e/what_are_the_most_exciting_future_features_in/)
+- [GraalVM native image is getting ready for Loom &lpar;Virtual thread&rpar; Support?](https://www.reddit.com/r/java/comments/skzks5/graalvm_native_image_is_getting_ready_for_loom/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
