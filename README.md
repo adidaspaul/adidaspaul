@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Serverless on AWS Lambda with Micronaut + Kotlin](https://www.reddit.com/r/java/comments/snw4yq/serverless_on_aws_lambda_with_micronaut_kotlin/)
 - [Java&#39;s Options for Options](https://www.reddit.com/r/java/comments/snrfek/javas_options_for_options/)
 - [Azul Launches Java Cloud Compiler](https://www.reddit.com/r/java/comments/snoro8/azul_launches_java_cloud_compiler/)
-- [Technical Interview Resources](https://www.reddit.com/r/java/comments/sni28e/technical_interview_resources/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
