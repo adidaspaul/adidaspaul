@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How do I make Java 17 installable on a 32 bit system?](https://www.reddit.com/r/java/comments/snf7fm/how_do_i_make_java_17_installable_on_a_32_bit/)
 - [Are there any recommended Java mailing lists/news youtube channels?](https://www.reddit.com/r/java/comments/snc5yo/are_there_any_recommended_java_mailing_listsnews/)
 - [What are the most exciting future features in Java and JVM?](https://www.reddit.com/r/java/comments/slz70e/what_are_the_most_exciting_future_features_in/)
-- [GraalVM native image is getting ready for Loom &lpar;Virtual thread&rpar; Support?](https://www.reddit.com/r/java/comments/skzks5/graalvm_native_image_is_getting_ready_for_loom/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
