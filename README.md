@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Java&#39;s Options for Options](https://www.reddit.com/r/java/comments/snrfek/javas_options_for_options/)
 - [Azul Launches Java Cloud Compiler](https://www.reddit.com/r/java/comments/snoro8/azul_launches_java_cloud_compiler/)
 - [Technical Interview Resources](https://www.reddit.com/r/java/comments/sni28e/technical_interview_resources/)
-- [Deep Dive into Saga Transactions with Kafka Streams and Spring Boot](https://www.reddit.com/r/java/comments/sngfns/deep_dive_into_saga_transactions_with_kafka/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
