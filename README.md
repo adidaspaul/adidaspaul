@@ -64,8 +64,8 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Technical Interview Resources](https://www.reddit.com/r/java/comments/sni28e/technical_interview_resources/)
 - [Deep Dive into Saga Transactions with Kafka Streams and Spring Boot](https://www.reddit.com/r/java/comments/sngfns/deep_dive_into_saga_transactions_with_kafka/)
-- [How do I make Java 17 installable on a 32 bit system?](https://www.reddit.com/r/java/comments/snf7fm/how_do_i_make_java_17_installable_on_a_32_bit/)
 - [Are there any recommended Java mailing lists/news youtube channels?](https://www.reddit.com/r/java/comments/snc5yo/are_there_any_recommended_java_mailing_listsnews/)
 <!-- BLOG-POST-LIST:END -->
 
