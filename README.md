@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Helidon 2.4.2 released!](https://www.reddit.com/r/java/comments/soaj9b/helidon_242_released/)
 - [OneDev 6.3 - Java based git server now with dark mode](https://www.reddit.com/r/java/comments/so50hq/onedev_63_java_based_git_server_now_with_dark_mode/)
 - [Java&#39;s Options for Options](https://www.reddit.com/r/java/comments/snrfek/javas_options_for_options/)
-- [Azul Launches Java Cloud Compiler](https://www.reddit.com/r/java/comments/snoro8/azul_launches_java_cloud_compiler/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
