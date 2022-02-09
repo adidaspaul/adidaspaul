@@ -65,8 +65,8 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [OneDev 6.3 - Java based git server now with dark mode](https://www.reddit.com/r/java/comments/so50hq/onedev_63_java_based_git_server_now_with_dark_mode/)
-- [Worm Soup - A game where you raise worms in a petri dish](https://www.reddit.com/r/java/comments/snyblv/worm_soup_a_game_where_you_raise_worms_in_a_petri/)
-- [Serverless on AWS Lambda with Micronaut + Kotlin](https://www.reddit.com/r/java/comments/snw4yq/serverless_on_aws_lambda_with_micronaut_kotlin/)
+- [Java&#39;s Options for Options](https://www.reddit.com/r/java/comments/snrfek/javas_options_for_options/)
+- [Azul Launches Java Cloud Compiler](https://www.reddit.com/r/java/comments/snoro8/azul_launches_java_cloud_compiler/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
