@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [MaterialFX reaches version 11.13.2](https://www.reddit.com/r/java/comments/son3j3/materialfx_reaches_version_11132/)
 - [Code visualization tool inside your IDE](https://www.reddit.com/r/java/comments/sogbey/code_visualization_tool_inside_your_ide/)
 - [Dominion ECS, a high-performance implementation with Java 17 &lpar;and record classes&rpar; vs C / C++](https://www.reddit.com/r/java/comments/sock5l/dominion_ecs_a_highperformance_implementation/)
-- [Helidon 2.4.2 released!](https://www.reddit.com/r/java/comments/soaj9b/helidon_242_released/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
