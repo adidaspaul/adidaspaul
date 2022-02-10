@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Compiled &amp; Tested Code In Javadoc - Inside Java Newscast #20](https://www.reddit.com/r/java/comments/spapoz/compiled_tested_code_in_javadoc_inside_java/)
 - [Why is Java templating/server rendering losing ground?](https://www.reddit.com/r/java/comments/sp9yos/why_is_java_templatingserver_rendering_losing/)
 - [Java on Visual Studio Code February 2022 Update](https://www.reddit.com/r/java/comments/sp7tzu/java_on_visual_studio_code_february_2022_update/)
-- [beginner with many questions. im a senior in high school and just took my first programming class&lpar;java&rpar;.](https://www.reddit.com/r/java/comments/sp7ns1/beginner_with_many_questions_im_a_senior_in_high/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
