@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Java on Visual Studio Code February 2022 Update](https://www.reddit.com/r/java/comments/sp7tzu/java_on_visual_studio_code_february_2022_update/)
+- [beginner with many questions. im a senior in high school and just took my first programming class&lpar;java&rpar;.](https://www.reddit.com/r/java/comments/sp7ns1/beginner_with_many_questions_im_a_senior_in_high/)
 - [Spring Boot Microservices Coding Style Guidelines and Best Practices](https://www.reddit.com/r/java/comments/sos5x1/spring_boot_microservices_coding_style_guidelines/)
-- [MaterialFX reaches version 11.13.2](https://www.reddit.com/r/java/comments/son3j3/materialfx_reaches_version_11132/)
-- [Code visualization tool inside your IDE](https://www.reddit.com/r/java/comments/sogbey/code_visualization_tool_inside_your_ide/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
