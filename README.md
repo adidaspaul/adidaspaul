@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Why is @Override not required?](https://www.reddit.com/r/java/comments/spgdze/why_is_override_not_required/)
 - [Spring retry in Spring Boot](https://www.reddit.com/r/java/comments/spfy4g/spring_retry_in_spring_boot/)
 - [Compiled &amp; Tested Code In Javadoc - Inside Java Newscast #20](https://www.reddit.com/r/java/comments/spapoz/compiled_tested_code_in_javadoc_inside_java/)
-- [Why is Java templating/server rendering losing ground?](https://www.reddit.com/r/java/comments/sp9yos/why_is_java_templatingserver_rendering_losing/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
