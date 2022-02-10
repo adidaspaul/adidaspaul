@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [I can&#39;t install JDK 17.](https://www.reddit.com/r/java/comments/sp1yw6/i_cant_install_jdk_17/)
+- [[HELP] How do I open this file?](https://www.reddit.com/r/java/comments/sp1yug/help_how_do_i_open_this_file/)
 - [Spring Boot Microservices Coding Style Guidelines and Best Practices](https://www.reddit.com/r/java/comments/sos5x1/spring_boot_microservices_coding_style_guidelines/)
-- [MaterialFX reaches version 11.13.2](https://www.reddit.com/r/java/comments/son3j3/materialfx_reaches_version_11132/)
-- [Code visualization tool inside your IDE](https://www.reddit.com/r/java/comments/sogbey/code_visualization_tool_inside_your_ide/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
