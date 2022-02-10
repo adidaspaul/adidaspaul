@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Spring retry in Spring Boot](https://www.reddit.com/r/java/comments/spfy4g/spring_retry_in_spring_boot/)
 - [Compiled &amp; Tested Code In Javadoc - Inside Java Newscast #20](https://www.reddit.com/r/java/comments/spapoz/compiled_tested_code_in_javadoc_inside_java/)
 - [Why is Java templating/server rendering losing ground?](https://www.reddit.com/r/java/comments/sp9yos/why_is_java_templatingserver_rendering_losing/)
-- [Java on Visual Studio Code February 2022 Update](https://www.reddit.com/r/java/comments/sp7tzu/java_on_visual_studio_code_february_2022_update/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
