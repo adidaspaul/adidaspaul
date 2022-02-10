@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Spring Boot Microservices Coding Style Guidelines and Best Practices](https://www.reddit.com/r/java/comments/sos5x1/spring_boot_microservices_coding_style_guidelines/)
 - [MaterialFX reaches version 11.13.2](https://www.reddit.com/r/java/comments/son3j3/materialfx_reaches_version_11132/)
 - [Code visualization tool inside your IDE](https://www.reddit.com/r/java/comments/sogbey/code_visualization_tool_inside_your_ide/)
-- [Dominion ECS, a high-performance implementation with Java 17 &lpar;and record classes&rpar; vs C / C++](https://www.reddit.com/r/java/comments/sock5l/dominion_ecs_a_highperformance_implementation/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
