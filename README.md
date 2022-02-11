@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Origin of misconception for equals and hashcode implementation](https://www.reddit.com/r/java/comments/sq2yye/origin_of_misconception_for_equals_and_hashcode/)
+- [GetTotalSpace&lpar;&rpar; on different linux distributions.](https://www.reddit.com/r/java/comments/sq25cw/gettotalspace_on_different_linux_distributions/)
 - [Alternative standard libraries](https://www.reddit.com/r/java/comments/spxxiu/alternative_standard_libraries/)
-- [Why is @Override not required?](https://www.reddit.com/r/java/comments/spgdze/why_is_override_not_required/)
-- [Compiled &amp; Tested Code In Javadoc - Inside Java Newscast #20](https://www.reddit.com/r/java/comments/spapoz/compiled_tested_code_in_javadoc_inside_java/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
