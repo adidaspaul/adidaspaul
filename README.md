@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [What can I do with Java 1.4?](https://www.reddit.com/r/java/comments/sq5q6m/what_can_i_do_with_java_14/)
 - [Hardware Uber Speed Builds? Java8/gradle/IntelliJ](https://www.reddit.com/r/java/comments/sq3q6a/hardware_uber_speed_builds_java8gradleintellij/)
 - [Origin of misconception for equals and hashcode implementation](https://www.reddit.com/r/java/comments/sq2yye/origin_of_misconception_for_equals_and_hashcode/)
-- [GetTotalSpace&lpar;&rpar; on different linux distributions.](https://www.reddit.com/r/java/comments/sq25cw/gettotalspace_on_different_linux_distributions/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
