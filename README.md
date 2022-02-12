@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Is Java hashCode&lpar;&rpar; and equals&lpar;&rpar; API flawed?](https://www.reddit.com/r/java/comments/sqd4cg/is_java_hashcode_and_equals_api_flawed/)
+- [Deploy Java Desktop apps as Native bundles for Windows, Mac, and Linux](https://www.reddit.com/r/java/comments/sqbz69/deploy_java_desktop_apps_as_native_bundles_for/)
 - [Hardware Uber Speed Builds? Java8/gradle/IntelliJ](https://www.reddit.com/r/java/comments/sq3q6a/hardware_uber_speed_builds_java8gradleintellij/)
-- [Origin of misconception for equals and hashcode implementation](https://www.reddit.com/r/java/comments/sq2yye/origin_of_misconception_for_equals_and_hashcode/)
-- [GetTotalSpace&lpar;&rpar; on different linux distributions.](https://www.reddit.com/r/java/comments/sq25cw/gettotalspace_on_different_linux_distributions/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
