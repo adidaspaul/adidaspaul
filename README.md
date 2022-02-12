@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Best OS for Java dev](https://www.reddit.com/r/java/comments/sqyjkp/best_os_for_java_dev/)
 - [Is Java hashCode&lpar;&rpar; and equals&lpar;&rpar; API flawed?](https://www.reddit.com/r/java/comments/sqd4cg/is_java_hashcode_and_equals_api_flawed/)
 - [Deploy Java Desktop apps as Native bundles for Windows, Mac, and Linux](https://www.reddit.com/r/java/comments/sqbz69/deploy_java_desktop_apps_as_native_bundles_for/)
-- [Origin of misconception for equals and hashcode implementation](https://www.reddit.com/r/java/comments/sq2yye/origin_of_misconception_for_equals_and_hashcode/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
