@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Java being Java.](https://www.reddit.com/r/java/comments/sr6vzi/java_being_java/)
 - [Virtual thread &lpar;along with Structured concurrency and Scope Local&rpar; is previewing in JDK19?](https://www.reddit.com/r/java/comments/sr5gpp/virtual_thread_along_with_structured_concurrency/)
 - [Hidden gems in Java 16 and Java 17, from Stream.mapMulti to HexFormat](https://www.reddit.com/r/java/comments/sr26bb/hidden_gems_in_java_16_and_java_17_from/)
+- [Java Programming Java EE, Microservices and Testing Bundle | eBook Bundle](https://www.reddit.com/r/java/comments/sqz6zb/java_programming_java_ee_microservices_and/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
