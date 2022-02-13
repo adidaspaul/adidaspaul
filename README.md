@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [GlassFish 6.2.5 released!](https://www.reddit.com/r/java/comments/srk55p/glassfish_625_released/)
-- [Virtual thread &lpar;along with Structured concurrency and Scope Local&rpar; is previewing in JDK19?](https://www.reddit.com/r/java/comments/sr5gpp/virtual_thread_along_with_structured_concurrency/)
-- [Hidden gems in Java 16 and Java 17, from Stream.mapMulti to HexFormat](https://www.reddit.com/r/java/comments/sr26bb/hidden_gems_in_java_16_and_java_17_from/)
+- [Hot reload SSL configuration for a server and http client](https://www.reddit.com/r/java/comments/srnl5k/hot_reload_ssl_configuration_for_a_server_and/)
+- [System Logger](https://www.reddit.com/r/java/comments/srnhsi/system_logger/)
+- [Type You An Actor Runtime For Greater Good! &lpar;with Java 17, records, switch expressions and JBang&rpar;](https://www.reddit.com/r/java/comments/srmma6/type_you_an_actor_runtime_for_greater_good_with/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
