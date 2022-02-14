@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Microhttp is an event-driven, single-threaded, zero-dependency web server with 500 LOC. Benchmarks on EC2 show 100,000+ requests per second and 50,000+ persistent connections.](https://www.reddit.com/r/java/comments/ssfe82/microhttp_is_an_eventdriven_singlethreaded/)
+- [Clarification of OpenJDK 8 end of life](https://www.reddit.com/r/java/comments/ssf228/clarification_of_openjdk_8_end_of_life/)
 - [How to do GC Log analysis?](https://www.reddit.com/r/java/comments/ss1eo3/how_to_do_gc_log_analysis/)
-- [Github action to download and install Oracle JDK and OpenJDK &lpar;including EA&rpar; builds.](https://www.reddit.com/r/java/comments/ss0y8u/github_action_to_download_and_install_oracle_jdk/)
-- [Hot reload SSL configuration for a server and http client](https://www.reddit.com/r/java/comments/srnl5k/hot_reload_ssl_configuration_for_a_server_and/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
