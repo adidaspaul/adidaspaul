@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [I&#39;ve implemented a C# nameof&lpar;&rpar; equivalent for Java](https://www.reddit.com/r/java/comments/ssmw1m/ive_implemented_a_c_nameof_equivalent_for_java/)
 - [Any ETA on Project Loom going GA?](https://www.reddit.com/r/java/comments/sslgkq/any_eta_on_project_loom_going_ga/)
 - [Microhttp is an event-driven, single-threaded, zero-dependency web server with 500 LOC. Benchmarks on EC2 show 100,000+ requests per second and 50,000+ persistent connections.](https://www.reddit.com/r/java/comments/ssfe82/microhttp_is_an_eventdriven_singlethreaded/)
-- [Clarification of OpenJDK 8 end of life](https://www.reddit.com/r/java/comments/ssf228/clarification_of_openjdk_8_end_of_life/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
