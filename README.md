@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Any ETA on Project Loom going GA?](https://www.reddit.com/r/java/comments/sslgkq/any_eta_on_project_loom_going_ga/)
 - [Microhttp is an event-driven, single-threaded, zero-dependency web server with 500 LOC. Benchmarks on EC2 show 100,000+ requests per second and 50,000+ persistent connections.](https://www.reddit.com/r/java/comments/ssfe82/microhttp_is_an_eventdriven_singlethreaded/)
 - [Clarification of OpenJDK 8 end of life](https://www.reddit.com/r/java/comments/ssf228/clarification_of_openjdk_8_end_of_life/)
-- [How to do GC Log analysis?](https://www.reddit.com/r/java/comments/ss1eo3/how_to_do_gc_log_analysis/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
