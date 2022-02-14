@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to do GC Log analysis?](https://www.reddit.com/r/java/comments/ss1eo3/how_to_do_gc_log_analysis/)
+- [Github action to download and install Oracle JDK and OpenJDK &lpar;including EA&rpar; builds.](https://www.reddit.com/r/java/comments/ss0y8u/github_action_to_download_and_install_oracle_jdk/)
 - [Hot reload SSL configuration for a server and http client](https://www.reddit.com/r/java/comments/srnl5k/hot_reload_ssl_configuration_for_a_server_and/)
-- [System Logger](https://www.reddit.com/r/java/comments/srnhsi/system_logger/)
-- [Type You An Actor Runtime For Greater Good! &lpar;with Java 17, records, switch expressions and JBang&rpar;](https://www.reddit.com/r/java/comments/srmma6/type_you_an_actor_runtime_for_greater_good_with/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
