@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [New loom EA builds with APIs for Structured Concurrency and Scope Locals into an incubator module.](https://www.reddit.com/r/java/comments/st4pnq/new_loom_ea_builds_with_apis_for_structured/)
 - [Extract Java classes information from AOT compiled binary file](https://www.reddit.com/r/java/comments/ssyvui/extract_java_classes_information_from_aot/)
 - [I&#39;ve implemented a C# nameof&lpar;&rpar; equivalent for Java](https://www.reddit.com/r/java/comments/ssmw1m/ive_implemented_a_c_nameof_equivalent_for_java/)
-- [Any ETA on Project Loom going GA?](https://www.reddit.com/r/java/comments/sslgkq/any_eta_on_project_loom_going_ga/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
