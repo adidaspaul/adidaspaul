@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [AM Coder - Make Flowcharts on Github with Mermaid/Markdown &lpar;Bonus: HackMD demo&rpar;](https://www.reddit.com/r/java/comments/ssttm6/am_coder_make_flowcharts_on_github_with/)
 - [I&#39;ve implemented a C# nameof&lpar;&rpar; equivalent for Java](https://www.reddit.com/r/java/comments/ssmw1m/ive_implemented_a_c_nameof_equivalent_for_java/)
 - [Any ETA on Project Loom going GA?](https://www.reddit.com/r/java/comments/sslgkq/any_eta_on_project_loom_going_ga/)
+- [Microhttp is an event-driven, single-threaded, zero-dependency web server with 500 LOC. Benchmarks on EC2 show 100,000+ requests per second and 50,000+ persistent connections.](https://www.reddit.com/r/java/comments/ssfe82/microhttp_is_an_eventdriven_singlethreaded/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
