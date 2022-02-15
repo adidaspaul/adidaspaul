@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [There will be a third preview of type patterns in switch [Brian]](https://www.reddit.com/r/java/comments/stao3q/there_will_be_a_third_preview_of_type_patterns_in/)
+- [Inevitable happened: Jini moves back to the bottle](https://www.reddit.com/r/java/comments/st9o5u/inevitable_happened_jini_moves_back_to_the_bottle/)
 - [Best way to prevent redundant null checks further down in stack?](https://www.reddit.com/r/java/comments/st5n89/best_way_to_prevent_redundant_null_checks_further/)
-- [New loom EA builds with APIs for Structured Concurrency and Scope Locals into an incubator module.](https://www.reddit.com/r/java/comments/st4pnq/new_loom_ea_builds_with_apis_for_structured/)
-- [Extract Java classes information from AOT compiled binary file](https://www.reddit.com/r/java/comments/ssyvui/extract_java_classes_information_from_aot/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
