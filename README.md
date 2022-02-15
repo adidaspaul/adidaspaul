@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [IntelliJ Plugin that generates Javadocs using AI](https://www.reddit.com/r/java/comments/stdb57/intellij_plugin_that_generates_javadocs_using_ai/)
 - [There will be a third preview of type patterns in switch [Brian]](https://www.reddit.com/r/java/comments/stao3q/there_will_be_a_third_preview_of_type_patterns_in/)
 - [Inevitable happened: Jini moves back to the bottle](https://www.reddit.com/r/java/comments/st9o5u/inevitable_happened_jini_moves_back_to_the_bottle/)
-- [Best way to prevent redundant null checks further down in stack?](https://www.reddit.com/r/java/comments/st5n89/best_way_to_prevent_redundant_null_checks_further/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
