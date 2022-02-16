@@ -65,8 +65,8 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Seeking suggestions for Automated Deployment strategies and tools.](https://www.reddit.com/r/java/comments/stztv1/seeking_suggestions_for_automated_deployment/)
-- [Quarkus Serverless. Parallel Streams in Java.](https://www.reddit.com/r/java/comments/stzs9k/quarkus_serverless_parallel_streams_in_java/)
 - [Java records &amp; compact constructors](https://www.reddit.com/r/java/comments/stte7o/java_records_compact_constructors/)
+- [A rough example of using Loom to develop NLP desktop applications using GPT3](https://www.reddit.com/r/java/comments/stjntc/a_rough_example_of_using_loom_to_develop_nlp/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
