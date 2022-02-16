@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Cookies and sessions](https://www.reddit.com/r/java/comments/stkea3/cookies_and_sessions/)
-- [Eclipse color theme broken &lpar;Mac&rpar;](https://www.reddit.com/r/java/comments/stk214/eclipse_color_theme_broken_mac/)
 - [A rough example of using Loom to develop NLP desktop applications using GPT3](https://www.reddit.com/r/java/comments/stjntc/a_rough_example_of_using_loom_to_develop_nlp/)
+- [Official project-info website link when searching with MVNRepository.](https://www.reddit.com/r/java/comments/sthi9z/official_projectinfo_website_link_when_searching/)
+- [IntelliJ Plugin that generates Javadocs using AI](https://www.reddit.com/r/java/comments/stdb57/intellij_plugin_that_generates_javadocs_using_ai/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
