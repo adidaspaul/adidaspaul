@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Java records &amp; compact constructors](https://www.reddit.com/r/java/comments/stte7o/java_records_compact_constructors/)
 - [A rough example of using Loom to develop NLP desktop applications using GPT3](https://www.reddit.com/r/java/comments/stjntc/a_rough_example_of_using_loom_to_develop_nlp/)
 - [Official project-info website link when searching with MVNRepository.](https://www.reddit.com/r/java/comments/sthi9z/official_projectinfo_website_link_when_searching/)
-- [IntelliJ Plugin that generates Javadocs using AI](https://www.reddit.com/r/java/comments/stdb57/intellij_plugin_that_generates_javadocs_using_ai/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
