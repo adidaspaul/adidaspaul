@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Marketing email about Java licensing? We are a .net shop with only 2 third party apps built on Java for part of our business. We get a patch from the vendor and apply it. That’s all our java patching. Anything I actually need to worry about?](https://www.reddit.com/r/java/comments/su7028/marketing_email_about_java_licensing_we_are_a_net/)
 - [Seeking suggestions for Automated Deployment strategies and tools.](https://www.reddit.com/r/java/comments/stztv1/seeking_suggestions_for_automated_deployment/)
 - [Java records &amp; compact constructors](https://www.reddit.com/r/java/comments/stte7o/java_records_compact_constructors/)
-- [A rough example of using Loom to develop NLP desktop applications using GPT3](https://www.reddit.com/r/java/comments/stjntc/a_rough_example_of_using_loom_to_develop_nlp/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
