@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [State of Pattern Matching with Brian Goetz](https://www.reddit.com/r/java/comments/sujanz/state_of_pattern_matching_with_brian_goetz/)
 - [JDK 18 - Card Table Card Size Shenanigans](https://www.reddit.com/r/java/comments/sugcvq/jdk_18_card_table_card_size_shenanigans/)
 - [Weld 4.0.3 and 3.1.9 released!](https://www.reddit.com/r/java/comments/suack7/weld_403_and_319_released/)
-- [Marketing email about Java licensing? We are a .net shop with only 2 third party apps built on Java for part of our business. We get a patch from the vendor and apply it. That’s all our java patching. Anything I actually need to worry about?](https://www.reddit.com/r/java/comments/su7028/marketing_email_about_java_licensing_we_are_a_net/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
