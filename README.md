@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Guys, Java&#39;s popularity is quite concerning](https://www.reddit.com/r/java/comments/sun23u/guys_javas_popularity_is_quite_concerning/)
 - [State of Pattern Matching with Brian Goetz](https://www.reddit.com/r/java/comments/sujanz/state_of_pattern_matching_with_brian_goetz/)
 - [JDK 18 - Card Table Card Size Shenanigans](https://www.reddit.com/r/java/comments/sugcvq/jdk_18_card_table_card_size_shenanigans/)
-- [Weld 4.0.3 and 3.1.9 released!](https://www.reddit.com/r/java/comments/suack7/weld_403_and_319_released/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
