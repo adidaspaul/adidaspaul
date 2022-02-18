@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Junit](https://www.reddit.com/r/java/comments/svan1z/junit/)
-- [Bluetooth Library Implementation in Java](https://www.reddit.com/r/java/comments/sv85yn/bluetooth_library_implementation_in_java/)
+- [Switching to Java with strong knowledge of C](https://www.reddit.com/r/java/comments/svcuuw/switching_to_java_with_strong_knowledge_of_c/)
 - [Eclipse Collections 11.0.0 Features New APIs and Functionality](https://www.reddit.com/r/java/comments/sv18x8/eclipse_collections_1100_features_new_apis_and/)
+- [Quarkus 2.7.1 Released - But Why Quarkus?](https://www.reddit.com/r/java/comments/suwlwv/quarkus_271_released_but_why_quarkus/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
