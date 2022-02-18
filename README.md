@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Need problem set!](https://www.reddit.com/r/java/comments/sv642a/need_problem_set/)
+- [Question about singleton classes](https://www.reddit.com/r/java/comments/sv5rce/question_about_singleton_classes/)
 - [Java SE 8 Certification.... how??](https://www.reddit.com/r/java/comments/sv4p7f/java_se_8_certification_how/)
-- [Eclipse Collections 11.0.0 Features New APIs and Functionality](https://www.reddit.com/r/java/comments/sv18x8/eclipse_collections_1100_features_new_apis_and/)
-- [Quarkus 2.7.1 Released - But Why Quarkus?](https://www.reddit.com/r/java/comments/suwlwv/quarkus_271_released_but_why_quarkus/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
