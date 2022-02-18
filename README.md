@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Running Elasticsearch 8.0 with Testcontainers](https://www.reddit.com/r/java/comments/svfz01/running_elasticsearch_80_with_testcontainers/)
 - [Eclipse Collections 11.0.0 Features New APIs and Functionality](https://www.reddit.com/r/java/comments/sv18x8/eclipse_collections_1100_features_new_apis_and/)
 - [Quarkus 2.7.1 Released - But Why Quarkus?](https://www.reddit.com/r/java/comments/suwlwv/quarkus_271_released_but_why_quarkus/)
-- [Piranha 22.2 released!](https://www.reddit.com/r/java/comments/supna9/piranha_222_released/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
