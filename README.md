@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [jLuaScript 1.3 - A Java/Lua bridge that allows you to use Java Objects directly in Lua scripts.](https://www.reddit.com/r/java/comments/svsocb/jluascript_13_a_javalua_bridge_that_allows_you_to/)
 - [JBang can now be used to make java one-liners](https://www.reddit.com/r/java/comments/svra2z/jbang_can_now_be_used_to_make_java_oneliners/)
 - [Telegram Bot API for Java](https://www.reddit.com/r/java/comments/svqmis/telegram_bot_api_for_java/)
-- [isnt this the java logo&lpar;this is in bulgarian&rpar;](https://www.reddit.com/r/java/comments/svk6gx/isnt_this_the_java_logothis_is_in_bulgarian/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
