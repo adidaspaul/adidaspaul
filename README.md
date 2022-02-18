@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [JBang can now be used to make java one-liners](https://www.reddit.com/r/java/comments/svra2z/jbang_can_now_be_used_to_make_java_oneliners/)
+- [Telegram Bot API for Java](https://www.reddit.com/r/java/comments/svqmis/telegram_bot_api_for_java/)
 - [isnt this the java logo&lpar;this is in bulgarian&rpar;](https://www.reddit.com/r/java/comments/svk6gx/isnt_this_the_java_logothis_is_in_bulgarian/)
-- [Running Elasticsearch 8.0 with Testcontainers](https://www.reddit.com/r/java/comments/svfz01/running_elasticsearch_80_with_testcontainers/)
-- [Java real-life conferences](https://www.reddit.com/r/java/comments/sve0cz/java_reallife_conferences/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
