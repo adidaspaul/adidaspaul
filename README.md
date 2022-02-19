@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Viewing Optional as a Replacement for Checked Exceptions](https://www.reddit.com/r/java/comments/swjqpb/viewing_optional_as_a_replacement_for_checked/)
 - [I&#39;ve been programming in Java for 20 years. What would be some advanced java projects?](https://www.reddit.com/r/java/comments/swi1aa/ive_been_programming_in_java_for_20_years_what/)
 - [jLuaScript 1.3 - A Java/Lua bridge that allows you to use Java Objects directly in Lua scripts.](https://www.reddit.com/r/java/comments/svsocb/jluascript_13_a_javalua_bridge_that_allows_you_to/)
-- [JBang can now be used to make java one-liners](https://www.reddit.com/r/java/comments/svra2z/jbang_can_now_be_used_to_make_java_oneliners/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
