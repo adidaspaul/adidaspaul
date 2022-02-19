@@ -65,8 +65,8 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [best way to learn Java give me a good book and youtuber to help me get started](https://www.reddit.com/r/java/comments/sw2ldz/best_way_to_learn_java_give_me_a_good_book_and/)
-- [Need help on Java](https://www.reddit.com/r/java/comments/sw0jp9/need_help_on_java/)
 - [jLuaScript 1.3 - A Java/Lua bridge that allows you to use Java Objects directly in Lua scripts.](https://www.reddit.com/r/java/comments/svsocb/jluascript_13_a_javalua_bridge_that_allows_you_to/)
+- [JBang can now be used to make java one-liners](https://www.reddit.com/r/java/comments/svra2z/jbang_can_now_be_used_to_make_java_oneliners/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
