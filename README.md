@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Java Question About Inheritance](https://www.reddit.com/r/java/comments/swvu3h/java_question_about_inheritance/)
-- [Having trouble opening the java control panel](https://www.reddit.com/r/java/comments/swulpt/having_trouble_opening_the_java_control_panel/)
-- [Client Library to Make HTTP Requests Look Like Regular Methods](https://www.reddit.com/r/java/comments/swpuwz/client_library_to_make_http_requests_look_like/)
+- [Viewing Optional as a Replacement for Checked Exceptions](https://www.reddit.com/r/java/comments/swjqpb/viewing_optional_as_a_replacement_for_checked/)
+- [I&#39;ve been programming in Java for 20 years. What would be some advanced java projects?](https://www.reddit.com/r/java/comments/swi1aa/ive_been_programming_in_java_for_20_years_what/)
+- [jLuaScript 1.3 - A Java/Lua bridge that allows you to use Java Objects directly in Lua scripts.](https://www.reddit.com/r/java/comments/svsocb/jluascript_13_a_javalua_bridge_that_allows_you_to/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
