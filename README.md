@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Java Question About Inheritance](https://www.reddit.com/r/java/comments/swvu3h/java_question_about_inheritance/)
 - [Having trouble opening the java control panel](https://www.reddit.com/r/java/comments/swulpt/having_trouble_opening_the_java_control_panel/)
 - [Client Library to Make HTTP Requests Look Like Regular Methods](https://www.reddit.com/r/java/comments/swpuwz/client_library_to_make_http_requests_look_like/)
-- [Text Adventure](https://www.reddit.com/r/java/comments/swojvt/text_adventure/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
