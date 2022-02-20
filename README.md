@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Client Library to Make HTTP Requests Look Like Regular Methods](https://www.reddit.com/r/java/comments/swpuwz/client_library_to_make_http_requests_look_like/)
 - [Text Adventure](https://www.reddit.com/r/java/comments/swojvt/text_adventure/)
 - [Viewing Optional as a Replacement for Checked Exceptions](https://www.reddit.com/r/java/comments/swjqpb/viewing_optional_as_a_replacement_for_checked/)
-- [I&#39;ve been programming in Java for 20 years. What would be some advanced java projects?](https://www.reddit.com/r/java/comments/swi1aa/ive_been_programming_in_java_for_20_years_what/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
