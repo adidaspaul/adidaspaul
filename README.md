@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Does something like this exist for Java?](https://www.reddit.com/r/java/comments/sx2v44/does_something_like_this_exist_for_java/)
 - [The elusive and beautiful Java Method Reference](https://www.reddit.com/r/java/comments/swxp19/the_elusive_and_beautiful_java_method_reference/)
 - [Viewing Optional as a Replacement for Checked Exceptions](https://www.reddit.com/r/java/comments/swjqpb/viewing_optional_as_a_replacement_for_checked/)
-- [jLuaScript 1.3 - A Java/Lua bridge that allows you to use Java Objects directly in Lua scripts.](https://www.reddit.com/r/java/comments/svsocb/jluascript_13_a_javalua_bridge_that_allows_you_to/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
