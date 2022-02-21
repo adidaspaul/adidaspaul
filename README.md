@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [I&#39;m attempting to install Java SE 17 however it says &quot;Another Java Installation is in progress&quot;.](https://www.reddit.com/r/java/comments/sy3aaw/im_attempting_to_install_java_se_17_however_it/)
+- [nio_uring: Java I/O library using io_uring under the hood. Just released, feedback welcome!](https://www.reddit.com/r/java/comments/sy1whh/nio_uring_java_io_library_using_io_uring_under/)
 - [Implementing a single class Java parser for semantic versioning with correct precedence ordering](https://www.reddit.com/r/java/comments/sy0oam/implementing_a_single_class_java_parser_for/)
-- [Running jmap and jstack on Java applications running on Kubernetes](https://www.reddit.com/r/java/comments/sxyzig/running_jmap_and_jstack_on_java_applications/)
-- [The JDK Flight Recorder File Format](https://www.reddit.com/r/java/comments/sxx4mm/the_jdk_flight_recorder_file_format/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
