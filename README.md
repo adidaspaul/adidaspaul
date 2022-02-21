@@ -64,7 +64,7 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [I&#39;m attempting to install Java SE 17 however it says &quot;Another Java Installation is in progress&quot;.](https://www.reddit.com/r/java/comments/sy3aaw/im_attempting_to_install_java_se_17_however_it/)
+- [Little debate regarding &quot;mastering java&quot; or learning Java.](https://www.reddit.com/r/java/comments/sy3owt/little_debate_regarding_mastering_java_or/)
 - [nio_uring: Java I/O library using io_uring under the hood. Just released, feedback welcome!](https://www.reddit.com/r/java/comments/sy1whh/nio_uring_java_io_library_using_io_uring_under/)
 - [Implementing a single class Java parser for semantic versioning with correct precedence ordering](https://www.reddit.com/r/java/comments/sy0oam/implementing_a_single_class_java_parser_for/)
 <!-- BLOG-POST-LIST:END -->
