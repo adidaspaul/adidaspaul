@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Running jmap and jstack on Java applications running on Kubernetes](https://www.reddit.com/r/java/comments/sxyzig/running_jmap_and_jstack_on_java_applications/)
 - [The JDK Flight Recorder File Format](https://www.reddit.com/r/java/comments/sxx4mm/the_jdk_flight_recorder_file_format/)
 - [The elusive and beautiful Java Method Reference](https://www.reddit.com/r/java/comments/swxp19/the_elusive_and_beautiful_java_method_reference/)
-- [Viewing Optional as a Replacement for Checked Exceptions](https://www.reddit.com/r/java/comments/swjqpb/viewing_optional_as_a_replacement_for_checked/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
