@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Which openjdk image to use for running CI container?](https://www.reddit.com/r/java/comments/sylmvv/which_openjdk_image_to_use_for_running_ci/)
 - [ControlsFX is an open source project for JavaFX that aims to provide really high quality UI controls](https://www.reddit.com/r/java/comments/sykqtr/controlsfx_is_an_open_source_project_for_javafx/)
 - [Little debate regarding &quot;mastering java&quot; or learning Java.](https://www.reddit.com/r/java/comments/sy3owt/little_debate_regarding_mastering_java_or/)
-- [nio_uring: Java I/O library using io_uring under the hood. Just released, feedback welcome!](https://www.reddit.com/r/java/comments/sy1whh/nio_uring_java_io_library_using_io_uring_under/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
