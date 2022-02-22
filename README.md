@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [A Matter of Interpretation: From Bytecodes to Machine Code in the JVM](https://www.reddit.com/r/java/comments/syyjae/a_matter_of_interpretation_from_bytecodes_to/)
 - [Leverage Java 17 New Features to Create Your Wordle Checker - JEP Café #10](https://www.reddit.com/r/java/comments/syr4lu/leverage_java_17_new_features_to_create_your/)
 - [What do you think about new features to work with checked exceptions?](https://www.reddit.com/r/java/comments/syo3x9/what_do_you_think_about_new_features_to_work_with/)
-- [Which openjdk image to use for running CI container?](https://www.reddit.com/r/java/comments/sylmvv/which_openjdk_image_to_use_for_running_ci/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
