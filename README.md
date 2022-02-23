@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Weld 5.0.0.CR1 released!](https://www.reddit.com/r/java/comments/szjkyz/weld_500cr1_released/)
+- [Multiple non-final fields vs one non-final field of immutable object](https://www.reddit.com/r/java/comments/szckad/multiple_nonfinal_fields_vs_one_nonfinal_field_of/)
 - [Java lambdas vs anonymous classes](https://www.reddit.com/r/java/comments/szc5lm/java_lambdas_vs_anonymous_classes/)
-- [A Matter of Interpretation: From Bytecodes to Machine Code in the JVM](https://www.reddit.com/r/java/comments/syyjae/a_matter_of_interpretation_from_bytecodes_to/)
-- [Leverage Java 17 New Features to Create Your Wordle Checker - JEP Café #10](https://www.reddit.com/r/java/comments/syr4lu/leverage_java_17_new_features_to_create_your/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
