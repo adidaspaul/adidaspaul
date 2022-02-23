@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [I need help understanding a Java question. I just can’t wrap my head around it. It has to do with “increments”. If something is a++ it means a + 1, but it there is an additional ++a in the formula, do we not add it the same way?](https://www.reddit.com/r/java/comments/sz4g80/i_need_help_understanding_a_java_question_i_just/)
 - [Basic programs to practice?](https://www.reddit.com/r/java/comments/sz2aap/basic_programs_to_practice/)
 - [Handling Mouse Click Events in Swing](https://www.reddit.com/r/java/comments/sz1c5k/handling_mouse_click_events_in_swing/)
-- [A Matter of Interpretation: From Bytecodes to Machine Code in the JVM](https://www.reddit.com/r/java/comments/syyjae/a_matter_of_interpretation_from_bytecodes_to/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
