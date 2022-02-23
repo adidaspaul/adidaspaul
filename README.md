@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Basic programs to practice?](https://www.reddit.com/r/java/comments/sz2aap/basic_programs_to_practice/)
 - [Handling Mouse Click Events in Swing](https://www.reddit.com/r/java/comments/sz1c5k/handling_mouse_click_events_in_swing/)
 - [A Matter of Interpretation: From Bytecodes to Machine Code in the JVM](https://www.reddit.com/r/java/comments/syyjae/a_matter_of_interpretation_from_bytecodes_to/)
-- [Leverage Java 17 New Features to Create Your Wordle Checker - JEP Café #10](https://www.reddit.com/r/java/comments/syr4lu/leverage_java_17_new_features_to_create_your/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
