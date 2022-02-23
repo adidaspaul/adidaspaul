@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Java naming facts](https://www.reddit.com/r/java/comments/szktlo/java_naming_facts/)
+- [Using Amazon Aurora Global Databases With Spring](https://www.reddit.com/r/java/comments/szkd1z/using_amazon_aurora_global_databases_with_spring/)
 - [Weld 5.0.0.CR1 released!](https://www.reddit.com/r/java/comments/szjkyz/weld_500cr1_released/)
-- [Multiple non-final fields vs one non-final field of immutable object](https://www.reddit.com/r/java/comments/szckad/multiple_nonfinal_fields_vs_one_nonfinal_field_of/)
-- [Java lambdas vs anonymous classes](https://www.reddit.com/r/java/comments/szc5lm/java_lambdas_vs_anonymous_classes/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
