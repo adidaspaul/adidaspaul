@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Open source Java projects](https://www.reddit.com/r/java/comments/t0o5ef/open_source_java_projects/)
 - [Practical intro into creating Virtual Threads with project Loom](https://www.reddit.com/r/java/comments/t0i1j5/practical_intro_into_creating_virtual_threads/)
 - [Integrating AWS Rekognition with Java for the use case of image content moderation.](https://www.reddit.com/r/java/comments/t0h5or/integrating_aws_rekognition_with_java_for_the_use/)
-- [Project Panama for Newbies &lpar;Part 4&rpar;](https://www.reddit.com/r/java/comments/t06iru/project_panama_for_newbies_part_4/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
