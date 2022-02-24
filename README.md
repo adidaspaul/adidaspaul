@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [I have to type numbers from 1-100, and i dont get a single thing, i do plan on learning but rn i just need the solution its late and i aint got no time.](https://www.reddit.com/r/java/comments/t0ik2h/i_have_to_type_numbers_from_1100_and_i_dont_get_a/)
 - [Practical intro into creating Virtual Threads with project Loom](https://www.reddit.com/r/java/comments/t0i1j5/practical_intro_into_creating_virtual_threads/)
 - [Integrating AWS Rekognition with Java for the use case of image content moderation.](https://www.reddit.com/r/java/comments/t0h5or/integrating_aws_rekognition_with_java_for_the_use/)
+- [Project Panama for Newbies &lpar;Part 4&rpar;](https://www.reddit.com/r/java/comments/t06iru/project_panama_for_newbies_part_4/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
