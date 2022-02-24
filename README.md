@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Will it be easier or more difficult to switch from C# to Java ?](https://www.reddit.com/r/java/comments/t03zii/will_it_be_easier_or_more_difficult_to_switch/)
 - [Jesus Christ, why is it so hard to reference-pass a primitive instead of value-pass?? Who thought this was a good idea???](https://www.reddit.com/r/java/comments/szyk9h/jesus_christ_why_is_it_so_hard_to_referencepass_a/)
 - [Using Amazon Aurora Global Databases With Spring](https://www.reddit.com/r/java/comments/szkd1z/using_amazon_aurora_global_databases_with_spring/)
-- [Weld 5.0.0.CR1 released!](https://www.reddit.com/r/java/comments/szjkyz/weld_500cr1_released/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
