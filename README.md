@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Jesus Christ, why is it so hard to reference-pass a primitive instead of value-pass?? Who thought this was a good idea???](https://www.reddit.com/r/java/comments/szyk9h/jesus_christ_why_is_it_so_hard_to_referencepass_a/)
 - [Using Amazon Aurora Global Databases With Spring](https://www.reddit.com/r/java/comments/szkd1z/using_amazon_aurora_global_databases_with_spring/)
 - [Weld 5.0.0.CR1 released!](https://www.reddit.com/r/java/comments/szjkyz/weld_500cr1_released/)
-- [Multiple non-final fields vs one non-final field of immutable object](https://www.reddit.com/r/java/comments/szckad/multiple_nonfinal_fields_vs_one_nonfinal_field_of/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
