@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Still seeing misuse of Optional..](https://www.reddit.com/r/java/comments/t1ev7h/still_seeing_misuse_of_optional/)
 - [Relevant Java Skills for advanced course](https://www.reddit.com/r/java/comments/t1cwld/relevant_java_skills_for_advanced_course/)
 - [Java Topics for an advanced course](https://www.reddit.com/r/java/comments/t1cu42/java_topics_for_an_advanced_course/)
-- [Best Functional Library for Java ? And do you recommend going for a functional style in Java?](https://www.reddit.com/r/java/comments/t1bkjp/best_functional_library_for_java_and_do_you/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
