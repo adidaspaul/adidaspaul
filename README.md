@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Eclipse 4.23 finally introduces stable sort order in Progress View](https://www.reddit.com/r/java/comments/t16dki/eclipse_423_finally_introduces_stable_sort_order/)
 - [GlassFish 7 milestone 2 released!](https://www.reddit.com/r/java/comments/t12cge/glassfish_7_milestone_2_released/)
 - [Open source Java projects](https://www.reddit.com/r/java/comments/t0o5ef/open_source_java_projects/)
-- [Practical intro into creating Virtual Threads with project Loom](https://www.reddit.com/r/java/comments/t0i1j5/practical_intro_into_creating_virtual_threads/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
