@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Best Functional Library for Java ? And do you recommend going for a functional style in Java?](https://www.reddit.com/r/java/comments/t1bkjp/best_functional_library_for_java_and_do_you/)
 - [Ta4j is an open source Java library for technical analysis](https://www.reddit.com/r/java/comments/t173nr/ta4j_is_an_open_source_java_library_for_technical/)
 - [Eclipse 4.23 finally introduces stable sort order in Progress View](https://www.reddit.com/r/java/comments/t16dki/eclipse_423_finally_introduces_stable_sort_order/)
-- [GlassFish 7 milestone 2 released!](https://www.reddit.com/r/java/comments/t12cge/glassfish_7_milestone_2_released/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
