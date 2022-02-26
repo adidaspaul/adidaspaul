@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Must have VSCode Extensions](https://www.reddit.com/r/java/comments/t1vruf/must_have_vscode_extensions/)
 - [Are there any fullstack, monolith website projects built on Spring Boot?](https://www.reddit.com/r/java/comments/t1som7/are_there_any_fullstack_monolith_website_projects/)
 - [jte 2](https://www.reddit.com/r/java/comments/t1qxnr/jte_2/)
+- [Still seeing misuse of Optional..](https://www.reddit.com/r/java/comments/t1ev7h/still_seeing_misuse_of_optional/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
