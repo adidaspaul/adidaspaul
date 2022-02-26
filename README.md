@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [jte 2](https://www.reddit.com/r/java/comments/t1qxnr/jte_2/)
 - [Why would I use java if I know wordpress](https://www.reddit.com/r/java/comments/t1lfnt/why_would_i_use_java_if_i_know_wordpress/)
 - [Still seeing misuse of Optional..](https://www.reddit.com/r/java/comments/t1ev7h/still_seeing_misuse_of_optional/)
-- [Relevant Java Skills for advanced course](https://www.reddit.com/r/java/comments/t1cwld/relevant_java_skills_for_advanced_course/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
