@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Spring Data JPA Repository unit tests.](https://www.reddit.com/r/java/comments/t286n6/spring_data_jpa_repository_unit_tests/)
 - [Java method signatures &quot;philosophical&quot; question](https://www.reddit.com/r/java/comments/t25ufd/java_method_signatures_philosophical_question/)
 - [Are there any fullstack, monolith website projects built on Spring Boot?](https://www.reddit.com/r/java/comments/t1som7/are_there_any_fullstack_monolith_website_projects/)
-- [jte 2](https://www.reddit.com/r/java/comments/t1qxnr/jte_2/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
