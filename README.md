@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Java method signatures &quot;philosophical&quot; question](https://www.reddit.com/r/java/comments/t25ufd/java_method_signatures_philosophical_question/)
 - [Are there any fullstack, monolith website projects built on Spring Boot?](https://www.reddit.com/r/java/comments/t1som7/are_there_any_fullstack_monolith_website_projects/)
 - [jte 2](https://www.reddit.com/r/java/comments/t1qxnr/jte_2/)
-- [Still seeing misuse of Optional..](https://www.reddit.com/r/java/comments/t1ev7h/still_seeing_misuse_of_optional/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
