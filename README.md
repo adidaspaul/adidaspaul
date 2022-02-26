@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Are there any fullstack, monolith website projects built on Spring Boot?](https://www.reddit.com/r/java/comments/t1som7/are_there_any_fullstack_monolith_website_projects/)
 - [jte 2](https://www.reddit.com/r/java/comments/t1qxnr/jte_2/)
 - [Why would I use java if I know wordpress](https://www.reddit.com/r/java/comments/t1lfnt/why_would_i_use_java_if_i_know_wordpress/)
-- [Still seeing misuse of Optional..](https://www.reddit.com/r/java/comments/t1ev7h/still_seeing_misuse_of_optional/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
