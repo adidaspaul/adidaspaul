@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [What do you think about the future of java ?](https://www.reddit.com/r/java/comments/t2qbs7/what_do_you_think_about_the_future_of_java/)
 - [Are the Oracle Java exams worth doing?](https://www.reddit.com/r/java/comments/t2kxye/are_the_oracle_java_exams_worth_doing/)
 - [Spring Data JPA Repository unit tests.](https://www.reddit.com/r/java/comments/t286n6/spring_data_jpa_repository_unit_tests/)
-- [Java method signatures &quot;philosophical&quot; question](https://www.reddit.com/r/java/comments/t25ufd/java_method_signatures_philosophical_question/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
