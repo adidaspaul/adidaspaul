@@ -66,7 +66,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [KoolKits: Opinionated, language-specific, batteries-included debug container images for Kubernetes](https://www.reddit.com/r/java/comments/t3a7oh/koolkits_opinionated_languagespecific/)
 - [AWS Transcribe integration with Java Spring-boot for Audio-to-text translation](https://www.reddit.com/r/java/comments/t2x0jw/aws_transcribe_integration_with_java_springboot/)
-- [Will I have an easier time using maven + vscode instead of gradle + vscode?](https://www.reddit.com/r/java/comments/t2w15g/will_i_have_an_easier_time_using_maven_vscode/)
+- [What do you think about the future of java ?](https://www.reddit.com/r/java/comments/t2qbs7/what_do_you_think_about_the_future_of_java/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
