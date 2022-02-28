@@ -64,7 +64,7 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Don&#39;t cast that spell. 😂😂](https://www.reddit.com/r/java/comments/t3k03t/dont_cast_that_spell/)
+- [Run .java GUI Swing application in dwm](https://www.reddit.com/r/java/comments/t3lw0h/run_java_gui_swing_application_in_dwm/)
 - [Oracle 1Z0-819 Java SE 11 Developer study guide](https://www.reddit.com/r/java/comments/t3hqbt/oracle_1z0819_java_se_11_developer_study_guide/)
 - [[Academic] - code review experiment - looking for participants](https://www.reddit.com/r/java/comments/t3gosj/academic_code_review_experiment_looking_for/)
 <!-- BLOG-POST-LIST:END -->
