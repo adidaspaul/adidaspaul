@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Don&#39;t cast that spell. 😂😂](https://www.reddit.com/r/java/comments/t3k03t/dont_cast_that_spell/)
 - [Oracle 1Z0-819 Java SE 11 Developer study guide](https://www.reddit.com/r/java/comments/t3hqbt/oracle_1z0819_java_se_11_developer_study_guide/)
 - [[Academic] - code review experiment - looking for participants](https://www.reddit.com/r/java/comments/t3gosj/academic_code_review_experiment_looking_for/)
-- [KoolKits: Opinionated, language-specific, batteries-included debug container images for Kubernetes](https://www.reddit.com/r/java/comments/t3a7oh/koolkits_opinionated_languagespecific/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
