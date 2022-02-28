@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Oracle 1Z0-819 Java SE 11 Developer study guide](https://www.reddit.com/r/java/comments/t3hqbt/oracle_1z0819_java_se_11_developer_study_guide/)
+- [[Academic] - code review experiment - looking for participants](https://www.reddit.com/r/java/comments/t3gosj/academic_code_review_experiment_looking_for/)
 - [KoolKits: Opinionated, language-specific, batteries-included debug container images for Kubernetes](https://www.reddit.com/r/java/comments/t3a7oh/koolkits_opinionated_languagespecific/)
-- [AWS Transcribe integration with Java Spring-boot for Audio-to-text translation](https://www.reddit.com/r/java/comments/t2x0jw/aws_transcribe_integration_with_java_springboot/)
-- [What do you think about the future of java ?](https://www.reddit.com/r/java/comments/t2qbs7/what_do_you_think_about_the_future_of_java/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
