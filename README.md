@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [JDK 18 and JDK 19: What We Know So Far](https://www.reddit.com/r/java/comments/t4ig68/jdk_18_and_jdk_19_what_we_know_so_far/)
 - [AWK in Java with JBang!](https://www.reddit.com/r/java/comments/t4f0s7/awk_in_java_with_jbang/)
 - [Consumers vs void methods?](https://www.reddit.com/r/java/comments/t4eodr/consumers_vs_void_methods/)
-- [Java on ARM - Theory, Applications, and Workloads – Dmitry Chuyko](https://www.reddit.com/r/java/comments/t46syt/java_on_arm_theory_applications_and_workloads/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
