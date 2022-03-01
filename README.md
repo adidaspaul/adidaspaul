@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [AWK in Java with JBang!](https://www.reddit.com/r/java/comments/t4f0s7/awk_in_java_with_jbang/)
+- [Consumers vs void methods?](https://www.reddit.com/r/java/comments/t4eodr/consumers_vs_void_methods/)
 - [Java on ARM - Theory, Applications, and Workloads – Dmitry Chuyko](https://www.reddit.com/r/java/comments/t46syt/java_on_arm_theory_applications_and_workloads/)
-- [Awesome Software Architecture: A curated list of useful resources about software architecture and design principles.](https://www.reddit.com/r/java/comments/t44lcy/awesome_software_architecture_a_curated_list_of/)
-- [Can tags assigned to objects by a native agent be accessed in the corresponding Java program ?](https://www.reddit.com/r/java/comments/t3xdxo/can_tags_assigned_to_objects_by_a_native_agent_be/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
