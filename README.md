@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [I&#39;m going to make my Java parallelism course freely available on you tube.](https://www.reddit.com/r/java/comments/t41jkk/im_going_to_make_my_java_parallelism_course/)
 - [Can tags assigned to objects by a native agent be accessed in the corresponding Java program ?](https://www.reddit.com/r/java/comments/t3xdxo/can_tags_assigned_to_objects_by_a_native_agent_be/)
 - [What&#39;s best practice for storing keys used for API access.](https://www.reddit.com/r/java/comments/t3tgjz/whats_best_practice_for_storing_keys_used_for_api/)
-- [Run .java GUI Swing application in dwm](https://www.reddit.com/r/java/comments/t3lw0h/run_java_gui_swing_application_in_dwm/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
