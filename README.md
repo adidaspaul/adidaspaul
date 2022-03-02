@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Looking for guidance with GATE](https://www.reddit.com/r/java/comments/t57xot/looking_for_guidance_with_gate/)
 - [The Decline and Fall of Java on the Desktop Part 1 &lpar;1999-2005&rpar;](https://www.reddit.com/r/java/comments/t56o2u/the_decline_and_fall_of_java_on_the_desktop_part/)
 - [What is the recommended service discovery server/client to use in 2022 with Spring Boot?](https://www.reddit.com/r/java/comments/t56aqm/what_is_the_recommended_service_discovery/)
-- [Is Java8 still free for commercial use? I haven&#39;t done any Java work in a long time. I was under the impression that lots of people were still using java8 because it was exempt from the commercial licensing of later versions. If you&#39;re paying for Java, is there any reason not to upgrade to 17?](https://www.reddit.com/r/java/comments/t55jcv/is_java8_still_free_for_commercial_use_i_havent/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
