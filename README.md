@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The Zephyr Dependency Graph](https://www.reddit.com/r/java/comments/t4mf29/the_zephyr_dependency_graph/)
 - [Interview with Senior Java Developer](https://www.reddit.com/r/java/comments/t4kg4k/interview_with_senior_java_developer/)
 - [JDK 18 and JDK 19: What We Know So Far](https://www.reddit.com/r/java/comments/t4ig68/jdk_18_and_jdk_19_what_we_know_so_far/)
-- [AWK in Java with JBang!](https://www.reddit.com/r/java/comments/t4f0s7/awk_in_java_with_jbang/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
