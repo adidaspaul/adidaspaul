@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [New candidate JEP 424: Foreign Function &amp; Memory API &lpar;Preview&rpar;](https://www.reddit.com/r/java/comments/t4opal/new_candidate_jep_424_foreign_function_memory_api/)
 - [The Zephyr Dependency Graph](https://www.reddit.com/r/java/comments/t4mf29/the_zephyr_dependency_graph/)
 - [Interview with Senior Java Developer](https://www.reddit.com/r/java/comments/t4kg4k/interview_with_senior_java_developer/)
-- [JDK 18 and JDK 19: What We Know So Far](https://www.reddit.com/r/java/comments/t4ig68/jdk_18_and_jdk_19_what_we_know_so_far/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
