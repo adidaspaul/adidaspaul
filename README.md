@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [What is the recommended service discovery server/client to use in 2022 with Spring Boot?](https://www.reddit.com/r/java/comments/t56aqm/what_is_the_recommended_service_discovery/)
+- [Is Java8 still free for commercial use? I haven&#39;t done any Java work in a long time. I was under the impression that lots of people were still using java8 because it was exempt from the commercial licensing of later versions. If you&#39;re paying for Java, is there any reason not to upgrade to 17?](https://www.reddit.com/r/java/comments/t55jcv/is_java8_still_free_for_commercial_use_i_havent/)
 - [How is the market for Java developers where you live?](https://www.reddit.com/r/java/comments/t51k9v/how_is_the_market_for_java_developers_where_you/)
-- [Feign client Rate Limiting using Resilience4J](https://www.reddit.com/r/java/comments/t4vtkr/feign_client_rate_limiting_using_resilience4j/)
-- [New candidate JEP 424: Foreign Function &amp; Memory API &lpar;Preview&rpar;](https://www.reddit.com/r/java/comments/t4opal/new_candidate_jep_424_foreign_function_memory_api/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
