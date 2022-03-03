@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Always set a Garbage Collector](https://www.reddit.com/r/java/comments/t5ja5p/always_set_a_garbage_collector/)
 - [Study: Developers spend over 2 days a week just waiting for other developers to review their code](https://www.reddit.com/r/java/comments/t5f6i7/study_developers_spend_over_2_days_a_week_just/)
 - [Looking for guidance with GATE](https://www.reddit.com/r/java/comments/t57xot/looking_for_guidance_with_gate/)
-- [The Decline and Fall of Java on the Desktop Part 1 &lpar;1999-2005&rpar;](https://www.reddit.com/r/java/comments/t56o2u/the_decline_and_fall_of_java_on_the_desktop_part/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
