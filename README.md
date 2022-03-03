@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Native Reference Guide &lpar;Quarkus GraalVM Native Image Advanced Debugging Techniques&rpar;](https://www.reddit.com/r/java/comments/t5oszz/native_reference_guide_quarkus_graalvm_native/)
 - [Always set a Garbage Collector](https://www.reddit.com/r/java/comments/t5ja5p/always_set_a_garbage_collector/)
 - [Study: Developers spend over 2 days a week just waiting for other developers to review their code](https://www.reddit.com/r/java/comments/t5f6i7/study_developers_spend_over_2_days_a_week_just/)
-- [Looking for guidance with GATE](https://www.reddit.com/r/java/comments/t57xot/looking_for_guidance_with_gate/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
