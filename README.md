@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Need help implementing a map to display flight arrivals](https://www.reddit.com/r/java/comments/t60yip/need_help_implementing_a_map_to_display_flight/)
 - [Transition from IT back to Development](https://www.reddit.com/r/java/comments/t5xc47/transition_from_it_back_to_development/)
 - [Visualizing Robots with JavaFX](https://www.reddit.com/r/java/comments/t5rbni/visualizing_robots_with_javafx/)
+- [Native Reference Guide &lpar;Quarkus GraalVM Native Image Advanced Debugging Techniques&rpar;](https://www.reddit.com/r/java/comments/t5oszz/native_reference_guide_quarkus_graalvm_native/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
