@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Rapidly develop CRUD apps &lpar;and Apache Isis experience?&rpar;](https://www.reddit.com/r/java/comments/t6fwuc/rapidly_develop_crud_apps_and_apache_isis/)
+- [Need Help! JAVA BACKEND](https://www.reddit.com/r/java/comments/t6fk2g/need_help_java_backend/)
 - [Conceptual question regarding JVMTI](https://www.reddit.com/r/java/comments/t6dx6f/conceptual_question_regarding_jvmti/)
-- [Telling the totality story [Brian Goetz on explaining how pattern matching will work]](https://www.reddit.com/r/java/comments/t65h3s/telling_the_totality_story_brian_goetz_on/)
-- [Transition from IT back to Development](https://www.reddit.com/r/java/comments/t5xc47/transition_from_it_back_to_development/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
