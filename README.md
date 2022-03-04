@@ -64,7 +64,7 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Delicious](https://www.reddit.com/r/java/comments/t64f5m/delicious/)
+- [Telling the totality story [Brian Goetz on explaining how pattern matching will work]](https://www.reddit.com/r/java/comments/t65h3s/telling_the_totality_story_brian_goetz_on/)
 - [Transition from IT back to Development](https://www.reddit.com/r/java/comments/t5xc47/transition_from_it_back_to_development/)
 - [Visualizing Robots with JavaFX](https://www.reddit.com/r/java/comments/t5rbni/visualizing_robots_with_javafx/)
 <!-- BLOG-POST-LIST:END -->
