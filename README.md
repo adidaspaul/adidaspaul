@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Rapidly develop CRUD apps &lpar;and Apache Isis experience?&rpar;](https://www.reddit.com/r/java/comments/t6fwuc/rapidly_develop_crud_apps_and_apache_isis/)
-- [Conceptual question regarding JVMTI](https://www.reddit.com/r/java/comments/t6dx6f/conceptual_question_regarding_jvmti/)
-- [Telling the totality story [Brian Goetz on explaining how pattern matching will work]](https://www.reddit.com/r/java/comments/t65h3s/telling_the_totality_story_brian_goetz_on/)
+- [Spring Constructor Injection: Why is it the recommended approach to Dependency Injection?](https://www.reddit.com/r/java/comments/t6rygb/spring_constructor_injection_why_is_it_the/)
+- [Apache NetBeans 13 released](https://www.reddit.com/r/java/comments/t6rn6d/apache_netbeans_13_released/)
+- [Apache NetBeans 13 released](https://www.reddit.com/r/java/comments/t6rl1w/apache_netbeans_13_released/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
