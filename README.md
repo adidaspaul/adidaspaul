@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [How to loop over attributes of an object.](https://www.reddit.com/r/java/comments/t7xh2p/how_to_loop_over_attributes_of_an_object/)
 - [What are the best books/tutorials to learn both software development philosophy/design/architecture and Java?](https://www.reddit.com/r/java/comments/t7vm74/what_are_the_best_bookstutorials_to_learn_both/)
 - [How does the Java community feel about Kotlin?](https://www.reddit.com/r/java/comments/t7c6ri/how_does_the_java_community_feel_about_kotlin/)
+- [How to test my code when writing for active webserver?](https://www.reddit.com/r/java/comments/t6zal5/how_to_test_my_code_when_writing_for_active/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
