@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [FAANG software engineer questions with Java, what should I expect?](https://www.reddit.com/r/java/comments/t83woj/faang_software_engineer_questions_with_java_what/)
 - [What is the best career path of becoming a successful Java software engineer?](https://www.reddit.com/r/java/comments/t8319n/what_is_the_best_career_path_of_becoming_a/)
 - [If you were starting a new Java + Kafka project from scratch, what would you use?](https://www.reddit.com/r/java/comments/t80ca7/if_you_were_starting_a_new_java_kafka_project/)
-- [What are the best books/tutorials to learn both software development philosophy/design/architecture and Java?](https://www.reddit.com/r/java/comments/t7vm74/what_are_the_best_bookstutorials_to_learn_both/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
