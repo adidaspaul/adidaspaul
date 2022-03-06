@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [If you were starting a new Java + Kafka project from scratch, what would you use?](https://www.reddit.com/r/java/comments/t80ca7/if_you_were_starting_a_new_java_kafka_project/)
 - [What are the best books/tutorials to learn both software development philosophy/design/architecture and Java?](https://www.reddit.com/r/java/comments/t7vm74/what_are_the_best_bookstutorials_to_learn_both/)
 - [How does the Java community feel about Kotlin?](https://www.reddit.com/r/java/comments/t7c6ri/how_does_the_java_community_feel_about_kotlin/)
-- [How to test my code when writing for active webserver?](https://www.reddit.com/r/java/comments/t6zal5/how_to_test_my_code_when_writing_for_active/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
