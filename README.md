@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Concurrency 3.0 for Jakarta EE 10 in Open Liberty 22 beta](https://www.reddit.com/r/java/comments/t8mn4r/concurrency_30_for_jakarta_ee_10_in_open_liberty/)
 - [Core java fundamentals book 11th vs 12th version](https://www.reddit.com/r/java/comments/t8lvbi/core_java_fundamentals_book_11th_vs_12th_version/)
 - [Interesting tips to improve with java optional](https://www.reddit.com/r/java/comments/t8jnaa/interesting_tips_to_improve_with_java_optional/)
-- [How to get process details? | jProcesses2](https://www.reddit.com/r/java/comments/t8bcgi/how_to_get_process_details_jprocesses2/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
