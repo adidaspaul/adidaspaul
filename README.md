@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to get process details? | jProcesses2](https://www.reddit.com/r/java/comments/t8bcgi/how_to_get_process_details_jprocesses2/)
 - [Alternatives to DTO](https://www.reddit.com/r/java/comments/t85jl2/alternatives_to_dto/)
 - [FAANG software engineer questions with Java, what should I expect?](https://www.reddit.com/r/java/comments/t83woj/faang_software_engineer_questions_with_java_what/)
-- [What is the best career path of becoming a successful Java software engineer?](https://www.reddit.com/r/java/comments/t8319n/what_is_the_best_career_path_of_becoming_a/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
