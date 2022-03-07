@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [On may 30, javamail will stop working with gmail](https://www.reddit.com/r/java/comments/t8s0z9/on_may_30_javamail_will_stop_working_with_gmail/)
 - [LogMasker - Log Masking library for Log4j and Logback](https://www.reddit.com/r/java/comments/t8qnsi/logmasker_log_masking_library_for_log4j_and/)
 - [Configuring Connection Pool with Spring R2DBC](https://www.reddit.com/r/java/comments/t8ovx8/configuring_connection_pool_with_spring_r2dbc/)
-- [Concurrency 3.0 for Jakarta EE 10 in Open Liberty 22 beta](https://www.reddit.com/r/java/comments/t8mn4r/concurrency_30_for_jakarta_ee_10_in_open_liberty/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
