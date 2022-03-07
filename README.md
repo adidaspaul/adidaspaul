@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Industry-standard frameworks for Java web development as of 2022?](https://www.reddit.com/r/java/comments/t8txb7/industrystandard_frameworks_for_java_web/)
 - [On may 30, javamail will stop working with gmail](https://www.reddit.com/r/java/comments/t8s0z9/on_may_30_javamail_will_stop_working_with_gmail/)
 - [LogMasker - Log Masking library for Log4j and Logback](https://www.reddit.com/r/java/comments/t8qnsi/logmasker_log_masking_library_for_log4j_and/)
-- [Configuring Connection Pool with Spring R2DBC](https://www.reddit.com/r/java/comments/t8ovx8/configuring_connection_pool_with_spring_r2dbc/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
