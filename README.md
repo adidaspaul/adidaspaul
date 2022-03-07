@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Core java fundamentals book 11th vs 12th version](https://www.reddit.com/r/java/comments/t8lvbi/core_java_fundamentals_book_11th_vs_12th_version/)
 - [Interesting tips to improve with java optional](https://www.reddit.com/r/java/comments/t8jnaa/interesting_tips_to_improve_with_java_optional/)
 - [How to get process details? | jProcesses2](https://www.reddit.com/r/java/comments/t8bcgi/how_to_get_process_details_jprocesses2/)
-- [Alternatives to DTO](https://www.reddit.com/r/java/comments/t85jl2/alternatives_to_dto/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
