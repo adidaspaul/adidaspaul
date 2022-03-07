@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [I created a full Spring GraphQL example project that generates efficient SQL queries](https://www.reddit.com/r/java/comments/t9081q/i_created_a_full_spring_graphql_example_project/)
 - [Lambda demo with common Java application frameworks](https://www.reddit.com/r/java/comments/t8wdtt/lambda_demo_with_common_java_application/)
 - [Inverno Framework performance benchmark](https://www.reddit.com/r/java/comments/t8ua7k/inverno_framework_performance_benchmark/)
-- [Industry-standard frameworks for Java web development as of 2022?](https://www.reddit.com/r/java/comments/t8txb7/industrystandard_frameworks_for_java_web/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
