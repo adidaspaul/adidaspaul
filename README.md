@@ -66,7 +66,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [How to get process details? | jProcesses2](https://www.reddit.com/r/java/comments/t8bcgi/how_to_get_process_details_jprocesses2/)
 - [Alternatives to DTO](https://www.reddit.com/r/java/comments/t85jl2/alternatives_to_dto/)
-- [FAANG software engineer questions with Java, what should I expect?](https://www.reddit.com/r/java/comments/t83woj/faang_software_engineer_questions_with_java_what/)
+- [If you were starting a new Java + Kafka project from scratch, what would you use?](https://www.reddit.com/r/java/comments/t80ca7/if_you_were_starting_a_new_java_kafka_project/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
