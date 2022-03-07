@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Lambda demo with common Java application frameworks](https://www.reddit.com/r/java/comments/t8wdtt/lambda_demo_with_common_java_application/)
 - [Inverno Framework performance benchmark](https://www.reddit.com/r/java/comments/t8ua7k/inverno_framework_performance_benchmark/)
 - [Industry-standard frameworks for Java web development as of 2022?](https://www.reddit.com/r/java/comments/t8txb7/industrystandard_frameworks_for_java_web/)
-- [On may 30, javamail will stop working with gmail](https://www.reddit.com/r/java/comments/t8s0z9/on_may_30_javamail_will_stop_working_with_gmail/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
