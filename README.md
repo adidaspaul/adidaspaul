@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Interesting tips to improve with java optional](https://www.reddit.com/r/java/comments/t8jnaa/interesting_tips_to_improve_with_java_optional/)
 - [How to get process details? | jProcesses2](https://www.reddit.com/r/java/comments/t8bcgi/how_to_get_process_details_jprocesses2/)
 - [Alternatives to DTO](https://www.reddit.com/r/java/comments/t85jl2/alternatives_to_dto/)
-- [If you were starting a new Java + Kafka project from scratch, what would you use?](https://www.reddit.com/r/java/comments/t80ca7/if_you_were_starting_a_new_java_kafka_project/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
