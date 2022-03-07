@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [LogMasker - Log Masking library for Log4j and Logback](https://www.reddit.com/r/java/comments/t8qnsi/logmasker_log_masking_library_for_log4j_and/)
 - [Configuring Connection Pool with Spring R2DBC](https://www.reddit.com/r/java/comments/t8ovx8/configuring_connection_pool_with_spring_r2dbc/)
 - [Concurrency 3.0 for Jakarta EE 10 in Open Liberty 22 beta](https://www.reddit.com/r/java/comments/t8mn4r/concurrency_30_for_jakarta_ee_10_in_open_liberty/)
-- [Core java fundamentals book 11th vs 12th version](https://www.reddit.com/r/java/comments/t8lvbi/core_java_fundamentals_book_11th_vs_12th_version/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
