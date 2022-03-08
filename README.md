@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Replacing JNI with Panama in the SQLite JDBC driver](https://www.reddit.com/r/java/comments/t93pc2/replacing_jni_with_panama_in_the_sqlite_jdbc/)
 - [I created a full Spring GraphQL example project that generates efficient SQL queries](https://www.reddit.com/r/java/comments/t9081q/i_created_a_full_spring_graphql_example_project/)
 - [Lambda demo with common Java application frameworks](https://www.reddit.com/r/java/comments/t8wdtt/lambda_demo_with_common_java_application/)
-- [Inverno Framework performance benchmark](https://www.reddit.com/r/java/comments/t8ua7k/inverno_framework_performance_benchmark/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
