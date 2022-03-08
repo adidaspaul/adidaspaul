@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Is Java job market saturated?](https://www.reddit.com/r/java/comments/t9n1dw/is_java_job_market_saturated/)
+- [I implemented Linked List in java , any suggestions for improvement?](https://www.reddit.com/r/java/comments/t9mwq1/i_implemented_linked_list_in_java_any_suggestions/)
 - [How we run database migrations with Flyway, jOOQ, and testcontainers](https://www.reddit.com/r/java/comments/t9krd1/how_we_run_database_migrations_with_flyway_jooq/)
-- [How to Setup a Jenkins Pipeline to Build Java Projects on OpenShift](https://www.reddit.com/r/java/comments/t9kl2e/how_to_setup_a_jenkins_pipeline_to_build_java/)
-- [Replacing JNI with Panama in the SQLite JDBC driver](https://www.reddit.com/r/java/comments/t93pc2/replacing_jni_with_panama_in_the_sqlite_jdbc/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
