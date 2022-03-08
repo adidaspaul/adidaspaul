@@ -64,7 +64,7 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [; missing, but when added it makes more issues than it resolves](https://www.reddit.com/r/java/comments/t9c0vk/missing_but_when_added_it_makes_more_issues_than/)
+- [Happy women&#39;s day](https://www.reddit.com/r/java/comments/t9cx3q/happy_womens_day/)
 - [Replacing JNI with Panama in the SQLite JDBC driver](https://www.reddit.com/r/java/comments/t93pc2/replacing_jni_with_panama_in_the_sqlite_jdbc/)
 - [I created a full Spring GraphQL example project that generates efficient SQL queries](https://www.reddit.com/r/java/comments/t9081q/i_created_a_full_spring_graphql_example_project/)
 <!-- BLOG-POST-LIST:END -->
