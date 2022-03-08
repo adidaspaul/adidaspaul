@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Inside Java class files: Understanding the constant pool](https://www.reddit.com/r/java/comments/t9ohpb/inside_java_class_files_understanding_the/)
 - [How we run database migrations with Flyway, jOOQ, and testcontainers](https://www.reddit.com/r/java/comments/t9krd1/how_we_run_database_migrations_with_flyway_jooq/)
 - [How to Setup a Jenkins Pipeline to Build Java Projects on OpenShift](https://www.reddit.com/r/java/comments/t9kl2e/how_to_setup_a_jenkins_pipeline_to_build_java/)
-- [Replacing JNI with Panama in the SQLite JDBC driver](https://www.reddit.com/r/java/comments/t93pc2/replacing_jni_with_panama_in_the_sqlite_jdbc/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
