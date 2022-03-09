@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Hey guys im currently learning java suggest me some begineer projects which i can make and post on github help me out guys 🥂](https://www.reddit.com/r/java/comments/tadtpv/hey_guys_im_currently_learning_java_suggest_me/)
 - [New Version of Java update from 10 JAVA 8 Update 271 build 09 to build. But showing in Chinese character in the description textbox.](https://www.reddit.com/r/java/comments/taannl/new_version_of_java_update_from_10_java_8_update/)
 - [Spring Native &lpar;GraalVM&rpar;: Anyone using it in real projects / production environment? What do you feel about it, does it have traps or is it OK? Will it lead to runtime error even if compile-time ok?](https://www.reddit.com/r/java/comments/ta1pck/spring_native_graalvm_anyone_using_it_in_real/)
-- [Inside Java class files: Understanding the constant pool](https://www.reddit.com/r/java/comments/t9ohpb/inside_java_class_files_understanding_the/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
