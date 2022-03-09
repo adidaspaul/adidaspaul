@@ -64,7 +64,7 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [I finally went ahead and bought myself a IntelliJ Ultimate License](https://www.reddit.com/r/java/comments/ta0eph/i_finally_went_ahead_and_bought_myself_a_intellij/)
+- [Spring Native &lpar;GraalVM&rpar;: Anyone using it in real projects / production environment? What do you feel about it, does it have traps or is it OK? Will it lead to runtime error even if compile-time ok?](https://www.reddit.com/r/java/comments/ta1pck/spring_native_graalvm_anyone_using_it_in_real/)
 - [3 ways to convert String to JSON object in Java? Examples](https://www.reddit.com/r/java/comments/t9zt13/3_ways_to_convert_string_to_json_object_in_java/)
 - [Inside Java class files: Understanding the constant pool](https://www.reddit.com/r/java/comments/t9ohpb/inside_java_class_files_understanding_the/)
 <!-- BLOG-POST-LIST:END -->
