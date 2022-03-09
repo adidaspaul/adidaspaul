@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Hey guys im currently learning java suggest me some begineer projects which i can make and post on github help me out guys 🥂](https://www.reddit.com/r/java/comments/tadtpv/hey_guys_im_currently_learning_java_suggest_me/)
-- [New Version of Java update from 10 JAVA 8 Update 271 build 09 to build. But showing in Chinese character in the description textbox.](https://www.reddit.com/r/java/comments/taannl/new_version_of_java_update_from_10_java_8_update/)
-- [Spring Native &lpar;GraalVM&rpar;: Anyone using it in real projects / production environment? What do you feel about it, does it have traps or is it OK? Will it lead to runtime error even if compile-time ok?](https://www.reddit.com/r/java/comments/ta1pck/spring_native_graalvm_anyone_using_it_in_real/)
+- [utt – Universal Text Transformer](https://www.reddit.com/r/java/comments/taf5lq/utt_universal_text_transformer/)
+- [The Decline and Fall of Java on the Desktop Part 2 &lpar;2004-2007&rpar;](https://www.reddit.com/r/java/comments/taegrk/the_decline_and_fall_of_java_on_the_desktop_part/)
+- [Zero Config Code Formatter?](https://www.reddit.com/r/java/comments/tae35x/zero_config_code_formatter/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
