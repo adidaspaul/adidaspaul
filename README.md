@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How long does it take to learn Java if you already know the basics of Programming?](https://www.reddit.com/r/java/comments/tafsc0/how_long_does_it_take_to_learn_java_if_you/)
 - [utt – Universal Text Transformer](https://www.reddit.com/r/java/comments/taf5lq/utt_universal_text_transformer/)
 - [The Decline and Fall of Java on the Desktop Part 2 &lpar;2004-2007&rpar;](https://www.reddit.com/r/java/comments/taegrk/the_decline_and_fall_of_java_on_the_desktop_part/)
-- [Zero Config Code Formatter?](https://www.reddit.com/r/java/comments/tae35x/zero_config_code_formatter/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
