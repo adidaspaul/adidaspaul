@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [What’s the best way to handle database connections when using micro-services? Considering that I have only 1 database instance. I don’t feel it’s good opening/closing a lot of connection to the same instance with more than 11 micro-services running](https://www.reddit.com/r/java/comments/ta8u5n/whats_the_best_way_to_handle_database_connections/)
 - [Spring Native &lpar;GraalVM&rpar;: Anyone using it in real projects / production environment? What do you feel about it, does it have traps or is it OK? Will it lead to runtime error even if compile-time ok?](https://www.reddit.com/r/java/comments/ta1pck/spring_native_graalvm_anyone_using_it_in_real/)
 - [Inside Java class files: Understanding the constant pool](https://www.reddit.com/r/java/comments/t9ohpb/inside_java_class_files_understanding_the/)
-- [How we run database migrations with Flyway, jOOQ, and testcontainers](https://www.reddit.com/r/java/comments/t9krd1/how_we_run_database_migrations_with_flyway_jooq/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
