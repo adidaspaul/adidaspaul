@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Garbage Collection tuning success story – reducing young gen size](https://www.reddit.com/r/java/comments/t9z160/garbage_collection_tuning_success_story_reducing/)
-- [Learn OOPS - S.O.L.I.D. design principles with JAVA code examples in a very simple and intuitive way &lpar;appreciate any feedback&rpar;](https://www.reddit.com/r/java/comments/t9yp3z/learn_oops_solid_design_principles_with_java_code/)
-- [Hey, IntelliJ, wtf is this? Yea, and btw the UI is frozen on a 32GB mbp](https://www.reddit.com/r/java/comments/t9tm15/hey_intellij_wtf_is_this_yea_and_btw_the_ui_is/)
+- [I finally went ahead and bought myself a IntelliJ Ultimate License](https://www.reddit.com/r/java/comments/ta0eph/i_finally_went_ahead_and_bought_myself_a_intellij/)
+- [3 ways to convert String to JSON object in Java? Examples](https://www.reddit.com/r/java/comments/t9zt13/3_ways_to_convert_string_to_json_object_in_java/)
+- [Inside Java class files: Understanding the constant pool](https://www.reddit.com/r/java/comments/t9ohpb/inside_java_class_files_understanding_the/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
