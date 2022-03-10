@@ -64,7 +64,7 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Lambda quirks](https://www.reddit.com/r/java/comments/tasddj/lambda_quirks/)
+- [Faster PDF to image library ?](https://www.reddit.com/r/java/comments/taz49b/faster_pdf_to_image_library/)
 - [utt – Universal Text Transformer](https://www.reddit.com/r/java/comments/taf5lq/utt_universal_text_transformer/)
 - [The Decline and Fall of Java on the Desktop Part 2 &lpar;2004-2007&rpar;](https://www.reddit.com/r/java/comments/taegrk/the_decline_and_fall_of_java_on_the_desktop_part/)
 <!-- BLOG-POST-LIST:END -->
