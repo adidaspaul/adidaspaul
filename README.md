@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Oracle Java](https://www.reddit.com/r/java/comments/talqpn/oracle_java/)
 - [utt – Universal Text Transformer](https://www.reddit.com/r/java/comments/taf5lq/utt_universal_text_transformer/)
 - [The Decline and Fall of Java on the Desktop Part 2 &lpar;2004-2007&rpar;](https://www.reddit.com/r/java/comments/taegrk/the_decline_and_fall_of_java_on_the_desktop_part/)
-- [Zero Config Code Formatter?](https://www.reddit.com/r/java/comments/tae35x/zero_config_code_formatter/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
