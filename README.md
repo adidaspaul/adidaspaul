@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Thread dump analysis tool](https://www.reddit.com/r/java/comments/tb4965/thread_dump_analysis_tool/)
-- [Project Loom: Understand the new Java concurrency model](https://www.reddit.com/r/java/comments/tb3fvx/project_loom_understand_the_new_java_concurrency/)
-- [Faster PDF to image library ?](https://www.reddit.com/r/java/comments/taz49b/faster_pdf_to_image_library/)
+- [I’m having a really hard time getting the code to compile the smallest Strings. Part of my homework is to run 4 tests thru the compiler and it returns which ever is string is smallest, either s1 or s2. It will only display the s2 results though when in one of the tests s1 should have compiled.](https://www.reddit.com/r/java/comments/tb6umw/im_having_a_really_hard_time_getting_the_code_to/)
+- [Is the old launcher of minecraft on the latest version of the game protected against log4 j](https://www.reddit.com/r/java/comments/tb6ij1/is_the_old_launcher_of_minecraft_on_the_latest/)
+- [All About JDK 18 - Inside Java Newscast #21](https://www.reddit.com/r/java/comments/tb6fs0/all_about_jdk_18_inside_java_newscast_21/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
