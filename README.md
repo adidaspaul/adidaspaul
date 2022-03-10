@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Thread dump analysis tool](https://www.reddit.com/r/java/comments/tb4965/thread_dump_analysis_tool/)
 - [Project Loom: Understand the new Java concurrency model](https://www.reddit.com/r/java/comments/tb3fvx/project_loom_understand_the_new_java_concurrency/)
 - [Faster PDF to image library ?](https://www.reddit.com/r/java/comments/taz49b/faster_pdf_to_image_library/)
-- [utt – Universal Text Transformer](https://www.reddit.com/r/java/comments/taf5lq/utt_universal_text_transformer/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
