@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Valhalla - Performance benefits](https://www.reddit.com/r/java/comments/tb9dgk/valhalla_performance_benefits/)
 - [All About JDK 18 - Inside Java Newscast #21](https://www.reddit.com/r/java/comments/tb6fs0/all_about_jdk_18_inside_java_newscast_21/)
 - [Thread dump analysis tool](https://www.reddit.com/r/java/comments/tb4965/thread_dump_analysis_tool/)
-- [Project Loom: Understand the new Java concurrency model](https://www.reddit.com/r/java/comments/tb3fvx/project_loom_understand_the_new_java_concurrency/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
