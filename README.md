@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [What are the best books I sould read to become a sought-after Java developer?](https://www.reddit.com/r/java/comments/tbt266/what_are_the_best_books_i_sould_read_to_become_a/)
 - [GUI builder 2022](https://www.reddit.com/r/java/comments/tbo80x/gui_builder_2022/)
 - [What docker base image are people using for JDK 17?](https://www.reddit.com/r/java/comments/tbiunm/what_docker_base_image_are_people_using_for_jdk_17/)
-- [Valhalla - Performance benefits](https://www.reddit.com/r/java/comments/tb9dgk/valhalla_performance_benefits/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
