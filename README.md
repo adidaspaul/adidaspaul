@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Java Servlets](https://www.reddit.com/r/java/comments/tbymqw/java_servlets/)
 - [JetBrains’ Statement on Ukraine](https://www.reddit.com/r/java/comments/tbu6rr/jetbrains_statement_on_ukraine/)
 - [Running apps as services: Is there a standard?](https://www.reddit.com/r/java/comments/tbu0tx/running_apps_as_services_is_there_a_standard/)
+- [GUI builder 2022](https://www.reddit.com/r/java/comments/tbo80x/gui_builder_2022/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
