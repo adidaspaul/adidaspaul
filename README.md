@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [JetBrains’ Statement on Ukraine](https://www.reddit.com/r/java/comments/tbu6rr/jetbrains_statement_on_ukraine/)
+- [Running apps as services: Is there a standard?](https://www.reddit.com/r/java/comments/tbu0tx/running_apps_as_services_is_there_a_standard/)
 - [What are the best books I sould read to become a sought-after Java developer?](https://www.reddit.com/r/java/comments/tbt266/what_are_the_best_books_i_sould_read_to_become_a/)
-- [GUI builder 2022](https://www.reddit.com/r/java/comments/tbo80x/gui_builder_2022/)
-- [What docker base image are people using for JDK 17?](https://www.reddit.com/r/java/comments/tbiunm/what_docker_base_image_are_people_using_for_jdk_17/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
