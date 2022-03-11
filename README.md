@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Java Servlets](https://www.reddit.com/r/java/comments/tbymqw/java_servlets/)
 - [JetBrains’ Statement on Ukraine](https://www.reddit.com/r/java/comments/tbu6rr/jetbrains_statement_on_ukraine/)
 - [Running apps as services: Is there a standard?](https://www.reddit.com/r/java/comments/tbu0tx/running_apps_as_services_is_there_a_standard/)
-- [What are the best books I sould read to become a sought-after Java developer?](https://www.reddit.com/r/java/comments/tbt266/what_are_the_best_books_i_sould_read_to_become_a/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
