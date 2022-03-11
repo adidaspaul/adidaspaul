@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [What docker base image are people using for JDK 17?](https://www.reddit.com/r/java/comments/tbiunm/what_docker_base_image_are_people_using_for_jdk_17/)
 - [Valhalla - Performance benefits](https://www.reddit.com/r/java/comments/tb9dgk/valhalla_performance_benefits/)
 - [All About JDK 18 - Inside Java Newscast #21](https://www.reddit.com/r/java/comments/tb6fs0/all_about_jdk_18_inside_java_newscast_21/)
-- [Thread dump analysis tool](https://www.reddit.com/r/java/comments/tb4965/thread_dump_analysis_tool/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
