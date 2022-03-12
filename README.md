@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Programming Languages Most in Demand Right Now &lpar;March, 2022&rpar;](https://www.reddit.com/r/java/comments/tcp1n7/programming_languages_most_in_demand_right_now/)
 - [I created a lightweight tensor/nd-array library with autograd &lpar;as in PyTorch&rpar;](https://www.reddit.com/r/java/comments/tcn247/i_created_a_lightweight_tensorndarray_library/)
 - [Google Java App Engine Standard is Now Open Source](https://www.reddit.com/r/java/comments/tckemk/google_java_app_engine_standard_is_now_open_source/)
-- [We created an open source to view API traffic for Kubernetes enabling you to view all API communication between microservices. Mizu open source Monitoring network traffic in real-time. Supported protocols: HTTP/1.1 &lpar;REST, etc.&rpar; HTTP/2 &lpar;gRPC&rpar; AMQP &lpar;RabbitMQ, Apache Qpid, etc.&rpar;](https://www.reddit.com/r/java/comments/tcjuvx/we_created_an_open_source_to_view_api_traffic_for/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
