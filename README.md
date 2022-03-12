@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [We created an open source to view API traffic for Kubernetes enabling you to view all API communication between microservices. Mizu open source Monitoring network traffic in real-time. Supported protocols: HTTP/1.1 &lpar;REST, etc.&rpar; HTTP/2 &lpar;gRPC&rpar; AMQP &lpar;RabbitMQ, Apache Qpid, etc.&rpar;](https://www.reddit.com/r/java/comments/tcjuvx/we_created_an_open_source_to_view_api_traffic_for/)
+- [Need Guidance: How to compile an application so it can run as application without Java IDE on another computer. &lpar;Example: ./runWatchFolders &rpar;](https://www.reddit.com/r/java/comments/tcjp0b/need_guidance_how_to_compile_an_application_so_it/)
 - [JavaFX 18 Release Notes &lpar;under review&rpar;](https://www.reddit.com/r/java/comments/tcfq3o/javafx_18_release_notes_under_review/)
-- [Shall we say dependency injection example as TV remote needing batteries?](https://www.reddit.com/r/java/comments/tccwri/shall_we_say_dependency_injection_example_as_tv/)
-- [9 High-Performance Tips when accessing PostgreSQL from Java!](https://www.reddit.com/r/java/comments/tcasmg/9_highperformance_tips_when_accessing_postgresql/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
