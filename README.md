@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Looking for MacBook Recommendation](https://www.reddit.com/r/java/comments/tcg9f6/looking_for_macbook_recommendation/)
+- [JavaFX 18 Release Notes &lpar;under review&rpar;](https://www.reddit.com/r/java/comments/tcfq3o/javafx_18_release_notes_under_review/)
 - [Shall we say dependency injection example as TV remote needing batteries?](https://www.reddit.com/r/java/comments/tccwri/shall_we_say_dependency_injection_example_as_tv/)
-- [9 High-Performance Tips when accessing PostgreSQL from Java!](https://www.reddit.com/r/java/comments/tcasmg/9_highperformance_tips_when_accessing_postgresql/)
-- [Expected knowledge for a junior developer](https://www.reddit.com/r/java/comments/tc3xun/expected_knowledge_for_a_junior_developer/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
