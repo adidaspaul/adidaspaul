@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Expected knowledge for a junior developer](https://www.reddit.com/r/java/comments/tc3xun/expected_knowledge_for_a_junior_developer/)
+- [[META] Why lock the Jetbrains + Ukraine thread?](https://www.reddit.com/r/java/comments/tc3thn/meta_why_lock_the_jetbrains_ukraine_thread/)
 - [jsmud-analysis 0.6.0 - analyze bytecode execution or debug without JVM&#39;s agent](https://www.reddit.com/r/java/comments/tc0s8l/jsmudanalysis_060_analyze_bytecode_execution_or/)
-- [JetBrains’ Statement on Ukraine](https://www.reddit.com/r/java/comments/tbu6rr/jetbrains_statement_on_ukraine/)
-- [Running apps as services: Is there a standard?](https://www.reddit.com/r/java/comments/tbu0tx/running_apps_as_services_is_there_a_standard/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
