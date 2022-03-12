@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Building a Java app on Heroku? Try a PostgreSQL add-on that takes security seriously](https://www.reddit.com/r/java/comments/tc6lmc/building_a_java_app_on_heroku_try_a_postgresql/)
 - [Expected knowledge for a junior developer](https://www.reddit.com/r/java/comments/tc3xun/expected_knowledge_for_a_junior_developer/)
 - [[META] Why lock the Jetbrains + Ukraine thread?](https://www.reddit.com/r/java/comments/tc3thn/meta_why_lock_the_jetbrains_ukraine_thread/)
-- [jsmud-analysis 0.6.0 - analyze bytecode execution or debug without JVM&#39;s agent](https://www.reddit.com/r/java/comments/tc0s8l/jsmudanalysis_060_analyze_bytecode_execution_or/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
