@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Java noob here. So could someone please explain to me what I did wrong here?](https://www.reddit.com/r/java/comments/tcbfea/java_noob_here_so_could_someone_please_explain_to/)
 - [9 High-Performance Tips when accessing PostgreSQL from Java!](https://www.reddit.com/r/java/comments/tcasmg/9_highperformance_tips_when_accessing_postgresql/)
 - [Expected knowledge for a junior developer](https://www.reddit.com/r/java/comments/tc3xun/expected_knowledge_for_a_junior_developer/)
-- [[META] Why lock the Jetbrains + Ukraine thread?](https://www.reddit.com/r/java/comments/tc3thn/meta_why_lock_the_jetbrains_ukraine_thread/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
