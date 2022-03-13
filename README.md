@@ -66,7 +66,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [Lessons learned from previous projects](https://www.reddit.com/r/java/comments/tdanyr/lessons_learned_from_previous_projects/)
 - [An OpenAPI/Swagger schema merger](https://www.reddit.com/r/java/comments/tdacv9/an_openapiswagger_schema_merger/)
-- [How to store java.time LocalDate, LocalDateTime and Instant in a BD &lpar;via hibernate&rpar;?](https://www.reddit.com/r/java/comments/td8e47/how_to_store_javatime_localdate_localdatetime_and/)
+- [looking to build my portfolio](https://www.reddit.com/r/java/comments/td6k5d/looking_to_build_my_portfolio/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
