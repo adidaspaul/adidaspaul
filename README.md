@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Lessons learned from previous projects](https://www.reddit.com/r/java/comments/tdanyr/lessons_learned_from_previous_projects/)
 - [An OpenAPI/Swagger schema merger](https://www.reddit.com/r/java/comments/tdacv9/an_openapiswagger_schema_merger/)
-- [looking to build my portfolio](https://www.reddit.com/r/java/comments/td6k5d/looking_to_build_my_portfolio/)
+- [Is Java a good language to enter software engineering?](https://www.reddit.com/r/java/comments/td6ee9/is_java_a_good_language_to_enter_software/)
+- [Evaluating Range Predicates over Java collections](https://www.reddit.com/r/java/comments/td376c/evaluating_range_predicates_over_java_collections/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
