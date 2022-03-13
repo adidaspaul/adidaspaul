@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Evaluating Range Predicates over Java collections](https://www.reddit.com/r/java/comments/td376c/evaluating_range_predicates_over_java_collections/)
 - [A library for decoding Ethereum blockchain data on Apache Spark](https://www.reddit.com/r/java/comments/tcxrpz/a_library_for_decoding_ethereum_blockchain_data/)
 - [HTML Parsers benchmark](https://www.reddit.com/r/java/comments/tcw9wt/html_parsers_benchmark/)
-- [I created a lightweight tensor/nd-array library with autograd &lpar;as in PyTorch&rpar;](https://www.reddit.com/r/java/comments/tcn247/i_created_a_lightweight_tensorndarray_library/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
