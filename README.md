@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [This is my very first Java program, is the start of an adventure.](https://www.reddit.com/r/java/comments/tcu8mg/this_is_my_very_first_java_program_is_the_start/)
 - [Programming Languages Most in Demand Right Now &lpar;March, 2022&rpar;](https://www.reddit.com/r/java/comments/tcp1n7/programming_languages_most_in_demand_right_now/)
 - [I created a lightweight tensor/nd-array library with autograd &lpar;as in PyTorch&rpar;](https://www.reddit.com/r/java/comments/tcn247/i_created_a_lightweight_tensorndarray_library/)
-- [Google Java App Engine Standard is Now Open Source](https://www.reddit.com/r/java/comments/tckemk/google_java_app_engine_standard_is_now_open_source/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
