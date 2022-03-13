@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [looking to build my portfolio](https://www.reddit.com/r/java/comments/td6k5d/looking_to_build_my_portfolio/)
+- [Is Java a good language to enter software engineering?](https://www.reddit.com/r/java/comments/td6ee9/is_java_a_good_language_to_enter_software/)
 - [Evaluating Range Predicates over Java collections](https://www.reddit.com/r/java/comments/td376c/evaluating_range_predicates_over_java_collections/)
-- [A library for decoding Ethereum blockchain data on Apache Spark](https://www.reddit.com/r/java/comments/tcxrpz/a_library_for_decoding_ethereum_blockchain_data/)
-- [HTML Parsers benchmark](https://www.reddit.com/r/java/comments/tcw9wt/html_parsers_benchmark/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
