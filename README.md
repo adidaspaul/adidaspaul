@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [I currently learn Java and in the exam I get asked this kind of Questions I have tried copying pasting into the online IDE but it doesn&#39;t work it gives error. Can anyone please explain to me ways to get the output of such codes](https://www.reddit.com/r/java/comments/tdxd67/i_currently_learn_java_and_in_the_exam_i_get/)
 - [Anyone using the Alpine Musl JDK builds in production?](https://www.reddit.com/r/java/comments/tdlvbk/anyone_using_the_alpine_musl_jdk_builds_in/)
 - [Why does Java get labeled as old, even when compared to Python and JavaScript?](https://www.reddit.com/r/java/comments/tdkqd4/why_does_java_get_labeled_as_old_even_when/)
-- [An OpenAPI/Swagger schema merger](https://www.reddit.com/r/java/comments/tdacv9/an_openapiswagger_schema_merger/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
