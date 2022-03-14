@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Why does Java get labeled as old, even when compared to Python and JavaScript?](https://www.reddit.com/r/java/comments/tdkqd4/why_does_java_get_labeled_as_old_even_when/)
+- [Nitro Client a java based minecraft client](https://www.reddit.com/r/java/comments/tdkfk5/nitro_client_a_java_based_minecraft_client/)
 - [An OpenAPI/Swagger schema merger](https://www.reddit.com/r/java/comments/tdacv9/an_openapiswagger_schema_merger/)
-- [Is Java a good language to enter software engineering?](https://www.reddit.com/r/java/comments/td6ee9/is_java_a_good_language_to_enter_software/)
-- [Evaluating Range Predicates over Java collections](https://www.reddit.com/r/java/comments/td376c/evaluating_range_predicates_over_java_collections/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
