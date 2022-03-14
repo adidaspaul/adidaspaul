@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Analyzing AWS Lambda and GraalVM](https://www.reddit.com/r/java/comments/te11jx/analyzing_aws_lambda_and_graalvm/)
 - [Introducing the `oracle-actions/setup-java` GitHub action](https://www.reddit.com/r/java/comments/tdy6lt/introducing_the_oracleactionssetupjava_github/)
 - [Anyone using the Alpine Musl JDK builds in production?](https://www.reddit.com/r/java/comments/tdlvbk/anyone_using_the_alpine_musl_jdk_builds_in/)
-- [Why does Java get labeled as old, even when compared to Python and JavaScript?](https://www.reddit.com/r/java/comments/tdkqd4/why_does_java_get_labeled_as_old_even_when/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
