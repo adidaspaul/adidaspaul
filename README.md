@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Options for high level front-end frameworks for Java developers](https://www.reddit.com/r/java/comments/ten43t/options_for_high_level_frontend_frameworks_for/)
-- [Debugging Race Conditions in Production](https://www.reddit.com/r/java/comments/tekpbp/debugging_race_conditions_in_production/)
-- [Azul&#39;s Cloud Native Compiler - Why Share The JIT Compiler?](https://www.reddit.com/r/java/comments/te4gqy/azuls_cloud_native_compiler_why_share_the_jit/)
+- [Is Learning Java at 31 for a future career a viable choice?](https://www.reddit.com/r/java/comments/tf1vxw/is_learning_java_at_31_for_a_future_career_a/)
+- [Hi! What do you guys think?](https://www.reddit.com/r/java/comments/tf1b0f/hi_what_do_you_guys_think/)
+- [ElasticCC platform - Part 2 - Using the new Elasticsearch Java Client](https://www.reddit.com/r/java/comments/tf15fq/elasticcc_platform_part_2_using_the_new/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
