@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Is therer a good Java IDE to use on Android?](https://www.reddit.com/r/java/comments/tenn48/is_therer_a_good_java_ide_to_use_on_android/)
+- [Options for high level front-end frameworks for Java developers](https://www.reddit.com/r/java/comments/ten43t/options_for_high_level_frontend_frameworks_for/)
 - [Debugging Race Conditions in Production](https://www.reddit.com/r/java/comments/tekpbp/debugging_race_conditions_in_production/)
-- [Azul&#39;s Cloud Native Compiler - Why Share The JIT Compiler?](https://www.reddit.com/r/java/comments/te4gqy/azuls_cloud_native_compiler_why_share_the_jit/)
-- [Analyzing AWS Lambda and GraalVM](https://www.reddit.com/r/java/comments/te11jx/analyzing_aws_lambda_and_graalvm/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
