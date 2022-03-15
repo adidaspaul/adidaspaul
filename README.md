@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Debugging Race Conditions in Production](https://www.reddit.com/r/java/comments/tekpbp/debugging_race_conditions_in_production/)
 - [Azul&#39;s Cloud Native Compiler - Why Share The JIT Compiler?](https://www.reddit.com/r/java/comments/te4gqy/azuls_cloud_native_compiler_why_share_the_jit/)
 - [Analyzing AWS Lambda and GraalVM](https://www.reddit.com/r/java/comments/te11jx/analyzing_aws_lambda_and_graalvm/)
-- [Introducing the `oracle-actions/setup-java` GitHub action](https://www.reddit.com/r/java/comments/tdy6lt/introducing_the_oracleactionssetupjava_github/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
