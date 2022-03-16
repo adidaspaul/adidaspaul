@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Eclipse 4.23.2022-03 released!](https://www.reddit.com/r/java/comments/tfirqd/eclipse_423202203_released/)
 - [Eclipse Theia is the next generation Eclipse RCP?! - EclipseSource](https://www.reddit.com/r/java/comments/tfecv3/eclipse_theia_is_the_next_generation_eclipse_rcp/)
 - [EclipseLink static weaving with Gradle](https://www.reddit.com/r/java/comments/tfcomr/eclipselink_static_weaving_with_gradle/)
-- [G1/Parallel/Serial GC improvements in JDK 18](https://www.reddit.com/r/java/comments/tfciwe/g1parallelserial_gc_improvements_in_jdk_18/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
