@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Trying something a little more 2022](https://www.reddit.com/r/java/comments/tf65um/trying_something_a_little_more_2022/)
+- [Dynamic UIs and Feature-Flags with Zephyr and Aire](https://www.reddit.com/r/java/comments/tf5vsp/dynamic_uis_and_featureflags_with_zephyr_and_aire/)
 - [IKVM.NET now have Multithreaded Dynamic Compilation](https://www.reddit.com/r/java/comments/tf5bl2/ikvmnet_now_have_multithreaded_dynamic_compilation/)
-- [Is Learning Java at 31 for a future career a viable choice?](https://www.reddit.com/r/java/comments/tf1vxw/is_learning_java_at_31_for_a_future_career_a/)
-- [Hi! What do you guys think?](https://www.reddit.com/r/java/comments/tf1b0f/hi_what_do_you_guys_think/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
