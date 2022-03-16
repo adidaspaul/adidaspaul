@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [EclipseLink static weaving with Gradle](https://www.reddit.com/r/java/comments/tfcomr/eclipselink_static_weaving_with_gradle/)
+- [G1/Parallel/Serial GC improvements in JDK 18](https://www.reddit.com/r/java/comments/tfciwe/g1parallelserial_gc_improvements_in_jdk_18/)
 - [Dynamic UIs and Feature-Flags with Zephyr and Aire](https://www.reddit.com/r/java/comments/tf5vsp/dynamic_uis_and_featureflags_with_zephyr_and_aire/)
-- [IKVM.NET now have Multithreaded Dynamic Compilation](https://www.reddit.com/r/java/comments/tf5bl2/ikvmnet_now_have_multithreaded_dynamic_compilation/)
-- [Is Learning Java at 31 for a future career a viable choice?](https://www.reddit.com/r/java/comments/tf1vxw/is_learning_java_at_31_for_a_future_career_a/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
