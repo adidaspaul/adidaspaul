@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [IKVM.NET now have Multithreaded Dynamic Compilation](https://www.reddit.com/r/java/comments/tf5bl2/ikvmnet_now_have_multithreaded_dynamic_compilation/)
 - [Is Learning Java at 31 for a future career a viable choice?](https://www.reddit.com/r/java/comments/tf1vxw/is_learning_java_at_31_for_a_future_career_a/)
 - [Hi! What do you guys think?](https://www.reddit.com/r/java/comments/tf1b0f/hi_what_do_you_guys_think/)
-- [ElasticCC platform - Part 2 - Using the new Elasticsearch Java Client](https://www.reddit.com/r/java/comments/tf15fq/elasticcc_platform_part_2_using_the_new/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
