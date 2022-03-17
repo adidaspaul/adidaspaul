@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [JRebel Java Development Trends and Analysis 2022](https://www.reddit.com/r/java/comments/tg5qlp/jrebel_java_development_trends_and_analysis_2022/)
 - [Making GraalVM-Based Executables Easy &lpar;Liberica NIK&rpar;](https://www.reddit.com/r/java/comments/tg4pfq/making_graalvmbased_executables_easy_liberica_nik/)
 - [7 Most Crucial IntelliJ IDEA Keyboard Shortcuts You Should Know by Heart](https://www.reddit.com/r/java/comments/tg4gsk/7_most_crucial_intellij_idea_keyboard_shortcuts/)
-- [Eclipse 4.23.2022-03 released!](https://www.reddit.com/r/java/comments/tfirqd/eclipse_423202203_released/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
