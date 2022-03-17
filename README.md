@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Having fun with OpenAI api&#39;s new insertion capabilities](https://www.reddit.com/r/java/comments/tghx5d/having_fun_with_openai_apis_new_insertion/)
 - [Are java modules a must know ?](https://www.reddit.com/r/java/comments/tggwdi/are_java_modules_a_must_know/)
 - [Eclipse 2022-03 Java IDE Improvements](https://www.reddit.com/r/java/comments/tggq5d/eclipse_202203_java_ide_improvements/)
-- [Record Patterns Officially Planned as Preview Feature for JDK 19](https://www.reddit.com/r/java/comments/tgdl7y/record_patterns_officially_planned_as_preview/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
