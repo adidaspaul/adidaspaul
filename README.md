@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Are java modules a must know ?](https://www.reddit.com/r/java/comments/tggwdi/are_java_modules_a_must_know/)
+- [Eclipse 2022-03 Java IDE Improvements](https://www.reddit.com/r/java/comments/tggq5d/eclipse_202203_java_ide_improvements/)
 - [Record Patterns Officially Planned as Preview Feature for JDK 19](https://www.reddit.com/r/java/comments/tgdl7y/record_patterns_officially_planned_as_preview/)
-- [Localization in Java by ResourceBundle Library](https://www.reddit.com/r/java/comments/tgcyzs/localization_in_java_by_resourcebundle_library/)
-- [Retrying SQL operations in transaction recovery logs and more in Open Liberty 22.0.0.3](https://www.reddit.com/r/java/comments/tgbfto/retrying_sql_operations_in_transaction_recovery/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
