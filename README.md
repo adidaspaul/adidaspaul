@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [The Golden Age of Java on the Mac](https://www.reddit.com/r/java/comments/tg7wws/the_golden_age_of_java_on_the_mac/)
-- [JRebel Java Development Trends and Analysis 2022](https://www.reddit.com/r/java/comments/tg5qlp/jrebel_java_development_trends_and_analysis_2022/)
-- [Making GraalVM-Based Executables Easy &lpar;Liberica NIK&rpar;](https://www.reddit.com/r/java/comments/tg4pfq/making_graalvmbased_executables_easy_liberica_nik/)
+- [Record Patterns Officially Planned as Preview Feature for JDK 19](https://www.reddit.com/r/java/comments/tgdl7y/record_patterns_officially_planned_as_preview/)
+- [Localization in Java by ResourceBundle Library](https://www.reddit.com/r/java/comments/tgcyzs/localization_in_java_by_resourcebundle_library/)
+- [Retrying SQL operations in transaction recovery logs and more in Open Liberty 22.0.0.3](https://www.reddit.com/r/java/comments/tgbfto/retrying_sql_operations_in_transaction_recovery/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
