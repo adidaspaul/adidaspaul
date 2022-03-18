@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [JDK-8058778: New APIs for creating certificates and certificate requests](https://www.reddit.com/r/java/comments/th3lie/jdk8058778_new_apis_for_creating_certificates_and/)
 - [Initialize jenv only if inside a java project folder](https://www.reddit.com/r/java/comments/th1nhh/initialize_jenv_only_if_inside_a_java_project/)
 - [JDKMon 17.0.23 Released](https://www.reddit.com/r/java/comments/tgxe3v/jdkmon_17023_released/)
-- [How did you adopt to new releases?](https://www.reddit.com/r/java/comments/tgvvc5/how_did_you_adopt_to_new_releases/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
