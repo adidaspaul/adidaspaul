@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Helidon 3.0.0 Milestone 1 has been released!](https://www.reddit.com/r/java/comments/thapmv/helidon_300_milestone_1_has_been_released/)
 - [Helidon 3.0.0-M1 released!](https://www.reddit.com/r/java/comments/th450e/helidon_300m1_released/)
 - [JDK-8058778: New APIs for creating certificates and certificate requests](https://www.reddit.com/r/java/comments/th3lie/jdk8058778_new_apis_for_creating_certificates_and/)
-- [Initialize jenv only if inside a java project folder](https://www.reddit.com/r/java/comments/th1nhh/initialize_jenv_only_if_inside_a_java_project/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
