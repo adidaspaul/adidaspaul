@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Initialize jenv only if inside a java project folder](https://www.reddit.com/r/java/comments/th1nhh/initialize_jenv_only_if_inside_a_java_project/)
 - [JDKMon 17.0.23 Released](https://www.reddit.com/r/java/comments/tgxe3v/jdkmon_17023_released/)
 - [How did you adopt to new releases?](https://www.reddit.com/r/java/comments/tgvvc5/how_did_you_adopt_to_new_releases/)
-- [Jackson 2.13.2 Release](https://www.reddit.com/r/java/comments/tgvj72/jackson_2132_release/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
