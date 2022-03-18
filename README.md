@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Jackson 2.13.2 Release](https://www.reddit.com/r/java/comments/tgvj72/jackson_2132_release/)
 - [Having fun with OpenAI api&#39;s new insertion capabilities](https://www.reddit.com/r/java/comments/tghx5d/having_fun_with_openai_apis_new_insertion/)
 - [Are java modules a must know ?](https://www.reddit.com/r/java/comments/tggwdi/are_java_modules_a_must_know/)
-- [Eclipse 2022-03 Java IDE Improvements](https://www.reddit.com/r/java/comments/tggq5d/eclipse_202203_java_ide_improvements/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
