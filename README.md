@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [6 things you can do with JBang but you can&#39;t with Shell - Mastertheboss](https://www.reddit.com/r/java/comments/tgwgvh/6_things_you_can_do_with_jbang_but_you_cant_with/)
 - [How did you adopt to new releases?](https://www.reddit.com/r/java/comments/tgvvc5/how_did_you_adopt_to_new_releases/)
 - [Jackson 2.13.2 Release](https://www.reddit.com/r/java/comments/tgvj72/jackson_2132_release/)
+- [Having fun with OpenAI api&#39;s new insertion capabilities](https://www.reddit.com/r/java/comments/tghx5d/having_fun_with_openai_apis_new_insertion/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
