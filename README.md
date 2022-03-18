@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [I created a Java Program to graph polar functions](https://www.reddit.com/r/java/comments/thfa0p/i_created_a_java_program_to_graph_polar_functions/)
+- [How to Stop a Java Thread Without Using Thread.stop&lpar;&rpar;?](https://www.reddit.com/r/java/comments/thf7ld/how_to_stop_a_java_thread_without_using_threadstop/)
 - [Helidon 3.0.0 Milestone 1 has been released!](https://www.reddit.com/r/java/comments/thapmv/helidon_300_milestone_1_has_been_released/)
-- [Helidon 3.0.0-M1 released!](https://www.reddit.com/r/java/comments/th450e/helidon_300m1_released/)
-- [JDK-8058778: New APIs for creating certificates and certificate requests](https://www.reddit.com/r/java/comments/th3lie/jdk8058778_new_apis_for_creating_certificates_and/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
