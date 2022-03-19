@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [GlassFish 7.0.0-M3 released!](https://www.reddit.com/r/java/comments/ti60zy/glassfish_700m3_released/)
 - [Hibernate ORM 5.6.7.Final released](https://www.reddit.com/r/java/comments/thzj4n/hibernate_orm_567final_released/)
 - [Java Metadata API](https://www.reddit.com/r/java/comments/thuv0a/java_metadata_api/)
-- [I created a Java Program to graph polar functions](https://www.reddit.com/r/java/comments/thfa0p/i_created_a_java_program_to_graph_polar_functions/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
