@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [The Java to Microsoft.NET compiler became more multithreaded!](https://www.reddit.com/r/java/comments/thq8gx/the_java_to_microsoftnet_compiler_became_more/)
 - [I created a Java Program to graph polar functions](https://www.reddit.com/r/java/comments/thfa0p/i_created_a_java_program_to_graph_polar_functions/)
 - [How to Stop a Java Thread Without Using Thread.stop&lpar;&rpar;?](https://www.reddit.com/r/java/comments/thf7ld/how_to_stop_a_java_thread_without_using_threadstop/)
+- [Helidon 3.0.0 Milestone 1 has been released!](https://www.reddit.com/r/java/comments/thapmv/helidon_300_milestone_1_has_been_released/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
