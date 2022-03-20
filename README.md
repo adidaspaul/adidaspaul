@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Spring Boot Data Access Layer Best Practices](https://www.reddit.com/r/java/comments/tig3g8/spring_boot_data_access_layer_best_practices/)
 - [GlassFish 7.0.0-M3 released!](https://www.reddit.com/r/java/comments/ti60zy/glassfish_700m3_released/)
 - [Hibernate ORM 5.6.7.Final released](https://www.reddit.com/r/java/comments/thzj4n/hibernate_orm_567final_released/)
-- [Java Metadata API](https://www.reddit.com/r/java/comments/thuv0a/java_metadata_api/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
