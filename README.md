@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [HashMap using HashCode insted of Equals](https://www.reddit.com/r/java/comments/tiijlv/hashmap_using_hashcode_insted_of_equals/)
 - [A list of things I needed to do upgrade my Gradle project to JDK 17](https://www.reddit.com/r/java/comments/tigq2k/a_list_of_things_i_needed_to_do_upgrade_my_gradle/)
 - [Spring Boot Data Access Layer Best Practices](https://www.reddit.com/r/java/comments/tig3g8/spring_boot_data_access_layer_best_practices/)
-- [GlassFish 7.0.0-M3 released!](https://www.reddit.com/r/java/comments/ti60zy/glassfish_700m3_released/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
