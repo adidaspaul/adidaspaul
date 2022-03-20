@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [A list of things I needed to do upgrade my Gradle project to JDK 17](https://www.reddit.com/r/java/comments/tigq2k/a_list_of_things_i_needed_to_do_upgrade_my_gradle/)
 - [Spring Boot Data Access Layer Best Practices](https://www.reddit.com/r/java/comments/tig3g8/spring_boot_data_access_layer_best_practices/)
 - [GlassFish 7.0.0-M3 released!](https://www.reddit.com/r/java/comments/ti60zy/glassfish_700m3_released/)
-- [Hibernate ORM 5.6.7.Final released](https://www.reddit.com/r/java/comments/thzj4n/hibernate_orm_567final_released/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
