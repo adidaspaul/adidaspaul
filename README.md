@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Error handling in Java and other languages](https://www.reddit.com/r/java/comments/tipg3r/error_handling_in_java_and_other_languages/)
 - [Yorm: a simple Orm based on Java Records](https://www.reddit.com/r/java/comments/tijdl1/yorm_a_simple_orm_based_on_java_records/)
 - [Spring Boot Data Access Layer Best Practices](https://www.reddit.com/r/java/comments/tig3g8/spring_boot_data_access_layer_best_practices/)
-- [GlassFish 7.0.0-M3 released!](https://www.reddit.com/r/java/comments/ti60zy/glassfish_700m3_released/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
