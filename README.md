@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [MicroProfile GraphQL 2.0, Java 18 support, and distributed security caches on Open Liberty 22.0.0.4-beta](https://www.reddit.com/r/java/comments/tjdtl2/microprofile_graphql_20_java_18_support_and/)
+- [Any good project ideas for a newbie?](https://www.reddit.com/r/java/comments/tjdrl6/any_good_project_ideas_for_a_newbie/)
 - [Fanout based event-driven architecture using AWS SNS and SQS](https://www.reddit.com/r/java/comments/tjb17l/fanout_based_eventdriven_architecture_using_aws/)
-- [Crest, a command-line API modeled after JAX-RS &lpar;Command REST&rpar;](https://www.reddit.com/r/java/comments/tj9rwd/crest_a_commandline_api_modeled_after_jaxrs/)
-- [How intense is your work?](https://www.reddit.com/r/java/comments/tj75nn/how_intense_is_your_work/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
