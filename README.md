@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Help running old Java applets in Windows 11 / Chrome](https://www.reddit.com/r/java/comments/tjjnft/help_running_old_java_applets_in_windows_11_chrome/)
 - [Vaadin 23.0.0 Released](https://www.reddit.com/r/java/comments/tjiih5/vaadin_2300_released/)
 - [MicroProfile GraphQL 2.0, Java 18 support, and distributed security caches on Open Liberty 22.0.0.4-beta](https://www.reddit.com/r/java/comments/tjdtl2/microprofile_graphql_20_java_18_support_and/)
-- [Fanout based event-driven architecture using AWS SNS and SQS](https://www.reddit.com/r/java/comments/tjb17l/fanout_based_eventdriven_architecture_using_aws/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
