@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Fanout based event-driven architecture using AWS SNS and SQS](https://www.reddit.com/r/java/comments/tjb17l/fanout_based_eventdriven_architecture_using_aws/)
 - [Crest, a command-line API modeled after JAX-RS &lpar;Command REST&rpar;](https://www.reddit.com/r/java/comments/tj9rwd/crest_a_commandline_api_modeled_after_jaxrs/)
 - [How intense is your work?](https://www.reddit.com/r/java/comments/tj75nn/how_intense_is_your_work/)
-- [Backwards compatible, null safe, non-null by default type system proposal](https://www.reddit.com/r/java/comments/tiw76i/backwards_compatible_null_safe_nonnull_by_default/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
