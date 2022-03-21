@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [global-tz, a new fork of iana-tz &lpar;uses JEP 330 to automate data transformation&rpar;](https://www.reddit.com/r/java/comments/tjnzy5/globaltz_a_new_fork_of_ianatz_uses_jep_330_to/)
 - [Help running old Java applets in Windows 11 / Chrome](https://www.reddit.com/r/java/comments/tjjnft/help_running_old_java_applets_in_windows_11_chrome/)
 - [Vaadin 23.0.0 Released](https://www.reddit.com/r/java/comments/tjiih5/vaadin_2300_released/)
-- [MicroProfile GraphQL 2.0, Java 18 support, and distributed security caches on Open Liberty 22.0.0.4-beta](https://www.reddit.com/r/java/comments/tjdtl2/microprofile_graphql_20_java_18_support_and/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
