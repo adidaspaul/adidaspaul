@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Debugging Java Equals and Hashcode Performance in Production](https://www.reddit.com/r/java/comments/tjykoz/debugging_java_equals_and_hashcode_performance_in/)
-- [global-tz, a new fork of iana-tz &lpar;uses JEP 330 to automate data transformation&rpar;](https://www.reddit.com/r/java/comments/tjnzy5/globaltz_a_new_fork_of_ianatz_uses_jep_330_to/)
-- [Vaadin 23.0.0 Released](https://www.reddit.com/r/java/comments/tjiih5/vaadin_2300_released/)
+- [Javascript and Typescript – What’s The Major Difference Between Them?](https://www.reddit.com/r/java/comments/tk5aeh/javascript_and_typescript_whats_the_major/)
+- [Java 18 released!](https://www.reddit.com/r/java/comments/tk4zwv/java_18_released/)
+- [JavaOne is back!!](https://www.reddit.com/r/java/comments/tk4xy7/javaone_is_back/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
