@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Why did Java lose UIs to HTML/JS?](https://www.reddit.com/r/java/comments/tkcxri/why_did_java_lose_uis_to_htmljs/)
+- [GitHub - wildfly/jandex: Java Annotation Indexer](https://www.reddit.com/r/java/comments/tkcqjq/github_wildflyjandex_java_annotation_indexer/)
 - [Looks like GA builds of OpenJDK 18 are already available](https://www.reddit.com/r/java/comments/tkaak5/looks_like_ga_builds_of_openjdk_18_are_already/)
-- [The arrival of java 18!](https://www.reddit.com/r/java/comments/tk5u0g/the_arrival_of_java_18/)
-- [Java 18 released!](https://www.reddit.com/r/java/comments/tk4zwv/java_18_released/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
