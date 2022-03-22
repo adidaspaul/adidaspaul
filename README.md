@@ -64,8 +64,8 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Looks like GA builds of OpenJDK 18 are already available](https://www.reddit.com/r/java/comments/tkaak5/looks_like_ga_builds_of_openjdk_18_are_already/)
 - [The arrival of java 18!](https://www.reddit.com/r/java/comments/tk5u0g/the_arrival_of_java_18/)
-- [Anyone has experience with Event driven architecture?](https://www.reddit.com/r/java/comments/tk5rpy/anyone_has_experience_with_event_driven/)
 - [Java 18 released!](https://www.reddit.com/r/java/comments/tk4zwv/java_18_released/)
 <!-- BLOG-POST-LIST:END -->
 
