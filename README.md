@@ -64,7 +64,7 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Can someone please telll me if this coding is pf java or not?](https://www.reddit.com/r/java/comments/tk6q7t/can_someone_please_telll_me_if_this_coding_is_pf/)
+- [Is this java guys?](https://www.reddit.com/r/java/comments/tk758r/is_this_java_guys/)
 - [Help with syntax.](https://www.reddit.com/r/java/comments/tk5xsx/help_with_syntax/)
 - [The arrival of java 18!](https://www.reddit.com/r/java/comments/tk5u0g/the_arrival_of_java_18/)
 <!-- BLOG-POST-LIST:END -->
