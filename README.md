@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Javascript and Typescript – What’s The Major Difference Between Them?](https://www.reddit.com/r/java/comments/tk5aeh/javascript_and_typescript_whats_the_major/)
-- [Java 18 released!](https://www.reddit.com/r/java/comments/tk4zwv/java_18_released/)
-- [JavaOne is back!!](https://www.reddit.com/r/java/comments/tk4xy7/javaone_is_back/)
+- [Can someone please telll me if this coding is pf java or not?](https://www.reddit.com/r/java/comments/tk6q7t/can_someone_please_telll_me_if_this_coding_is_pf/)
+- [Help with syntax.](https://www.reddit.com/r/java/comments/tk5xsx/help_with_syntax/)
+- [The arrival of java 18!](https://www.reddit.com/r/java/comments/tk5u0g/the_arrival_of_java_18/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
