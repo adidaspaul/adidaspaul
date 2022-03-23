@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Java 18 : Programmer&#39;s Guide to Snippets](https://www.reddit.com/r/java/comments/tkmvjr/java_18_programmers_guide_to_snippets/)
 - [Java UUID generation – Performance impact](https://www.reddit.com/r/java/comments/tkm3vg/java_uuid_generation_performance_impact/)
 - [Why did Java lose UIs to HTML/JS?](https://www.reddit.com/r/java/comments/tkcxri/why_did_java_lose_uis_to_htmljs/)
-- [GitHub - wildfly/jandex: Java Annotation Indexer](https://www.reddit.com/r/java/comments/tkcqjq/github_wildflyjandex_java_annotation_indexer/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
