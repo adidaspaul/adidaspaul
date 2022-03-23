@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Exception &amp; Method Breakpoints that don&#39;t suck](https://www.reddit.com/r/java/comments/tkztqb/exception_method_breakpoints_that_dont_suck/)
 - [Any tips and practices that you have to know to learn java coming from C#?](https://www.reddit.com/r/java/comments/tkwhqu/any_tips_and_practices_that_you_have_to_know_to/)
 - [jbock 5.13 released](https://www.reddit.com/r/java/comments/tkucy1/jbock_513_released/)
-- [How do you guys go about the persistence layer?](https://www.reddit.com/r/java/comments/tkt94n/how_do_you_guys_go_about_the_persistence_layer/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
