@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [JDK 18 Security Enhancements](https://www.reddit.com/r/java/comments/tl8l49/jdk_18_security_enhancements/)
 - [Building Cross-platform UIs in Java](https://www.reddit.com/r/java/comments/tl3mrq/building_crossplatform_uis_in_java/)
 - [Oracle starts running license audits for Java](https://www.reddit.com/r/java/comments/tl388m/oracle_starts_running_license_audits_for_java/)
-- [Why do collections need wrappers for primitive types?](https://www.reddit.com/r/java/comments/tl2q5j/why_do_collections_need_wrappers_for_primitive/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
