@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [jbock 5.13 released](https://www.reddit.com/r/java/comments/tkucy1/jbock_513_released/)
 - [How do you guys go about the persistence layer?](https://www.reddit.com/r/java/comments/tkt94n/how_do_you_guys_go_about_the_persistence_layer/)
 - [Open-source user authentication server in Java](https://www.reddit.com/r/java/comments/tkt74r/opensource_user_authentication_server_in_java/)
-- [Java 20 looks like it may be one of the biggest updates in years](https://www.reddit.com/r/java/comments/tkrt3v/java_20_looks_like_it_may_be_one_of_the_biggest/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
