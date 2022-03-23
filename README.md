@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [I like Java, but I don&#39;t know which useful personal projects I could do with it](https://www.reddit.com/r/java/comments/tkhpad/i_like_java_but_i_dont_know_which_useful_personal/)
 - [Why did Java lose UIs to HTML/JS?](https://www.reddit.com/r/java/comments/tkcxri/why_did_java_lose_uis_to_htmljs/)
 - [GitHub - wildfly/jandex: Java Annotation Indexer](https://www.reddit.com/r/java/comments/tkcqjq/github_wildflyjandex_java_annotation_indexer/)
-- [Looks like GA builds of OpenJDK 18 are already available](https://www.reddit.com/r/java/comments/tkaak5/looks_like_ga_builds_of_openjdk_18_are_already/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
