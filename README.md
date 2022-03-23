@@ -64,7 +64,7 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [I like Java, but I don&#39;t know which useful personal projects I could do with it](https://www.reddit.com/r/java/comments/tkhpad/i_like_java_but_i_dont_know_which_useful_personal/)
+- [Java UUID generation – Performance impact](https://www.reddit.com/r/java/comments/tkm3vg/java_uuid_generation_performance_impact/)
 - [Why did Java lose UIs to HTML/JS?](https://www.reddit.com/r/java/comments/tkcxri/why_did_java_lose_uis_to_htmljs/)
 - [GitHub - wildfly/jandex: Java Annotation Indexer](https://www.reddit.com/r/java/comments/tkcqjq/github_wildflyjandex_java_annotation_indexer/)
 <!-- BLOG-POST-LIST:END -->
