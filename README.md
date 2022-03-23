@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Any tips and practices that you have to know to learn java coming from C#?](https://www.reddit.com/r/java/comments/tkwhqu/any_tips_and_practices_that_you_have_to_know_to/)
 - [jbock 5.13 released](https://www.reddit.com/r/java/comments/tkucy1/jbock_513_released/)
 - [How do you guys go about the persistence layer?](https://www.reddit.com/r/java/comments/tkt94n/how_do_you_guys_go_about_the_persistence_layer/)
-- [Open-source user authentication server in Java](https://www.reddit.com/r/java/comments/tkt74r/opensource_user_authentication_server_in_java/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
