@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Kestra - Open-Source Airflow Alternative](https://www.reddit.com/r/java/comments/tmpfv5/kestra_opensource_airflow_alternative/)
 - [jextract standalone repository](https://www.reddit.com/r/java/comments/tlibuw/jextract_standalone_repository/)
 - [JDK 18 Security Enhancements](https://www.reddit.com/r/java/comments/tl8l49/jdk_18_security_enhancements/)
-- [Building Cross-platform UIs in Java](https://www.reddit.com/r/java/comments/tl3mrq/building_crossplatform_uis_in_java/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
