@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Testcontainers makes integration testing Jakarta EE easy - AtomicJar, Inc.](https://www.reddit.com/r/java/comments/tngytc/testcontainers_makes_integration_testing_jakarta/)
 - [Anybody use Hilt for server-side java?](https://www.reddit.com/r/java/comments/tnf3ps/anybody_use_hilt_for_serverside_java/)
 - [anyneed to learn applets](https://www.reddit.com/r/java/comments/tmzbfx/anyneed_to_learn_applets/)
-- [JDK 19: Pattern matching for switch &lpar;Third Preview&rpar;](https://www.reddit.com/r/java/comments/tmt4cr/jdk_19_pattern_matching_for_switch_third_preview/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
