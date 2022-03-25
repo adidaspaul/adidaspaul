@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Pattern assignment [Brian Goetz]](https://www.reddit.com/r/java/comments/tnvoll/pattern_assignment_brian_goetz/)
 - [What is Java? Why java is Popular in IT Industry?](https://www.reddit.com/r/java/comments/tnuqk2/what_is_java_why_java_is_popular_in_it_industry/)
 - [Java 17 on Linux: Permission denied error launching external tool](https://www.reddit.com/r/java/comments/tnuc6e/java_17_on_linux_permission_denied_error/)
-- [Does JGC not report JVM statistics like G1?](https://www.reddit.com/r/java/comments/tnnuq3/does_jgc_not_report_jvm_statistics_like_g1/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
