@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Does JGC not report JVM statistics like G1?](https://www.reddit.com/r/java/comments/tnnuq3/does_jgc_not_report_jvm_statistics_like_g1/)
 - [Testcontainers makes integration testing Jakarta EE easy - AtomicJar, Inc.](https://www.reddit.com/r/java/comments/tngytc/testcontainers_makes_integration_testing_jakarta/)
 - [Anybody use Hilt for server-side java?](https://www.reddit.com/r/java/comments/tnf3ps/anybody_use_hilt_for_serverside_java/)
-- [anyneed to learn applets](https://www.reddit.com/r/java/comments/tmzbfx/anyneed_to_learn_applets/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
