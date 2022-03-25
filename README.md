@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Anybody use Hilt for server-side java?](https://www.reddit.com/r/java/comments/tnf3ps/anybody_use_hilt_for_serverside_java/)
 - [anyneed to learn applets](https://www.reddit.com/r/java/comments/tmzbfx/anyneed_to_learn_applets/)
 - [JDK 19: Pattern matching for switch &lpar;Third Preview&rpar;](https://www.reddit.com/r/java/comments/tmt4cr/jdk_19_pattern_matching_for_switch_third_preview/)
-- [Kestra - Open-Source Airflow Alternative](https://www.reddit.com/r/java/comments/tmpfv5/kestra_opensource_airflow_alternative/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
