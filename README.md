@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [What benefits did Sun Microsystems get from developing and heavily promoting Java?](https://www.reddit.com/r/java/comments/tovxib/what_benefits_did_sun_microsystems_get_from/)
 - [Pattern assignment [Brian Goetz]](https://www.reddit.com/r/java/comments/tnvoll/pattern_assignment_brian_goetz/)
 - [Java 17 on Linux: Permission denied error launching external tool](https://www.reddit.com/r/java/comments/tnuc6e/java_17_on_linux_permission_denied_error/)
-- [Java by Comparison Sale &lpar;ends Mar 28 noon ET&rpar;](https://www.reddit.com/r/java/comments/tnpift/java_by_comparison_sale_ends_mar_28_noon_et/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
