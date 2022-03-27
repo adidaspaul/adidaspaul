@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Trouble opening a .jnlp file](https://www.reddit.com/r/java/comments/tpkts3/trouble_opening_a_jnlp_file/)
 - [When should you use Spring WebFlux over Spring MVC?](https://www.reddit.com/r/java/comments/tp36m1/when_should_you_use_spring_webflux_over_spring_mvc/)
 - [What benefits did Sun Microsystems get from developing and heavily promoting Java?](https://www.reddit.com/r/java/comments/tovxib/what_benefits_did_sun_microsystems_get_from/)
-- [Pattern assignment [Brian Goetz]](https://www.reddit.com/r/java/comments/tnvoll/pattern_assignment_brian_goetz/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
