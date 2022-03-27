@@ -65,8 +65,8 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [When should you use Spring WebFlux over Spring MVC?](https://www.reddit.com/r/java/comments/tp36m1/when_should_you_use_spring_webflux_over_spring_mvc/)
-- [Why does Avast detect a file i JUST made in java Intellij as IDP.HELU.JarMal15? &lpar;also don&#39;t ask why i&#39;m trying to compile it with cmd&rpar;](https://www.reddit.com/r/java/comments/tp0fo8/why_does_avast_detect_a_file_i_just_made_in_java/)
 - [What benefits did Sun Microsystems get from developing and heavily promoting Java?](https://www.reddit.com/r/java/comments/tovxib/what_benefits_did_sun_microsystems_get_from/)
+- [Pattern assignment [Brian Goetz]](https://www.reddit.com/r/java/comments/tnvoll/pattern_assignment_brian_goetz/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
