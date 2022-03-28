@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Embracing Java 17 — Here’s What We Learned](https://www.reddit.com/r/java/comments/tq4r89/embracing_java_17_heres_what_we_learned/)
 - [Who writes the code for the JVMs and JDK?](https://www.reddit.com/r/java/comments/tq12bj/who_writes_the_code_for_the_jvms_and_jdk/)
 - [Persism Release V2.1.0 - with support for Table Joins!](https://www.reddit.com/r/java/comments/tpqkix/persism_release_v210_with_support_for_table_joins/)
-- [How is java platform independent?](https://www.reddit.com/r/java/comments/tplco2/how_is_java_platform_independent/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
