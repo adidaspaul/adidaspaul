@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [What to expect from Jakarta EE 10?](https://www.reddit.com/r/java/comments/tq96cs/what_to_expect_from_jakarta_ee_10/)
+- [Starting a shared starter project in Java ecosystem, where to start?](https://www.reddit.com/r/java/comments/tq943a/starting_a_shared_starter_project_in_java/)
 - [Embracing Java 17 — Here’s What We Learned](https://www.reddit.com/r/java/comments/tq4r89/embracing_java_17_heres_what_we_learned/)
-- [Who writes the code for the JVMs and JDK?](https://www.reddit.com/r/java/comments/tq12bj/who_writes_the_code_for_the_jvms_and_jdk/)
-- [Persism Release V2.1.0 - with support for Table Joins!](https://www.reddit.com/r/java/comments/tpqkix/persism_release_v210_with_support_for_table_joins/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
