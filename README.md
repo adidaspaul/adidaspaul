@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [A Java library to help create and manage your garden](https://www.reddit.com/r/java/comments/tqi4gr/a_java_library_to_help_create_and_manage_your/)
 - [ZGC - The Future of Low-Latency Garbage Collection Is Here](https://www.reddit.com/r/java/comments/tqeizr/zgc_the_future_of_lowlatency_garbage_collection/)
 - [Spring Boot + Junit 5 + Testcontainers](https://www.reddit.com/r/java/comments/tqcpx7/spring_boot_junit_5_testcontainers/)
-- [Hash, displace, and compress: Perfect hashing with Java](https://www.reddit.com/r/java/comments/tqaxr9/hash_displace_and_compress_perfect_hashing_with/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
