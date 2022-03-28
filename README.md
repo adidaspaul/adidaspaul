@@ -64,7 +64,7 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Log SOAP request and response in Spring Boot with logger interceptor](https://www.reddit.com/r/java/comments/tqb0q0/log_soap_request_and_response_in_spring_boot_with/)
+- [Spring Boot + Junit 5 + Testcontainers](https://www.reddit.com/r/java/comments/tqcpx7/spring_boot_junit_5_testcontainers/)
 - [Hash, displace, and compress: Perfect hashing with Java](https://www.reddit.com/r/java/comments/tqaxr9/hash_displace_and_compress_perfect_hashing_with/)
 - [What to expect from Jakarta EE 10?](https://www.reddit.com/r/java/comments/tq96cs/what_to_expect_from_jakarta_ee_10/)
 <!-- BLOG-POST-LIST:END -->
