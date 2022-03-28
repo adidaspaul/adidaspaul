@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Who writes the code for the JVMs and JDK?](https://www.reddit.com/r/java/comments/tq12bj/who_writes_the_code_for_the_jvms_and_jdk/)
 - [Persism Release V2.1.0 - with support for Table Joins!](https://www.reddit.com/r/java/comments/tpqkix/persism_release_v210_with_support_for_table_joins/)
 - [How is java platform independent?](https://www.reddit.com/r/java/comments/tplco2/how_is_java_platform_independent/)
-- [When should you use Spring WebFlux over Spring MVC?](https://www.reddit.com/r/java/comments/tp36m1/when_should_you_use_spring_webflux_over_spring_mvc/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
