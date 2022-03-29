@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [What is the difference between &quot;attach&quot; and &quot;listen&quot; for remote debugging?](https://www.reddit.com/r/java/comments/tr7okg/what_is_the_difference_between_attach_and_listen/)
 - [Event Sourcing with Spring Boot and EventStoreDB](https://www.reddit.com/r/java/comments/tqu6ka/event_sourcing_with_spring_boot_and_eventstoredb/)
 - [A Java library to help create and manage your garden](https://www.reddit.com/r/java/comments/tqi4gr/a_java_library_to_help_create_and_manage_your/)
-- [ZGC - The Future of Low-Latency Garbage Collection Is Here](https://www.reddit.com/r/java/comments/tqeizr/zgc_the_future_of_lowlatency_garbage_collection/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
