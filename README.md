@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Architecture design help](https://www.reddit.com/r/java/comments/tsb2tu/architecture_design_help/)
-- [Maven is turning 20 today 🥳 To many more years of stable Java builds 🍻](https://www.reddit.com/r/java/comments/ts5urt/maven_is_turning_20_today_to_many_more_years_of/)
-- [Memory leak due to improper exception handling](https://www.reddit.com/r/java/comments/ts4rfm/memory_leak_due_to_improper_exception_handling/)
+- [Spring4Shell: 0-day RCE on Spring Core](https://www.reddit.com/r/java/comments/tscqlg/spring4shell_0day_rce_on_spring_core/)
+- [Game Making Libraries + Engines in Java 2022](https://www.reddit.com/r/java/comments/tscojc/game_making_libraries_engines_in_java_2022/)
+- [Where&#39;s Java Going In 2022?](https://www.reddit.com/r/java/comments/tsbleo/wheres_java_going_in_2022/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
