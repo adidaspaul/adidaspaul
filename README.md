@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [New in JDK 18: Reviewing Enhancements in the Latest JDK Release](https://www.reddit.com/r/java/comments/trufoj/new_in_jdk_18_reviewing_enhancements_in_the/)
 - [Spring Boot vs Spring vs .NET Core](https://www.reddit.com/r/java/comments/tre3d4/spring_boot_vs_spring_vs_net_core/)
 - [Event Sourcing with Spring Boot and EventStoreDB](https://www.reddit.com/r/java/comments/tqu6ka/event_sourcing_with_spring_boot_and_eventstoredb/)
-- [A Java library to help create and manage your garden](https://www.reddit.com/r/java/comments/tqi4gr/a_java_library_to_help_create_and_manage_your/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
