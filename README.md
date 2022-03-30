@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Architecture design help](https://www.reddit.com/r/java/comments/tsb2tu/architecture_design_help/)
 - [Maven is turning 20 today 🥳 To many more years of stable Java builds 🍻](https://www.reddit.com/r/java/comments/ts5urt/maven_is_turning_20_today_to_many_more_years_of/)
 - [Memory leak due to improper exception handling](https://www.reddit.com/r/java/comments/ts4rfm/memory_leak_due_to_improper_exception_handling/)
-- [Scaling Spring Batch processing with partitioning using Kafka](https://www.reddit.com/r/java/comments/ts190r/scaling_spring_batch_processing_with_partitioning/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
