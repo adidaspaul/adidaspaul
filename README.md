@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Spring4Shell Details and Exploit code leaked](https://www.reddit.com/r/java/comments/tsdllr/spring4shell_details_and_exploit_code_leaked/)
+- [Apple&#39;s Code-signing Quagmire](https://www.reddit.com/r/java/comments/tsd2cr/apples_codesigning_quagmire/)
 - [Spring4Shell: 0-day RCE on Spring Core](https://www.reddit.com/r/java/comments/tscqlg/spring4shell_0day_rce_on_spring_core/)
-- [Game Making Libraries + Engines in Java 2022](https://www.reddit.com/r/java/comments/tscojc/game_making_libraries_engines_in_java_2022/)
-- [Where&#39;s Java Going In 2022?](https://www.reddit.com/r/java/comments/tsbleo/wheres_java_going_in_2022/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
