@@ -66,7 +66,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [Video: The Elegance of Pattern Matching in Modern Java](https://www.reddit.com/r/java/comments/tt10uw/video_the_elegance_of_pattern_matching_in_modern/)
 - [Introduction to Web Scraping With Java](https://www.reddit.com/r/java/comments/tt0jhl/introduction_to_web_scraping_with_java/)
-- [Why are there no junior java dev jobs?](https://www.reddit.com/r/java/comments/tt0euq/why_are_there_no_junior_java_dev_jobs/)
+- [How can I make a 2D scroller game a valuable addition to my Java portfolio?](https://www.reddit.com/r/java/comments/tszui5/how_can_i_make_a_2d_scroller_game_a_valuable/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
