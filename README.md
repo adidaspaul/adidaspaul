@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Spring Framework RCE, Early Announcement](https://www.reddit.com/r/java/comments/tsxk3r/spring_framework_rce_early_announcement/)
 - [A manual for JUNG &lpar;The Java Universal Network/Graph Framework&rpar;?](https://www.reddit.com/r/java/comments/tssqu4/a_manual_for_jung_the_java_universal_networkgraph/)
 - [Rope implementation in Java](https://www.reddit.com/r/java/comments/tsn5o9/rope_implementation_in_java/)
-- [Spring4Shell Details and Exploit code leaked](https://www.reddit.com/r/java/comments/tsdllr/spring4shell_details_and_exploit_code_leaked/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
