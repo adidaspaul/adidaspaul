@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Rope implementation in Java](https://www.reddit.com/r/java/comments/tsn5o9/rope_implementation_in_java/)
 - [Spring4Shell Details and Exploit code leaked](https://www.reddit.com/r/java/comments/tsdllr/spring4shell_details_and_exploit_code_leaked/)
 - [Apple&#39;s Code-signing Quagmire](https://www.reddit.com/r/java/comments/tsd2cr/apples_codesigning_quagmire/)
-- [Spring4Shell: 0-day RCE on Spring Core](https://www.reddit.com/r/java/comments/tscqlg/spring4shell_0day_rce_on_spring_core/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
