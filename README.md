@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Spring Framework RCE, Early Announcement](https://www.reddit.com/r/java/comments/tsxk3r/spring_framework_rce_early_announcement/)
-- [A manual for JUNG &lpar;The Java Universal Network/Graph Framework&rpar;?](https://www.reddit.com/r/java/comments/tssqu4/a_manual_for_jung_the_java_universal_networkgraph/)
-- [Rope implementation in Java](https://www.reddit.com/r/java/comments/tsn5o9/rope_implementation_in_java/)
+- [Introduction to Web Scraping With Java](https://www.reddit.com/r/java/comments/tt0jhl/introduction_to_web_scraping_with_java/)
+- [Why are there no junior java dev jobs?](https://www.reddit.com/r/java/comments/tt0euq/why_are_there_no_junior_java_dev_jobs/)
+- [How can I make a 2D scroller game a valuable addition to my Java portfolio?](https://www.reddit.com/r/java/comments/tszui5/how_can_i_make_a_2d_scroller_game_a_valuable/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
