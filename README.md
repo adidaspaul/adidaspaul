@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Call for Discussion: Project proposal: Greenfields](https://www.reddit.com/r/java/comments/ttkpkl/call_for_discussion_project_proposal_greenfields/)
 - [jbang-npm: Java Script in your JavaScript](https://www.reddit.com/r/java/comments/ttjpsp/jbangnpm_java_script_in_your_javascript/)
 - [JDK 18 Simple Web Server](https://www.reddit.com/r/java/comments/ttjjuv/jdk_18_simple_web_server/)
-- [Spring4Shell: The zero-day RCE in the Spring Framework explained | Snyk](https://www.reddit.com/r/java/comments/ttahxx/spring4shell_the_zeroday_rce_in_the_spring/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
