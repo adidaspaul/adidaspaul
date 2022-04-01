@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [This is my last resort !!!](https://www.reddit.com/r/java/comments/ttyaa0/this_is_my_last_resort/)
 - [Apache Kafka Internals Deep Dive](https://www.reddit.com/r/java/comments/ttr3p8/apache_kafka_internals_deep_dive/)
 - [Call for Discussion: Project proposal: Greenfields](https://www.reddit.com/r/java/comments/ttkpkl/call_for_discussion_project_proposal_greenfields/)
-- [jbang-npm: Java Script in your JavaScript](https://www.reddit.com/r/java/comments/ttjpsp/jbangnpm_java_script_in_your_javascript/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
