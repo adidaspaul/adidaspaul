@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Twelve things I learned about Java during my last code review](https://www.reddit.com/r/java/comments/ttnvrx/twelve_things_i_learned_about_java_during_my_last/)
 - [Call for Discussion: Project proposal: Greenfields](https://www.reddit.com/r/java/comments/ttkpkl/call_for_discussion_project_proposal_greenfields/)
 - [jbang-npm: Java Script in your JavaScript](https://www.reddit.com/r/java/comments/ttjpsp/jbangnpm_java_script_in_your_javascript/)
-- [JDK 18 Simple Web Server](https://www.reddit.com/r/java/comments/ttjjuv/jdk_18_simple_web_server/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
