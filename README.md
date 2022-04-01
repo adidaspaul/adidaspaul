@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [jbang-npm: Java Script in your JavaScript](https://www.reddit.com/r/java/comments/ttjpsp/jbangnpm_java_script_in_your_javascript/)
+- [JDK 18 Simple Web Server](https://www.reddit.com/r/java/comments/ttjjuv/jdk_18_simple_web_server/)
 - [Spring4Shell: The zero-day RCE in the Spring Framework explained | Snyk](https://www.reddit.com/r/java/comments/ttahxx/spring4shell_the_zeroday_rce_in_the_spring/)
-- [Spring Boot RCE CVE-2022-22965: can anybody explain why .war packages are affected but .jar &lpar;default&rpar; are not?](https://www.reddit.com/r/java/comments/tt6xj7/spring_boot_rce_cve202222965_can_anybody_explain/)
-- [Video: The Elegance of Pattern Matching in Modern Java](https://www.reddit.com/r/java/comments/tt10uw/video_the_elegance_of_pattern_matching_in_modern/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
