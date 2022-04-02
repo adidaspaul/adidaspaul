@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Results of this week&#39;s GUI + GraalVM experiments](https://www.reddit.com/r/java/comments/tuid7r/results_of_this_weeks_gui_graalvm_experiments/)
 - [Dominion official Preview. A Java Entity Component System &lpar;ECS&rpar; with outstanding performance](https://www.reddit.com/r/java/comments/tugci1/dominion_official_preview_a_java_entity_component/)
 - [Call for Discussion: Project proposal: Greenfields](https://www.reddit.com/r/java/comments/ttkpkl/call_for_discussion_project_proposal_greenfields/)
-- [jbang-npm: Java Script in your JavaScript](https://www.reddit.com/r/java/comments/ttjpsp/jbangnpm_java_script_in_your_javascript/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
