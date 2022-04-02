@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [C# has done it. We need Java on r/place!](https://www.reddit.com/r/java/comments/tutqg7/c_has_done_it_we_need_java_on_rplace/)
 - [Do y’all wanna make the Java logo on r/place? I have a quick and easy design; now that the canvas is expanded there’s plenty of rolm](https://www.reddit.com/r/java/comments/tuogli/do_yall_wanna_make_the_java_logo_on_rplace_i_have/)
 - [Event-Meshinery: An new event framework](https://www.reddit.com/r/java/comments/tunhj9/eventmeshinery_an_new_event_framework/)
-- [What is your favourite Java specific feature that you miss in other languages?](https://www.reddit.com/r/java/comments/tunatp/what_is_your_favourite_java_specific_feature_that/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
