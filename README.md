@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Hibernate 6 has arrived](https://www.reddit.com/r/java/comments/tv1v1t/hibernate_6_has_arrived/)
 - [A Java library to add compile-time validation for any annotation](https://www.reddit.com/r/java/comments/tux5v6/a_java_library_to_add_compiletime_validation_for/)
 - [As a SaaS vendor, how much engineering time was spent on building enterprise SSO support?](https://www.reddit.com/r/java/comments/tuw9w7/as_a_saas_vendor_how_much_engineering_time_was/)
-- [C# has done it. We need Java on r/place!](https://www.reddit.com/r/java/comments/tutqg7/c_has_done_it_we_need_java_on_rplace/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
