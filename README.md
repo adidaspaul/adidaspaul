@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Testing the Jakarta EE Core Profile with Atbash Runtime.](https://www.reddit.com/r/java/comments/tvhvuq/testing_the_jakarta_ee_core_profile_with_atbash/)
 - [Opensourcing my ERP](https://www.reddit.com/r/java/comments/tvdjpr/opensourcing_my_erp/)
 - [What’s new in Jakarta Persistence 3.1?](https://www.reddit.com/r/java/comments/tvch2n/whats_new_in_jakarta_persistence_31/)
-- [Hibernate 6 has arrived](https://www.reddit.com/r/java/comments/tv1v1t/hibernate_6_has_arrived/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
