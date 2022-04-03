@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [What’s new in Jakarta Persistence 3.1?](https://www.reddit.com/r/java/comments/tvch2n/whats_new_in_jakarta_persistence_31/)
 - [Hibernate 6 has arrived](https://www.reddit.com/r/java/comments/tv1v1t/hibernate_6_has_arrived/)
 - [A Java library to add compile-time validation for any annotation](https://www.reddit.com/r/java/comments/tux5v6/a_java_library_to_add_compiletime_validation_for/)
-- [Do y’all wanna make the Java logo on r/place? I have a quick and easy design; now that the canvas is expanded there’s plenty of rolm](https://www.reddit.com/r/java/comments/tuogli/do_yall_wanna_make_the_java_logo_on_rplace_i_have/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
