@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [I have an interview tomorrow for a Junior Java position. What kind of high level Java questions would I be asked?](https://www.reddit.com/r/java/comments/tw60mz/i_have_an_interview_tomorrow_for_a_junior_java/)
+- [JDBC Driver &lpar;4.x&rpar; specs ?](https://www.reddit.com/r/java/comments/tw5cmb/jdbc_driver_4x_specs/)
 - [Is there a practical blog or book &lpar;PDF&rpar; or guid for building a Spring app?](https://www.reddit.com/r/java/comments/tw3mhx/is_there_a_practical_blog_or_book_pdf_or_guid_for/)
-- [Abandoning JavaFX was a mistake](https://www.reddit.com/r/java/comments/tw37tb/abandoning_javafx_was_a_mistake/)
-- [OneDev 7 - the Java git service with CI/CD and Kanban](https://www.reddit.com/r/java/comments/tvzug7/onedev_7_the_java_git_service_with_cicd_and_kanban/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
