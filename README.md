@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Project Panama: Say Goodbye to JNI](https://www.reddit.com/r/java/comments/tvtdkp/project_panama_say_goodbye_to_jni/)
 - [Testing the Jakarta EE Core Profile with Atbash Runtime.](https://www.reddit.com/r/java/comments/tvhvuq/testing_the_jakarta_ee_core_profile_with_atbash/)
 - [Opensourcing my ERP](https://www.reddit.com/r/java/comments/tvdjpr/opensourcing_my_erp/)
-- [What’s new in Jakarta Persistence 3.1?](https://www.reddit.com/r/java/comments/tvch2n/whats_new_in_jakarta_persistence_31/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
