@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [OneDev 7 - the Java git service with CI/CD and Kanban](https://www.reddit.com/r/java/comments/tvzug7/onedev_7_the_java_git_service_with_cicd_and_kanban/)
 - [Project Panama: Say Goodbye to JNI](https://www.reddit.com/r/java/comments/tvtdkp/project_panama_say_goodbye_to_jni/)
 - [Testing the Jakarta EE Core Profile with Atbash Runtime.](https://www.reddit.com/r/java/comments/tvhvuq/testing_the_jakarta_ee_core_profile_with_atbash/)
-- [Opensourcing my ERP](https://www.reddit.com/r/java/comments/tvdjpr/opensourcing_my_erp/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
