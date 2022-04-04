@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Surefire/Failsafe 3.0.0-M6 released!](https://www.reddit.com/r/java/comments/tw6rhj/surefirefailsafe_300m6_released/)
+- [[ANN] Apache Maven Surefire/Failsafe Plugin Version 3.0.0-M6 Released](https://www.reddit.com/r/java/comments/tw6h0k/ann_apache_maven_surefirefailsafe_plugin_version/)
 - [I have an interview tomorrow for a Junior Java position. What kind of high level Java questions would I be asked?](https://www.reddit.com/r/java/comments/tw60mz/i_have_an_interview_tomorrow_for_a_junior_java/)
-- [JDBC Driver &lpar;4.x&rpar; specs ?](https://www.reddit.com/r/java/comments/tw5cmb/jdbc_driver_4x_specs/)
-- [Is there a practical blog or book &lpar;PDF&rpar; or guid for building a Spring app?](https://www.reddit.com/r/java/comments/tw3mhx/is_there_a_practical_blog_or_book_pdf_or_guid_for/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
