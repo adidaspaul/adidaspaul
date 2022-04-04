@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Is there a practical blog or book &lpar;PDF&rpar; or guid for building a Spring app?](https://www.reddit.com/r/java/comments/tw3mhx/is_there_a_practical_blog_or_book_pdf_or_guid_for/)
+- [Abandoning JavaFX was a mistake](https://www.reddit.com/r/java/comments/tw37tb/abandoning_javafx_was_a_mistake/)
 - [OneDev 7 - the Java git service with CI/CD and Kanban](https://www.reddit.com/r/java/comments/tvzug7/onedev_7_the_java_git_service_with_cicd_and_kanban/)
-- [Project Panama: Say Goodbye to JNI](https://www.reddit.com/r/java/comments/tvtdkp/project_panama_say_goodbye_to_jni/)
-- [Testing the Jakarta EE Core Profile with Atbash Runtime.](https://www.reddit.com/r/java/comments/tvhvuq/testing_the_jakarta_ee_core_profile_with_atbash/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
