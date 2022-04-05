@@ -64,8 +64,8 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Java Annotated Monthly – April 2022](https://www.reddit.com/r/java/comments/twyadh/java_annotated_monthly_april_2022/)
 - [A perspective of why people might perceive Java as complex](https://www.reddit.com/r/java/comments/twwdec/a_perspective_of_why_people_might_perceive_java/)
-- [Filtering in Spring Boot](https://www.reddit.com/r/java/comments/twwbqb/filtering_in_spring_boot/)
 - [Testing Groovy/JVM scripting engine performance](https://www.reddit.com/r/java/comments/twiqze/testing_groovyjvm_scripting_engine_performance/)
 <!-- BLOG-POST-LIST:END -->
 
