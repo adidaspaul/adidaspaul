@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [A perspective of why people might perceive Java as complex](https://www.reddit.com/r/java/comments/twwdec/a_perspective_of_why_people_might_perceive_java/)
+- [Filtering in Spring Boot](https://www.reddit.com/r/java/comments/twwbqb/filtering_in_spring_boot/)
 - [Testing Groovy/JVM scripting engine performance](https://www.reddit.com/r/java/comments/twiqze/testing_groovyjvm_scripting_engine_performance/)
-- [What’s new in Jakarta Security 3?](https://www.reddit.com/r/java/comments/twiql6/whats_new_in_jakarta_security_3/)
-- [Surefire/Failsafe 3.0.0-M6 released!](https://www.reddit.com/r/java/comments/tw6rhj/surefirefailsafe_300m6_released/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
