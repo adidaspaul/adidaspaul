@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Testing Groovy/JVM scripting engine performance](https://www.reddit.com/r/java/comments/twiqze/testing_groovyjvm_scripting_engine_performance/)
+- [What’s new in Jakarta Security 3?](https://www.reddit.com/r/java/comments/twiql6/whats_new_in_jakarta_security_3/)
 - [Surefire/Failsafe 3.0.0-M6 released!](https://www.reddit.com/r/java/comments/tw6rhj/surefirefailsafe_300m6_released/)
-- [[ANN] Apache Maven Surefire/Failsafe Plugin Version 3.0.0-M6 Released](https://www.reddit.com/r/java/comments/tw6h0k/ann_apache_maven_surefirefailsafe_plugin_version/)
-- [I have an interview tomorrow for a Junior Java position. What kind of high level Java questions would I be asked?](https://www.reddit.com/r/java/comments/tw60mz/i_have_an_interview_tomorrow_for_a_junior_java/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
