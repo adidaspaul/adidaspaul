@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [JEP 425: Virtual Threads &lpar;Preview&rpar;](https://www.reddit.com/r/java/comments/txpuh0/jep_425_virtual_threads_preview/)
+- [[Loom] New EA build based on jdk-19+16](https://www.reddit.com/r/java/comments/txps6u/loom_new_ea_build_based_on_jdk1916/)
 - [Mutation testing java projects](https://www.reddit.com/r/java/comments/txn7et/mutation_testing_java_projects/)
-- [JDB Reading Commands From a File](https://www.reddit.com/r/java/comments/txmco2/jdb_reading_commands_from_a_file/)
-- [Java into Containers, A Match Made in Heaven?](https://www.reddit.com/r/java/comments/txhgew/java_into_containers_a_match_made_in_heaven/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
