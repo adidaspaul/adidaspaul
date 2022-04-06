@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Alternate library for parallel stream processing?](https://www.reddit.com/r/java/comments/txxow3/alternate_library_for_parallel_stream_processing/)
+- [JDK 19: Auto-generate CDS](https://www.reddit.com/r/java/comments/txwjz1/jdk_19_autogenerate_cds/)
 - [Adding File Associations to Java Desktop Apps](https://www.reddit.com/r/java/comments/txuhhz/adding_file_associations_to_java_desktop_apps/)
-- [JEP 425: Virtual Threads &lpar;Preview&rpar;](https://www.reddit.com/r/java/comments/txpuh0/jep_425_virtual_threads_preview/)
-- [[Loom] New EA build based on jdk-19+16](https://www.reddit.com/r/java/comments/txps6u/loom_new_ea_build_based_on_jdk1916/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
