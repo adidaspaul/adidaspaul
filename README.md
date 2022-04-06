@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Adding File Associations to Java Desktop Apps](https://www.reddit.com/r/java/comments/txuhhz/adding_file_associations_to_java_desktop_apps/)
 - [JEP 425: Virtual Threads &lpar;Preview&rpar;](https://www.reddit.com/r/java/comments/txpuh0/jep_425_virtual_threads_preview/)
 - [[Loom] New EA build based on jdk-19+16](https://www.reddit.com/r/java/comments/txps6u/loom_new_ea_build_based_on_jdk1916/)
-- [Mutation testing java projects](https://www.reddit.com/r/java/comments/txn7et/mutation_testing_java_projects/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
