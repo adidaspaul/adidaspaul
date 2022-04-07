@@ -64,7 +64,7 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Random DnD Spell Generator &lpar;explanation in description&rpar;](https://www.reddit.com/r/java/comments/tyec2q/random_dnd_spell_generator_explanation_in/)
+- [Released our core libraries to Maven Central!](https://www.reddit.com/r/java/comments/tyglb4/released_our_core_libraries_to_maven_central/)
 - [Virtual Thread Deep Dive - Inside Java Newscast #23](https://www.reddit.com/r/java/comments/tye5sd/virtual_thread_deep_dive_inside_java_newscast_23/)
 - [Engineering Toolkit for Java. A scientific library to prototype solutions to engineering problems.](https://www.reddit.com/r/java/comments/tybdz1/engineering_toolkit_for_java_a_scientific_library/)
 <!-- BLOG-POST-LIST:END -->
