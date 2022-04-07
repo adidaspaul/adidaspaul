@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Spring Security + Spring JPA - User role as a class? Can someone help me figure out the architecutre for this?](https://www.reddit.com/r/java/comments/ty8acz/spring_security_spring_jpa_user_role_as_a_class/)
-- [Alternate library for parallel stream processing?](https://www.reddit.com/r/java/comments/txxow3/alternate_library_for_parallel_stream_processing/)
+- [Engineering Toolkit for Java. A scientific library to prototype solutions to engineering problems.](https://www.reddit.com/r/java/comments/tybdz1/engineering_toolkit_for_java_a_scientific_library/)
 - [JDK 19: Auto-generate CDS](https://www.reddit.com/r/java/comments/txwjz1/jdk_19_autogenerate_cds/)
+- [Adding File Associations to Java Desktop Apps](https://www.reddit.com/r/java/comments/txuhhz/adding_file_associations_to_java_desktop_apps/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
