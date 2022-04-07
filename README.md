@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Released our core libraries to Maven Central!](https://www.reddit.com/r/java/comments/tyglb4/released_our_core_libraries_to_maven_central/)
-- [Virtual Thread Deep Dive - Inside Java Newscast #23](https://www.reddit.com/r/java/comments/tye5sd/virtual_thread_deep_dive_inside_java_newscast_23/)
-- [Engineering Toolkit for Java. A scientific library to prototype solutions to engineering problems.](https://www.reddit.com/r/java/comments/tybdz1/engineering_toolkit_for_java_a_scientific_library/)
+- [Understanding Spring4Shell RCE &lpar;Remote Code Execution&rpar; from an engineer’s perspective](https://www.reddit.com/r/java/comments/tyixgo/understanding_spring4shell_rce_remote_code/)
+- [Intro to Hilla: The full-stack Java framework](https://www.reddit.com/r/java/comments/tyi574/intro_to_hilla_the_fullstack_java_framework/)
+- [SpringShell Brings Hell to Java Developers](https://www.reddit.com/r/java/comments/tyhyzf/springshell_brings_hell_to_java_developers/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
