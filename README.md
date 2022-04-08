@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [[ANN] RecordBuilder v33 Released](https://www.reddit.com/r/java/comments/tyyd75/ann_recordbuilder_v33_released/)
 - [Understanding Spring4Shell RCE &lpar;Remote Code Execution&rpar; from an engineer’s perspective](https://www.reddit.com/r/java/comments/tyixgo/understanding_spring4shell_rce_remote_code/)
 - [Intro to Hilla: The full-stack Java framework](https://www.reddit.com/r/java/comments/tyi574/intro_to_hilla_the_fullstack_java_framework/)
-- [SpringShell Brings Hell to Java Developers](https://www.reddit.com/r/java/comments/tyhyzf/springshell_brings_hell_to_java_developers/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
