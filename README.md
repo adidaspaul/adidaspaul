@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Helidon 2.5.0 Released!](https://www.reddit.com/r/java/comments/tzanbg/helidon_250_released/)
 - [Anyone has tried free Java courses from Oracle learning/University is it worth the time?](https://www.reddit.com/r/java/comments/tz7jdp/anyone_has_tried_free_java_courses_from_oracle/)
 - [Generating JAX-RS 2.0 AsyncResponse-style methods with OpenAPI Generator using Template Customization](https://www.reddit.com/r/java/comments/tz6uy4/generating_jaxrs_20_asyncresponsestyle_methods/)
-- [Pull Request #8166 Implementation of Virtual Threads &lpar;Preview&rpar;](https://www.reddit.com/r/java/comments/tz5vrm/pull_request_8166_implementation_of_virtual/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
