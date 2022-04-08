@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Anyone move from Java to Rust and happier](https://www.reddit.com/r/java/comments/tz727n/anyone_move_from_java_to_rust_and_happier/)
+- [Generating JAX-RS 2.0 AsyncResponse-style methods with OpenAPI Generator using Template Customization](https://www.reddit.com/r/java/comments/tz6uy4/generating_jaxrs_20_asyncresponsestyle_methods/)
 - [Pull Request #8166 Implementation of Virtual Threads &lpar;Preview&rpar;](https://www.reddit.com/r/java/comments/tz5vrm/pull_request_8166_implementation_of_virtual/)
-- [[ANN] RecordBuilder v33 Released](https://www.reddit.com/r/java/comments/tyyd75/ann_recordbuilder_v33_released/)
-- [Understanding Spring4Shell RCE &lpar;Remote Code Execution&rpar; from an engineer’s perspective](https://www.reddit.com/r/java/comments/tyixgo/understanding_spring4shell_rce_remote_code/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
