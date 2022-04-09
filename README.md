@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to change notification sound in android 7?](https://www.reddit.com/r/java/comments/u04hp2/how_to_change_notification_sound_in_android_7/)
 - [Petition to add operators to every combination of double arrays and doubles, &lpar;because I don&#39;t want to make a matrix class&rpar;](https://www.reddit.com/r/java/comments/u03mle/petition_to_add_operators_to_every_combination_of/)
 - [Translating &lpar;localizing&rpar; my web app in 107 languages - insights](https://www.reddit.com/r/java/comments/u01j6u/translating_localizing_my_web_app_in_107/)
-- [RPI Sensor Drivers 4 Java](https://www.reddit.com/r/java/comments/tzovn6/rpi_sensor_drivers_4_java/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
