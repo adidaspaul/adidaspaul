@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [I need a good book on building microservices](https://www.reddit.com/r/java/comments/tzzve3/i_need_a_good_book_on_building_microservices/)
 - [RPI Sensor Drivers 4 Java](https://www.reddit.com/r/java/comments/tzovn6/rpi_sensor_drivers_4_java/)
 - [Bank Holidays: Java library for determining whether a given day is a banking holiday](https://www.reddit.com/r/java/comments/tzix5o/bank_holidays_java_library_for_determining/)
+- [Helidon 2.5.0 Released!](https://www.reddit.com/r/java/comments/tzanbg/helidon_250_released/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
