@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Translating &lpar;localizing&rpar; my web app in 107 languages - insights](https://www.reddit.com/r/java/comments/u01j6u/translating_localizing_my_web_app_in_107/)
 - [RPI Sensor Drivers 4 Java](https://www.reddit.com/r/java/comments/tzovn6/rpi_sensor_drivers_4_java/)
 - [Bank Holidays: Java library for determining whether a given day is a banking holiday](https://www.reddit.com/r/java/comments/tzix5o/bank_holidays_java_library_for_determining/)
-- [Helidon 2.5.0 Released!](https://www.reddit.com/r/java/comments/tzanbg/helidon_250_released/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
