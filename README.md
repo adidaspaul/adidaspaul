@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Petition to add operators to every combination of double arrays and doubles, &lpar;because I don&#39;t want to make a matrix class&rpar;](https://www.reddit.com/r/java/comments/u03mle/petition_to_add_operators_to_every_combination_of/)
 - [Translating &lpar;localizing&rpar; my web app in 107 languages - insights](https://www.reddit.com/r/java/comments/u01j6u/translating_localizing_my_web_app_in_107/)
 - [RPI Sensor Drivers 4 Java](https://www.reddit.com/r/java/comments/tzovn6/rpi_sensor_drivers_4_java/)
-- [Bank Holidays: Java library for determining whether a given day is a banking holiday](https://www.reddit.com/r/java/comments/tzix5o/bank_holidays_java_library_for_determining/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
