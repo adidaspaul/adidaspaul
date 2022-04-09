@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Bank Holidays: Java library for determining whether a given day is a banking holiday](https://www.reddit.com/r/java/comments/tzix5o/bank_holidays_java_library_for_determining/)
 - [Helidon 2.5.0 Released!](https://www.reddit.com/r/java/comments/tzanbg/helidon_250_released/)
 - [Anyone has tried free Java courses from Oracle learning/University is it worth the time?](https://www.reddit.com/r/java/comments/tz7jdp/anyone_has_tried_free_java_courses_from_oracle/)
-- [Generating JAX-RS 2.0 AsyncResponse-style methods with OpenAPI Generator using Template Customization](https://www.reddit.com/r/java/comments/tz6uy4/generating_jaxrs_20_asyncresponsestyle_methods/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
