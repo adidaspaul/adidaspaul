@@ -64,8 +64,8 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to configure spring boot API which is using pre authenticated JWT token?](https://www.reddit.com/r/java/comments/u0d4r1/how_to_configure_spring_boot_api_which_is_using/)
 - [Have you ever used a LinkedList implementation on the job?](https://www.reddit.com/r/java/comments/u0b58g/have_you_ever_used_a_linkedlist_implementation_on/)
-- [Petition to add operators to every combination of double arrays and doubles, &lpar;because I don&#39;t want to make a matrix class&rpar;](https://www.reddit.com/r/java/comments/u03mle/petition_to_add_operators_to_every_combination_of/)
 - [Translating &lpar;localizing&rpar; my web app in 107 languages - insights](https://www.reddit.com/r/java/comments/u01j6u/translating_localizing_my_web_app_in_107/)
 <!-- BLOG-POST-LIST:END -->
 
