@@ -64,7 +64,7 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [I&#39;m trying to practice my Java and building a speed, distance time calculator but I am getting this error in the if statement, I don&#39;t know how to sort it out can someone help?](https://www.reddit.com/r/java/comments/u0ihb7/im_trying_to_practice_my_java_and_building_a/)
+- [What are the most used collections API classes?](https://www.reddit.com/r/java/comments/u0isxz/what_are_the_most_used_collections_api_classes/)
 - [Kafka vs Chronicle for Microservices](https://www.reddit.com/r/java/comments/u0htz2/kafka_vs_chronicle_for_microservices/)
 - [Challenging Java Projects for portfolio?](https://www.reddit.com/r/java/comments/u0ed11/challenging_java_projects_for_portfolio/)
 <!-- BLOG-POST-LIST:END -->
