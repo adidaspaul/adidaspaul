@@ -64,8 +64,8 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Challenging Java Projects for portfolio?](https://www.reddit.com/r/java/comments/u0ed11/challenging_java_projects_for_portfolio/)
 - [GitHub examples of java spring boot applications that follow best practices](https://www.reddit.com/r/java/comments/u0dfha/github_examples_of_java_spring_boot_applications/)
-- [How to configure spring boot API which is using pre authenticated JWT token?](https://www.reddit.com/r/java/comments/u0d4r1/how_to_configure_spring_boot_api_which_is_using/)
 - [Have you ever used a LinkedList implementation on the job?](https://www.reddit.com/r/java/comments/u0b58g/have_you_ever_used_a_linkedlist_implementation_on/)
 <!-- BLOG-POST-LIST:END -->
 
