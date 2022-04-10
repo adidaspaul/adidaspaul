@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Spring boot!!!](https://www.reddit.com/r/java/comments/u0r6wq/spring_boot/)
 - [What are the most used collections API classes?](https://www.reddit.com/r/java/comments/u0isxz/what_are_the_most_used_collections_api_classes/)
 - [Challenging Java Projects for portfolio?](https://www.reddit.com/r/java/comments/u0ed11/challenging_java_projects_for_portfolio/)
+- [GitHub examples of java spring boot applications that follow best practices](https://www.reddit.com/r/java/comments/u0dfha/github_examples_of_java_spring_boot_applications/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
