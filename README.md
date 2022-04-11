@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Rise of J2Cl: Java web development after GWT](https://www.reddit.com/r/java/comments/u1hqs5/rise_of_j2cl_java_web_development_after_gwt/)
+- [GlassFish 7.0-M4 released!](https://www.reddit.com/r/java/comments/u1hno7/glassfish_70m4_released/)
 - [Prerelease of new version of KumuluzEE 4 with support for Java 18 and Jakarta EE 8.](https://www.reddit.com/r/java/comments/u1dznv/prerelease_of_new_version_of_kumuluzee_4_with/)
-- [JReleaser 1.0.0 is here!](https://www.reddit.com/r/java/comments/u16bgs/jreleaser_100_is_here/)
-- [Spring REST GET API vs Spring GraphQL Query API](https://www.reddit.com/r/java/comments/u15k7l/spring_rest_get_api_vs_spring_graphql_query_api/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
