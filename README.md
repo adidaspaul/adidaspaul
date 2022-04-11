@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Is my salary good or bad?](https://www.reddit.com/r/java/comments/u1iif0/is_my_salary_good_or_bad/)
 - [Rise of J2Cl: Java web development after GWT](https://www.reddit.com/r/java/comments/u1hqs5/rise_of_j2cl_java_web_development_after_gwt/)
 - [GlassFish 7.0-M4 released!](https://www.reddit.com/r/java/comments/u1hno7/glassfish_70m4_released/)
-- [Prerelease of new version of KumuluzEE 4 with support for Java 18 and Jakarta EE 8.](https://www.reddit.com/r/java/comments/u1dznv/prerelease_of_new_version_of_kumuluzee_4_with/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
