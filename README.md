@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [What are the most used collections API classes?](https://www.reddit.com/r/java/comments/u0isxz/what_are_the_most_used_collections_api_classes/)
-- [Challenging Java Projects for portfolio?](https://www.reddit.com/r/java/comments/u0ed11/challenging_java_projects_for_portfolio/)
-- [GitHub examples of java spring boot applications that follow best practices](https://www.reddit.com/r/java/comments/u0dfha/github_examples_of_java_spring_boot_applications/)
+- [Have you ever used a LinkedList implementation on the job?](https://www.reddit.com/r/java/comments/u0b58g/have_you_ever_used_a_linkedlist_implementation_on/)
+- [Translating &lpar;localizing&rpar; my web app in 107 languages - insights](https://www.reddit.com/r/java/comments/u01j6u/translating_localizing_my_web_app_in_107/)
+- [RPI Sensor Drivers 4 Java](https://www.reddit.com/r/java/comments/tzovn6/rpi_sensor_drivers_4_java/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
