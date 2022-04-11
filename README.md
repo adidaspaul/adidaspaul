@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Prerelease of new version of KumuluzEE 4 with support for Java 18 and Jakarta EE 8.](https://www.reddit.com/r/java/comments/u1dznv/prerelease_of_new_version_of_kumuluzee_4_with/)
 - [JReleaser 1.0.0 is here!](https://www.reddit.com/r/java/comments/u16bgs/jreleaser_100_is_here/)
 - [Spring REST GET API vs Spring GraphQL Query API](https://www.reddit.com/r/java/comments/u15k7l/spring_rest_get_api_vs_spring_graphql_query_api/)
-- [Hilla &lpar;Vaadin Fusion&rpar; - thoughts?](https://www.reddit.com/r/java/comments/u13mz6/hilla_vaadin_fusion_thoughts/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
