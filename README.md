@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Diamond in multiple inheritance of behavior .. default implementation in an interface](https://www.reddit.com/r/java/comments/u151dl/diamond_in_multiple_inheritance_of_behavior/)
 - [Hilla &lpar;Vaadin Fusion&rpar; - thoughts?](https://www.reddit.com/r/java/comments/u13mz6/hilla_vaadin_fusion_thoughts/)
 - [Have you ever used a LinkedList implementation on the job?](https://www.reddit.com/r/java/comments/u0b58g/have_you_ever_used_a_linkedlist_implementation_on/)
-- [Translating &lpar;localizing&rpar; my web app in 107 languages - insights](https://www.reddit.com/r/java/comments/u01j6u/translating_localizing_my_web_app_in_107/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
