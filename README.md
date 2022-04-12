@@ -65,8 +65,8 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [JCE &lpar;Java Cryptographic Extension&rpar; Survey](https://www.reddit.com/r/java/comments/u228mv/jce_java_cryptographic_extension_survey/)
-- [Java Cryptographic Extension Survey](https://www.reddit.com/r/java/comments/u21wyt/java_cryptographic_extension_survey/)
 - [Benchmarking Ropes: a high-performance alternative to contiguous-memory strings on the JVM](https://www.reddit.com/r/java/comments/u1j7sz/benchmarking_ropes_a_highperformance_alternative/)
+- [Rise of J2Cl: Java web development after GWT](https://www.reddit.com/r/java/comments/u1hqs5/rise_of_j2cl_java_web_development_after_gwt/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
