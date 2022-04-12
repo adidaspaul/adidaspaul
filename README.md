@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Needing help with my Assignment! Can pay thru Paypal :&rpar;](https://www.reddit.com/r/java/comments/u1ttxm/needing_help_with_my_assignment_can_pay_thru/)
 - [Benchmarking Ropes: a high-performance alternative to contiguous-memory strings on the JVM](https://www.reddit.com/r/java/comments/u1j7sz/benchmarking_ropes_a_highperformance_alternative/)
 - [Is my salary good or bad?](https://www.reddit.com/r/java/comments/u1iif0/is_my_salary_good_or_bad/)
-- [Rise of J2Cl: Java web development after GWT](https://www.reddit.com/r/java/comments/u1hqs5/rise_of_j2cl_java_web_development_after_gwt/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
