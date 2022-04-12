@@ -65,8 +65,8 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Can anybody explain what Java objects and classes are like I’m 5](https://www.reddit.com/r/java/comments/u1q92w/can_anybody_explain_what_java_objects_and_classes/)
+- [Benchmarking Ropes: a high-performance alternative to contiguous-memory strings on the JVM](https://www.reddit.com/r/java/comments/u1j7sz/benchmarking_ropes_a_highperformance_alternative/)
 - [Is my salary good or bad?](https://www.reddit.com/r/java/comments/u1iif0/is_my_salary_good_or_bad/)
-- [Rise of J2Cl: Java web development after GWT](https://www.reddit.com/r/java/comments/u1hqs5/rise_of_j2cl_java_web_development_after_gwt/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
