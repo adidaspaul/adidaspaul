@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Amazon Corretto 18 Released- Why Go For It?](https://www.reddit.com/r/java/comments/u2760o/amazon_corretto_18_released_why_go_for_it/)
 - [IntelliJ IDEA 2022.1 has been released](https://www.reddit.com/r/java/comments/u266hr/intellij_idea_20221_has_been_released/)
 - [JCE &lpar;Java Cryptographic Extension&rpar; Survey](https://www.reddit.com/r/java/comments/u228mv/jce_java_cryptographic_extension_survey/)
-- [Benchmarking Ropes: a high-performance alternative to contiguous-memory strings on the JVM](https://www.reddit.com/r/java/comments/u1j7sz/benchmarking_ropes_a_highperformance_alternative/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
