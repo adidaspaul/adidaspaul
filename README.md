@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Can anybody explain what Java objects and classes are like I’m 5](https://www.reddit.com/r/java/comments/u1q92w/can_anybody_explain_what_java_objects_and_classes/)
 - [Is my salary good or bad?](https://www.reddit.com/r/java/comments/u1iif0/is_my_salary_good_or_bad/)
 - [Rise of J2Cl: Java web development after GWT](https://www.reddit.com/r/java/comments/u1hqs5/rise_of_j2cl_java_web_development_after_gwt/)
-- [GlassFish 7.0-M4 released!](https://www.reddit.com/r/java/comments/u1hno7/glassfish_70m4_released/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
