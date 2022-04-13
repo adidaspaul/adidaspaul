@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [I made a Dating App for my APCS final project](https://www.reddit.com/r/java/comments/u312ky/i_made_a_dating_app_for_my_apcs_final_project/)
 - [Is GitHub the new IDE?](https://www.reddit.com/r/java/comments/u2wywm/is_github_the_new_ide/)
 - [Can a mandatory cloud job requirement be substituted by other areas &lpar;e.g. CI/CD, Git, Docker&rpar;?](https://www.reddit.com/r/java/comments/u2unjy/can_a_mandatory_cloud_job_requirement_be/)
-- [Spring Batch remote partitioning with AWS SQS](https://www.reddit.com/r/java/comments/u2kxa1/spring_batch_remote_partitioning_with_aws_sqs/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
