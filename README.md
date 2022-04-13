@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Java OOP exercises](https://www.reddit.com/r/java/comments/u2apwm/java_oop_exercises/)
 - [New milestone, new look, new release, same Testcontainers!](https://www.reddit.com/r/java/comments/u29uv5/new_milestone_new_look_new_release_same/)
 - [Amazon Corretto 18 Released- Why Go For It?](https://www.reddit.com/r/java/comments/u2760o/amazon_corretto_18_released_why_go_for_it/)
+- [IntelliJ IDEA 2022.1 has been released](https://www.reddit.com/r/java/comments/u266hr/intellij_idea_20221_has_been_released/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
