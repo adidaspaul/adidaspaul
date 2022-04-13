@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Spring Batch remote partitioning with AWS SQS](https://www.reddit.com/r/java/comments/u2kxa1/spring_batch_remote_partitioning_with_aws_sqs/)
 - [Logging verbosely into a ring buffer?](https://www.reddit.com/r/java/comments/u2jd1u/logging_verbosely_into_a_ring_buffer/)
 - [New milestone, new look, new release, same Testcontainers!](https://www.reddit.com/r/java/comments/u29uv5/new_milestone_new_look_new_release_same/)
-- [Amazon Corretto 18 Released- Why Go For It?](https://www.reddit.com/r/java/comments/u2760o/amazon_corretto_18_released_why_go_for_it/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
