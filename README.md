@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Benefits of setting initial and maximum memory size to the same value](https://www.reddit.com/r/java/comments/u3bo49/benefits_of_setting_initial_and_maximum_memory/)
 - [Where is the source that allows for all Java classes to implicitly extend Object?](https://www.reddit.com/r/java/comments/u35sg0/where_is_the_source_that_allows_for_all_java/)
 - [Containerize your Java applications - a guide for picking GCs, Heap, and Replicas](https://www.reddit.com/r/java/comments/u349h2/containerize_your_java_applications_a_guide_for/)
-- [is there an android app for simply running class files or packages?](https://www.reddit.com/r/java/comments/u33kkj/is_there_an_android_app_for_simply_running_class/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
