@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [I made a Dating App for my APCS final project](https://www.reddit.com/r/java/comments/u312ky/i_made_a_dating_app_for_my_apcs_final_project/)
-- [Is GitHub the new IDE?](https://www.reddit.com/r/java/comments/u2wywm/is_github_the_new_ide/)
-- [Can a mandatory cloud job requirement be substituted by other areas &lpar;e.g. CI/CD, Git, Docker&rpar;?](https://www.reddit.com/r/java/comments/u2unjy/can_a_mandatory_cloud_job_requirement_be/)
+- [Where is the source that allows for all Java classes to implicitly extend Object?](https://www.reddit.com/r/java/comments/u35sg0/where_is_the_source_that_allows_for_all_java/)
+- [Containerize your Java applications - a guide for picking GCs, Heap, and Replicas](https://www.reddit.com/r/java/comments/u349h2/containerize_your_java_applications_a_guide_for/)
+- [is there an android app for simply running class files or packages?](https://www.reddit.com/r/java/comments/u33kkj/is_there_an_android_app_for_simply_running_class/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
