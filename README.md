@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Workflow orchestration with Temporal at Airbyte](https://www.reddit.com/r/java/comments/u3kw0x/workflow_orchestration_with_temporal_at_airbyte/)
+- [realpython.com equivalent for Java?](https://www.reddit.com/r/java/comments/u3k78y/realpythoncom_equivalent_for_java/)
 - [1,000,000 Concurrent Connections](https://www.reddit.com/r/java/comments/u3gynp/1000000_concurrent_connections/)
-- [Algorithms are overrated](https://www.reddit.com/r/java/comments/u3cvus/algorithms_are_overrated/)
-- [Benefits of setting initial and maximum memory size to the same value](https://www.reddit.com/r/java/comments/u3bo49/benefits_of_setting_initial_and_maximum_memory/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
