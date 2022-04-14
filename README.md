@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [1,000,000 Concurrent Connections](https://www.reddit.com/r/java/comments/u3gynp/1000000_concurrent_connections/)
 - [Algorithms are overrated](https://www.reddit.com/r/java/comments/u3cvus/algorithms_are_overrated/)
 - [Benefits of setting initial and maximum memory size to the same value](https://www.reddit.com/r/java/comments/u3bo49/benefits_of_setting_initial_and_maximum_memory/)
-- [Where is the source that allows for all Java classes to implicitly extend Object?](https://www.reddit.com/r/java/comments/u35sg0/where_is_the_source_that_allows_for_all_java/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
