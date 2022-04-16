@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Unleash the power of Java Swing](https://www.reddit.com/r/java/comments/u4tf94/unleash_the_power_of_java_swing/)
 - [Welcome to JAR Hell, Part 2: Deployment Strategies.](https://www.reddit.com/r/java/comments/u3tp9a/welcome_to_jar_hell_part_2_deployment_strategies/)
 - [Workflow orchestration with Temporal at Airbyte](https://www.reddit.com/r/java/comments/u3kw0x/workflow_orchestration_with_temporal_at_airbyte/)
-- [realpython.com equivalent for Java?](https://www.reddit.com/r/java/comments/u3k78y/realpythoncom_equivalent_for_java/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
