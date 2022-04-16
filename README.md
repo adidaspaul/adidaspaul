@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Dynamic Debug Logging](https://www.reddit.com/r/java/comments/u547xw/dynamic_debug_logging/)
 - [Authoring Opportunity: Developing a &quot;Distributed Systems with Java&quot; book with Packt Publishing](https://www.reddit.com/r/java/comments/u51wc8/authoring_opportunity_developing_a_distributed/)
 - [Setting up an annotation processing library with gradle [PLEASE HELP]?](https://www.reddit.com/r/java/comments/u4xhxy/setting_up_an_annotation_processing_library_with/)
-- [Unleash the power of Java Swing](https://www.reddit.com/r/java/comments/u4tf94/unleash_the_power_of_java_swing/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
