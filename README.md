@@ -65,8 +65,8 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Dynamic Debug Logging](https://www.reddit.com/r/java/comments/u547xw/dynamic_debug_logging/)
-- [Authoring Opportunity: Developing a &quot;Distributed Systems with Java&quot; book with Packt Publishing](https://www.reddit.com/r/java/comments/u51wc8/authoring_opportunity_developing_a_distributed/)
-- [Setting up an annotation processing library with gradle [PLEASE HELP]?](https://www.reddit.com/r/java/comments/u4xhxy/setting_up_an_annotation_processing_library_with/)
+- [GitHub - realtimetech-solution/opack: Fast object or data serialize and deserialize library](https://www.reddit.com/r/java/comments/u4ytxu/github_realtimetechsolutionopack_fast_object_or/)
+- [Welcome to JAR Hell, Part 2: Deployment Strategies.](https://www.reddit.com/r/java/comments/u3tp9a/welcome_to_jar_hell_part_2_deployment_strategies/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
