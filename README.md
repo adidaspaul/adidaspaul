@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [need a refreshment course for java.](https://www.reddit.com/r/java/comments/u4p4ba/need_a_refreshment_course_for_java/)
 - [Where to find good Java code to read?](https://www.reddit.com/r/java/comments/u4mhfk/where_to_find_good_java_code_to_read/)
 - [Welcome to JAR Hell, Part 2: Deployment Strategies.](https://www.reddit.com/r/java/comments/u3tp9a/welcome_to_jar_hell_part_2_deployment_strategies/)
-- [Workflow orchestration with Temporal at Airbyte](https://www.reddit.com/r/java/comments/u3kw0x/workflow_orchestration_with_temporal_at_airbyte/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
