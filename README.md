@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Fundamentals of Software Optimization Part I — Benchmarking with JMH](https://www.reddit.com/r/java/comments/u5n9f1/fundamentals_of_software_optimization_part_i/)
 - [Dynamic Debug Logging](https://www.reddit.com/r/java/comments/u547xw/dynamic_debug_logging/)
 - [GitHub - realtimetech-solution/opack: Fast object or data serialize and deserialize library](https://www.reddit.com/r/java/comments/u4ytxu/github_realtimetechsolutionopack_fast_object_or/)
-- [Welcome to JAR Hell, Part 2: Deployment Strategies.](https://www.reddit.com/r/java/comments/u3tp9a/welcome_to_jar_hell_part_2_deployment_strategies/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
