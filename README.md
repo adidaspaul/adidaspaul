@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [I need to do something that might look a little like this- Basically, I want to be able to pass in an array of methods into this method and call one of them with the given index from that variable, Any way that I could do this? Thankyou.](https://www.reddit.com/r/java/comments/u5ku1z/i_need_to_do_something_that_might_look_a_little/)
 - [Dynamic Debug Logging](https://www.reddit.com/r/java/comments/u547xw/dynamic_debug_logging/)
 - [GitHub - realtimetech-solution/opack: Fast object or data serialize and deserialize library](https://www.reddit.com/r/java/comments/u4ytxu/github_realtimetechsolutionopack_fast_object_or/)
-- [Welcome to JAR Hell, Part 2: Deployment Strategies.](https://www.reddit.com/r/java/comments/u3tp9a/welcome_to_jar_hell_part_2_deployment_strategies/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
