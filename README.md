@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Is Ceylon dead?](https://www.reddit.com/r/java/comments/u6mw1z/is_ceylon_dead/)
 - [Introducing the &quot;Coordinated Restore at Checkpoint&quot; Project](https://www.reddit.com/r/java/comments/u6l679/introducing_the_coordinated_restore_at_checkpoint/)
 - [Looking for maintainer for jvm-brotli](https://www.reddit.com/r/java/comments/u6isdb/looking_for_maintainer_for_jvmbrotli/)
-- [Talk: Java Screams? Oh, you mean Java Streams! Java Streams for the advanced with Michael Mirwaldt](https://www.reddit.com/r/java/comments/u6ca2f/talk_java_screams_oh_you_mean_java_streams_java/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
