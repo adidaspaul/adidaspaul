@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Talk: Java Screams? Oh, you mean Java Streams! Java Streams for the advanced with Michael Mirwaldt](https://www.reddit.com/r/java/comments/u6ca2f/talk_java_screams_oh_you_mean_java_streams_java/)
 - [does anyone still use netbeans?](https://www.reddit.com/r/java/comments/u697wx/does_anyone_still_use_netbeans/)
 - [Big Picture motivation for pattern matching, records and sealed types](https://www.reddit.com/r/java/comments/u60wqn/big_picture_motivation_for_pattern_matching/)
-- [Fundamentals of Software Optimization Part I — Benchmarking with JMH](https://www.reddit.com/r/java/comments/u5n9f1/fundamentals_of_software_optimization_part_i/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
