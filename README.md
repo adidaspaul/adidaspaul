@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Question about programming as a noob](https://www.reddit.com/r/java/comments/u6gpxx/question_about_programming_as_a_noob/)
+- [thymeleaf or jsp](https://www.reddit.com/r/java/comments/u6ftag/thymeleaf_or_jsp/)
 - [[JavaScript Images Randomizer]](https://www.reddit.com/r/java/comments/u6fa6r/javascript_images_randomizer/)
-- [Talk: Java Screams? Oh, you mean Java Streams! Java Streams for the advanced with Michael Mirwaldt](https://www.reddit.com/r/java/comments/u6ca2f/talk_java_screams_oh_you_mean_java_streams_java/)
-- [does anyone still use netbeans?](https://www.reddit.com/r/java/comments/u697wx/does_anyone_still_use_netbeans/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
