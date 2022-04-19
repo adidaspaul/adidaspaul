@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [JDK 17.0.3 released](https://www.reddit.com/r/java/comments/u76ag6/jdk_1703_released/)
+- [JDK 11.0.15 released](https://www.reddit.com/r/java/comments/u767y4/jdk_11015_released/)
 - [Java on Visual Studio Code Update – April 2022](https://www.reddit.com/r/java/comments/u73x8m/java_on_visual_studio_code_update_april_2022/)
-- [Testing the Jakarta EE Core Profile with Atbash Runtime](https://www.reddit.com/r/java/comments/u72qva/testing_the_jakarta_ee_core_profile_with_atbash/)
-- [Java 17: What’s new in OpenJDK&#39;s container awareness](https://www.reddit.com/r/java/comments/u70j8l/java_17_whats_new_in_openjdks_container_awareness/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
