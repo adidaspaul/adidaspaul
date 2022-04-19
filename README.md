@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Ngrok Spring Boot Starter - Tunneling The Easy Way](https://www.reddit.com/r/java/comments/u7baiq/ngrok_spring_boot_starter_tunneling_the_easy_way/)
+- [Java: &quot;write once, run everywhere&quot; vs &quot;build once, run everywhere&quot;](https://www.reddit.com/r/java/comments/u7az6i/java_write_once_run_everywhere_vs_build_once_run/)
 - [Gradle announces Predictive Test Selection: ML for JVM-based tests](https://www.reddit.com/r/java/comments/u7ag8y/gradle_announces_predictive_test_selection_ml_for/)
-- [JDK 17.0.3 released](https://www.reddit.com/r/java/comments/u76ag6/jdk_1703_released/)
-- [JDK 11.0.15 released](https://www.reddit.com/r/java/comments/u767y4/jdk_11015_released/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
