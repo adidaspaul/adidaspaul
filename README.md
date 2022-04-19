@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Gradle announces Predictive Test Selection: ML for JVM-based tests](https://www.reddit.com/r/java/comments/u7ag8y/gradle_announces_predictive_test_selection_ml_for/)
 - [JDK 17.0.3 released](https://www.reddit.com/r/java/comments/u76ag6/jdk_1703_released/)
 - [JDK 11.0.15 released](https://www.reddit.com/r/java/comments/u767y4/jdk_11015_released/)
-- [Java on Visual Studio Code Update – April 2022](https://www.reddit.com/r/java/comments/u73x8m/java_on_visual_studio_code_update_april_2022/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
