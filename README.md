@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Book: Java Walls &amp; Mirrors 3rd Ed.](https://www.reddit.com/r/java/comments/u6uw78/book_java_walls_mirrors_3rd_ed/)
+- [Spring Kafka Reactive](https://www.reddit.com/r/java/comments/u6uk2z/spring_kafka_reactive/)
 - [Is Ceylon dead?](https://www.reddit.com/r/java/comments/u6mw1z/is_ceylon_dead/)
-- [Introducing the &quot;Coordinated Restore at Checkpoint&quot; Project](https://www.reddit.com/r/java/comments/u6l679/introducing_the_coordinated_restore_at_checkpoint/)
-- [Looking for maintainer for jvm-brotli](https://www.reddit.com/r/java/comments/u6isdb/looking_for_maintainer_for_jvmbrotli/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
