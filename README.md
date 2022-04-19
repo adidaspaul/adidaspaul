@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Java 17: What’s new in OpenJDK&#39;s container awareness](https://www.reddit.com/r/java/comments/u70j8l/java_17_whats_new_in_openjdks_container_awareness/)
 - [Running Java in Single-Core Containers](https://www.reddit.com/r/java/comments/u7057f/running_java_in_singlecore_containers/)
 - [Java Language Futures: Spring 2022 Edition](https://www.reddit.com/r/java/comments/u6wxng/java_language_futures_spring_2022_edition/)
-- [Book: Java Walls &amp; Mirrors 3rd Ed.](https://www.reddit.com/r/java/comments/u6uw78/book_java_walls_mirrors_3rd_ed/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
