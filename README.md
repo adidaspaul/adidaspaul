@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Java Language Futures: Spring 2022 Edition](https://www.reddit.com/r/java/comments/u6wxng/java_language_futures_spring_2022_edition/)
 - [Book: Java Walls &amp; Mirrors 3rd Ed.](https://www.reddit.com/r/java/comments/u6uw78/book_java_walls_mirrors_3rd_ed/)
 - [Spring Kafka Reactive](https://www.reddit.com/r/java/comments/u6uk2z/spring_kafka_reactive/)
-- [Is Ceylon dead?](https://www.reddit.com/r/java/comments/u6mw1z/is_ceylon_dead/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
