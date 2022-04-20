@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [How to create an object](https://www.reddit.com/r/java/comments/u7wb3j/how_to_create_an_object/)
 - [The best IDE for java Programing](https://www.reddit.com/r/java/comments/u7vs5t/the_best_ide_for_java_programing/)
 - [Java 15 introduced a cryptographic vulnerability](https://www.reddit.com/r/java/comments/u7s77e/java_15_introduced_a_cryptographic_vulnerability/)
+- [What are your thoughts on Java Isolates on GraalVM?](https://www.reddit.com/r/java/comments/u7elf4/what_are_your_thoughts_on_java_isolates_on_graalvm/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
