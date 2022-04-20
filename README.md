@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [How can I create an Object full of arrays&lpar;mutable&rpar; &amp; an Array full of objects&lpar;mutable&rpar; in java code](https://www.reddit.com/r/java/comments/u81o7f/how_can_i_create_an_object_full_of_arraysmutable/)
-- [Old MineCraft Decompiled &amp; Deobfuscated &quot;Only For Educational Use&quot;](https://www.reddit.com/r/java/comments/u81mca/old_minecraft_decompiled_deobfuscated_only_for/)
 - [Java 15 introduced a cryptographic vulnerability](https://www.reddit.com/r/java/comments/u7s77e/java_15_introduced_a_cryptographic_vulnerability/)
+- [What are your thoughts on Java Isolates on GraalVM?](https://www.reddit.com/r/java/comments/u7elf4/what_are_your_thoughts_on_java_isolates_on_graalvm/)
+- [JFR &lpar;Java Flight Recorder&rpar; Parser written in Go](https://www.reddit.com/r/java/comments/u7e25x/jfr_java_flight_recorder_parser_written_in_go/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
