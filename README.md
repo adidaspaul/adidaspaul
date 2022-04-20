@@ -65,8 +65,8 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Java 15 introduced a cryptographic vulnerability](https://www.reddit.com/r/java/comments/u7s77e/java_15_introduced_a_cryptographic_vulnerability/)
-- [how do i get a free disposable card for this...](https://www.reddit.com/r/java/comments/u7rcbz/how_do_i_get_a_free_disposable_card_for_this/)
-- [I want to learn Java or Python but I have no prior coding experience besides some web design basic html. Is this ok? Or can someone point me to some resources I can use to start? How long did it take you to learn then get a job?](https://www.reddit.com/r/java/comments/u7ort2/i_want_to_learn_java_or_python_but_i_have_no/)
+- [What are your thoughts on Java Isolates on GraalVM?](https://www.reddit.com/r/java/comments/u7elf4/what_are_your_thoughts_on_java_isolates_on_graalvm/)
+- [JFR &lpar;Java Flight Recorder&rpar; Parser written in Go](https://www.reddit.com/r/java/comments/u7e25x/jfr_java_flight_recorder_parser_written_in_go/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
