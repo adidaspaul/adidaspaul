@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Does Java 18 Finally Have A Better Alternative To JNI? | Foojay.io Today](https://www.reddit.com/r/java/comments/u89wls/does_java_18_finally_have_a_better_alternative_to/)
 - [Java 15 introduced a cryptographic vulnerability](https://www.reddit.com/r/java/comments/u7s77e/java_15_introduced_a_cryptographic_vulnerability/)
 - [What are your thoughts on Java Isolates on GraalVM?](https://www.reddit.com/r/java/comments/u7elf4/what_are_your_thoughts_on_java_isolates_on_graalvm/)
-- [JFR &lpar;Java Flight Recorder&rpar; Parser written in Go](https://www.reddit.com/r/java/comments/u7e25x/jfr_java_flight_recorder_parser_written_in_go/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
