@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Quarkus, jOOQ, Flyway, and Testcontainers: A Full Example](https://www.reddit.com/r/java/comments/u8llgv/quarkus_jooq_flyway_and_testcontainers_a_full/)
 - [Any good UML reverse engineering tool for Java code these days?](https://www.reddit.com/r/java/comments/u8l7aq/any_good_uml_reverse_engineering_tool_for_java/)
 - [WildFly redesigned for a cloud architecture](https://www.reddit.com/r/java/comments/u8jzok/wildfly_redesigned_for_a_cloud_architecture/)
-- [Java Patched Critical Cryptographic Vulnerability](https://www.reddit.com/r/java/comments/u8jzbq/java_patched_critical_cryptographic_vulnerability/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
