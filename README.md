@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Automate Your Java Desktop App Deployments and Updates with jDeploy and GitHub Actions](https://www.reddit.com/r/java/comments/u8sam0/automate_your_java_desktop_app_deployments_and/)
 - [CVE-2022-21449](https://www.reddit.com/r/java/comments/u8p0ce/cve202221449/)
 - [Quarkus, jOOQ, Flyway, and Testcontainers: A Full Example](https://www.reddit.com/r/java/comments/u8llgv/quarkus_jooq_flyway_and_testcontainers_a_full/)
-- [Any good UML reverse engineering tool for Java code these days?](https://www.reddit.com/r/java/comments/u8l7aq/any_good_uml_reverse_engineering_tool_for_java/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
