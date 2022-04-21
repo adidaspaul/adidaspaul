@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [I&#39;m transitioning to Java/SpringBoot after about one year and a half of experience with Python/Django. What advice would you give me?](https://www.reddit.com/r/java/comments/u8uque/im_transitioning_to_javaspringboot_after_about/)
 - [Automate Your Java Desktop App Deployments and Updates with jDeploy and GitHub Actions](https://www.reddit.com/r/java/comments/u8sam0/automate_your_java_desktop_app_deployments_and/)
 - [CVE-2022-21449](https://www.reddit.com/r/java/comments/u8p0ce/cve202221449/)
-- [Quarkus, jOOQ, Flyway, and Testcontainers: A Full Example](https://www.reddit.com/r/java/comments/u8llgv/quarkus_jooq_flyway_and_testcontainers_a_full/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
