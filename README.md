@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenJDK 19: Do not use CPU Shares to compute active processor count](https://www.reddit.com/r/java/comments/u8e3kg/openjdk_19_do_not_use_cpu_shares_to_compute/)
 - [Does Java 18 Finally Have A Better Alternative To JNI? | Foojay.io Today](https://www.reddit.com/r/java/comments/u89wls/does_java_18_finally_have_a_better_alternative_to/)
 - [Java 15 introduced a cryptographic vulnerability](https://www.reddit.com/r/java/comments/u7s77e/java_15_introduced_a_cryptographic_vulnerability/)
-- [What are your thoughts on Java Isolates on GraalVM?](https://www.reddit.com/r/java/comments/u7elf4/what_are_your_thoughts_on_java_isolates_on_graalvm/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
