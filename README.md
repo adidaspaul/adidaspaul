@@ -66,7 +66,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [Standalone dockerfile with embedded java and using jbang](https://www.reddit.com/r/java/comments/u9akl9/standalone_dockerfile_with_embedded_java_and/)
 - [Automate Your Java Desktop App Deployments and Updates with jDeploy and GitHub Actions](https://www.reddit.com/r/java/comments/u8sam0/automate_your_java_desktop_app_deployments_and/)
-- [CVE-2022-21449](https://www.reddit.com/r/java/comments/u8p0ce/cve202221449/)
+- [Quarkus, jOOQ, Flyway, and Testcontainers: A Full Example](https://www.reddit.com/r/java/comments/u8llgv/quarkus_jooq_flyway_and_testcontainers_a_full/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
