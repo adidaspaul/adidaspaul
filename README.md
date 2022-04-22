@@ -65,8 +65,8 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Transition to java as a C#/.net developer?](https://www.reddit.com/r/java/comments/u903zh/transition_to_java_as_a_cnet_developer/)
-- [I&#39;m transitioning to Java/SpringBoot after about one year and a half of experience with Python/Django. What advice would you give me?](https://www.reddit.com/r/java/comments/u8uque/im_transitioning_to_javaspringboot_after_about/)
 - [Automate Your Java Desktop App Deployments and Updates with jDeploy and GitHub Actions](https://www.reddit.com/r/java/comments/u8sam0/automate_your_java_desktop_app_deployments_and/)
+- [CVE-2022-21449](https://www.reddit.com/r/java/comments/u8p0ce/cve202221449/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
