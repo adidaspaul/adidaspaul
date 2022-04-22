@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [What&#39;s new in Jakarta Contexts and Dependency Injection 4.0](https://www.reddit.com/r/java/comments/u9mktt/whats_new_in_jakarta_contexts_and_dependency/)
 - [Standalone dockerfile with embedded java and using jbang](https://www.reddit.com/r/java/comments/u9akl9/standalone_dockerfile_with_embedded_java_and/)
 - [Automate Your Java Desktop App Deployments and Updates with jDeploy and GitHub Actions](https://www.reddit.com/r/java/comments/u8sam0/automate_your_java_desktop_app_deployments_and/)
-- [CVE-2022-21449](https://www.reddit.com/r/java/comments/u8p0ce/cve202221449/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
