@@ -64,7 +64,7 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [I have a homework assignment to code a front-end interface for manipulating an SQL database. The school&#39;s server only runs PHP but the professor said I could use Java instead. What&#39;s the simplest way to get a database running from my machine that I can connect with Java?](https://www.reddit.com/r/java/comments/u9zf3t/i_have_a_homework_assignment_to_code_a_frontend/)
+- [Cool plugins to improve console readability?](https://www.reddit.com/r/java/comments/ua0c6l/cool_plugins_to_improve_console_readability/)
 - [What&#39;s new in Jakarta Contexts and Dependency Injection 4.0](https://www.reddit.com/r/java/comments/u9mktt/whats_new_in_jakarta_contexts_and_dependency/)
 - [Standalone dockerfile with embedded java and using jbang](https://www.reddit.com/r/java/comments/u9akl9/standalone_dockerfile_with_embedded_java_and/)
 <!-- BLOG-POST-LIST:END -->
