@@ -64,7 +64,7 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [How are people using protobuf + gRPC with Java?](https://www.reddit.com/r/java/comments/uab7wq/how_are_people_using_protobuf_grpc_with_java/)
+- [Help](https://www.reddit.com/r/java/comments/uacesq/help/)
 - [Primitive Collections 0.6.0](https://www.reddit.com/r/java/comments/ua6rrg/primitive_collections_060/)
 - [Cool plugins to improve console readability?](https://www.reddit.com/r/java/comments/ua0c6l/cool_plugins_to_improve_console_readability/)
 <!-- BLOG-POST-LIST:END -->
