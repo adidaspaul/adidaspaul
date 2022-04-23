@@ -64,8 +64,8 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [What are the unique advantages of Java](https://www.reddit.com/r/java/comments/ua8lel/what_are_the_unique_advantages_of_java/)
 - [Primitive Collections 0.6.0](https://www.reddit.com/r/java/comments/ua6rrg/primitive_collections_060/)
-- [Should I learn design patterns before implementing an application that I&#39;ve been thinking about?](https://www.reddit.com/r/java/comments/ua3c9m/should_i_learn_design_patterns_before/)
 - [Cool plugins to improve console readability?](https://www.reddit.com/r/java/comments/ua0c6l/cool_plugins_to_improve_console_readability/)
 <!-- BLOG-POST-LIST:END -->
 
