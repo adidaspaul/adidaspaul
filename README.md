@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Willing to pay someone to help me with an assignment due tonight](https://www.reddit.com/r/java/comments/u9vasl/willing_to_pay_someone_to_help_me_with_an/)
 - [Books for Advanced Coding](https://www.reddit.com/r/java/comments/u9nuem/books_for_advanced_coding/)
 - [What&#39;s new in Jakarta Contexts and Dependency Injection 4.0](https://www.reddit.com/r/java/comments/u9mktt/whats_new_in_jakarta_contexts_and_dependency/)
+- [Standalone dockerfile with embedded java and using jbang](https://www.reddit.com/r/java/comments/u9akl9/standalone_dockerfile_with_embedded_java_and/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
