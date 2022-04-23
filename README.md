@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Primitive Collections 0.6.0](https://www.reddit.com/r/java/comments/ua6rrg/primitive_collections_060/)
 - [Should I learn design patterns before implementing an application that I&#39;ve been thinking about?](https://www.reddit.com/r/java/comments/ua3c9m/should_i_learn_design_patterns_before/)
 - [Cool plugins to improve console readability?](https://www.reddit.com/r/java/comments/ua0c6l/cool_plugins_to_improve_console_readability/)
-- [What&#39;s new in Jakarta Contexts and Dependency Injection 4.0](https://www.reddit.com/r/java/comments/u9mktt/whats_new_in_jakarta_contexts_and_dependency/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
