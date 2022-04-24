@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Immutability in Java](https://www.reddit.com/r/java/comments/ub564u/immutability_in_java/)
 - [Do you use Spock or JUnit?](https://www.reddit.com/r/java/comments/ub1uo1/do_you_use_spock_or_junit/)
 - [Snowow - a low code service engine](https://www.reddit.com/r/java/comments/uawgc3/snowow_a_low_code_service_engine/)
-- [Tiny, embeddable, secure secrets management library](https://www.reddit.com/r/java/comments/uakxwt/tiny_embeddable_secure_secrets_management_library/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
