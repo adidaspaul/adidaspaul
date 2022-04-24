@@ -64,7 +64,7 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Is it possible to do what .NET MAUI is doing with Java? Is there already a strong competitor to MAUI for Java?](https://www.reddit.com/r/java/comments/uawpxi/is_it_possible_to_do_what_net_maui_is_doing_with/)
+- [Do you use Spock or JUnit?](https://www.reddit.com/r/java/comments/ub1uo1/do_you_use_spock_or_junit/)
 - [Snowow - a low code service engine](https://www.reddit.com/r/java/comments/uawgc3/snowow_a_low_code_service_engine/)
 - [Tiny, embeddable, secure secrets management library](https://www.reddit.com/r/java/comments/uakxwt/tiny_embeddable_secure_secrets_management_library/)
 <!-- BLOG-POST-LIST:END -->
