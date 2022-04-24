@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Fundamentals of Software Optimization Part II — Optimizing Wall Clock Performance: &quot;A profiler is a specialized program that analyzes the performance of other programs to reveal &#39;hot spots,&#39; or small parts of a program that consume a large amount of resources.&quot;](https://www.reddit.com/r/java/comments/uau8b5/fundamentals_of_software_optimization_part_ii/)
 - [When it comes to mobile platform development, is it better to just develop apps using the recommended language like Swift and Java, instead of using a framework like Xamarin?](https://www.reddit.com/r/java/comments/uar74a/when_it_comes_to_mobile_platform_development_is/)
 - [Java 11 on Windows XP?](https://www.reddit.com/r/java/comments/uaqiuh/java_11_on_windows_xp/)
-- [Tiny, embeddable, secure secrets management library](https://www.reddit.com/r/java/comments/uakxwt/tiny_embeddable_secure_secrets_management_library/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
