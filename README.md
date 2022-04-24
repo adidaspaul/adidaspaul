@@ -64,8 +64,8 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [When it comes to mobile platform development, is it better to just develop apps using the recommended language like Swift and Java, instead of using a framework like Xamarin?](https://www.reddit.com/r/java/comments/uar74a/when_it_comes_to_mobile_platform_development_is/)
 - [Java 11 on Windows XP?](https://www.reddit.com/r/java/comments/uaqiuh/java_11_on_windows_xp/)
-- [Got Job as SDE in FANG company but don’t know Java. Help me plz.](https://www.reddit.com/r/java/comments/uaq06h/got_job_as_sde_in_fang_company_but_dont_know_java/)
 - [Tiny, embeddable, secure secrets management library](https://www.reddit.com/r/java/comments/uakxwt/tiny_embeddable_secure_secrets_management_library/)
 <!-- BLOG-POST-LIST:END -->
 
