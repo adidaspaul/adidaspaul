@@ -64,8 +64,8 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Got Job as SDE in FANG company but don’t know Java. Help me plz.](https://www.reddit.com/r/java/comments/uaq06h/got_job_as_sde_in_fang_company_but_dont_know_java/)
 - [Tiny, embeddable, secure secrets management library](https://www.reddit.com/r/java/comments/uakxwt/tiny_embeddable_secure_secrets_management_library/)
-- [Can you share your experience about the first day of your first Java Developer position?](https://www.reddit.com/r/java/comments/uaioff/can_you_share_your_experience_about_the_first_day/)
 - [Primitive Collections 0.6.0](https://www.reddit.com/r/java/comments/ua6rrg/primitive_collections_060/)
 <!-- BLOG-POST-LIST:END -->
 
