@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Is it possible to do what .NET MAUI is doing with Java? Is there already a strong competitor to MAUI for Java?](https://www.reddit.com/r/java/comments/uawpxi/is_it_possible_to_do_what_net_maui_is_doing_with/)
+- [Snowow - a low code service engine](https://www.reddit.com/r/java/comments/uawgc3/snowow_a_low_code_service_engine/)
 - [Tiny, embeddable, secure secrets management library](https://www.reddit.com/r/java/comments/uakxwt/tiny_embeddable_secure_secrets_management_library/)
-- [Primitive Collections 0.6.0](https://www.reddit.com/r/java/comments/ua6rrg/primitive_collections_060/)
-- [What&#39;s new in Jakarta Contexts and Dependency Injection 4.0](https://www.reddit.com/r/java/comments/u9mktt/whats_new_in_jakarta_contexts_and_dependency/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
