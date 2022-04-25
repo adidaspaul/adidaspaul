@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Java News Roundup: CVE-2022-22968, Vector API, Jakarta EE 10 Update, GlassFish 7, WildFly 26.1](https://www.reddit.com/r/java/comments/ubks7j/java_news_roundup_cve202222968_vector_api_jakarta/)
 - [Immutability in Java](https://www.reddit.com/r/java/comments/ubj0jv/immutability_in_java/)
 - [Memory benchmarking in JCMD](https://www.reddit.com/r/java/comments/ubhq7f/memory_benchmarking_in_jcmd/)
-- [LXR a new Java GC](https://www.reddit.com/r/java/comments/ubgyva/lxr_a_new_java_gc/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
