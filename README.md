@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Data in Java programs - a basic conceptual model](https://www.reddit.com/r/java/comments/ubfq9k/data_in_java_programs_a_basic_conceptual_model/)
 - [Asking experienced java backend engineers - What certifications are worth pursuing?](https://www.reddit.com/r/java/comments/ubck66/asking_experienced_java_backend_engineers_what/)
 - [Immutability in Java](https://www.reddit.com/r/java/comments/ub564u/immutability_in_java/)
-- [Do you use Spock or JUnit?](https://www.reddit.com/r/java/comments/ub1uo1/do_you_use_spock_or_junit/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
