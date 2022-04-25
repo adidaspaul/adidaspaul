@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Memory benchmarking in JCMD](https://www.reddit.com/r/java/comments/ubhq7f/memory_benchmarking_in_jcmd/)
 - [LXR a new Java GC](https://www.reddit.com/r/java/comments/ubgyva/lxr_a_new_java_gc/)
 - [A tool for taking valid coredumps on JVMs stuck in a &lpar;Full&rpar;GC loop](https://www.reddit.com/r/java/comments/ubgluw/a_tool_for_taking_valid_coredumps_on_jvms_stuck/)
-- [Data in Java programs - a basic conceptual model](https://www.reddit.com/r/java/comments/ubfq9k/data_in_java_programs_a_basic_conceptual_model/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
