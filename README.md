@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [LXR a new Java GC](https://www.reddit.com/r/java/comments/ubgyva/lxr_a_new_java_gc/)
+- [A tool for taking valid coredumps on JVMs stuck in a &lpar;Full&rpar;GC loop](https://www.reddit.com/r/java/comments/ubgluw/a_tool_for_taking_valid_coredumps_on_jvms_stuck/)
 - [Data in Java programs - a basic conceptual model](https://www.reddit.com/r/java/comments/ubfq9k/data_in_java_programs_a_basic_conceptual_model/)
-- [Asking experienced java backend engineers - What certifications are worth pursuing?](https://www.reddit.com/r/java/comments/ubck66/asking_experienced_java_backend_engineers_what/)
-- [Immutability in Java](https://www.reddit.com/r/java/comments/ub564u/immutability_in_java/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
