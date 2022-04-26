@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Does VsCode not have live update similar to BlueJ? &lpar;Java&rpar;](https://www.reddit.com/r/java/comments/uchmrm/does_vscode_not_have_live_update_similar_to_bluej/)
 - [JEP draft: String Templates &lpar;Preview&rpar;](https://www.reddit.com/r/java/comments/ucew37/jep_draft_string_templates_preview/)
 - [A categorized list of all Java and JVM features since JDK 8 to 18](https://www.reddit.com/r/java/comments/ucc32c/a_categorized_list_of_all_java_and_jvm_features/)
+- [Java-related birthday cake idea](https://www.reddit.com/r/java/comments/ucb4oq/javarelated_birthday_cake_idea/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
