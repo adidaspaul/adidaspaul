@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Java-related birthday cake idea](https://www.reddit.com/r/java/comments/ucb4oq/javarelated_birthday_cake_idea/)
 - [JEP 427: Pattern Matching for switch &lpar;Third Preview&rpar;](https://www.reddit.com/r/java/comments/uc8dmu/jep_427_pattern_matching_for_switch_third_preview/)
 - [The complexity of creating an array of objects](https://www.reddit.com/r/java/comments/ubyd1w/the_complexity_of_creating_an_array_of_objects/)
-- [Java News Roundup: CVE-2022-22968, Vector API, Jakarta EE 10 Update, GlassFish 7, WildFly 26.1](https://www.reddit.com/r/java/comments/ubks7j/java_news_roundup_cve202222968_vector_api_jakarta/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
