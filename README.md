@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [A categorized list of all Java and JVM features since JDK 8 to 18](https://www.reddit.com/r/java/comments/ucc32c/a_categorized_list_of_all_java_and_jvm_features/)
 - [Java-related birthday cake idea](https://www.reddit.com/r/java/comments/ucb4oq/javarelated_birthday_cake_idea/)
 - [JEP 427: Pattern Matching for switch &lpar;Third Preview&rpar;](https://www.reddit.com/r/java/comments/uc8dmu/jep_427_pattern_matching_for_switch_third_preview/)
-- [The complexity of creating an array of objects](https://www.reddit.com/r/java/comments/ubyd1w/the_complexity_of_creating_an_array_of_objects/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
