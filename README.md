@@ -65,8 +65,8 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [The complexity of creating an array of objects](https://www.reddit.com/r/java/comments/ubyd1w/the_complexity_of_creating_an_array_of_objects/)
-- [Can anyone help me with this nullpointerexception that keeps coming up in my Dijkstras algorithm project? I&#39;ll pay](https://www.reddit.com/r/java/comments/uby2no/can_anyone_help_me_with_this_nullpointerexception/)
 - [How to Add Okta Authentication to a Java Application in 5 mins](https://www.reddit.com/r/java/comments/ubxma7/how_to_add_okta_authentication_to_a_java/)
+- [Practical introduction to Event Sourcing with Spring Boot and EventStoreDB](https://www.reddit.com/r/java/comments/ubtmy1/practical_introduction_to_event_sourcing_with/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
