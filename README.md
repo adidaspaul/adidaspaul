@@ -65,8 +65,8 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [The complexity of creating an array of objects](https://www.reddit.com/r/java/comments/ubyd1w/the_complexity_of_creating_an_array_of_objects/)
-- [How to Add Okta Authentication to a Java Application in 5 mins](https://www.reddit.com/r/java/comments/ubxma7/how_to_add_okta_authentication_to_a_java/)
 - [Practical introduction to Event Sourcing with Spring Boot and EventStoreDB](https://www.reddit.com/r/java/comments/ubtmy1/practical_introduction_to_event_sourcing_with/)
+- [Java News Roundup: CVE-2022-22968, Vector API, Jakarta EE 10 Update, GlassFish 7, WildFly 26.1](https://www.reddit.com/r/java/comments/ubks7j/java_news_roundup_cve202222968_vector_api_jakarta/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
