@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Java Panama Polyglot &lpar;Python/Tensorflow&rpar; Part 3](https://www.reddit.com/r/java/comments/ucr7o0/java_panama_polyglot_pythontensorflow_part_3/)
 - [Is maven important for Web app development](https://www.reddit.com/r/java/comments/ucob9t/is_maven_important_for_web_app_development/)
 - [New Relic Release State of Java 2022 Report - Based on Runtime Data From 10s of Millions of JVMs](https://www.reddit.com/r/java/comments/ucm3xe/new_relic_release_state_of_java_2022_report_based/)
-- [5,000,000 persistent connections, 200,000,000 messages, 0 errors with a single process using Project Loom.](https://www.reddit.com/r/java/comments/uckae4/5000000_persistent_connections_200000000_messages/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
