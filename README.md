@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Stick to python or learn java](https://www.reddit.com/r/java/comments/ucyqcc/stick_to_python_or_learn_java/)
 - [Anyone uses gRPC to communicate between backend server and frontend/mobile applications in production?](https://www.reddit.com/r/java/comments/ucu1uh/anyone_uses_grpc_to_communicate_between_backend/)
 - [Java Panama Polyglot &lpar;Python/Tensorflow&rpar; Part 3](https://www.reddit.com/r/java/comments/ucr7o0/java_panama_polyglot_pythontensorflow_part_3/)
-- [Is maven important for Web app development](https://www.reddit.com/r/java/comments/ucob9t/is_maven_important_for_web_app_development/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
