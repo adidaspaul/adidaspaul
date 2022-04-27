@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [I made an event system for Java without the use of interfaces](https://www.reddit.com/r/java/comments/ud514s/i_made_an_event_system_for_java_without_the_use/)
 - [Stick to python or learn java](https://www.reddit.com/r/java/comments/ucyqcc/stick_to_python_or_learn_java/)
 - [Anyone uses gRPC to communicate between backend server and frontend/mobile applications in production?](https://www.reddit.com/r/java/comments/ucu1uh/anyone_uses_grpc_to_communicate_between_backend/)
-- [Java Panama Polyglot &lpar;Python/Tensorflow&rpar; Part 3](https://www.reddit.com/r/java/comments/ucr7o0/java_panama_polyglot_pythontensorflow_part_3/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
