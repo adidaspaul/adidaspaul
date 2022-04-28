@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Why are there no min and max value functions for arrays?](https://www.reddit.com/r/java/comments/udydnb/why_are_there_no_min_and_max_value_functions_for/)
 - [Must Know for Java Developer](https://www.reddit.com/r/java/comments/udwdft/must_know_for_java_developer/)
 - [Is there a standard to size, size&lpar;&rpar;, length, length&lpar;&rpar;, count&lpar;&rpar;, count](https://www.reddit.com/r/java/comments/udtz1j/is_there_a_standard_to_size_size_length_length/)
-- [The real cost of production Garbage Collector](https://www.reddit.com/r/java/comments/udtdke/the_real_cost_of_production_garbage_collector/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
