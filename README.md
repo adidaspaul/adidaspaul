@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Is there a standard to size, size&lpar;&rpar;, length, length&lpar;&rpar;, count&lpar;&rpar;, count](https://www.reddit.com/r/java/comments/udtz1j/is_there_a_standard_to_size_size_length_length/)
+- [The real cost of production Garbage Collector](https://www.reddit.com/r/java/comments/udtdke/the_real_cost_of_production_garbage_collector/)
 - [Innovative database browsing tool with sophisticated and animated Swing UI](https://www.reddit.com/r/java/comments/udqm9s/innovative_database_browsing_tool_with/)
-- [Why write an empty finalize&lpar;&rpar; method?](https://www.reddit.com/r/java/comments/udoefn/why_write_an_empty_finalize_method/)
-- [The Desktop Companion-App Pattern – Java Edition](https://www.reddit.com/r/java/comments/udewqp/the_desktop_companionapp_pattern_java_edition/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
