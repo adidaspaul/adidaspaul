@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Why write an empty finalize&lpar;&rpar; method?](https://www.reddit.com/r/java/comments/udoefn/why_write_an_empty_finalize_method/)
 - [The Desktop Companion-App Pattern – Java Edition](https://www.reddit.com/r/java/comments/udewqp/the_desktop_companionapp_pattern_java_edition/)
 - [Emoji rendering on macOS by JB-Dmitry](https://www.reddit.com/r/java/comments/udbquf/emoji_rendering_on_macos_by_jbdmitry/)
-- [I made an event system for Java without the use of interfaces](https://www.reddit.com/r/java/comments/ud514s/i_made_an_event_system_for_java_without_the_use/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
