@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [36-minutes video for myframework: graphql-provider](https://www.reddit.com/r/java/comments/udqzcz/36minutes_video_for_myframework_graphqlprovider/)
 - [Innovative database browsing tool with sophisticated and animated Swing UI](https://www.reddit.com/r/java/comments/udqm9s/innovative_database_browsing_tool_with/)
 - [Why write an empty finalize&lpar;&rpar; method?](https://www.reddit.com/r/java/comments/udoefn/why_write_an_empty_finalize_method/)
+- [The Desktop Companion-App Pattern – Java Edition](https://www.reddit.com/r/java/comments/udewqp/the_desktop_companionapp_pattern_java_edition/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
