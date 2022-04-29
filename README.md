@@ -64,8 +64,8 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Weld 5 now final!](https://www.reddit.com/r/java/comments/uesxt6/weld_5_now_final/)
 - [The Top 5 New Features Coming in Jakarta EE 10](https://www.reddit.com/r/java/comments/ueqvm0/the_top_5_new_features_coming_in_jakarta_ee_10/)
-- [Need Core Java tutorials or materials to learn for beginner.](https://www.reddit.com/r/java/comments/ueqb66/need_core_java_tutorials_or_materials_to_learn/)
 - [Anybody tried OpenJML&#39;s static checker? What&#39;s it&#39;s state?](https://www.reddit.com/r/java/comments/uekz8g/anybody_tried_openjmls_static_checker_whats_its/)
 <!-- BLOG-POST-LIST:END -->
 
