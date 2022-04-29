@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The Top 5 New Features Coming in Jakarta EE 10](https://www.reddit.com/r/java/comments/ueqvm0/the_top_5_new_features_coming_in_jakarta_ee_10/)
+- [Need Core Java tutorials or materials to learn for beginner.](https://www.reddit.com/r/java/comments/ueqb66/need_core_java_tutorials_or_materials_to_learn/)
 - [Anybody tried OpenJML&#39;s static checker? What&#39;s it&#39;s state?](https://www.reddit.com/r/java/comments/uekz8g/anybody_tried_openjmls_static_checker_whats_its/)
-- [ZGC - What’s new in JDK 18](https://www.reddit.com/r/java/comments/uea4pm/zgc_whats_new_in_jdk_18/)
-- [New open source Java decompiler](https://www.reddit.com/r/java/comments/ue8u59/new_open_source_java_decompiler/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
