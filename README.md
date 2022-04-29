@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [ZGC - What’s new in JDK 18](https://www.reddit.com/r/java/comments/uea4pm/zgc_whats_new_in_jdk_18/)
+- [New open source Java decompiler](https://www.reddit.com/r/java/comments/ue8u59/new_open_source_java_decompiler/)
 - [JEP proposed to target JDK 19: 425: Virtual Threads &lpar;Preview&rpar;](https://www.reddit.com/r/java/comments/ue2ee2/jep_proposed_to_target_jdk_19_425_virtual_threads/)
-- [Firebird JDBC driver Jaybird 4.0.6 released](https://www.reddit.com/r/java/comments/ue1xeh/firebird_jdbc_driver_jaybird_406_released/)
-- [The real cost of production Garbage Collector](https://www.reddit.com/r/java/comments/udtdke/the_real_cost_of_production_garbage_collector/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
