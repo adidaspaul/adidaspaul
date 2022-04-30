@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Hibernate ORM 6.0 Delivers Improved Performance](https://www.reddit.com/r/java/comments/ufbohj/hibernate_orm_60_delivers_improved_performance/)
 - [What is the current state of the art for efficiently handling blocking requests in Java/Spring?](https://www.reddit.com/r/java/comments/uf1gxh/what_is_the_current_state_of_the_art_for/)
 - [Weld 5 now final!](https://www.reddit.com/r/java/comments/uesxt6/weld_5_now_final/)
-- [The Top 5 New Features Coming in Jakarta EE 10](https://www.reddit.com/r/java/comments/ueqvm0/the_top_5_new_features_coming_in_jakarta_ee_10/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
