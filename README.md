@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [If you’re certified oracle in Java, what’s the test like? My company gives us a year to get certified and I’m building study material but my experience is through building the programs and with projects. Is coding part of the certification or is it multiple choice? Just curious Ty](https://www.reddit.com/r/java/comments/ufscj5/if_youre_certified_oracle_in_java_whats_the_test/)
 - [Low code service](https://www.reddit.com/r/java/comments/uff1mz/low_code_service/)
 - [Hibernate ORM 6.0 Delivers Improved Performance](https://www.reddit.com/r/java/comments/ufbohj/hibernate_orm_60_delivers_improved_performance/)
-- [What is the current state of the art for efficiently handling blocking requests in Java/Spring?](https://www.reddit.com/r/java/comments/uf1gxh/what_is_the_current_state_of_the_art_for/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
