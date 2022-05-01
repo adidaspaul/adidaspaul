@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Dominion ECS Examples, a roguelike example with a lighting system distributed over multiple threads using the new Scheduler with fork-and-join functionality &lpar;link in the first comment&rpar;](https://www.reddit.com/r/java/comments/uftyji/dominion_ecs_examples_a_roguelike_example_with_a/)
 - [If you’re certified oracle in Java, what’s the test like? My company gives us a year to get certified and I’m building study material but my experience is through building the programs and with projects. Is coding part of the certification or is it multiple choice? Just curious Ty](https://www.reddit.com/r/java/comments/ufscj5/if_youre_certified_oracle_in_java_whats_the_test/)
 - [Low code service](https://www.reddit.com/r/java/comments/uff1mz/low_code_service/)
-- [Hibernate ORM 6.0 Delivers Improved Performance](https://www.reddit.com/r/java/comments/ufbohj/hibernate_orm_60_delivers_improved_performance/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
