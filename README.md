@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to improve at coding in Java and in algorithms overall.](https://www.reddit.com/r/java/comments/ugnx1s/how_to_improve_at_coding_in_java_and_in/)
 - [JDK 8 to JDK 18 in Garbage Collection: 10 Releases, 2000+ Enhancements](https://www.reddit.com/r/java/comments/ugi5fn/jdk_8_to_jdk_18_in_garbage_collection_10_releases/)
 - [Dominion ECS Examples, a roguelike example with a lighting system distributed over multiple threads using the new Scheduler with fork-and-join functionality &lpar;link in the first comment&rpar;](https://www.reddit.com/r/java/comments/uftyji/dominion_ecs_examples_a_roguelike_example_with_a/)
-- [If you’re certified oracle in Java, what’s the test like? My company gives us a year to get certified and I’m building study material but my experience is through building the programs and with projects. Is coding part of the certification or is it multiple choice? Just curious Ty](https://www.reddit.com/r/java/comments/ufscj5/if_youre_certified_oracle_in_java_whats_the_test/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
