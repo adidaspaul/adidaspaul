@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Which version you have found most useful and stable after Java 8 ?](https://www.reddit.com/r/java/comments/uhfzgc/which_version_you_have_found_most_useful_and/)
+- [This aged well](https://www.reddit.com/r/java/comments/uhfart/this_aged_well/)
 - [CheerpJ 2.3: Run real world Java applications in the browser](https://www.reddit.com/r/java/comments/uhesbw/cheerpj_23_run_real_world_java_applications_in/)
-- [Building hsdis in 2022](https://www.reddit.com/r/java/comments/uh6uzk/building_hsdis_in_2022/)
-- [JoularJX: tool to monitor energy consumption of Java methods](https://www.reddit.com/r/java/comments/ugwej2/joularjx_tool_to_monitor_energy_consumption_of/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
