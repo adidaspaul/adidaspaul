@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Building hsdis in 2022](https://www.reddit.com/r/java/comments/uh6uzk/building_hsdis_in_2022/)
 - [JoularJX: tool to monitor energy consumption of Java methods](https://www.reddit.com/r/java/comments/ugwej2/joularjx_tool_to_monitor_energy_consumption_of/)
 - [JDK 8 to JDK 18 in Garbage Collection: 10 Releases, 2000+ Enhancements](https://www.reddit.com/r/java/comments/ugi5fn/jdk_8_to_jdk_18_in_garbage_collection_10_releases/)
-- [Dominion ECS Examples, a roguelike example with a lighting system distributed over multiple threads using the new Scheduler with fork-and-join functionality &lpar;link in the first comment&rpar;](https://www.reddit.com/r/java/comments/uftyji/dominion_ecs_examples_a_roguelike_example_with_a/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
