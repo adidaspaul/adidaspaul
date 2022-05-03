@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [What blocked you from migrating beyond Java 8?](https://www.reddit.com/r/java/comments/uhjdgj/what_blocked_you_from_migrating_beyond_java_8/)
+- [Amaya web framework](https://www.reddit.com/r/java/comments/uhisft/amaya_web_framework/)
 - [Observability is becoming a part of the dev-tools stack - what you need to know to add it to yours](https://www.reddit.com/r/java/comments/uhhz06/observability_is_becoming_a_part_of_the_devtools/)
-- [Which version you have found most useful and stable after Java 8 ?](https://www.reddit.com/r/java/comments/uhfzgc/which_version_you_have_found_most_useful_and/)
-- [CheerpJ 2.3: Run real world Java applications in the browser](https://www.reddit.com/r/java/comments/uhesbw/cheerpj_23_run_real_world_java_applications_in/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
