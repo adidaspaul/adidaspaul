@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Does anyone actually like java?](https://www.reddit.com/r/java/comments/uhl6kk/does_anyone_actually_like_java/)
 - [What blocked you from migrating beyond Java 8?](https://www.reddit.com/r/java/comments/uhjdgj/what_blocked_you_from_migrating_beyond_java_8/)
 - [Amaya web framework](https://www.reddit.com/r/java/comments/uhisft/amaya_web_framework/)
-- [Observability is becoming a part of the dev-tools stack - what you need to know to add it to yours](https://www.reddit.com/r/java/comments/uhhz06/observability_is_becoming_a_part_of_the_devtools/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
