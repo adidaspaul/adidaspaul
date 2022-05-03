@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Go&#39;s Concurrency Examples in Java 19](https://www.reddit.com/r/java/comments/uhslab/gos_concurrency_examples_in_java_19/)
+- [Java Serialization is Fun](https://www.reddit.com/r/java/comments/uhsl0i/java_serialization_is_fun/)
 - [Where do you use Java versions for that you think are non-LTS?](https://www.reddit.com/r/java/comments/uhm37c/where_do_you_use_java_versions_for_that_you_think/)
-- [What blocked you from migrating beyond Java 8?](https://www.reddit.com/r/java/comments/uhjdgj/what_blocked_you_from_migrating_beyond_java_8/)
-- [Amaya web framework](https://www.reddit.com/r/java/comments/uhisft/amaya_web_framework/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
