@@ -64,7 +64,7 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Does anyone actually like java?](https://www.reddit.com/r/java/comments/uhl6kk/does_anyone_actually_like_java/)
+- [Where do you use Java versions for that you think are non-LTS?](https://www.reddit.com/r/java/comments/uhm37c/where_do_you_use_java_versions_for_that_you_think/)
 - [What blocked you from migrating beyond Java 8?](https://www.reddit.com/r/java/comments/uhjdgj/what_blocked_you_from_migrating_beyond_java_8/)
 - [Amaya web framework](https://www.reddit.com/r/java/comments/uhisft/amaya_web_framework/)
 <!-- BLOG-POST-LIST:END -->
