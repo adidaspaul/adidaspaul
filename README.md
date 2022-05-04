@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [What are Project Loom&#39;s Virtual Thread main advantages over platform threads](https://www.reddit.com/r/java/comments/uiaie9/what_are_project_looms_virtual_thread_main/)
 - [Announcing Infrastructure as Code with Java and Pulumi. Infrastructure provisioning with JVM languages is going get a lot better.](https://www.reddit.com/r/java/comments/uia34s/announcing_infrastructure_as_code_with_java_and/)
 - [3 Reasons Why All Java Developers Should Consider Quarkus](https://www.reddit.com/r/java/comments/ui8jz0/3_reasons_why_all_java_developers_should_consider/)
-- [How do you watch Microsoft JDConf 2022?](https://www.reddit.com/r/java/comments/ui7623/how_do_you_watch_microsoft_jdconf_2022/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
