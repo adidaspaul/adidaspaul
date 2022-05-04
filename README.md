@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Handling manager failures in Spring Batch](https://www.reddit.com/r/java/comments/ui0ssa/handling_manager_failures_in_spring_batch/)
 - [SQLite or other](https://www.reddit.com/r/java/comments/uhy2yg/sqlite_or_other/)
 - [Any new topic thats interesting](https://www.reddit.com/r/java/comments/uhxqle/any_new_topic_thats_interesting/)
-- [Where do you use Java versions for that you think are non-LTS?](https://www.reddit.com/r/java/comments/uhm37c/where_do_you_use_java_versions_for_that_you_think/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
