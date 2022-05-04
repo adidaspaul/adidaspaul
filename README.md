@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How do you watch Microsoft JDConf 2022?](https://www.reddit.com/r/java/comments/ui7623/how_do_you_watch_microsoft_jdconf_2022/)
 - [Handling manager failures in Spring Batch](https://www.reddit.com/r/java/comments/ui0ssa/handling_manager_failures_in_spring_batch/)
 - [SQLite or other](https://www.reddit.com/r/java/comments/uhy2yg/sqlite_or_other/)
-- [Any new topic thats interesting](https://www.reddit.com/r/java/comments/uhxqle/any_new_topic_thats_interesting/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
