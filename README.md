@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [WHEN and NULL In Pattern Matching - Inside Java Newscast #24](https://www.reddit.com/r/java/comments/uivdsa/when_and_null_in_pattern_matching_inside_java/)
 - [JEP proposed to target JDK 19: 424: Foreign Function &amp; Memory API &lpar;Preview&rpar;](https://www.reddit.com/r/java/comments/uii7lc/jep_proposed_to_target_jdk_19_424_foreign/)
 - [What are Project Loom&#39;s Virtual Thread main advantages over platform threads](https://www.reddit.com/r/java/comments/uiaie9/what_are_project_looms_virtual_thread_main/)
-- [Announcing Infrastructure as Code with Java and Pulumi. Infrastructure provisioning with JVM languages is going get a lot better.](https://www.reddit.com/r/java/comments/uia34s/announcing_infrastructure_as_code_with_java_and/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
