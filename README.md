@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Debugger hitting breakpoint only at first and every other 10th try &lpar;spring boot, intelliJ&rpar;](https://www.reddit.com/r/java/comments/uijhin/debugger_hitting_breakpoint_only_at_first_and/)
 - [Twitter list for Java developers](https://www.reddit.com/r/java/comments/uiiwpv/twitter_list_for_java_developers/)
 - [JEP proposed to target JDK 19: 424: Foreign Function &amp; Memory API &lpar;Preview&rpar;](https://www.reddit.com/r/java/comments/uii7lc/jep_proposed_to_target_jdk_19_424_foreign/)
-- [Summer Project Ideas](https://www.reddit.com/r/java/comments/uii57o/summer_project_ideas/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
