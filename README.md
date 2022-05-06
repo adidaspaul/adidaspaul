@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Deserializing JSON without keys using Jackson](https://www.reddit.com/r/java/comments/ujatbm/deserializing_json_without_keys_using_jackson/)
-- [GitHub - mariadb-developers/java-quickstart: This repository contains code samples for getting started with Java and MariaDB.](https://www.reddit.com/r/java/comments/uj3owx/github_mariadbdevelopersjavaquickstart_this/)
-- [Multi-Threaded Programming in Java](https://www.reddit.com/r/java/comments/uj3glz/multithreaded_programming_in_java/)
+- [OneDev 7.1 with command palette, repository mirroring, project navigator and more](https://www.reddit.com/r/java/comments/uixbns/onedev_71_with_command_palette_repository/)
+- [WHEN and NULL In Pattern Matching - Inside Java Newscast #24](https://www.reddit.com/r/java/comments/uivdsa/when_and_null_in_pattern_matching_inside_java/)
+- [JEP proposed to target JDK 19: 424: Foreign Function &amp; Memory API &lpar;Preview&rpar;](https://www.reddit.com/r/java/comments/uii7lc/jep_proposed_to_target_jdk_19_424_foreign/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
