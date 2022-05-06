@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Applet Runner 1.0 released - IDE plugin that runs applets](https://www.reddit.com/r/java/comments/ujp4cy/applet_runner_10_released_ide_plugin_that_runs/)
+- [JEP 425: Virtual Threads &lpar;Preview&rpar; Has been Targeted to JDK 19](https://www.reddit.com/r/java/comments/ujonrp/jep_425_virtual_threads_preview_has_been_targeted/)
 - [Aquifer: GUI generator for command line apps](https://www.reddit.com/r/java/comments/uji7oa/aquifer_gui_generator_for_command_line_apps/)
-- [OneDev 7.1 with command palette, repository mirroring, project navigator and more](https://www.reddit.com/r/java/comments/uixbns/onedev_71_with_command_palette_repository/)
-- [WHEN and NULL In Pattern Matching - Inside Java Newscast #24](https://www.reddit.com/r/java/comments/uivdsa/when_and_null_in_pattern_matching_inside_java/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
