@@ -64,7 +64,7 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Calling methods dynamically without using reflections](https://www.reddit.com/r/java/comments/ujha2v/calling_methods_dynamically_without_using/)
+- [Aquifer: GUI generator for command line apps](https://www.reddit.com/r/java/comments/uji7oa/aquifer_gui_generator_for_command_line_apps/)
 - [OneDev 7.1 with command palette, repository mirroring, project navigator and more](https://www.reddit.com/r/java/comments/uixbns/onedev_71_with_command_palette_repository/)
 - [WHEN and NULL In Pattern Matching - Inside Java Newscast #24](https://www.reddit.com/r/java/comments/uivdsa/when_and_null_in_pattern_matching_inside_java/)
 <!-- BLOG-POST-LIST:END -->
