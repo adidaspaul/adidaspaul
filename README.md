@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Java Reflection](https://www.reddit.com/r/java/comments/ujr2i6/java_reflection/)
+- [What are some good Java textbooks?](https://www.reddit.com/r/java/comments/ujqxae/what_are_some_good_java_textbooks/)
 - [Applet Runner 1.0 released - IDE plugin that runs applets](https://www.reddit.com/r/java/comments/ujp4cy/applet_runner_10_released_ide_plugin_that_runs/)
-- [JEP 425: Virtual Threads &lpar;Preview&rpar; Has been Targeted to JDK 19](https://www.reddit.com/r/java/comments/ujonrp/jep_425_virtual_threads_preview_has_been_targeted/)
-- [Aquifer: GUI generator for command line apps](https://www.reddit.com/r/java/comments/uji7oa/aquifer_gui_generator_for_command_line_apps/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
