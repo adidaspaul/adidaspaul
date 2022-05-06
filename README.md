@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Calling methods dynamically without using reflections](https://www.reddit.com/r/java/comments/ujha2v/calling_methods_dynamically_without_using/)
 - [OneDev 7.1 with command palette, repository mirroring, project navigator and more](https://www.reddit.com/r/java/comments/uixbns/onedev_71_with_command_palette_repository/)
 - [WHEN and NULL In Pattern Matching - Inside Java Newscast #24](https://www.reddit.com/r/java/comments/uivdsa/when_and_null_in_pattern_matching_inside_java/)
-- [JEP proposed to target JDK 19: 424: Foreign Function &amp; Memory API &lpar;Preview&rpar;](https://www.reddit.com/r/java/comments/uii7lc/jep_proposed_to_target_jdk_19_424_foreign/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
