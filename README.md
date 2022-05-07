@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [What&#39;s your top Java pet peeve?](https://www.reddit.com/r/java/comments/ujwe0j/whats_your_top_java_pet_peeve/)
-- [Applet Runner 1.0 released - IDE plugin that runs applets](https://www.reddit.com/r/java/comments/ujp4cy/applet_runner_10_released_ide_plugin_that_runs/)
-- [JEP 425: Virtual Threads &lpar;Preview&rpar; Has been Targeted to JDK 19](https://www.reddit.com/r/java/comments/ujonrp/jep_425_virtual_threads_preview_has_been_targeted/)
+- [Kradle - Bootstrap Java projects with: Hot-reloading, JMH, code-coverage, linting/static analysis, vulnerability analysis, uber-jar/container packaging, and more](https://www.reddit.com/r/java/comments/ukjp6v/kradle_bootstrap_java_projects_with_hotreloading/)
+- [A small economy &amp; stock viewer project created with Javalin &amp; JTE using Java 17](https://www.reddit.com/r/java/comments/ukjjcj/a_small_economy_stock_viewer_project_created_with/)
+- [I&#39;d like to create a front-end in Java](https://www.reddit.com/r/java/comments/ukj8v7/id_like_to_create_a_frontend_in_java/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
