@@ -65,8 +65,8 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [A small economy &amp; stock viewer project created with Javalin &amp; JTE using Java 17](https://www.reddit.com/r/java/comments/ukjjcj/a_small_economy_stock_viewer_project_created_with/)
-- [I&#39;d like to create a front-end in Java](https://www.reddit.com/r/java/comments/ukj8v7/id_like_to_create_a_frontend_in_java/)
 - [WireDI: Framework for dependency injection at compile time, aiming to bridge with runtime dependency injection](https://www.reddit.com/r/java/comments/uke2hx/wiredi_framework_for_dependency_injection_at/)
+- [What&#39;s your top Java pet peeve?](https://www.reddit.com/r/java/comments/ujwe0j/whats_your_top_java_pet_peeve/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
