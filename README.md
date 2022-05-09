@@ -64,7 +64,7 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Using Spring Webflux - doubts](https://www.reddit.com/r/java/comments/ulc52a/using_spring_webflux_doubts/)
+- [Loom proliferation](https://www.reddit.com/r/java/comments/ulj13s/loom_proliferation/)
 - [Lilliput reached an important milestone: 64bit sized object headers.](https://www.reddit.com/r/java/comments/ul14tb/lilliput_reached_an_important_milestone_64bit/)
 - [CI/CD Pipeline for Snowflake Using Jenkins and Schemachange](https://www.reddit.com/r/java/comments/ul04nz/cicd_pipeline_for_snowflake_using_jenkins_and/)
 <!-- BLOG-POST-LIST:END -->
