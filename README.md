@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Using Locks in Jakarta EE CDI](https://www.reddit.com/r/java/comments/ulrtyk/using_locks_in_jakarta_ee_cdi/)
 - [Loom proliferation](https://www.reddit.com/r/java/comments/ulj13s/loom_proliferation/)
 - [Lilliput reached an important milestone: 64bit sized object headers.](https://www.reddit.com/r/java/comments/ul14tb/lilliput_reached_an_important_milestone_64bit/)
-- [CI/CD Pipeline for Snowflake Using Jenkins and Schemachange](https://www.reddit.com/r/java/comments/ul04nz/cicd_pipeline_for_snowflake_using_jenkins_and/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
