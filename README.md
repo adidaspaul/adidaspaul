@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Anyone know that online school: JavaSpecialists.eu?](https://www.reddit.com/r/java/comments/umoho9/anyone_know_that_online_school_javaspecialistseu/)
 - [Who You Gonna Call? Behind the Scenes of JVM Method Invocations](https://www.reddit.com/r/java/comments/umh7xp/who_you_gonna_call_behind_the_scenes_of_jvm/)
 - [Project loom + valhalla + graalvm = Java on steroids](https://www.reddit.com/r/java/comments/ume4k5/project_loom_valhalla_graalvm_java_on_steroids/)
-- [Step by step guide of setting up SSL/TLS for a server and client](https://www.reddit.com/r/java/comments/umdct4/step_by_step_guide_of_setting_up_ssltls_for_a/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
