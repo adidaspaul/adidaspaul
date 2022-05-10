@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [#WeekOfJava - Using Kotlin in a Serverless Architecture with AWS Lambda](https://www.reddit.com/r/java/comments/umpl84/weekofjava_using_kotlin_in_a_serverless/)
 - [Anyone know that online school: JavaSpecialists.eu?](https://www.reddit.com/r/java/comments/umoho9/anyone_know_that_online_school_javaspecialistseu/)
 - [Who You Gonna Call? Behind the Scenes of JVM Method Invocations](https://www.reddit.com/r/java/comments/umh7xp/who_you_gonna_call_behind_the_scenes_of_jvm/)
-- [Project loom + valhalla + graalvm = Java on steroids](https://www.reddit.com/r/java/comments/ume4k5/project_loom_valhalla_graalvm_java_on_steroids/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
