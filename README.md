@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Project loom + valhalla + graalvm = Java on steroids](https://www.reddit.com/r/java/comments/ume4k5/project_loom_valhalla_graalvm_java_on_steroids/)
 - [Step by step guide of setting up SSL/TLS for a server and client](https://www.reddit.com/r/java/comments/umdct4/step_by_step_guide_of_setting_up_ssltls_for_a/)
 - [Should java.util.Date be deprecated?](https://www.reddit.com/r/java/comments/umcizp/should_javautildate_be_deprecated/)
-- [Using Locks in Jakarta EE CDI](https://www.reddit.com/r/java/comments/ulrtyk/using_locks_in_jakarta_ee_cdi/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
