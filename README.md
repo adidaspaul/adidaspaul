@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [HOW TO USE SDKMAN](https://www.reddit.com/r/java/comments/umr7xb/how_to_use_sdkman/)
 - [#WeekOfJava - Using Kotlin in a Serverless Architecture with AWS Lambda](https://www.reddit.com/r/java/comments/umpl84/weekofjava_using_kotlin_in_a_serverless/)
 - [Anyone know that online school: JavaSpecialists.eu?](https://www.reddit.com/r/java/comments/umoho9/anyone_know_that_online_school_javaspecialistseu/)
-- [Who You Gonna Call? Behind the Scenes of JVM Method Invocations](https://www.reddit.com/r/java/comments/umh7xp/who_you_gonna_call_behind_the_scenes_of_jvm/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
