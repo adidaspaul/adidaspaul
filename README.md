@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Step by step guide of setting up SSL/TLS for a server and client](https://www.reddit.com/r/java/comments/umdct4/step_by_step_guide_of_setting_up_ssltls_for_a/)
 - [Should java.util.Date be deprecated?](https://www.reddit.com/r/java/comments/umcizp/should_javautildate_be_deprecated/)
 - [Using Locks in Jakarta EE CDI](https://www.reddit.com/r/java/comments/ulrtyk/using_locks_in_jakarta_ee_cdi/)
-- [Loom proliferation](https://www.reddit.com/r/java/comments/ulj13s/loom_proliferation/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
