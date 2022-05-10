@@ -64,7 +64,7 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [what is wrong?](https://www.reddit.com/r/java/comments/umc13k/what_is_wrong/)
+- [Should java.util.Date be deprecated?](https://www.reddit.com/r/java/comments/umcizp/should_javautildate_be_deprecated/)
 - [Using Locks in Jakarta EE CDI](https://www.reddit.com/r/java/comments/ulrtyk/using_locks_in_jakarta_ee_cdi/)
 - [Loom proliferation](https://www.reddit.com/r/java/comments/ulj13s/loom_proliferation/)
 <!-- BLOG-POST-LIST:END -->
