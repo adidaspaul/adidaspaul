@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [what is wrong?](https://www.reddit.com/r/java/comments/umc13k/what_is_wrong/)
 - [Using Locks in Jakarta EE CDI](https://www.reddit.com/r/java/comments/ulrtyk/using_locks_in_jakarta_ee_cdi/)
 - [Loom proliferation](https://www.reddit.com/r/java/comments/ulj13s/loom_proliferation/)
-- [Lilliput reached an important milestone: 64bit sized object headers.](https://www.reddit.com/r/java/comments/ul14tb/lilliput_reached_an_important_milestone_64bit/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
