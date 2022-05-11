@@ -64,7 +64,7 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [HOW TO USE SDKMAN](https://www.reddit.com/r/java/comments/umr7xb/how_to_use_sdkman/)
+- [what are some good resources and books beside Boyarsky/Selikoff for the prep of 1Z0-829 &lpar;Jdk17 SE&rpar;?](https://www.reddit.com/r/java/comments/umx3fr/what_are_some_good_resources_and_books_beside/)
 - [#WeekOfJava - Using Kotlin in a Serverless Architecture with AWS Lambda](https://www.reddit.com/r/java/comments/umpl84/weekofjava_using_kotlin_in_a_serverless/)
 - [Anyone know that online school: JavaSpecialists.eu?](https://www.reddit.com/r/java/comments/umoho9/anyone_know_that_online_school_javaspecialistseu/)
 <!-- BLOG-POST-LIST:END -->
