@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Programmers with Purpose](https://www.reddit.com/r/java/comments/undqa9/programmers_with_purpose/)
+- [where to find senior Java engineers looking to change gigs?](https://www.reddit.com/r/java/comments/uncjv7/where_to_find_senior_java_engineers_looking_to/)
 - [🚀 Externalized Properties Alpha Release - https://github.com/joeljeremy7/externalized-properties](https://www.reddit.com/r/java/comments/un86rx/externalized_properties_alpha_release/)
-- [Setting the JDBC Statement.setFetchSize&lpar;&rpar; to 1 for Single Row Queries](https://www.reddit.com/r/java/comments/un5n9b/setting_the_jdbc_statementsetfetchsize_to_1_for/)
-- [JavaDoc Specification &lpar;JDK 8 etc&rpar;](https://www.reddit.com/r/java/comments/un00zc/javadoc_specification_jdk_8_etc/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
