@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Setting the JDBC Statement.setFetchSize&lpar;&rpar; to 1 for Single Row Queries](https://www.reddit.com/r/java/comments/un5n9b/setting_the_jdbc_statementsetfetchsize_to_1_for/)
 - [JavaDoc Specification &lpar;JDK 8 etc&rpar;](https://www.reddit.com/r/java/comments/un00zc/javadoc_specification_jdk_8_etc/)
 - [Who You Gonna Call? Behind the Scenes of JVM Method Invocations](https://www.reddit.com/r/java/comments/umh7xp/who_you_gonna_call_behind_the_scenes_of_jvm/)
-- [Project loom + valhalla + graalvm = Java on steroids](https://www.reddit.com/r/java/comments/ume4k5/project_loom_valhalla_graalvm_java_on_steroids/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
