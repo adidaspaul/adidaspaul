@@ -65,8 +65,8 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [JavaDoc Specification &lpar;JDK 8 etc&rpar;](https://www.reddit.com/r/java/comments/un00zc/javadoc_specification_jdk_8_etc/)
-- [what are some good resources and books beside Boyarsky/Selikoff for the prep of 1Z0-829 &lpar;Jdk17 SE&rpar;?](https://www.reddit.com/r/java/comments/umx3fr/what_are_some_good_resources_and_books_beside/)
-- [#WeekOfJava - Using Kotlin in a Serverless Architecture with AWS Lambda](https://www.reddit.com/r/java/comments/umpl84/weekofjava_using_kotlin_in_a_serverless/)
+- [Who You Gonna Call? Behind the Scenes of JVM Method Invocations](https://www.reddit.com/r/java/comments/umh7xp/who_you_gonna_call_behind_the_scenes_of_jvm/)
+- [Project loom + valhalla + graalvm = Java on steroids](https://www.reddit.com/r/java/comments/ume4k5/project_loom_valhalla_graalvm_java_on_steroids/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
