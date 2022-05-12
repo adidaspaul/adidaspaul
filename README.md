@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How do you capture heap dump in Kubernetes](https://www.reddit.com/r/java/comments/unshgu/how_do_you_capture_heap_dump_in_kubernetes/)
+- [JEP 405: Record Patterns Proposed to Target JDK 19](https://www.reddit.com/r/java/comments/unovzh/jep_405_record_patterns_proposed_to_target_jdk_19/)
 - [Utilizing Java to Design and Implement a Multi-Tier Lambda App](https://www.reddit.com/r/java/comments/unhyxu/utilizing_java_to_design_and_implement_a/)
-- [what version of javafx shipped with Java 8 &lpar;1.8.0_231&rpar;](https://www.reddit.com/r/java/comments/unhr35/what_version_of_javafx_shipped_with_java_8_180_231/)
-- [🚀 Externalized Properties Alpha Release - https://github.com/joeljeremy7/externalized-properties](https://www.reddit.com/r/java/comments/un86rx/externalized_properties_alpha_release/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
