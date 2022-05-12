@@ -66,7 +66,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [Proposal: openjdk.java.net → openjdk.org [Mark Reinhold]](https://www.reddit.com/r/java/comments/uo54n5/proposal_openjdkjavanet_openjdkorg_mark_reinhold/)
 - [what will be the error in this code?](https://www.reddit.com/r/java/comments/uo4pes/what_will_be_the_error_in_this_code/)
-- [help find projects so i can work more, im a university student and i want projects to make about OOP like exceptions handling, implementing interfaces, inference, abstract classes, polymorphism and files](https://www.reddit.com/r/java/comments/uo1u47/help_find_projects_so_i_can_work_more_im_a/)
+- [Jakarta EE 10 is Coming Your Way](https://www.reddit.com/r/java/comments/unztdz/jakarta_ee_10_is_coming_your_way/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
