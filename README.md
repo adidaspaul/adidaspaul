@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Jakarta EE 10 is Coming Your Way](https://www.reddit.com/r/java/comments/unztdz/jakarta_ee_10_is_coming_your_way/)
 - [Envelope Encryption in Java using AWS KMS](https://www.reddit.com/r/java/comments/unyn66/envelope_encryption_in_java_using_aws_kms/)
 - [How do you capture heap dump in Kubernetes](https://www.reddit.com/r/java/comments/unshgu/how_do_you_capture_heap_dump_in_kubernetes/)
-- [JEP 405: Record Patterns Proposed to Target JDK 19](https://www.reddit.com/r/java/comments/unovzh/jep_405_record_patterns_proposed_to_target_jdk_19/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
