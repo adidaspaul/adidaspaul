@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Any Sr Java Devs in the US?](https://www.reddit.com/r/java/comments/uo3d0i/any_sr_java_devs_in_the_us/)
 - [help find projects so i can work more, im a university student and i want projects to make about OOP like exceptions handling, implementing interfaces, inference, abstract classes, polymorphism and files](https://www.reddit.com/r/java/comments/uo1u47/help_find_projects_so_i_can_work_more_im_a/)
 - [Jakarta EE 10 is Coming Your Way](https://www.reddit.com/r/java/comments/unztdz/jakarta_ee_10_is_coming_your_way/)
-- [Envelope Encryption in Java using AWS KMS](https://www.reddit.com/r/java/comments/unyn66/envelope_encryption_in_java_using_aws_kms/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
