@@ -65,8 +65,8 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Proposal: openjdk.java.net → openjdk.org [Mark Reinhold]](https://www.reddit.com/r/java/comments/uo54n5/proposal_openjdkjavanet_openjdkorg_mark_reinhold/)
-- [what will be the error in this code?](https://www.reddit.com/r/java/comments/uo4pes/what_will_be_the_error_in_this_code/)
 - [Jakarta EE 10 is Coming Your Way](https://www.reddit.com/r/java/comments/unztdz/jakarta_ee_10_is_coming_your_way/)
+- [Envelope Encryption in Java using AWS KMS](https://www.reddit.com/r/java/comments/unyn66/envelope_encryption_in_java_using_aws_kms/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
