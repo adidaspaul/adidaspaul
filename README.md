@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Redis &lpar;pub/sub&rpar; Subscribe to a Channel Using GET end point](https://www.reddit.com/r/java/comments/uop8h5/redis_pubsub_subscribe_to_a_channel_using_get_end/)
+- [Publish a Java Project to the Maven Central Repository](https://www.reddit.com/r/java/comments/uoowrg/publish_a_java_project_to_the_maven_central/)
 - [Using Java&#39;s Project Loom to build more reliable distributed systems](https://www.reddit.com/r/java/comments/uonl7u/using_javas_project_loom_to_build_more_reliable/)
-- [Flushing in JPA](https://www.reddit.com/r/java/comments/uommj4/flushing_in_jpa/)
-- [Proposal: openjdk.java.net → openjdk.org [Mark Reinhold]](https://www.reddit.com/r/java/comments/uo54n5/proposal_openjdkjavanet_openjdkorg_mark_reinhold/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
