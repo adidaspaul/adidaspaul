@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Swing Like GUI in C++ Under Windows/Linux](https://www.reddit.com/r/java/comments/up02u3/swing_like_gui_in_c_under_windowslinux/)
 - [The 2022 Developer Survey is now open](https://www.reddit.com/r/java/comments/uoysvi/the_2022_developer_survey_is_now_open/)
 - [Do people use JPA a whole lot?](https://www.reddit.com/r/java/comments/uotbtp/do_people_use_jpa_a_whole_lot/)
-- [Publish a Java Project to the Maven Central Repository](https://www.reddit.com/r/java/comments/uoowrg/publish_a_java_project_to_the_maven_central/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
