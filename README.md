@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Flushing in JPA](https://www.reddit.com/r/java/comments/uommj4/flushing_in_jpa/)
 - [Proposal: openjdk.java.net → openjdk.org [Mark Reinhold]](https://www.reddit.com/r/java/comments/uo54n5/proposal_openjdkjavanet_openjdkorg_mark_reinhold/)
 - [Jakarta EE 10 is Coming Your Way](https://www.reddit.com/r/java/comments/unztdz/jakarta_ee_10_is_coming_your_way/)
-- [Envelope Encryption in Java using AWS KMS](https://www.reddit.com/r/java/comments/unyn66/envelope_encryption_in_java_using_aws_kms/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
