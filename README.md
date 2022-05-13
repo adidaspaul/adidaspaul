@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Using Kotlin in a Serverless Architecture with AWS Lambda — Part 5: Testing Your Code](https://www.reddit.com/r/java/comments/up23yt/using_kotlin_in_a_serverless_architecture_with/)
 - [Swing Like GUI in C++ Under Windows/Linux](https://www.reddit.com/r/java/comments/up02u3/swing_like_gui_in_c_under_windowslinux/)
 - [The 2022 Developer Survey is now open](https://www.reddit.com/r/java/comments/uoysvi/the_2022_developer_survey_is_now_open/)
-- [Do people use JPA a whole lot?](https://www.reddit.com/r/java/comments/uotbtp/do_people_use_jpa_a_whole_lot/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
