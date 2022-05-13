@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Using Java&#39;s Project Loom to build more reliable distributed systems](https://www.reddit.com/r/java/comments/uonl7u/using_javas_project_loom_to_build_more_reliable/)
 - [Flushing in JPA](https://www.reddit.com/r/java/comments/uommj4/flushing_in_jpa/)
 - [Proposal: openjdk.java.net → openjdk.org [Mark Reinhold]](https://www.reddit.com/r/java/comments/uo54n5/proposal_openjdkjavanet_openjdkorg_mark_reinhold/)
-- [Jakarta EE 10 is Coming Your Way](https://www.reddit.com/r/java/comments/unztdz/jakarta_ee_10_is_coming_your_way/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
