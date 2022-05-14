@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Do people use JPA a whole lot?](https://www.reddit.com/r/java/comments/uotbtp/do_people_use_jpa_a_whole_lot/)
-- [Publish a Java Project to the Maven Central Repository](https://www.reddit.com/r/java/comments/uoowrg/publish_a_java_project_to_the_maven_central/)
+- [Who publishes the OpenJDK Docker Images?](https://www.reddit.com/r/java/comments/upnvrr/who_publishes_the_openjdk_docker_images/)
 - [Using Java&#39;s Project Loom to build more reliable distributed systems](https://www.reddit.com/r/java/comments/uonl7u/using_javas_project_loom_to_build_more_reliable/)
+- [Proposal: openjdk.java.net → openjdk.org [Mark Reinhold]](https://www.reddit.com/r/java/comments/uo54n5/proposal_openjdkjavanet_openjdkorg_mark_reinhold/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
