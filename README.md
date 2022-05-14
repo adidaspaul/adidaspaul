@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Can someone please help , I&#39;m loosing my mind .I can&#39;t figure this out , when I try to run on TomCat v9 server a maven project with jsf and spring, I get this Exception, My friend can run it with no problem , please if someone knows how to solve this , tell me .](https://www.reddit.com/r/java/comments/upeisi/can_someone_please_help_im_loosing_my_mind_i_cant/)
-- [Can someone please help , I&#39;m loosing my mind .I can&#39;t figure this out , when I try to run on TomCat v9 server a maven project with jsf and spring, I get this Exception, My friend can run it with no problem , please if someone knows how to solve this , tell me .](https://www.reddit.com/r/java/comments/upegc7/can_someone_please_help_im_loosing_my_mind_i_cant/)
 - [Do people use JPA a whole lot?](https://www.reddit.com/r/java/comments/uotbtp/do_people_use_jpa_a_whole_lot/)
+- [Publish a Java Project to the Maven Central Repository](https://www.reddit.com/r/java/comments/uoowrg/publish_a_java_project_to_the_maven_central/)
+- [Using Java&#39;s Project Loom to build more reliable distributed systems](https://www.reddit.com/r/java/comments/uonl7u/using_javas_project_loom_to_build_more_reliable/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
