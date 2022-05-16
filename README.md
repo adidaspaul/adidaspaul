@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [A guide on how to improve your coding skills and make your code more reliable, readable and secure with static code analysis.](https://www.reddit.com/r/java/comments/uquz9r/a_guide_on_how_to_improve_your_coding_skills_and/)
 - [Containerized Amazon Corretto 11 Memory Issues](https://www.reddit.com/r/java/comments/uqrr88/containerized_amazon_corretto_11_memory_issues/)
 - [Talk: JIT Compilation with Graal - Swapnil Gaikwad from Arm](https://www.reddit.com/r/java/comments/uqqvtp/talk_jit_compilation_with_graal_swapnil_gaikwad/)
-- [Fast Seam Carving with a GUI](https://www.reddit.com/r/java/comments/uqm03x/fast_seam_carving_with_a_gui/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
