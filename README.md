@@ -64,7 +64,7 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [How to find the longest words in two or more sentences?](https://www.reddit.com/r/java/comments/uqnir6/how_to_find_the_longest_words_in_two_or_more/)
+- [Talk: JIT Compilation with Graal - Swapnil Gaikwad from Arm](https://www.reddit.com/r/java/comments/uqqvtp/talk_jit_compilation_with_graal_swapnil_gaikwad/)
 - [Fast Seam Carving with a GUI](https://www.reddit.com/r/java/comments/uqm03x/fast_seam_carving_with_a_gui/)
 - [Who publishes the OpenJDK Docker Images?](https://www.reddit.com/r/java/comments/upnvrr/who_publishes_the_openjdk_docker_images/)
 <!-- BLOG-POST-LIST:END -->
