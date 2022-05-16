@@ -65,8 +65,8 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Containerized Amazon Corretto 11 Memory Issues](https://www.reddit.com/r/java/comments/uqrr88/containerized_amazon_corretto_11_memory_issues/)
-- [Can someone please explain what Linearizability is?](https://www.reddit.com/r/java/comments/uqrq6s/can_someone_please_explain_what_linearizability_is/)
 - [Talk: JIT Compilation with Graal - Swapnil Gaikwad from Arm](https://www.reddit.com/r/java/comments/uqqvtp/talk_jit_compilation_with_graal_swapnil_gaikwad/)
+- [Fast Seam Carving with a GUI](https://www.reddit.com/r/java/comments/uqm03x/fast_seam_carving_with_a_gui/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
