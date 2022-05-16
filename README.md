@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Fast Seam Carving with a GUI](https://www.reddit.com/r/java/comments/uqm03x/fast_seam_carving_with_a_gui/)
 - [Who publishes the OpenJDK Docker Images?](https://www.reddit.com/r/java/comments/upnvrr/who_publishes_the_openjdk_docker_images/)
 - [Using Java&#39;s Project Loom to build more reliable distributed systems](https://www.reddit.com/r/java/comments/uonl7u/using_javas_project_loom_to_build_more_reliable/)
-- [Proposal: openjdk.java.net → openjdk.org [Mark Reinhold]](https://www.reddit.com/r/java/comments/uo54n5/proposal_openjdkjavanet_openjdkorg_mark_reinhold/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
