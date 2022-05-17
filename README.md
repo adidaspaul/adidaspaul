@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Java News Roundup: JEPs for JDK 19, Project Lilliput Milestone, Spring Framework, Quarkus 2.9.0](https://www.reddit.com/r/java/comments/urs9y9/java_news_roundup_jeps_for_jdk_19_project/)
 - [How to test a code that uses time? - Improve quality of your project](https://www.reddit.com/r/java/comments/urny73/how_to_test_a_code_that_uses_time_improve_quality/)
 - [Using Linux&#39;s memfd_secret syscall from the JVM with JEP-419 - Panama](https://www.reddit.com/r/java/comments/urm6u9/using_linuxs_memfd_secret_syscall_from_the_jvm/)
-- [Quality outreach heads-up - jep 425 virtual threads &lpar;preview&rpar; testing](https://www.reddit.com/r/java/comments/uqx8s1/quality_outreach_headsup_jep_425_virtual_threads/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
