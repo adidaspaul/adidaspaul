@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Using Linux&#39;s memfd_secret syscall from the JVM with JEP-419 - Panama](https://www.reddit.com/r/java/comments/urm6u9/using_linuxs_memfd_secret_syscall_from_the_jvm/)
 - [Quality outreach heads-up - jep 425 virtual threads &lpar;preview&rpar; testing](https://www.reddit.com/r/java/comments/uqx8s1/quality_outreach_headsup_jep_425_virtual_threads/)
 - [Containerized Amazon Corretto 11 Memory Issues](https://www.reddit.com/r/java/comments/uqrr88/containerized_amazon_corretto_11_memory_issues/)
-- [Talk: JIT Compilation with Graal - Swapnil Gaikwad from Arm](https://www.reddit.com/r/java/comments/uqqvtp/talk_jit_compilation_with_graal_swapnil_gaikwad/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
