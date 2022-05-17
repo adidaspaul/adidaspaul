@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [I need to automate java desktop apps in windows](https://www.reddit.com/r/java/comments/ur97gz/i_need_to_automate_java_desktop_apps_in_windows/)
 - [Quality outreach heads-up - jep 425 virtual threads &lpar;preview&rpar; testing](https://www.reddit.com/r/java/comments/uqx8s1/quality_outreach_headsup_jep_425_virtual_threads/)
 - [Containerized Amazon Corretto 11 Memory Issues](https://www.reddit.com/r/java/comments/uqrr88/containerized_amazon_corretto_11_memory_issues/)
+- [Talk: JIT Compilation with Graal - Swapnil Gaikwad from Arm](https://www.reddit.com/r/java/comments/uqqvtp/talk_jit_compilation_with_graal_swapnil_gaikwad/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
