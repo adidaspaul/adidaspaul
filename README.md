@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Motivation lost](https://www.reddit.com/r/java/comments/us8uso/motivation_lost/)
 - [JDBC based Jailer Database Tools 12.4 is released](https://www.reddit.com/r/java/comments/us7r1q/jdbc_based_jailer_database_tools_124_is_released/)
 - [If two classes have same name in the file and one of them contains the main method, what should be the name of the file?](https://www.reddit.com/r/java/comments/us6u72/if_two_classes_have_same_name_in_the_file_and_one/)
-- [What’s the future of Java/JDK look like?](https://www.reddit.com/r/java/comments/us4fdc/whats_the_future_of_javajdk_look_like/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
