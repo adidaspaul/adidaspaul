@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [If two classes have same name in the file and one of them contains the main method, what should be the name of the file?](https://www.reddit.com/r/java/comments/us6u72/if_two_classes_have_same_name_in_the_file_and_one/)
 - [Rescheduling OCP exam for the sixth time &lpar;Urgent help needed&rpar;](https://www.reddit.com/r/java/comments/us4leu/rescheduling_ocp_exam_for_the_sixth_time_urgent/)
 - [What’s the future of Java/JDK look like?](https://www.reddit.com/r/java/comments/us4fdc/whats_the_future_of_javajdk_look_like/)
-- [New candidate JEP: 428: Structured Concurrency &lpar;Incubator&rpar;](https://www.reddit.com/r/java/comments/ury5ta/new_candidate_jep_428_structured_concurrency/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
