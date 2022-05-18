@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [need a complex OOP Java project on github to learn the code flow.](https://www.reddit.com/r/java/comments/urzk4x/need_a_complex_oop_java_project_on_github_to/)
+- [Rescheduling OCP exam for the sixth time &lpar;Urgent help needed&rpar;](https://www.reddit.com/r/java/comments/us4leu/rescheduling_ocp_exam_for_the_sixth_time_urgent/)
+- [What’s the future of Java/JDK look like?](https://www.reddit.com/r/java/comments/us4fdc/whats_the_future_of_javajdk_look_like/)
 - [New candidate JEP: 428: Structured Concurrency &lpar;Incubator&rpar;](https://www.reddit.com/r/java/comments/ury5ta/new_candidate_jep_428_structured_concurrency/)
-- [Java News Roundup: JEPs for JDK 19, Project Lilliput Milestone, Spring Framework, Quarkus 2.9.0](https://www.reddit.com/r/java/comments/urs9y9/java_news_roundup_jeps_for_jdk_19_project/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
