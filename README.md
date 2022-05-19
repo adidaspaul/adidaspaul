@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [JVM allocated heap keeps growing/shrinking over time](https://www.reddit.com/r/java/comments/utfg6y/jvm_allocated_heap_keeps_growingshrinking_over/)
 - [Discussion: What makes Java so great after 25+ years](https://www.reddit.com/r/java/comments/ut1sjv/discussion_what_makes_java_so_great_after_25_years/)
 - [A package to pretty print trees to the console](https://www.reddit.com/r/java/comments/usyilr/a_package_to_pretty_print_trees_to_the_console/)
-- [Creating JAX-RS REST APls with Apache CXF and Tomcat](https://www.reddit.com/r/java/comments/ustcsm/creating_jaxrs_rest_apls_with_apache_cxf_and/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
