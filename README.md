@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Doom for Java: Welcome the Mocha Doom project](https://www.reddit.com/r/java/comments/ut4x9d/doom_for_java_welcome_the_mocha_doom_project/)
 - [Discussion: What makes Java so great after 25+ years](https://www.reddit.com/r/java/comments/ut1sjv/discussion_what_makes_java_so_great_after_25_years/)
 - [A package to pretty print trees to the console](https://www.reddit.com/r/java/comments/usyilr/a_package_to_pretty_print_trees_to_the_console/)
-- [Creating JAX-RS REST APls with Apache CXF and Tomcat](https://www.reddit.com/r/java/comments/ustcsm/creating_jaxrs_rest_apls_with_apache_cxf_and/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
