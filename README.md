@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to store &quot;response -&gt; response.getData&lpar;&rpar;.getId&lpar;&rpar;&quot; to a String variable?](https://www.reddit.com/r/java/comments/ut7ixd/how_to_store_response_responsegetdatagetid_to_a/)
 - [Doom for Java: Welcome the Mocha Doom project](https://www.reddit.com/r/java/comments/ut4x9d/doom_for_java_welcome_the_mocha_doom_project/)
 - [Discussion: What makes Java so great after 25+ years](https://www.reddit.com/r/java/comments/ut1sjv/discussion_what_makes_java_so_great_after_25_years/)
-- [A package to pretty print trees to the console](https://www.reddit.com/r/java/comments/usyilr/a_package_to_pretty_print_trees_to_the_console/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
