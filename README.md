@@ -65,8 +65,8 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [A package to pretty print trees to the console](https://www.reddit.com/r/java/comments/usyilr/a_package_to_pretty_print_trees_to_the_console/)
-- [CS Students: MLH Hackcon X is happening soon! Register now!](https://www.reddit.com/r/java/comments/ustcv7/cs_students_mlh_hackcon_x_is_happening_soon/)
 - [Creating JAX-RS REST APls with Apache CXF and Tomcat](https://www.reddit.com/r/java/comments/ustcsm/creating_jaxrs_rest_apls_with_apache_cxf_and/)
+- [JDBC based Jailer Database Tools 12.4 is released](https://www.reddit.com/r/java/comments/us7r1q/jdbc_based_jailer_database_tools_124_is_released/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
