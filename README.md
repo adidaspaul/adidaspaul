@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [CS Students: MLH Hackcon X is happening soon! Register now!](https://www.reddit.com/r/java/comments/ustcv7/cs_students_mlh_hackcon_x_is_happening_soon/)
+- [Creating JAX-RS REST APls with Apache CXF and Tomcat](https://www.reddit.com/r/java/comments/ustcsm/creating_jaxrs_rest_apls_with_apache_cxf_and/)
 - [JDBC based Jailer Database Tools 12.4 is released](https://www.reddit.com/r/java/comments/us7r1q/jdbc_based_jailer_database_tools_124_is_released/)
-- [What’s the future of Java/JDK look like?](https://www.reddit.com/r/java/comments/us4fdc/whats_the_future_of_javajdk_look_like/)
-- [New candidate JEP: 428: Structured Concurrency &lpar;Incubator&rpar;](https://www.reddit.com/r/java/comments/ury5ta/new_candidate_jep_428_structured_concurrency/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
