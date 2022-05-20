@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [What are some specific use cases you have implemented batch processing? What are some tasks youve used kafka to complete? Looking for many many different answers.](https://www.reddit.com/r/java/comments/utm33u/what_are_some_specific_use_cases_you_have/)
 - [News Grab Bag: Loom Virtual Threads, Lilliput, Pattern Matching, … - Inside Java Newscast #25](https://www.reddit.com/r/java/comments/utkrmt/news_grab_bag_loom_virtual_threads_lilliput/)
 - [typing speed](https://www.reddit.com/r/java/comments/utis8l/typing_speed/)
-- [JVM allocated heap keeps growing/shrinking over time](https://www.reddit.com/r/java/comments/utfg6y/jvm_allocated_heap_keeps_growingshrinking_over/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
