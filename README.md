@@ -66,7 +66,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [What are some specific use cases you have implemented batch processing? What are some tasks youve used kafka to complete? Looking for many many different answers.](https://www.reddit.com/r/java/comments/utm33u/what_are_some_specific_use_cases_you_have/)
 - [News Grab Bag: Loom Virtual Threads, Lilliput, Pattern Matching, … - Inside Java Newscast #25](https://www.reddit.com/r/java/comments/utkrmt/news_grab_bag_loom_virtual_threads_lilliput/)
-- [typing speed](https://www.reddit.com/r/java/comments/utis8l/typing_speed/)
+- [Discussion: What makes Java so great after 25+ years](https://www.reddit.com/r/java/comments/ut1sjv/discussion_what_makes_java_so_great_after_25_years/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
