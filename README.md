@@ -64,7 +64,7 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [java doubts learning](https://www.reddit.com/r/java/comments/utk50l/java_doubts_learning/)
+- [News Grab Bag: Loom Virtual Threads, Lilliput, Pattern Matching, … - Inside Java Newscast #25](https://www.reddit.com/r/java/comments/utkrmt/news_grab_bag_loom_virtual_threads_lilliput/)
 - [typing speed](https://www.reddit.com/r/java/comments/utis8l/typing_speed/)
 - [JVM allocated heap keeps growing/shrinking over time](https://www.reddit.com/r/java/comments/utfg6y/jvm_allocated_heap_keeps_growingshrinking_over/)
 <!-- BLOG-POST-LIST:END -->
