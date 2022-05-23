@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [modest starter examples for Project Loom](https://www.reddit.com/r/java/comments/uvgeiq/modest_starter_examples_for_project_loom/)
 - [Project Leyden: Beginnings](https://www.reddit.com/r/java/comments/uty9se/project_leyden_beginnings/)
 - [News Grab Bag: Loom Virtual Threads, Lilliput, Pattern Matching, … - Inside Java Newscast #25](https://www.reddit.com/r/java/comments/utkrmt/news_grab_bag_loom_virtual_threads_lilliput/)
-- [Discussion: What makes Java so great after 25+ years](https://www.reddit.com/r/java/comments/ut1sjv/discussion_what_makes_java_so_great_after_25_years/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
