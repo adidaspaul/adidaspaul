@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Beyond Taint Analysis: Detecting Data Flows in Java Applications with ProGuardCORE](https://www.reddit.com/r/java/comments/uwpaxp/beyond_taint_analysis_detecting_data_flows_in/)
 - [Java data access technology survey results - 2022 vs. 2019](https://www.reddit.com/r/java/comments/uwnaq2/java_data_access_technology_survey_results_2022/)
 - [Reading Java Textbooks On A Linux Desktop.](https://www.reddit.com/r/java/comments/uwmtua/reading_java_textbooks_on_a_linux_desktop/)
-- [Is the OCA certification required to take Oracle Certified Professional &lpar;OCP&rpar; Certification For Java 17?](https://www.reddit.com/r/java/comments/uwmh59/is_the_oca_certification_required_to_take_oracle/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
