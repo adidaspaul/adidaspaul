@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Is the OCA certification required to take Oracle Certified Professional &lpar;OCP&rpar; Certification For Java 17?](https://www.reddit.com/r/java/comments/uwmh59/is_the_oca_certification_required_to_take_oracle/)
 - [IntelliJ will soon look like Visual Studio Code](https://www.reddit.com/r/java/comments/uwkp9j/intellij_will_soon_look_like_visual_studio_code/)
 - [Datafaker: An Alternative to Using Production Data](https://www.reddit.com/r/java/comments/uvv65a/datafaker_an_alternative_to_using_production_data/)
-- [modest starter examples for Project Loom](https://www.reddit.com/r/java/comments/uvgeiq/modest_starter_examples_for_project_loom/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
