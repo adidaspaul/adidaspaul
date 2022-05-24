@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [openjdk.java.net ➜ openjdk.org](https://www.reddit.com/r/java/comments/ux08th/openjdkjavanet_openjdkorg/)
 - [Dropwizard 2.1.0 has been released](https://www.reddit.com/r/java/comments/uwqhl5/dropwizard_210_has_been_released/)
 - [Beyond Taint Analysis: Detecting Data Flows in Java Applications with ProGuardCORE](https://www.reddit.com/r/java/comments/uwpaxp/beyond_taint_analysis_detecting_data_flows_in/)
-- [Java data access technology survey results - 2022 vs. 2019](https://www.reddit.com/r/java/comments/uwnaq2/java_data_access_technology_survey_results_2022/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
