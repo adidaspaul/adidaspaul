@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [IntelliJ will soon look like Visual Studio Code](https://www.reddit.com/r/java/comments/uwkp9j/intellij_will_soon_look_like_visual_studio_code/)
 - [Datafaker: An Alternative to Using Production Data](https://www.reddit.com/r/java/comments/uvv65a/datafaker_an_alternative_to_using_production_data/)
 - [modest starter examples for Project Loom](https://www.reddit.com/r/java/comments/uvgeiq/modest_starter_examples_for_project_loom/)
-- [Project Leyden: Beginnings](https://www.reddit.com/r/java/comments/uty9se/project_leyden_beginnings/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
