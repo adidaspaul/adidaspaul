@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Replacing finalizers with cleaners](https://www.reddit.com/r/java/comments/uxdv47/replacing_finalizers_with_cleaners/)
 - [Preparing for Spring Boot 3.0](https://www.reddit.com/r/java/comments/ux9o5y/preparing_for_spring_boot_30/)
 - [openjdk.java.net ➜ openjdk.org](https://www.reddit.com/r/java/comments/ux08th/openjdkjavanet_openjdkorg/)
-- [Dropwizard 2.1.0 has been released](https://www.reddit.com/r/java/comments/uwqhl5/dropwizard_210_has_been_released/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
