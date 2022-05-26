@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Please help! How to apply horizontal view in tableview on scenebuilder &lpar;javafx&rpar;](https://www.reddit.com/r/java/comments/uyhjed/please_help_how_to_apply_horizontal_view_in/)
 - [What does Broadcom’s purchase of VMware mean for Java Spring framework?](https://www.reddit.com/r/java/comments/uyfzpc/what_does_broadcoms_purchase_of_vmware_mean_for/)
 - [Calling C# from Java](https://www.reddit.com/r/java/comments/uycjqd/calling_c_from_java/)
-- [What are some good blogs &amp; resources about low level / high performance Java?](https://www.reddit.com/r/java/comments/uybvt6/what_are_some_good_blogs_resources_about_low/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
