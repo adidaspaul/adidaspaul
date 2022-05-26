@@ -64,8 +64,8 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Maybe I’m stupid but isn’t this supposed to be an enhanced for loop, not a while loop?](https://www.reddit.com/r/java/comments/uybj0t/maybe_im_stupid_but_isnt_this_supposed_to_be_an/)
-- [Is it worth investing time to learn Quarkus over Spring Boot?](https://www.reddit.com/r/java/comments/uy4l3i/is_it_worth_investing_time_to_learn_quarkus_over/)
+- [Calling C# from Java](https://www.reddit.com/r/java/comments/uycjqd/calling_c_from_java/)
+- [What are some good blogs &amp; resources about low level / high performance Java?](https://www.reddit.com/r/java/comments/uybvt6/what_are_some_good_blogs_resources_about_low/)
 - [JEP 428: Structured Concurrency Proposed To Target JDK 19](https://www.reddit.com/r/java/comments/uxxl4z/jep_428_structured_concurrency_proposed_to_target/)
 <!-- BLOG-POST-LIST:END -->
 
