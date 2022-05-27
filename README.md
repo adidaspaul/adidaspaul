@@ -64,7 +64,7 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Friendly community server for Programming and DevOps](https://www.reddit.com/r/java/comments/uyj5m9/friendly_community_server_for_programming_and/)
+- [Ftp servers.](https://www.reddit.com/r/java/comments/uyog1v/ftp_servers/)
 - [All E-books including java at $10 Sale](https://www.reddit.com/r/java/comments/uyi7yf/all_ebooks_including_java_at_10_sale/)
 - [What does Broadcom’s purchase of VMware mean for Java Spring framework?](https://www.reddit.com/r/java/comments/uyfzpc/what_does_broadcoms_purchase_of_vmware_mean_for/)
 <!-- BLOG-POST-LIST:END -->
