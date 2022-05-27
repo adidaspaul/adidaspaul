@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [SD Times Open-Source Project of the Week: Adoptium - SD Times](https://www.reddit.com/r/java/comments/uyzrb1/sd_times_opensource_project_of_the_week_adoptium/)
 - [Adoptium Marketplace Launches - Multiple OpenJDK Vendors](https://www.reddit.com/r/java/comments/uyxxkq/adoptium_marketplace_launches_multiple_openjdk/)
 - [Testing Clean Cleaner Cleanup!](https://www.reddit.com/r/java/comments/uyt5b2/testing_clean_cleaner_cleanup/)
-- [What does Broadcom’s purchase of VMware mean for Java Spring framework?](https://www.reddit.com/r/java/comments/uyfzpc/what_does_broadcoms_purchase_of_vmware_mean_for/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
