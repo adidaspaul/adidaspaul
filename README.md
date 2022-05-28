@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Do you have to pay to use graalvm?](https://www.reddit.com/r/java/comments/uzciiy/do_you_have_to_pay_to_use_graalvm/)
 - [SD Times Open-Source Project of the Week: Adoptium - SD Times](https://www.reddit.com/r/java/comments/uyzrb1/sd_times_opensource_project_of_the_week_adoptium/)
 - [Adoptium Marketplace Launches - Multiple OpenJDK Vendors](https://www.reddit.com/r/java/comments/uyxxkq/adoptium_marketplace_launches_multiple_openjdk/)
-- [Testing Clean Cleaner Cleanup!](https://www.reddit.com/r/java/comments/uyt5b2/testing_clean_cleaner_cleanup/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
