@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Search engine got a bit confused, I was searching about Java ...](https://www.reddit.com/r/java/comments/uztxhv/search_engine_got_a_bit_confused_i_was_searching/)
 - [Java News Roundup: OpenJDK, Jakarta EE 10, WildFly, Apache Tomcat Updates](https://www.reddit.com/r/java/comments/uznbbb/java_news_roundup_openjdk_jakarta_ee_10_wildfly/)
 - [SD Times Open-Source Project of the Week: Adoptium - SD Times](https://www.reddit.com/r/java/comments/uyzrb1/sd_times_opensource_project_of_the_week_adoptium/)
-- [Adoptium Marketplace Launches - Multiple OpenJDK Vendors](https://www.reddit.com/r/java/comments/uyxxkq/adoptium_marketplace_launches_multiple_openjdk/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
