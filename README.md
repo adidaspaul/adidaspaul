@@ -64,8 +64,8 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Close Encounters of The Java Memory Model Kind &lpar;2016&rpar;](https://www.reddit.com/r/java/comments/v0cm12/close_encounters_of_the_java_memory_model_kind/)
 - [The Future of Java by Mark Little](https://www.reddit.com/r/java/comments/v0c300/the_future_of_java_by_mark_little/)
-- [Recommendations for a Java book on OOP and Interfaces?](https://www.reddit.com/r/java/comments/v0b9dn/recommendations_for_a_java_book_on_oop_and/)
 - [Hashtag Jakarta EE #126](https://www.reddit.com/r/java/comments/v0a7rx/hashtag_jakarta_ee_126/)
 <!-- BLOG-POST-LIST:END -->
 
