@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The Future of Java by Mark Little](https://www.reddit.com/r/java/comments/v0c300/the_future_of_java_by_mark_little/)
+- [Recommendations for a Java book on OOP and Interfaces?](https://www.reddit.com/r/java/comments/v0b9dn/recommendations_for_a_java_book_on_oop_and/)
 - [Hashtag Jakarta EE #126](https://www.reddit.com/r/java/comments/v0a7rx/hashtag_jakarta_ee_126/)
-- [Dominion official Early Access, the Java17 Entity Component System now available as a snapshot from the Maven Central repository](https://www.reddit.com/r/java/comments/v09j4q/dominion_official_early_access_the_java17_entity/)
-- [Eclipse Foundation unveils Java binaries marketplace](https://www.reddit.com/r/java/comments/uzuf8w/eclipse_foundation_unveils_java_binaries/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
