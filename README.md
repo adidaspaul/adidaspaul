@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [What do you think about Collections?](https://www.reddit.com/r/java/comments/v0s86r/what_do_you_think_about_collections/)
 - [Java 18 / JDK 18: General Availability](https://www.reddit.com/r/java/comments/v0namv/java_18_jdk_18_general_availability/)
 - [After an eternity, java.com has updated its homepage](https://www.reddit.com/r/java/comments/v0eron/after_an_eternity_javacom_has_updated_its_homepage/)
-- [Close Encounters of The Java Memory Model Kind &lpar;2016&rpar;](https://www.reddit.com/r/java/comments/v0cm12/close_encounters_of_the_java_memory_model_kind/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
