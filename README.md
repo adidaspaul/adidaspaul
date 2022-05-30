@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Java 18 / JDK 18: General Availability](https://www.reddit.com/r/java/comments/v0namv/java_18_jdk_18_general_availability/)
 - [After an eternity, java.com has updated its homepage](https://www.reddit.com/r/java/comments/v0eron/after_an_eternity_javacom_has_updated_its_homepage/)
 - [Close Encounters of The Java Memory Model Kind &lpar;2016&rpar;](https://www.reddit.com/r/java/comments/v0cm12/close_encounters_of_the_java_memory_model_kind/)
-- [The Future of Java by Mark Little](https://www.reddit.com/r/java/comments/v0c300/the_future_of_java_by_mark_little/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
