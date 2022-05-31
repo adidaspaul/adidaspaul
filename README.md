@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Video: Concurrent thread-stack processing in the Z Garbage Collector](https://www.reddit.com/r/java/comments/v1pfun/video_concurrent_threadstack_processing_in_the_z/)
 - [Why is Doug Lea Not Working on Loom?](https://www.reddit.com/r/java/comments/v1ksw0/why_is_doug_lea_not_working_on_loom/)
 - [Faster hashCode&lpar;&rpar; method for large custom lists](https://www.reddit.com/r/java/comments/v1a8wl/faster_hashcode_method_for_large_custom_lists/)
-- [K-RabbitMQ-CDR : copy/dump/restore messages](https://www.reddit.com/r/java/comments/v0vmib/krabbitmqcdr_copydumprestore_messages/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
