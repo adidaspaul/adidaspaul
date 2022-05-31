@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Why is Doug Lea Not Working on Loom?](https://www.reddit.com/r/java/comments/v1ksw0/why_is_doug_lea_not_working_on_loom/)
 - [Faster hashCode&lpar;&rpar; method for large custom lists](https://www.reddit.com/r/java/comments/v1a8wl/faster_hashcode_method_for_large_custom_lists/)
 - [K-RabbitMQ-CDR : copy/dump/restore messages](https://www.reddit.com/r/java/comments/v0vmib/krabbitmqcdr_copydumprestore_messages/)
-- [Java 18 / JDK 18: General Availability](https://www.reddit.com/r/java/comments/v0namv/java_18_jdk_18_general_availability/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
