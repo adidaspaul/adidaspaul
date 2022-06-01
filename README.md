@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Oracle JDK vs OpenJDK for Education Purposes](https://www.reddit.com/r/java/comments/v25rwj/oracle_jdk_vs_openjdk_for_education_purposes/)
 - [Standardizing Native Java](https://www.reddit.com/r/java/comments/v1t5gn/standardizing_native_java/)
 - [Video: Concurrent thread-stack processing in the Z Garbage Collector](https://www.reddit.com/r/java/comments/v1pfun/video_concurrent_threadstack_processing_in_the_z/)
-- [Why is Doug Lea Not Working on Loom?](https://www.reddit.com/r/java/comments/v1ksw0/why_is_doug_lea_not_working_on_loom/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
