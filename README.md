@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [JFR Improved Ergonomics](https://www.reddit.com/r/java/comments/v2a1tl/jfr_improved_ergonomics/)
 - [Oracle JDK vs OpenJDK for Education Purposes](https://www.reddit.com/r/java/comments/v25rwj/oracle_jdk_vs_openjdk_for_education_purposes/)
 - [Standardizing Native Java](https://www.reddit.com/r/java/comments/v1t5gn/standardizing_native_java/)
-- [Video: Concurrent thread-stack processing in the Z Garbage Collector](https://www.reddit.com/r/java/comments/v1pfun/video_concurrent_threadstack_processing_in_the_z/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
