@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Java Weekly by Baeldung, Issue 439](https://www.reddit.com/r/java/comments/v2ip33/java_weekly_by_baeldung_issue_439/)
 - [JFR Improved Ergonomics](https://www.reddit.com/r/java/comments/v2a1tl/jfr_improved_ergonomics/)
 - [Oracle JDK vs OpenJDK for Education Purposes](https://www.reddit.com/r/java/comments/v25rwj/oracle_jdk_vs_openjdk_for_education_purposes/)
-- [Standardizing Native Java](https://www.reddit.com/r/java/comments/v1t5gn/standardizing_native_java/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
