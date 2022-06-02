@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How To Use Java &amp; Spring &lpar;Not Spring Boot&rpar; In VS Code](https://www.reddit.com/r/java/comments/v2v5pa/how_to_use_java_spring_not_spring_boot_in_vs_code/)
 - [Java Weekly by Baeldung, Issue 439](https://www.reddit.com/r/java/comments/v2ip33/java_weekly_by_baeldung_issue_439/)
 - [JFR Improved Ergonomics](https://www.reddit.com/r/java/comments/v2a1tl/jfr_improved_ergonomics/)
-- [Oracle JDK vs OpenJDK for Education Purposes](https://www.reddit.com/r/java/comments/v25rwj/oracle_jdk_vs_openjdk_for_education_purposes/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
