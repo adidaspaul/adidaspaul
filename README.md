@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Loom and Thread Fairness](https://www.reddit.com/r/java/comments/v394uh/loom_and_thread_fairness/)
 - [Panama foreign function overhead - how can it be improved?](https://www.reddit.com/r/java/comments/v33d44/panama_foreign_function_overhead_how_can_it_be/)
 - [Publish a Java library without Maven or Gradle](https://www.reddit.com/r/java/comments/v31bbn/publish_a_java_library_without_maven_or_gradle/)
-- [How To Use Java &amp; Spring &lpar;Not Spring Boot&rpar; In VS Code](https://www.reddit.com/r/java/comments/v2v5pa/how_to_use_java_spring_not_spring_boot_in_vs_code/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
