@@ -65,8 +65,8 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Deconstructing Records in Pattern Matching - Inside Java Newscast #26](https://www.reddit.com/r/java/comments/v3d1g5/deconstructing_records_in_pattern_matching_inside/)
-- [Cannot uninstall Java 17](https://www.reddit.com/r/java/comments/v3czsa/cannot_uninstall_java_17/)
 - [How do I put a bunch of separate projects into one composite Gradle setup?](https://www.reddit.com/r/java/comments/v3cy5u/how_do_i_put_a_bunch_of_separate_projects_into/)
+- [Loom and Thread Fairness](https://www.reddit.com/r/java/comments/v394uh/loom_and_thread_fairness/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
