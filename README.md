@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Loom and Thread Fairness](https://www.reddit.com/r/java/comments/v394uh/loom_and_thread_fairness/)
-- [Panama foreign function overhead - how can it be improved?](https://www.reddit.com/r/java/comments/v33d44/panama_foreign_function_overhead_how_can_it_be/)
-- [Publish a Java library without Maven or Gradle](https://www.reddit.com/r/java/comments/v31bbn/publish_a_java_library_without_maven_or_gradle/)
+- [Deconstructing Records in Pattern Matching - Inside Java Newscast #26](https://www.reddit.com/r/java/comments/v3d1g5/deconstructing_records_in_pattern_matching_inside/)
+- [Cannot uninstall Java 17](https://www.reddit.com/r/java/comments/v3czsa/cannot_uninstall_java_17/)
+- [How do I put a bunch of separate projects into one composite Gradle setup?](https://www.reddit.com/r/java/comments/v3cy5u/how_do_i_put_a_bunch_of_separate_projects_into/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
