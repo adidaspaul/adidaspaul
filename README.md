@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Implement Deep Copy of An Object in Java](https://www.reddit.com/r/java/comments/v3pakw/how_to_implement_deep_copy_of_an_object_in_java/)
+- [A JVM assembler for the modern age](https://www.reddit.com/r/java/comments/v3ondj/a_jvm_assembler_for_the_modern_age/)
 - [Deconstructing Records in Pattern Matching - Inside Java Newscast #26](https://www.reddit.com/r/java/comments/v3d1g5/deconstructing_records_in_pattern_matching_inside/)
-- [How do I put a bunch of separate projects into one composite Gradle setup?](https://www.reddit.com/r/java/comments/v3cy5u/how_do_i_put_a_bunch_of_separate_projects_into/)
-- [Loom and Thread Fairness](https://www.reddit.com/r/java/comments/v394uh/loom_and_thread_fairness/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
