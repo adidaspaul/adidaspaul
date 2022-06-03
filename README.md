@@ -65,8 +65,8 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [A Discord integration for CMUS player using java](https://www.reddit.com/r/java/comments/v3roow/a_discord_integration_for_cmus_player_using_java/)
-- [How to Implement Deep Copy of An Object in Java](https://www.reddit.com/r/java/comments/v3pakw/how_to_implement_deep_copy_of_an_object_in_java/)
 - [A JVM assembler for the modern age](https://www.reddit.com/r/java/comments/v3ondj/a_jvm_assembler_for_the_modern_age/)
+- [Deconstructing Records in Pattern Matching - Inside Java Newscast #26](https://www.reddit.com/r/java/comments/v3d1g5/deconstructing_records_in_pattern_matching_inside/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
