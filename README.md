@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Anyone still using Java 8? Or have you upgraded, and why?](https://www.reddit.com/r/java/comments/v47agv/anyone_still_using_java_8_or_have_you_upgraded/)
 - [A Discord integration for CMUS player using java](https://www.reddit.com/r/java/comments/v3roow/a_discord_integration_for_cmus_player_using_java/)
 - [A JVM assembler for the modern age](https://www.reddit.com/r/java/comments/v3ondj/a_jvm_assembler_for_the_modern_age/)
-- [Deconstructing Records in Pattern Matching - Inside Java Newscast #26](https://www.reddit.com/r/java/comments/v3d1g5/deconstructing_records_in_pattern_matching_inside/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
