@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Becoming a better Java programmer with C?](https://www.reddit.com/r/java/comments/v4mss0/becoming_a_better_java_programmer_with_c/)
 - [Remote Java Developer Technical Hardware and Software Setup - rieckpil](https://www.reddit.com/r/java/comments/v4jqzo/remote_java_developer_technical_hardware_and/)
 - [AKKA system/model&lt; &gt; VS &lt; &gt;SPRING Reactor/Webflux?](https://www.reddit.com/r/java/comments/v4ak2a/akka_systemmodel_vs_spring_reactorwebflux/)
-- [A Discord integration for CMUS player using java](https://www.reddit.com/r/java/comments/v3roow/a_discord_integration_for_cmus_player_using_java/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
