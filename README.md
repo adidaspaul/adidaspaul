@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [After finishing the fundamentals and ADT, what is the best project to start building using java ?](https://www.reddit.com/r/java/comments/v4oq2t/after_finishing_the_fundamentals_and_adt_what_is/)
 - [Becoming a better Java programmer with C?](https://www.reddit.com/r/java/comments/v4mss0/becoming_a_better_java_programmer_with_c/)
 - [Remote Java Developer Technical Hardware and Software Setup - rieckpil](https://www.reddit.com/r/java/comments/v4jqzo/remote_java_developer_technical_hardware_and/)
-- [AKKA system/model&lt; &gt; VS &lt; &gt;SPRING Reactor/Webflux?](https://www.reddit.com/r/java/comments/v4ak2a/akka_systemmodel_vs_spring_reactorwebflux/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
