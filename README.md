@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Implementation of Structured Concurrency &lpar;Incubator&rpar;, JEP 428 is merged with OpenJDK mainline.](https://www.reddit.com/r/java/comments/v4wp7q/implementation_of_structured_concurrency/)
 - [Java Flow Tree](https://www.reddit.com/r/java/comments/v4se9w/java_flow_tree/)
 - [Remote Java Developer Technical Hardware and Software Setup - rieckpil](https://www.reddit.com/r/java/comments/v4jqzo/remote_java_developer_technical_hardware_and/)
-- [AKKA system/model&lt; &gt; VS &lt; &gt;SPRING Reactor/Webflux?](https://www.reddit.com/r/java/comments/v4ak2a/akka_systemmodel_vs_spring_reactorwebflux/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
