@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Whats the fastest or most effective way to learn java?](https://www.reddit.com/r/java/comments/v5c8qe/whats_the_fastest_or_most_effective_way_to_learn/)
 - [Jakarta EE 10 is on its way with WildFly 27](https://www.reddit.com/r/java/comments/v5ab8u/jakarta_ee_10_is_on_its_way_with_wildfly_27/)
 - [Implementation of Structured Concurrency &lpar;Incubator&rpar;, JEP 428 is merged with OpenJDK mainline.](https://www.reddit.com/r/java/comments/v4wp7q/implementation_of_structured_concurrency/)
-- [Java Flow Tree](https://www.reddit.com/r/java/comments/v4se9w/java_flow_tree/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
