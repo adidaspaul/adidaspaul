@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Maven provided scope](https://www.reddit.com/r/java/comments/v5msf5/maven_provided_scope/)
 - [Have there ever been any processors that run Java instructions?](https://www.reddit.com/r/java/comments/v5j5cu/have_there_ever_been_any_processors_that_run_java/)
 - [Jakarta EE 10 is on its way with WildFly 27](https://www.reddit.com/r/java/comments/v5ab8u/jakarta_ee_10_is_on_its_way_with_wildfly_27/)
-- [Implementation of Structured Concurrency &lpar;Incubator&rpar;, JEP 428 is merged with OpenJDK mainline.](https://www.reddit.com/r/java/comments/v4wp7q/implementation_of_structured_concurrency/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
