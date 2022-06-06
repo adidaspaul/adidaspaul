@@ -64,8 +64,8 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Do you find yourself on-call often as a Java developer?](https://www.reddit.com/r/java/comments/v5q198/do_you_find_yourself_oncall_often_as_a_java/)
 - [What does Spring do?](https://www.reddit.com/r/java/comments/v5okh6/what_does_spring_do/)
-- [Maven provided scope](https://www.reddit.com/r/java/comments/v5msf5/maven_provided_scope/)
 - [Have there ever been any processors that run Java instructions?](https://www.reddit.com/r/java/comments/v5j5cu/have_there_ever_been_any_processors_that_run_java/)
 <!-- BLOG-POST-LIST:END -->
 
