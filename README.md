@@ -66,7 +66,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [What do you think about axon framework?](https://www.reddit.com/r/java/comments/v5vcex/what_do_you_think_about_axon_framework/)
 - [Do you find yourself on-call often as a Java developer?](https://www.reddit.com/r/java/comments/v5q198/do_you_find_yourself_oncall_often_as_a_java/)
-- [What does Spring do?](https://www.reddit.com/r/java/comments/v5okh6/what_does_spring_do/)
+- [Improvements to Float.toString&lpar;float&rpar; and Double.toString&lpar;double&rpar;](https://www.reddit.com/r/java/comments/v5ptpx/improvements_to_floattostringfloat_and/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
