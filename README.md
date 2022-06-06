@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [What do you think about axon framework?](https://www.reddit.com/r/java/comments/v5vcex/what_do_you_think_about_axon_framework/)
 - [Do you find yourself on-call often as a Java developer?](https://www.reddit.com/r/java/comments/v5q198/do_you_find_yourself_oncall_often_as_a_java/)
 - [What does Spring do?](https://www.reddit.com/r/java/comments/v5okh6/what_does_spring_do/)
-- [Have there ever been any processors that run Java instructions?](https://www.reddit.com/r/java/comments/v5j5cu/have_there_ever_been_any_processors_that_run_java/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
