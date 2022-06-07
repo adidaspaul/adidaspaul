@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Persistence.xml for hibernate using h2 question](https://www.reddit.com/r/java/comments/v77bx6/persistencexml_for_hibernate_using_h2_question/)
 - [The best Spring Data JpaRepository](https://www.reddit.com/r/java/comments/v73kpr/the_best_spring_data_jparepository/)
 - [Kafka: Manage kafka topics and configs as code](https://www.reddit.com/r/java/comments/v6wxsi/kafka_manage_kafka_topics_and_configs_as_code/)
-- [A Deep Dive into Java 8 equals&lpar;&rpar; and hashcode&lpar;&rpar;](https://www.reddit.com/r/java/comments/v6svx3/a_deep_dive_into_java_8_equals_and_hashcode/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
