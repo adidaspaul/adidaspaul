@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Reactive Programming / Spring Reactor guides or tutorials](https://www.reddit.com/r/java/comments/v6rg3e/reactive_programming_spring_reactor_guides_or/)
 - [Is new software written in Java or C# more?](https://www.reddit.com/r/java/comments/v6ffio/is_new_software_written_in_java_or_c_more/)
 - [MuJoCo physics engine was just released Open Source, so I published jni Java bindings using JavaCPP](https://www.reddit.com/r/java/comments/v64p2o/mujoco_physics_engine_was_just_released_open/)
-- [What do you think about axon framework?](https://www.reddit.com/r/java/comments/v5vcex/what_do_you_think_about_axon_framework/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
