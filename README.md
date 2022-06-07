@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [A Deep Dive into Java 8 equals&lpar;&rpar; and hashcode&lpar;&rpar;](https://www.reddit.com/r/java/comments/v6svx3/a_deep_dive_into_java_8_equals_and_hashcode/)
 - [Reactive Programming / Spring Reactor guides or tutorials](https://www.reddit.com/r/java/comments/v6rg3e/reactive_programming_spring_reactor_guides_or/)
 - [Is new software written in Java or C# more?](https://www.reddit.com/r/java/comments/v6ffio/is_new_software_written_in_java_or_c_more/)
-- [MuJoCo physics engine was just released Open Source, so I published jni Java bindings using JavaCPP](https://www.reddit.com/r/java/comments/v64p2o/mujoco_physics_engine_was_just_released_open/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
