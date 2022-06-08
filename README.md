@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [resources to learn java J2EE technologies](https://www.reddit.com/r/java/comments/v7cmws/resources_to_learn_java_j2ee_technologies/)
 - [Eclipse or no eclipse?](https://www.reddit.com/r/java/comments/v79ifq/eclipse_or_no_eclipse/)
 - [Persistence.xml for hibernate using h2 question](https://www.reddit.com/r/java/comments/v77bx6/persistencexml_for_hibernate_using_h2_question/)
-- [The best Spring Data JpaRepository](https://www.reddit.com/r/java/comments/v73kpr/the_best_spring_data_jparepository/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
