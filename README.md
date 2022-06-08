@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Mojarra 4.0 released!](https://www.reddit.com/r/java/comments/v7ztm1/mojarra_40_released/)
 - [Conway&#39;s Game of Life Implemented With Communicating Sequential Processes &lpar;CSP&rpar; and Project Loom Virtual Threads. 50,000 Cells as V-Threads Communicating Via Channels. https://github.com/ebarlas/game-of-life-csp](https://www.reddit.com/r/java/comments/v7v3v5/conways_game_of_life_implemented_with/)
 - [Scaffolding multiple java files](https://www.reddit.com/r/java/comments/v7u6zw/scaffolding_multiple_java_files/)
-- [Java 19 Virtual Threads - JEP Café #11](https://www.reddit.com/r/java/comments/v7lrd0/java_19_virtual_threads_jep_café_11/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
