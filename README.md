@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Scaffolding multiple java files](https://www.reddit.com/r/java/comments/v7u6zw/scaffolding_multiple_java_files/)
 - [Java 19 Virtual Threads - JEP Café #11](https://www.reddit.com/r/java/comments/v7lrd0/java_19_virtual_threads_jep_café_11/)
 - [Kafka: Manage kafka topics and configs as code](https://www.reddit.com/r/java/comments/v6wxsi/kafka_manage_kafka_topics_and_configs_as_code/)
-- [Is new software written in Java or C# more?](https://www.reddit.com/r/java/comments/v6ffio/is_new_software_written_in_java_or_c_more/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
