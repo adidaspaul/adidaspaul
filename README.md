@@ -66,7 +66,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [Java 19 Virtual Threads - JEP Café #11](https://www.reddit.com/r/java/comments/v7lrd0/java_19_virtual_threads_jep_café_11/)
 - [Kafka: Manage kafka topics and configs as code](https://www.reddit.com/r/java/comments/v6wxsi/kafka_manage_kafka_topics_and_configs_as_code/)
-- [A Deep Dive into Java 8 equals&lpar;&rpar; and hashcode&lpar;&rpar;](https://www.reddit.com/r/java/comments/v6svx3/a_deep_dive_into_java_8_equals_and_hashcode/)
+- [Is new software written in Java or C# more?](https://www.reddit.com/r/java/comments/v6ffio/is_new_software_written_in_java_or_c_more/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
