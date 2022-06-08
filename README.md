@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Who I should learn Java ?](https://www.reddit.com/r/java/comments/v7gu89/who_i_should_learn_java/)
-- [resources to learn java J2EE technologies](https://www.reddit.com/r/java/comments/v7cmws/resources_to_learn_java_j2ee_technologies/)
-- [Eclipse or no eclipse?](https://www.reddit.com/r/java/comments/v79ifq/eclipse_or_no_eclipse/)
+- [Java 19 Virtual Threads - JEP Café #11](https://www.reddit.com/r/java/comments/v7lrd0/java_19_virtual_threads_jep_café_11/)
+- [Kafka: Manage kafka topics and configs as code](https://www.reddit.com/r/java/comments/v6wxsi/kafka_manage_kafka_topics_and_configs_as_code/)
+- [A Deep Dive into Java 8 equals&lpar;&rpar; and hashcode&lpar;&rpar;](https://www.reddit.com/r/java/comments/v6svx3/a_deep_dive_into_java_8_equals_and_hashcode/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
