@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Conway&#39;s Game of Life Implemented With Communicating Sequential Processes &lpar;CSP&rpar; and Project Loom Virtual Threads. 50,000 Cells as V-Threads Communicating Via Channels. https://github.com/ebarlas/game-of-life-csp](https://www.reddit.com/r/java/comments/v7v3v5/conways_game_of_life_implemented_with/)
 - [Scaffolding multiple java files](https://www.reddit.com/r/java/comments/v7u6zw/scaffolding_multiple_java_files/)
 - [Java 19 Virtual Threads - JEP Café #11](https://www.reddit.com/r/java/comments/v7lrd0/java_19_virtual_threads_jep_café_11/)
-- [Kafka: Manage kafka topics and configs as code](https://www.reddit.com/r/java/comments/v6wxsi/kafka_manage_kafka_topics_and_configs_as_code/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
