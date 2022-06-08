@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [how to find first two digits of any four or more digit number?](https://www.reddit.com/r/java/comments/v7k5ey/how_to_find_first_two_digits_of_any_four_or_more/)
-- [how to find first two digits of a five digit number?](https://www.reddit.com/r/java/comments/v7jvmr/how_to_find_first_two_digits_of_a_five_digit/)
 - [Who I should learn Java ?](https://www.reddit.com/r/java/comments/v7gu89/who_i_should_learn_java/)
+- [resources to learn java J2EE technologies](https://www.reddit.com/r/java/comments/v7cmws/resources_to_learn_java_j2ee_technologies/)
+- [Eclipse or no eclipse?](https://www.reddit.com/r/java/comments/v79ifq/eclipse_or_no_eclipse/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
