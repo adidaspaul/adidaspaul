@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Why is it called abstraction?](https://www.reddit.com/r/java/comments/v8bj99/why_is_it_called_abstraction/)
-- [Question about how Gradle handles runtime classpaths and dependencies](https://www.reddit.com/r/java/comments/v86u25/question_about_how_gradle_handles_runtime/)
-- [Mojarra 4.0 released!](https://www.reddit.com/r/java/comments/v7ztm1/mojarra_40_released/)
+- [What&#39;s the status of game dev and GC pauses in Java since JDK 16?](https://www.reddit.com/r/java/comments/v8ee6m/whats_the_status_of_game_dev_and_gc_pauses_in/)
+- [Why do people want to write small functions using Java?](https://www.reddit.com/r/java/comments/v8e0fd/why_do_people_want_to_write_small_functions_using/)
+- [Spring Boot starter project/template for Apps backend.](https://www.reddit.com/r/java/comments/v8dq8y/spring_boot_starter_projecttemplate_for_apps/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
