@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Maven dependencies getting to me](https://www.reddit.com/r/java/comments/v8kp25/maven_dependencies_getting_to_me/)
 - [Java Annotated Monthly – June 2022](https://www.reddit.com/r/java/comments/v8f0cw/java_annotated_monthly_june_2022/)
 - [What&#39;s the status of game dev and GC pauses in Java since JDK 16?](https://www.reddit.com/r/java/comments/v8ee6m/whats_the_status_of_game_dev_and_gc_pauses_in/)
+- [Why do people want to write small functions using Java?](https://www.reddit.com/r/java/comments/v8e0fd/why_do_people_want_to_write_small_functions_using/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
