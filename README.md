@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Why is it called abstraction?](https://www.reddit.com/r/java/comments/v8bj99/why_is_it_called_abstraction/)
 - [Question about how Gradle handles runtime classpaths and dependencies](https://www.reddit.com/r/java/comments/v86u25/question_about_how_gradle_handles_runtime/)
 - [Mojarra 4.0 released!](https://www.reddit.com/r/java/comments/v7ztm1/mojarra_40_released/)
-- [Conway&#39;s Game of Life Implemented With Communicating Sequential Processes &lpar;CSP&rpar; and Project Loom Virtual Threads. 50,000 Cells as V-Threads Communicating Via Channels. https://github.com/ebarlas/game-of-life-csp](https://www.reddit.com/r/java/comments/v7v3v5/conways_game_of_life_implemented_with/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
