@@ -64,7 +64,7 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [What is the best way to re-learn Java for a very experienced programmers?](https://www.reddit.com/r/java/comments/v9hfla/what_is_the_best_way_to_relearn_java_for_a_very/)
+- [Average Oracle move](https://www.reddit.com/r/java/comments/v9iyou/average_oracle_move/)
 - [Java Weekly - Issue 441](https://www.reddit.com/r/java/comments/v9bje8/java_weekly_issue_441/)
 - [&quot;With&quot; for records -- Brian Goetz](https://www.reddit.com/r/java/comments/v97r5t/with_for_records_brian_goetz/)
 <!-- BLOG-POST-LIST:END -->
