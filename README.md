@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [What happened to Concise Method Bodies?](https://www.reddit.com/r/java/comments/v93za1/what_happened_to_concise_method_bodies/)
 - [Do you use funny names/comments on your code?](https://www.reddit.com/r/java/comments/v8lznm/do_you_use_funny_namescomments_on_your_code/)
 - [Java Annotated Monthly – June 2022](https://www.reddit.com/r/java/comments/v8f0cw/java_annotated_monthly_june_2022/)
-- [What&#39;s the status of game dev and GC pauses in Java since JDK 16?](https://www.reddit.com/r/java/comments/v8ee6m/whats_the_status_of_game_dev_and_gc_pauses_in/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
