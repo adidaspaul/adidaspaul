@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [&quot;With&quot; for records -- Brian Goetz](https://www.reddit.com/r/java/comments/v97r5t/with_for_records_brian_goetz/)
 - [What happened to Concise Method Bodies?](https://www.reddit.com/r/java/comments/v93za1/what_happened_to_concise_method_bodies/)
 - [Do you use funny names/comments on your code?](https://www.reddit.com/r/java/comments/v8lznm/do_you_use_funny_namescomments_on_your_code/)
-- [Java Annotated Monthly – June 2022](https://www.reddit.com/r/java/comments/v8f0cw/java_annotated_monthly_june_2022/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
