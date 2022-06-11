@@ -64,8 +64,8 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Project Guidance](https://www.reddit.com/r/java/comments/va2yb9/project_guidance/)
 - [NightMonkeys: Additional plug-ins and extensions for Java&#39;s ImageIO using native libraries](https://www.reddit.com/r/java/comments/v9xzsr/nightmonkeys_additional_plugins_and_extensions/)
-- [What is exactly java&lpar;newbie here&rpar;](https://www.reddit.com/r/java/comments/v9qznu/what_is_exactly_javanewbie_here/)
 - [Average Oracle move](https://www.reddit.com/r/java/comments/v9iyou/average_oracle_move/)
 <!-- BLOG-POST-LIST:END -->
 
