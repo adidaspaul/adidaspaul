@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [What is exactly java&lpar;newbie here&rpar;](https://www.reddit.com/r/java/comments/v9qznu/what_is_exactly_javanewbie_here/)
 - [Average Oracle move](https://www.reddit.com/r/java/comments/v9iyou/average_oracle_move/)
 - [Java Weekly - Issue 441](https://www.reddit.com/r/java/comments/v9bje8/java_weekly_issue_441/)
-- [&quot;With&quot; for records -- Brian Goetz](https://www.reddit.com/r/java/comments/v97r5t/with_for_records_brian_goetz/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
