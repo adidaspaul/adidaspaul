@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Resources to learn Spring Boot?](https://www.reddit.com/r/java/comments/vax8cm/resources_to_learn_spring_boot/)
 - [Which project to build for my portfolio?](https://www.reddit.com/r/java/comments/varepg/which_project_to_build_for_my_portfolio/)
 - [What Is A NullPointerException In Java? Let&#39;s Understand And Learn How To Avoid It!](https://www.reddit.com/r/java/comments/vapu19/what_is_a_nullpointerexception_in_java_lets/)
-- [What I miss in Java, the perspective of a Kotlin developer](https://www.reddit.com/r/java/comments/vapd27/what_i_miss_in_java_the_perspective_of_a_kotlin/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
