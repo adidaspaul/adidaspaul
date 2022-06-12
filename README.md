@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Preparing for technical interview](https://www.reddit.com/r/java/comments/va8rn0/preparing_for_technical_interview/)
 - [NightMonkeys: Additional plug-ins and extensions for Java&#39;s ImageIO using native libraries](https://www.reddit.com/r/java/comments/v9xzsr/nightmonkeys_additional_plugins_and_extensions/)
-- [Average Oracle move](https://www.reddit.com/r/java/comments/v9iyou/average_oracle_move/)
+- [Java Weekly - Issue 441](https://www.reddit.com/r/java/comments/v9bje8/java_weekly_issue_441/)
+- [&quot;With&quot; for records -- Brian Goetz](https://www.reddit.com/r/java/comments/v97r5t/with_for_records_brian_goetz/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
