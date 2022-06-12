@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Using Java&#39;s Project Loom to build more reliable distributed systems](https://www.reddit.com/r/java/comments/vahyi5/using_javas_project_loom_to_build_more_reliable/)
+- [SIMD accelerated sorting in Java - how it works and why it was 3x faster](https://www.reddit.com/r/java/comments/vahy5k/simd_accelerated_sorting_in_java_how_it_works_and/)
 - [NightMonkeys: Additional plug-ins and extensions for Java&#39;s ImageIO using native libraries](https://www.reddit.com/r/java/comments/v9xzsr/nightmonkeys_additional_plugins_and_extensions/)
-- [Java Weekly - Issue 441](https://www.reddit.com/r/java/comments/v9bje8/java_weekly_issue_441/)
-- [&quot;With&quot; for records -- Brian Goetz](https://www.reddit.com/r/java/comments/v97r5t/with_for_records_brian_goetz/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
