@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [What I miss in Java, the perspective of a Kotlin developer](https://www.reddit.com/r/java/comments/vapd27/what_i_miss_in_java_the_perspective_of_a_kotlin/)
 - [Using Java&#39;s Project Loom to build more reliable distributed systems](https://www.reddit.com/r/java/comments/vahyi5/using_javas_project_loom_to_build_more_reliable/)
 - [SIMD accelerated sorting in Java - how it works and why it was 3x faster](https://www.reddit.com/r/java/comments/vahy5k/simd_accelerated_sorting_in_java_how_it_works_and/)
-- [NightMonkeys: Additional plug-ins and extensions for Java&#39;s ImageIO using native libraries](https://www.reddit.com/r/java/comments/v9xzsr/nightmonkeys_additional_plugins_and_extensions/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
