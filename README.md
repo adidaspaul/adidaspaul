@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to use javascript libraries for plotting charts into JTE templates, do you have any examples?](https://www.reddit.com/r/java/comments/vbfz7v/how_to_use_javascript_libraries_for_plotting/)
 - [Java recap for week 23/2022](https://www.reddit.com/r/java/comments/vbeit8/java_recap_for_week_232022/)
 - [Helidon 2.5.1 is released!](https://www.reddit.com/r/java/comments/vbe9iy/helidon_251_is_released/)
-- [Need a topic for a 5-10min presentation. Preferably Spring](https://www.reddit.com/r/java/comments/vb9dd6/need_a_topic_for_a_510min_presentation_preferably/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
