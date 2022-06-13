@@ -64,7 +64,7 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Resources to learn Spring Boot?](https://www.reddit.com/r/java/comments/vax8cm/resources_to_learn_spring_boot/)
+- [Feature Request: sealed-enum &lpar;and maybe non-sealed enum&rpar;](https://www.reddit.com/r/java/comments/vb0v3g/feature_request_sealedenum_and_maybe_nonsealed/)
 - [Which project to build for my portfolio?](https://www.reddit.com/r/java/comments/varepg/which_project_to_build_for_my_portfolio/)
 - [What Is A NullPointerException In Java? Let&#39;s Understand And Learn How To Avoid It!](https://www.reddit.com/r/java/comments/vapu19/what_is_a_nullpointerexception_in_java_lets/)
 <!-- BLOG-POST-LIST:END -->
