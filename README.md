@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [I am trying to run a game in eclipse. When i transferred the files to my mac and tried to run it only a grey screen loads. It runs perfectly on my other computer. Anyone know how to fix this?](https://www.reddit.com/r/java/comments/vbc6qg/i_am_trying_to_run_a_game_in_eclipse_when_i/)
 - [Need a topic for a 5-10min presentation. Preferably Spring](https://www.reddit.com/r/java/comments/vb9dd6/need_a_topic_for_a_510min_presentation_preferably/)
 - [Feature Request: sealed-enum &lpar;and maybe non-sealed enum&rpar;](https://www.reddit.com/r/java/comments/vb0v3g/feature_request_sealedenum_and_maybe_nonsealed/)
-- [What I miss in Java, the perspective of a Kotlin developer](https://www.reddit.com/r/java/comments/vapd27/what_i_miss_in_java_the_perspective_of_a_kotlin/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
