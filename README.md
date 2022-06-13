@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [good sources to study java](https://www.reddit.com/r/java/comments/vb5fcj/good_sources_to_study_java/)
 - [Feature Request: sealed-enum &lpar;and maybe non-sealed enum&rpar;](https://www.reddit.com/r/java/comments/vb0v3g/feature_request_sealedenum_and_maybe_nonsealed/)
 - [What I miss in Java, the perspective of a Kotlin developer](https://www.reddit.com/r/java/comments/vapd27/what_i_miss_in_java_the_perspective_of_a_kotlin/)
+- [Using Java&#39;s Project Loom to build more reliable distributed systems](https://www.reddit.com/r/java/comments/vahyi5/using_javas_project_loom_to_build_more_reliable/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
