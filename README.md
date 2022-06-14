@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Benchmark of Java Configuration Libraries](https://www.reddit.com/r/java/comments/vc4llb/benchmark_of_java_configuration_libraries/)
 - [Game of Life - Panama Edition](https://www.reddit.com/r/java/comments/vbzmth/game_of_life_panama_edition/)
 - [Loom support coming for Vert.X or similar framework?](https://www.reddit.com/r/java/comments/vbn4fz/loom_support_coming_for_vertx_or_similar_framework/)
-- [Java recap for week 23/2022](https://www.reddit.com/r/java/comments/vbeit8/java_recap_for_week_232022/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
