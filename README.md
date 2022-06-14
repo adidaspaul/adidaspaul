@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Question: How do you handle oversized heap analysis?](https://www.reddit.com/r/java/comments/vca5q2/question_how_do_you_handle_oversized_heap_analysis/)
 - [What is your experience with GraalVM Native?](https://www.reddit.com/r/java/comments/vc9s3u/what_is_your_experience_with_graalvm_native/)
 - [Benchmark of Java Configuration Libraries](https://www.reddit.com/r/java/comments/vc4llb/benchmark_of_java_configuration_libraries/)
-- [Game of Life - Panama Edition](https://www.reddit.com/r/java/comments/vbzmth/game_of_life_panama_edition/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
