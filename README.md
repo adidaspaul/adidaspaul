@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Game of Life - Panama Edition](https://www.reddit.com/r/java/comments/vbzmth/game_of_life_panama_edition/)
 - [Loom support coming for Vert.X or similar framework?](https://www.reddit.com/r/java/comments/vbn4fz/loom_support_coming_for_vertx_or_similar_framework/)
 - [Java recap for week 23/2022](https://www.reddit.com/r/java/comments/vbeit8/java_recap_for_week_232022/)
-- [Helidon 2.5.1 is released!](https://www.reddit.com/r/java/comments/vbe9iy/helidon_251_is_released/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
