@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [What is your experience with GraalVM Native?](https://www.reddit.com/r/java/comments/vc9s3u/what_is_your_experience_with_graalvm_native/)
 - [Benchmark of Java Configuration Libraries](https://www.reddit.com/r/java/comments/vc4llb/benchmark_of_java_configuration_libraries/)
 - [Game of Life - Panama Edition](https://www.reddit.com/r/java/comments/vbzmth/game_of_life_panama_edition/)
-- [Loom support coming for Vert.X or similar framework?](https://www.reddit.com/r/java/comments/vbn4fz/loom_support_coming_for_vertx_or_similar_framework/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
