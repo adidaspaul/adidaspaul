@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to add dynamic tags/labels to Java profiles &lpar;example&rpar;](https://www.reddit.com/r/java/comments/vcu7qj/how_to_add_dynamic_tagslabels_to_java_profiles/)
 - [Using URLs for dependency management](https://www.reddit.com/r/java/comments/vckux0/using_urls_for_dependency_management/)
 - [Question: How do you handle oversized heap analysis?](https://www.reddit.com/r/java/comments/vca5q2/question_how_do_you_handle_oversized_heap_analysis/)
-- [What is your experience with GraalVM Native?](https://www.reddit.com/r/java/comments/vc9s3u/what_is_your_experience_with_graalvm_native/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
