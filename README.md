@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Using URLs for dependency management](https://www.reddit.com/r/java/comments/vckux0/using_urls_for_dependency_management/)
 - [Question: How do you handle oversized heap analysis?](https://www.reddit.com/r/java/comments/vca5q2/question_how_do_you_handle_oversized_heap_analysis/)
 - [What is your experience with GraalVM Native?](https://www.reddit.com/r/java/comments/vc9s3u/what_is_your_experience_with_graalvm_native/)
-- [Benchmark of Java Configuration Libraries](https://www.reddit.com/r/java/comments/vc4llb/benchmark_of_java_configuration_libraries/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
