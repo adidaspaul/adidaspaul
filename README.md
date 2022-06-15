@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Java or Kotlin?](https://www.reddit.com/r/java/comments/vcz2sx/java_or_kotlin/)
 - [What common problems do you face when analysing JStack files/ Thread dumps?](https://www.reddit.com/r/java/comments/vcw94w/what_common_problems_do_you_face_when_analysing/)
 - [How to add dynamic tags/labels to Java profiles &lpar;example&rpar;](https://www.reddit.com/r/java/comments/vcu7qj/how_to_add_dynamic_tagslabels_to_java_profiles/)
+- [Question: How do you handle oversized heap analysis?](https://www.reddit.com/r/java/comments/vca5q2/question_how_do_you_handle_oversized_heap_analysis/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
