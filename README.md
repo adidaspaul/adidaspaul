@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [LinkedIn’s journey to Java 11](https://www.reddit.com/r/java/comments/vdqm4m/linkedins_journey_to_java_11/)
 - [What macbook configuration is good for java backend development ? Macbook air vs pro ? 8 gb of ram vs 16 vs 32 ?](https://www.reddit.com/r/java/comments/vdpuqt/what_macbook_configuration_is_good_for_java/)
 - [Serving Spark NLP via API: Spring and LightPipelines](https://www.reddit.com/r/java/comments/vdmkiy/serving_spark_nlp_via_api_spring_and/)
-- [A curated list of articles, videos, and other resources to learn and practice software architecture, patterns, and principles.](https://www.reddit.com/r/java/comments/vdlte8/a_curated_list_of_articles_videos_and_other/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
