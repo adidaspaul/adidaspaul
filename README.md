@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Java 19 - The Best Java Release? - Inside Java Newscast](https://www.reddit.com/r/java/comments/vdd63a/java_19_the_best_java_release_inside_java_newscast/)
 - [Confession](https://www.reddit.com/r/java/comments/vd2gnt/confession/)
 - [Spark-NLP 4.0.0 🚀: New modern extractive Question answering &lpar;QA&rpar; annotators for ALBERT, BERT, DistilBERT, DeBERTa, RoBERTa, Longformer, and XLM-RoBERTa, official support for Apple silicon M1, support oneDNN to improve CPU up to 97%, improved transformers on GPU up to +700%, 1000+ SOTA models](https://www.reddit.com/r/java/comments/vd20yd/sparknlp_400_new_modern_extractive_question/)
-- [What common problems do you face when analysing JStack files/ Thread dumps?](https://www.reddit.com/r/java/comments/vcw94w/what_common_problems_do_you_face_when_analysing/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
