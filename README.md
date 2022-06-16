@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Serving Spark NLP via API: Spring and LightPipelines](https://www.reddit.com/r/java/comments/vdmkiy/serving_spark_nlp_via_api_spring_and/)
 - [A curated list of articles, videos, and other resources to learn and practice software architecture, patterns, and principles.](https://www.reddit.com/r/java/comments/vdlte8/a_curated_list_of_articles_videos_and_other/)
 - [Creating a &lpar;hierarchical&rpar; state machine in Java](https://www.reddit.com/r/java/comments/vdifnk/creating_a_hierarchical_state_machine_in_java/)
-- [Java 19 - The Best Java Release? - Inside Java Newscast](https://www.reddit.com/r/java/comments/vdd63a/java_19_the_best_java_release_inside_java_newscast/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
