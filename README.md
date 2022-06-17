@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Java DEV salaries - Midwest US](https://www.reddit.com/r/java/comments/vec21d/java_dev_salaries_midwest_us/)
 - [MOOC. Fi and GUI](https://www.reddit.com/r/java/comments/ve9mfv/mooc_fi_and_gui/)
 - [Java SQL code generator. SQL and OOP united finally.](https://www.reddit.com/r/java/comments/vdxryn/java_sql_code_generator_sql_and_oop_united_finally/)
-- [LinkedIn’s journey to Java 11](https://www.reddit.com/r/java/comments/vdqm4m/linkedins_journey_to_java_11/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
