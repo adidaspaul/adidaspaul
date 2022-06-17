@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [MOOC. Fi and GUI](https://www.reddit.com/r/java/comments/ve9mfv/mooc_fi_and_gui/)
 - [Java SQL code generator. SQL and OOP united finally.](https://www.reddit.com/r/java/comments/vdxryn/java_sql_code_generator_sql_and_oop_united_finally/)
 - [LinkedIn’s journey to Java 11](https://www.reddit.com/r/java/comments/vdqm4m/linkedins_journey_to_java_11/)
-- [What macbook configuration is good for java backend development ? Macbook air vs pro ? 8 gb of ram vs 16 vs 32 ?](https://www.reddit.com/r/java/comments/vdpuqt/what_macbook_configuration_is_good_for_java/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
