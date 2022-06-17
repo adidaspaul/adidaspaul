@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Apache NetBeans 14 released](https://www.reddit.com/r/java/comments/vept9m/apache_netbeans_14_released/)
 - [IntelliJ 2022.2 EAP 5 released with Support for Spring 6 Features, Enhanced HTTP Client, Kubernetes Updates and GraalVM native debugger](https://www.reddit.com/r/java/comments/vel79a/intellij_20222_eap_5_released_with_support_for/)
 - [An Introduction to Project Loom](https://www.reddit.com/r/java/comments/vekw34/an_introduction_to_project_loom/)
-- [Java DEV salaries - Midwest US](https://www.reddit.com/r/java/comments/vec21d/java_dev_salaries_midwest_us/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
