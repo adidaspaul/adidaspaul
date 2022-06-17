@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [An Introduction to Project Loom](https://www.reddit.com/r/java/comments/vekw34/an_introduction_to_project_loom/)
 - [Java DEV salaries - Midwest US](https://www.reddit.com/r/java/comments/vec21d/java_dev_salaries_midwest_us/)
 - [Java SQL code generator. SQL and OOP united finally.](https://www.reddit.com/r/java/comments/vdxryn/java_sql_code_generator_sql_and_oop_united_finally/)
-- [LinkedIn’s journey to Java 11](https://www.reddit.com/r/java/comments/vdqm4m/linkedins_journey_to_java_11/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
