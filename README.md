@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Does anyone remember a PC game that teaches you to code games in Java?](https://www.reddit.com/r/java/comments/vew4yv/does_anyone_remember_a_pc_game_that_teaches_you/)
 - [JEP draft: Classfile API](https://www.reddit.com/r/java/comments/vetx4w/jep_draft_classfile_api/)
 - [Apache NetBeans 14 released](https://www.reddit.com/r/java/comments/vept9m/apache_netbeans_14_released/)
-- [IntelliJ 2022.2 EAP 5 released with Support for Spring 6 Features, Enhanced HTTP Client, Kubernetes Updates and GraalVM native debugger](https://www.reddit.com/r/java/comments/vel79a/intellij_20222_eap_5_released_with_support_for/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
