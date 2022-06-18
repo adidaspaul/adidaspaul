@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [JEP draft: Classfile API](https://www.reddit.com/r/java/comments/vetx4w/jep_draft_classfile_api/)
 - [Apache NetBeans 14 released](https://www.reddit.com/r/java/comments/vept9m/apache_netbeans_14_released/)
 - [IntelliJ 2022.2 EAP 5 released with Support for Spring 6 Features, Enhanced HTTP Client, Kubernetes Updates and GraalVM native debugger](https://www.reddit.com/r/java/comments/vel79a/intellij_20222_eap_5_released_with_support_for/)
-- [An Introduction to Project Loom](https://www.reddit.com/r/java/comments/vekw34/an_introduction_to_project_loom/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
