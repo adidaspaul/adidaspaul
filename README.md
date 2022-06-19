@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [[ Discussion ] Thinking of switching from PHP to Java](https://www.reddit.com/r/java/comments/vg52ei/discussion_thinking_of_switching_from_php_to_java/)
 - [Apache Derby 10.16 released!](https://www.reddit.com/r/java/comments/vg1ac5/apache_derby_1016_released/)
 - [[Useful? / Not Useful?] For consideration: RecordBuilder Enhancer](https://www.reddit.com/r/java/comments/vfqp9g/useful_not_useful_for_consideration_recordbuilder/)
-- [Eclipse 2022-06 released](https://www.reddit.com/r/java/comments/vf1fek/eclipse_202206_released/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
