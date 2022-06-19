@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Where can I download JavaFX SDK 17.0.3? Thank you](https://www.reddit.com/r/java/comments/vfxhm1/where_can_i_download_javafx_sdk_1703_thank_you/)
 - [Eclipse 2022-06 released](https://www.reddit.com/r/java/comments/vf1fek/eclipse_202206_released/)
 - [Does anyone remember a PC game that teaches you to code games in Java?](https://www.reddit.com/r/java/comments/vew4yv/does_anyone_remember_a_pc_game_that_teaches_you/)
-- [JEP draft: Classfile API](https://www.reddit.com/r/java/comments/vetx4w/jep_draft_classfile_api/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
