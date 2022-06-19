@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Apache Derby 10.16 released!](https://www.reddit.com/r/java/comments/vg1ac5/apache_derby_1016_released/)
 - [[Useful? / Not Useful?] For consideration: RecordBuilder Enhancer](https://www.reddit.com/r/java/comments/vfqp9g/useful_not_useful_for_consideration_recordbuilder/)
 - [Eclipse 2022-06 released](https://www.reddit.com/r/java/comments/vf1fek/eclipse_202206_released/)
-- [Does anyone remember a PC game that teaches you to code games in Java?](https://www.reddit.com/r/java/comments/vew4yv/does_anyone_remember_a_pc_game_that_teaches_you/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
