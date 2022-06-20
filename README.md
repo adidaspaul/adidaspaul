@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Resources for exercises](https://www.reddit.com/r/java/comments/vgw1sm/resources_for_exercises/)
+- [is anyone want to join maintaining spark java framework?](https://www.reddit.com/r/java/comments/vgur0h/is_anyone_want_to_join_maintaining_spark_java/)
 - [game engines for 2D games in java?](https://www.reddit.com/r/java/comments/vgmu5f/game_engines_for_2d_games_in_java/)
-- [Data Oriented Programming in Java](https://www.reddit.com/r/java/comments/vglo4m/data_oriented_programming_in_java/)
-- [New app using ZK Framework/Vaadin/JSF: wise or unwise?](https://www.reddit.com/r/java/comments/vgjmqd/new_app_using_zk_frameworkvaadinjsf_wise_or_unwise/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
