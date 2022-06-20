@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Data Oriented Programming in Java](https://www.reddit.com/r/java/comments/vglo4m/data_oriented_programming_in_java/)
 - [New app using ZK Framework/Vaadin/JSF: wise or unwise?](https://www.reddit.com/r/java/comments/vgjmqd/new_app_using_zk_frameworkvaadinjsf_wise_or_unwise/)
 - [Decluttering Google Guava](https://www.reddit.com/r/java/comments/vgd3i6/decluttering_google_guava/)
-- [[ Discussion ] Thinking of switching from PHP to Java](https://www.reddit.com/r/java/comments/vg52ei/discussion_thinking_of_switching_from_php_to_java/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
