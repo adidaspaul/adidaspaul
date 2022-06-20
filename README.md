@@ -65,8 +65,8 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Decluttering Google Guava](https://www.reddit.com/r/java/comments/vgd3i6/decluttering_google_guava/)
-- [Does importing only class &lpar;Scanner class for example&rpar; instead of the entire package, decrease the runtime?](https://www.reddit.com/r/java/comments/vgd0uv/does_importing_only_class_scanner_class_for/)
 - [[ Discussion ] Thinking of switching from PHP to Java](https://www.reddit.com/r/java/comments/vg52ei/discussion_thinking_of_switching_from_php_to_java/)
+- [Apache Derby 10.16 released!](https://www.reddit.com/r/java/comments/vg1ac5/apache_derby_1016_released/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
