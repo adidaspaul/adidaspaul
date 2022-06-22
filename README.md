@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Qodana - Static Code Analysis for your CI/CD pipeline by JetBrains](https://www.reddit.com/r/java/comments/vhzmtn/qodana_static_code_analysis_for_your_cicd/)
 - [is anyone want to join maintaining spark java framework?](https://www.reddit.com/r/java/comments/vgur0h/is_anyone_want_to_join_maintaining_spark_java/)
 - [game engines for 2D games in java?](https://www.reddit.com/r/java/comments/vgmu5f/game_engines_for_2d_games_in_java/)
-- [Data Oriented Programming in Java](https://www.reddit.com/r/java/comments/vglo4m/data_oriented_programming_in_java/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
