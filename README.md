@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Securing Jakarta Enterprise Beans with mutual TLS authentication in WildFly](https://www.reddit.com/r/java/comments/viblqk/securing_jakarta_enterprise_beans_with_mutual_tls/)
 - [Introduction to ksqlDB on Kubernetes with Spring Boot - Piotr&#39;s TechBlog](https://www.reddit.com/r/java/comments/vi6sxy/introduction_to_ksqldb_on_kubernetes_with_spring/)
 - [How can one report errors &lpar;typos and such&rpar; in the JEP documents?](https://www.reddit.com/r/java/comments/vi3ane/how_can_one_report_errors_typos_and_such_in_the/)
-- [Qodana - Static Code Analysis for your CI/CD pipeline by JetBrains](https://www.reddit.com/r/java/comments/vhzmtn/qodana_static_code_analysis_for_your_cicd/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
