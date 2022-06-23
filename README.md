@@ -65,8 +65,8 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Java on Visual Studio Code Update – June 2022](https://www.reddit.com/r/java/comments/viv248/java_on_visual_studio_code_update_june_2022/)
-- [restricting access to application via IP address in tomcat server](https://www.reddit.com/r/java/comments/viu74b/restricting_access_to_application_via_ip_address/)
 - [Spring Transaction Best Practices](https://www.reddit.com/r/java/comments/vioj6v/spring_transaction_best_practices/)
+- [A lightweight Java2D SVG rendering engine](https://www.reddit.com/r/java/comments/vigyem/a_lightweight_java2d_svg_rendering_engine/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
