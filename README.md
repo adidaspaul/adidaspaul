@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Google Web Toolkit &lpar;GWT&rpar; 2.10.0 released](https://www.reddit.com/r/java/comments/vj7mex/google_web_toolkit_gwt_2100_released/)
 - [Java on Visual Studio Code Update – June 2022](https://www.reddit.com/r/java/comments/viv248/java_on_visual_studio_code_update_june_2022/)
 - [Spring Transaction Best Practices](https://www.reddit.com/r/java/comments/vioj6v/spring_transaction_best_practices/)
-- [A lightweight Java2D SVG rendering engine](https://www.reddit.com/r/java/comments/vigyem/a_lightweight_java2d_svg_rendering_engine/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
