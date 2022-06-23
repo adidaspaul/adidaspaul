@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Java Stream API like library for Javascript / Typescript](https://www.reddit.com/r/java/comments/viv5fo/java_stream_api_like_library_for_javascript/)
 - [Java on Visual Studio Code Update – June 2022](https://www.reddit.com/r/java/comments/viv248/java_on_visual_studio_code_update_june_2022/)
 - [restricting access to application via IP address in tomcat server](https://www.reddit.com/r/java/comments/viu74b/restricting_access_to_application_via_ip_address/)
+- [Spring Transaction Best Practices](https://www.reddit.com/r/java/comments/vioj6v/spring_transaction_best_practices/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
