@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Should I use Spring Core or Spring Boot?](https://www.reddit.com/r/java/comments/vj58wx/should_i_use_spring_core_or_spring_boot/)
 - [Java on Visual Studio Code Update – June 2022](https://www.reddit.com/r/java/comments/viv248/java_on_visual_studio_code_update_june_2022/)
 - [Spring Transaction Best Practices](https://www.reddit.com/r/java/comments/vioj6v/spring_transaction_best_practices/)
-- [A lightweight Java2D SVG rendering engine](https://www.reddit.com/r/java/comments/vigyem/a_lightweight_java2d_svg_rendering_engine/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
