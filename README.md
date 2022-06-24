@@ -66,7 +66,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [My attempt at transforming immutable objects](https://www.reddit.com/r/java/comments/vjp72m/my_attempt_at_transforming_immutable_objects/)
 - [Flix For Java Programmers](https://www.reddit.com/r/java/comments/vjobxe/flix_for_java_programmers/)
-- [I got my first offer to work as a java developer](https://www.reddit.com/r/java/comments/vjm9i5/i_got_my_first_offer_to_work_as_a_java_developer/)
+- [jOOQ 3.17.0 release with client side computed columns, audit columns, pattern matching, reactive transactions and kotlin coroutine support](https://www.reddit.com/r/java/comments/vjj2ht/jooq_3170_release_with_client_side_computed/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
