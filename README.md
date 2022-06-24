@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Flix For Java Programmers](https://www.reddit.com/r/java/comments/vjobxe/flix_for_java_programmers/)
+- [I got my first offer to work as a java developer](https://www.reddit.com/r/java/comments/vjm9i5/i_got_my_first_offer_to_work_as_a_java_developer/)
 - [jOOQ 3.17.0 release with client side computed columns, audit columns, pattern matching, reactive transactions and kotlin coroutine support](https://www.reddit.com/r/java/comments/vjj2ht/jooq_3170_release_with_client_side_computed/)
-- [Google Web Toolkit &lpar;GWT&rpar; 2.10.0 released](https://www.reddit.com/r/java/comments/vj7mex/google_web_toolkit_gwt_2100_released/)
-- [Java on Visual Studio Code Update – June 2022](https://www.reddit.com/r/java/comments/viv248/java_on_visual_studio_code_update_june_2022/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
