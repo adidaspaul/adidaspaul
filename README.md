@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Jdk.Classfile Javadoc &lpar;in-development&rpar;](https://www.reddit.com/r/java/comments/vjwju7/jdkclassfile_javadoc_indevelopment/)
 - [Stack Overflow Developer Survey: 54% of Respondents Dread Java?](https://www.reddit.com/r/java/comments/vjtum6/stack_overflow_developer_survey_54_of_respondents/)
 - [My attempt at transforming immutable objects](https://www.reddit.com/r/java/comments/vjp72m/my_attempt_at_transforming_immutable_objects/)
-- [jOOQ 3.17.0 release with client side computed columns, audit columns, pattern matching, reactive transactions and kotlin coroutine support](https://www.reddit.com/r/java/comments/vjj2ht/jooq_3170_release_with_client_side_computed/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
