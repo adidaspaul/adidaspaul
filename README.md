@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Best practices to keep hands on keyboard with IntelliJ IDEA? I&#39;m sick of arrow keys and mouse interruptions!](https://www.reddit.com/r/java/comments/vkhol4/best_practices_to_keep_hands_on_keyboard_with/)
 - [Java Decompiler Gui](https://www.reddit.com/r/java/comments/vkh8tm/java_decompiler_gui/)
 - [Jdk.Classfile Javadoc &lpar;in-development&rpar;](https://www.reddit.com/r/java/comments/vjwju7/jdkclassfile_javadoc_indevelopment/)
-- [Stack Overflow Developer Survey: 54% of Respondents Dread Java?](https://www.reddit.com/r/java/comments/vjtum6/stack_overflow_developer_survey_54_of_respondents/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
