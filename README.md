@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [java.com &lpar;the famous red website asking to update is gone&rpar;](https://www.reddit.com/r/java/comments/vkwt02/javacom_the_famous_red_website_asking_to_update/)
 - [Java Decompiler Gui](https://www.reddit.com/r/java/comments/vkh8tm/java_decompiler_gui/)
 - [Jdk.Classfile Javadoc &lpar;in-development&rpar;](https://www.reddit.com/r/java/comments/vjwju7/jdkclassfile_javadoc_indevelopment/)
-- [Stack Overflow Developer Survey: 54% of Respondents Dread Java?](https://www.reddit.com/r/java/comments/vjtum6/stack_overflow_developer_survey_54_of_respondents/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
