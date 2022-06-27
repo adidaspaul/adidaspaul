@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The road to JBoss EAP 8](https://www.reddit.com/r/java/comments/vm24cb/the_road_to_jboss_eap_8/)
 - [What science &lpar;study&rpar; I have to select to become a developer?](https://www.reddit.com/r/java/comments/vlyngt/what_science_study_i_have_to_select_to_become_a/)
 - [With ZGC is Azul JVM still relevant?](https://www.reddit.com/r/java/comments/vlxhz9/with_zgc_is_azul_jvm_still_relevant/)
-- [What do you want to know about OpenJDK?](https://www.reddit.com/r/java/comments/vlt2se/what_do_you_want_to_know_about_openjdk/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
