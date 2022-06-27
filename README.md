@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [What science &lpar;study&rpar; I have to select to become a developer?](https://www.reddit.com/r/java/comments/vlyngt/what_science_study_i_have_to_select_to_become_a/)
 - [With ZGC is Azul JVM still relevant?](https://www.reddit.com/r/java/comments/vlxhz9/with_zgc_is_azul_jvm_still_relevant/)
 - [What do you want to know about OpenJDK?](https://www.reddit.com/r/java/comments/vlt2se/what_do_you_want_to_know_about_openjdk/)
-- [OpenRewrite - Major migrations made easy](https://www.reddit.com/r/java/comments/vlj9er/openrewrite_major_migrations_made_easy/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
