@@ -64,7 +64,7 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Help me! I don&#39; t know what&#39;s happening but my code showing this &quot;[I@76ed5528&quot; as output of this code](https://www.reddit.com/r/java/comments/vlwd73/help_me_i_don_t_know_whats_happening_but_my_code/)
+- [With ZGC is Azul JVM still relevant?](https://www.reddit.com/r/java/comments/vlxhz9/with_zgc_is_azul_jvm_still_relevant/)
 - [What do you want to know about OpenJDK?](https://www.reddit.com/r/java/comments/vlt2se/what_do_you_want_to_know_about_openjdk/)
 - [OpenRewrite - Major migrations made easy](https://www.reddit.com/r/java/comments/vlj9er/openrewrite_major_migrations_made_easy/)
 <!-- BLOG-POST-LIST:END -->
