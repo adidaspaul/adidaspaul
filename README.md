@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Help me! I don&#39; t know what&#39;s happening but my code showing this &quot;[I@76ed5528&quot; as output of this code](https://www.reddit.com/r/java/comments/vlwd73/help_me_i_don_t_know_whats_happening_but_my_code/)
 - [What do you want to know about OpenJDK?](https://www.reddit.com/r/java/comments/vlt2se/what_do_you_want_to_know_about_openjdk/)
 - [OpenRewrite - Major migrations made easy](https://www.reddit.com/r/java/comments/vlj9er/openrewrite_major_migrations_made_easy/)
-- [OpenRewrite - tool to transform/upgrade your code](https://www.reddit.com/r/java/comments/vlj333/openrewrite_tool_to_transformupgrade_your_code/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
