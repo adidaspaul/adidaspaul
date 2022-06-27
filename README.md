@@ -65,8 +65,8 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [OpenRewrite - Major migrations made easy](https://www.reddit.com/r/java/comments/vlj9er/openrewrite_major_migrations_made_easy/)
+- [OpenRewrite - tool to transform/upgrade your code](https://www.reddit.com/r/java/comments/vlj333/openrewrite_tool_to_transformupgrade_your_code/)
 - [java.com &lpar;the famous red website asking to update is gone&rpar;](https://www.reddit.com/r/java/comments/vkwt02/javacom_the_famous_red_website_asking_to_update/)
-- [Java Decompiler Gui](https://www.reddit.com/r/java/comments/vkh8tm/java_decompiler_gui/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
