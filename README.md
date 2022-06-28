@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenJDK developer setup](https://www.reddit.com/r/java/comments/vmnc2l/openjdk_developer_setup/)
 - [Libraries other than Spring Boot for creating web APIs](https://www.reddit.com/r/java/comments/vmlri2/libraries_other_than_spring_boot_for_creating_web/)
 - [What&#39;s happening to GlassFish?](https://www.reddit.com/r/java/comments/vmln2y/whats_happening_to_glassfish/)
-- [Experiment: Building a Java Runtime with only 1 garbage collector](https://www.reddit.com/r/java/comments/vmk3ap/experiment_building_a_java_runtime_with_only_1/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
