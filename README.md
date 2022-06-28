@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Libraries other than Spring Boot for creating web APIs](https://www.reddit.com/r/java/comments/vmlri2/libraries_other_than_spring_boot_for_creating_web/)
+- [What&#39;s happening to GlassFish?](https://www.reddit.com/r/java/comments/vmln2y/whats_happening_to_glassfish/)
 - [Experiment: Building a Java Runtime with only 1 garbage collector](https://www.reddit.com/r/java/comments/vmk3ap/experiment_building_a_java_runtime_with_only_1/)
-- [Java workspace - docker image with Java and browser-based VS-code](https://www.reddit.com/r/java/comments/vmhpwf/java_workspace_docker_image_with_java_and/)
-- [The road to JBoss EAP 8](https://www.reddit.com/r/java/comments/vm24cb/the_road_to_jboss_eap_8/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
