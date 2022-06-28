@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [AudioCue, a class for concurrent, dynamic Audio playback from memory](https://www.reddit.com/r/java/comments/vmrahu/audiocue_a_class_for_concurrent_dynamic_audio/)
 - [OpenJDK developer setup](https://www.reddit.com/r/java/comments/vmnc2l/openjdk_developer_setup/)
 - [Libraries other than Spring Boot for creating web APIs](https://www.reddit.com/r/java/comments/vmlri2/libraries_other_than_spring_boot_for_creating_web/)
-- [What&#39;s happening to GlassFish?](https://www.reddit.com/r/java/comments/vmln2y/whats_happening_to_glassfish/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
