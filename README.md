@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Java workspace - docker image with Java and browser-based VS-code](https://www.reddit.com/r/java/comments/vmhpwf/java_workspace_docker_image_with_java_and/)
 - [The road to JBoss EAP 8](https://www.reddit.com/r/java/comments/vm24cb/the_road_to_jboss_eap_8/)
 - [With ZGC is Azul JVM still relevant?](https://www.reddit.com/r/java/comments/vlxhz9/with_zgc_is_azul_jvm_still_relevant/)
-- [What do you want to know about OpenJDK?](https://www.reddit.com/r/java/comments/vlt2se/what_do_you_want_to_know_about_openjdk/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
