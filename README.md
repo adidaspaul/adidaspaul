@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [I created a Redditbot in Java&lpar;spring&rpar;](https://www.reddit.com/r/java/comments/vnbp23/i_created_a_redditbot_in_javaspring/)
 - [Why should I use Java for this?](https://www.reddit.com/r/java/comments/vnbjdn/why_should_i_use_java_for_this/)
 - [AudioCue, a class for concurrent, dynamic Audio playback from memory](https://www.reddit.com/r/java/comments/vmrahu/audiocue_a_class_for_concurrent_dynamic_audio/)
-- [OpenJDK developer setup](https://www.reddit.com/r/java/comments/vmnc2l/openjdk_developer_setup/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
