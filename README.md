@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The future of EJB](https://www.reddit.com/r/java/comments/vnqbuy/the_future_of_ejb/)
 - [Top 8 Most Demanded Programming Languages - By job postings](https://www.reddit.com/r/java/comments/vnl8m3/top_8_most_demanded_programming_languages_by_job/)
 - [Pants 2.12: Improved performance for common cases and IDE support for Java and Scala](https://www.reddit.com/r/java/comments/vnk5tk/pants_212_improved_performance_for_common_cases/)
-- [The best way to fix the infamous MultipleBagFetchException with Spring Data JPA](https://www.reddit.com/r/java/comments/vnez1z/the_best_way_to_fix_the_infamous/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
