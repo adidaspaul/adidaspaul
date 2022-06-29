@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The best way to fix the infamous MultipleBagFetchException with Spring Data JPA](https://www.reddit.com/r/java/comments/vnez1z/the_best_way_to_fix_the_infamous/)
 - [I created a Redditbot in Java&lpar;spring&rpar;](https://www.reddit.com/r/java/comments/vnbp23/i_created_a_redditbot_in_javaspring/)
 - [Why should I use Java for this?](https://www.reddit.com/r/java/comments/vnbjdn/why_should_i_use_java_for_this/)
-- [AudioCue, a class for concurrent, dynamic Audio playback from memory](https://www.reddit.com/r/java/comments/vmrahu/audiocue_a_class_for_concurrent_dynamic_audio/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
