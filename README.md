@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Pants 2.12: Improved performance for common cases and IDE support for Java and Scala](https://www.reddit.com/r/java/comments/vnk5tk/pants_212_improved_performance_for_common_cases/)
 - [The best way to fix the infamous MultipleBagFetchException with Spring Data JPA](https://www.reddit.com/r/java/comments/vnez1z/the_best_way_to_fix_the_infamous/)
 - [Why should I use Java for this?](https://www.reddit.com/r/java/comments/vnbjdn/why_should_i_use_java_for_this/)
-- [AudioCue, a class for concurrent, dynamic Audio playback from memory](https://www.reddit.com/r/java/comments/vmrahu/audiocue_a_class_for_concurrent_dynamic_audio/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
