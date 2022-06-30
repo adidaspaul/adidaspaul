@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Will Valhalla value/primitive classes break existing bytecode for plugins?](https://www.reddit.com/r/java/comments/vojkik/will_valhalla_valueprimitive_classes_break/)
 - [Socket.setSocketImplFactory is deprecated in Java17](https://www.reddit.com/r/java/comments/vog6d9/socketsetsocketimplfactory_is_deprecated_in_java17/)
 - [Cool features added to Hibernate ORM 6.1](https://www.reddit.com/r/java/comments/vo12k7/cool_features_added_to_hibernate_orm_61/)
-- [What is OpenJDK? - Inside Java Newscast #28](https://www.reddit.com/r/java/comments/vo11y6/what_is_openjdk_inside_java_newscast_28/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
