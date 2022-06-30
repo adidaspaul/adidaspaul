@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Cool features added to Hibernate ORM 6.1](https://www.reddit.com/r/java/comments/vo12k7/cool_features_added_to_hibernate_orm_61/)
+- [What is OpenJDK? - Inside Java Newscast #28](https://www.reddit.com/r/java/comments/vo11y6/what_is_openjdk_inside_java_newscast_28/)
 - [The future of EJB](https://www.reddit.com/r/java/comments/vnqbuy/the_future_of_ejb/)
-- [Top 8 Most Demanded Programming Languages - By job postings](https://www.reddit.com/r/java/comments/vnl8m3/top_8_most_demanded_programming_languages_by_job/)
-- [Pants 2.12: Improved performance for common cases and IDE support for Java and Scala](https://www.reddit.com/r/java/comments/vnk5tk/pants_212_improved_performance_for_common_cases/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
