@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [java programs keep locking up my OS](https://www.reddit.com/r/java/comments/vpyaa7/java_programs_keep_locking_up_my_os/)
-- [Is it cheaper to use shopify for a e comm site? Or build own java full stack app and host my own on aws?](https://www.reddit.com/r/java/comments/vptk4j/is_it_cheaper_to_use_shopify_for_a_e_comm_site_or/)
 - [Is the minecraft bedrock vs java edition a good example of strengths/weaknesses of c++/java? Performance vs Development Speed?](https://www.reddit.com/r/java/comments/vprgvf/is_the_minecraft_bedrock_vs_java_edition_a_good/)
+- [Dirk: a new light-weight system for dependency injection](https://www.reddit.com/r/java/comments/vppjkj/dirk_a_new_lightweight_system_for_dependency/)
+- [Will Valhalla value/primitive classes break existing bytecode for plugins?](https://www.reddit.com/r/java/comments/vojkik/will_valhalla_valueprimitive_classes_break/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
