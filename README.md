@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Dirk: a new light-weight system for dependency injection](https://www.reddit.com/r/java/comments/vppjkj/dirk_a_new_lightweight_system_for_dependency/)
 - [Will Valhalla value/primitive classes break existing bytecode for plugins?](https://www.reddit.com/r/java/comments/vojkik/will_valhalla_valueprimitive_classes_break/)
 - [Socket.setSocketImplFactory is deprecated in Java17](https://www.reddit.com/r/java/comments/vog6d9/socketsetsocketimplfactory_is_deprecated_in_java17/)
-- [Cool features added to Hibernate ORM 6.1](https://www.reddit.com/r/java/comments/vo12k7/cool_features_added_to_hibernate_orm_61/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
