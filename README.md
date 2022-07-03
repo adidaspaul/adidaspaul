@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [For Code Analysis do we require Sonarlint or PMD or both are required?](https://www.reddit.com/r/java/comments/vqggid/for_code_analysis_do_we_require_sonarlint_or_pmd/)
 - [Whipped up a life-reload plugin for zephyr.sunshower.io that&#39;s faster than JRebel and supports every class redefinition option](https://www.reddit.com/r/java/comments/vq1g1u/whipped_up_a_lifereload_plugin_for/)
 - [Simple patterns for events schema versioning](https://www.reddit.com/r/java/comments/vq0bdm/simple_patterns_for_events_schema_versioning/)
-- [Is the minecraft bedrock vs java edition a good example of strengths/weaknesses of c++/java? Performance vs Development Speed?](https://www.reddit.com/r/java/comments/vprgvf/is_the_minecraft_bedrock_vs_java_edition_a_good/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
