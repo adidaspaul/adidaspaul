@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Java Snake](https://www.reddit.com/r/java/comments/vs3586/java_snake/)
+- [Cay Horstmann: Should we teach Interfaces or Inheritance first?](https://www.reddit.com/r/java/comments/vs33ny/cay_horstmann_should_we_teach_interfaces_or/)
 - [The best resource to learn JPA/Hibernate/Spring Data JPA](https://www.reddit.com/r/java/comments/vrwh9g/the_best_resource_to_learn_jpahibernatespring/)
-- [Spring Boot has an unjustified bad reputation when it comes to development speed](https://www.reddit.com/r/java/comments/vrthj9/spring_boot_has_an_unjustified_bad_reputation/)
-- [How can I measure how long would it take to migrate from jersey eclipse to spring boot?](https://www.reddit.com/r/java/comments/vqpdwh/how_can_i_measure_how_long_would_it_take_to/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
