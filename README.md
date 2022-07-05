@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [any reasons why i triggered windows defender when compiling a jar file to exe with launch4j?](https://www.reddit.com/r/java/comments/vs479w/any_reasons_why_i_triggered_windows_defender_when/)
 - [Java Snake](https://www.reddit.com/r/java/comments/vs3586/java_snake/)
 - [Cay Horstmann: Should we teach Interfaces or Inheritance first?](https://www.reddit.com/r/java/comments/vs33ny/cay_horstmann_should_we_teach_interfaces_or/)
+- [The best resource to learn JPA/Hibernate/Spring Data JPA](https://www.reddit.com/r/java/comments/vrwh9g/the_best_resource_to_learn_jpahibernatespring/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
