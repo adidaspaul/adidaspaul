@@ -64,7 +64,7 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Broken manifest](https://www.reddit.com/r/java/comments/vrk49b/broken_manifest/)
+- [Java on android](https://www.reddit.com/r/java/comments/vrk565/java_on_android/)
 - [How can I measure how long would it take to migrate from jersey eclipse to spring boot?](https://www.reddit.com/r/java/comments/vqpdwh/how_can_i_measure_how_long_would_it_take_to/)
 - [For Code Analysis do we require Sonarlint or PMD or both are required?](https://www.reddit.com/r/java/comments/vqggid/for_code_analysis_do_we_require_sonarlint_or_pmd/)
 <!-- BLOG-POST-LIST:END -->
