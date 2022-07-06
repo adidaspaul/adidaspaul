@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Launching 10 millions virtual threads with Loom - JEP Café #12](https://www.reddit.com/r/java/comments/vsp30u/launching_10_millions_virtual_threads_with_loom/)
 - [Java on Azure Tooling Update –July 2022](https://www.reddit.com/r/java/comments/vsk81t/java_on_azure_tooling_update_july_2022/)
 - [LPT for Java on Kubernetes: Less replicas, more cores.](https://www.reddit.com/r/java/comments/vsab1w/lpt_for_java_on_kubernetes_less_replicas_more/)
-- [Java Snake](https://www.reddit.com/r/java/comments/vs3586/java_snake/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
