@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Java on Azure Tooling Update –July 2022](https://www.reddit.com/r/java/comments/vsk81t/java_on_azure_tooling_update_july_2022/)
 - [LPT for Java on Kubernetes: Less replicas, more cores.](https://www.reddit.com/r/java/comments/vsab1w/lpt_for_java_on_kubernetes_less_replicas_more/)
 - [Java Snake](https://www.reddit.com/r/java/comments/vs3586/java_snake/)
-- [Cay Horstmann: Should we teach Interfaces or Inheritance first?](https://www.reddit.com/r/java/comments/vs33ny/cay_horstmann_should_we_teach_interfaces_or/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
