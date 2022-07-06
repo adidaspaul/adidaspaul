@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The difficult problem of managing Java dependencies: a deep dive into the messy status-quo, and a look at possibly better ways.](https://www.reddit.com/r/java/comments/vstgv1/the_difficult_problem_of_managing_java/)
 - [What program to run java with?](https://www.reddit.com/r/java/comments/vsrufx/what_program_to_run_java_with/)
 - [Launching 10 millions virtual threads with Loom - JEP Café #12](https://www.reddit.com/r/java/comments/vsp30u/launching_10_millions_virtual_threads_with_loom/)
-- [Java on Azure Tooling Update –July 2022](https://www.reddit.com/r/java/comments/vsk81t/java_on_azure_tooling_update_july_2022/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
