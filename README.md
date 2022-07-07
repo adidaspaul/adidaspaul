@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to ensure uniqueness in Event Sourcing](https://www.reddit.com/r/java/comments/vtdjuc/how_to_ensure_uniqueness_in_event_sourcing/)
 - [It looks like JDK20 is getting a String Templates preview!](https://www.reddit.com/r/java/comments/vt2qxl/it_looks_like_jdk20_is_getting_a_string_templates/)
 - [The difficult problem of managing Java dependencies: a deep dive into the messy status-quo, and a look at possibly better ways.](https://www.reddit.com/r/java/comments/vstgv1/the_difficult_problem_of_managing_java/)
-- [What program to run java with?](https://www.reddit.com/r/java/comments/vsrufx/what_program_to_run_java_with/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
