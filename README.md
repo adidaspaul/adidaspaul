@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Does anyone know any games reprogrammed in java if so can you send them i would like to see the inner workings of them &lpar;preferably multiplayer im interested in how server connection works&rpar;](https://www.reddit.com/r/java/comments/vtrtgt/does_anyone_know_any_games_reprogrammed_in_java/)
 - [How to ensure uniqueness in Event Sourcing](https://www.reddit.com/r/java/comments/vtdjuc/how_to_ensure_uniqueness_in_event_sourcing/)
 - [It looks like JDK20 is getting a String Templates preview!](https://www.reddit.com/r/java/comments/vt2qxl/it_looks_like_jdk20_is_getting_a_string_templates/)
+- [The difficult problem of managing Java dependencies: a deep dive into the messy status-quo, and a look at possibly better ways.](https://www.reddit.com/r/java/comments/vstgv1/the_difficult_problem_of_managing_java/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
