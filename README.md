@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to tell if version is vulnerable](https://www.reddit.com/r/java/comments/vtn010/how_to_tell_if_version_is_vulnerable/)
 - [ASP.NET project - should I go for it?](https://www.reddit.com/r/java/comments/vtlvo7/aspnet_project_should_i_go_for_it/)
 - [How to ensure uniqueness in Event Sourcing](https://www.reddit.com/r/java/comments/vtdjuc/how_to_ensure_uniqueness_in_event_sourcing/)
-- [It looks like JDK20 is getting a String Templates preview!](https://www.reddit.com/r/java/comments/vt2qxl/it_looks_like_jdk20_is_getting_a_string_templates/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
