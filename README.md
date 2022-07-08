@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [I choose to do a course with mysql instead of oracle db](https://www.reddit.com/r/java/comments/vu01jm/i_choose_to_do_a_course_with_mysql_instead_of/)
 - [Will project loom make java concurrency comparable to erlang&#39;s?](https://www.reddit.com/r/java/comments/vtzg1u/will_project_loom_make_java_concurrency/)
 - [How to ensure uniqueness in Event Sourcing](https://www.reddit.com/r/java/comments/vtdjuc/how_to_ensure_uniqueness_in_event_sourcing/)
-- [It looks like JDK20 is getting a String Templates preview!](https://www.reddit.com/r/java/comments/vt2qxl/it_looks_like_jdk20_is_getting_a_string_templates/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
