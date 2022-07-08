@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [learning Java - got some questions](https://www.reddit.com/r/java/comments/vuchh7/learning_java_got_some_questions/)
 - [why do we set the path in java?since the code is running without it](https://www.reddit.com/r/java/comments/vu9igv/why_do_we_set_the_path_in_javasince_the_code_is/)
 - [Java Annotated Monthly – July 2022](https://www.reddit.com/r/java/comments/vu4jp1/java_annotated_monthly_july_2022/)
+- [Will project loom make java concurrency comparable to erlang&#39;s?](https://www.reddit.com/r/java/comments/vtzg1u/will_project_loom_make_java_concurrency/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
