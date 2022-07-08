@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Java Annotated Monthly – July 2022](https://www.reddit.com/r/java/comments/vu4jp1/java_annotated_monthly_july_2022/)
 - [I choose to do a course with mysql instead of oracle db](https://www.reddit.com/r/java/comments/vu01jm/i_choose_to_do_a_course_with_mysql_instead_of/)
 - [Will project loom make java concurrency comparable to erlang&#39;s?](https://www.reddit.com/r/java/comments/vtzg1u/will_project_loom_make_java_concurrency/)
-- [How to ensure uniqueness in Event Sourcing](https://www.reddit.com/r/java/comments/vtdjuc/how_to_ensure_uniqueness_in_event_sourcing/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
