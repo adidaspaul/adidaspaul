@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Is it okay to use NetBeans for GUI building?](https://www.reddit.com/r/java/comments/vv5udl/is_it_okay_to_use_netbeans_for_gui_building/)
 - [Custom Check styles Intelij](https://www.reddit.com/r/java/comments/vv35aj/custom_check_styles_intelij/)
 - [Applicatives: combine CompletableFutures, Lists, Predicates and even your own data types!](https://www.reddit.com/r/java/comments/vuzsxq/applicatives_combine_completablefutures_lists/)
-- [I am almost done with learning java, but I am not sure what is the best job I apply for as a beginner](https://www.reddit.com/r/java/comments/vuycin/i_am_almost_done_with_learning_java_but_i_am_not/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
