@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Broken manifest &lpar;j2me&rpar;](https://www.reddit.com/r/java/comments/vvbdg9/broken_manifest_j2me/)
 - [Applicatives: combine CompletableFutures, Lists, Predicates and even your own data types!](https://www.reddit.com/r/java/comments/vuzsxq/applicatives_combine_completablefutures_lists/)
 - [Java Annotated Monthly – July 2022](https://www.reddit.com/r/java/comments/vu4jp1/java_annotated_monthly_july_2022/)
-- [Will project loom make java concurrency comparable to erlang&#39;s?](https://www.reddit.com/r/java/comments/vtzg1u/will_project_loom_make_java_concurrency/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
