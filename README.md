@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Introduction to Event Sourcing in Java - Self-Paced Kit](https://www.reddit.com/r/java/comments/vw4v5w/introduction_to_event_sourcing_in_java_selfpaced/)
 - [How to implement switch exhaustiveness checker in Java 8?](https://www.reddit.com/r/java/comments/vw1k0n/how_to_implement_switch_exhaustiveness_checker_in/)
 - [Applicatives: combine CompletableFutures, Lists, Predicates and even your own data types!](https://www.reddit.com/r/java/comments/vuzsxq/applicatives_combine_completablefutures_lists/)
-- [Java Annotated Monthly – July 2022](https://www.reddit.com/r/java/comments/vu4jp1/java_annotated_monthly_july_2022/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
