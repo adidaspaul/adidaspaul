@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [What are Idea Intellij ULTIMATE features that you cannot live without?](https://www.reddit.com/r/java/comments/vx4uu0/what_are_idea_intellij_ultimate_features_that_you/)
 - [Introduction to Event Sourcing in Java - Self-Paced Kit](https://www.reddit.com/r/java/comments/vw4v5w/introduction_to_event_sourcing_in_java_selfpaced/)
 - [How to implement switch exhaustiveness checker in Java 8?](https://www.reddit.com/r/java/comments/vw1k0n/how_to_implement_switch_exhaustiveness_checker_in/)
-- [Applicatives: combine CompletableFutures, Lists, Predicates and even your own data types!](https://www.reddit.com/r/java/comments/vuzsxq/applicatives_combine_completablefutures_lists/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
