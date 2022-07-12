@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Swing theming: Basic introduction to MaterialTheme System](https://www.reddit.com/r/java/comments/vxfdom/swing_theming_basic_introduction_to_materialtheme/)
 - [Vaadin 23 opinions?](https://www.reddit.com/r/java/comments/vx7z6d/vaadin_23_opinions/)
 - [What are Idea Intellij ULTIMATE features that you cannot live without?](https://www.reddit.com/r/java/comments/vx4uu0/what_are_idea_intellij_ultimate_features_that_you/)
-- [Introduction to Event Sourcing in Java - Self-Paced Kit](https://www.reddit.com/r/java/comments/vw4v5w/introduction_to_event_sourcing_in_java_selfpaced/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
