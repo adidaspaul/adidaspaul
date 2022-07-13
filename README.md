@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Has anyone done the 1Z0-811 certification at Oracle University?](https://www.reddit.com/r/java/comments/vydyfv/has_anyone_done_the_1z0811_certification_at/)
+- [Clone of Golden Axe &lpar;1989&rpar; implemented in Java](https://www.reddit.com/r/java/comments/vydc1c/clone_of_golden_axe_1989_implemented_in_java/)
 - [New tool for packaging JVM apps, an alternative to jpackage](https://www.reddit.com/r/java/comments/vyaqpq/new_tool_for_packaging_jvm_apps_an_alternative_to/)
-- [Value type companions, encapsulated](https://www.reddit.com/r/java/comments/vy2yye/value_type_companions_encapsulated/)
-- [How will we debug Loom applications?](https://www.reddit.com/r/java/comments/vxvdrv/how_will_we_debug_loom_applications/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
