@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [New tool for packaging JVM apps, an alternative to jpackage](https://www.reddit.com/r/java/comments/vyaqpq/new_tool_for_packaging_jvm_apps_an_alternative_to/)
 - [Value type companions, encapsulated](https://www.reddit.com/r/java/comments/vy2yye/value_type_companions_encapsulated/)
 - [How will we debug Loom applications?](https://www.reddit.com/r/java/comments/vxvdrv/how_will_we_debug_loom_applications/)
-- [how were java packages made?](https://www.reddit.com/r/java/comments/vxpivq/how_were_java_packages_made/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
