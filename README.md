@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Help With Nand2Tetris Software Suite Setup](https://www.reddit.com/r/java/comments/vxri9w/help_with_nand2tetris_software_suite_setup/)
+- [how were java packages made?](https://www.reddit.com/r/java/comments/vxpivq/how_were_java_packages_made/)
 - [Swing theming: Basic introduction to MaterialTheme System](https://www.reddit.com/r/java/comments/vxfdom/swing_theming_basic_introduction_to_materialtheme/)
-- [Vaadin 23 opinions?](https://www.reddit.com/r/java/comments/vx7z6d/vaadin_23_opinions/)
-- [What are Idea Intellij ULTIMATE features that you cannot live without?](https://www.reddit.com/r/java/comments/vx4uu0/what_are_idea_intellij_ultimate_features_that_you/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
