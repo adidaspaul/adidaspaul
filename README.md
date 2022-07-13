@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How will we debug Loom applications?](https://www.reddit.com/r/java/comments/vxvdrv/how_will_we_debug_loom_applications/)
 - [how were java packages made?](https://www.reddit.com/r/java/comments/vxpivq/how_were_java_packages_made/)
 - [Swing theming: Basic introduction to MaterialTheme System](https://www.reddit.com/r/java/comments/vxfdom/swing_theming_basic_introduction_to_materialtheme/)
-- [Vaadin 23 opinions?](https://www.reddit.com/r/java/comments/vx7z6d/vaadin_23_opinions/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
