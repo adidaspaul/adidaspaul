@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Standard tools for reporting?](https://www.reddit.com/r/java/comments/vyxan1/standard_tools_for_reporting/)
 - [Where can I learn jakarta EE?](https://www.reddit.com/r/java/comments/vys8se/where_can_i_learn_jakarta_ee/)
 - [Java Practice Projects](https://www.reddit.com/r/java/comments/vys7nm/java_practice_projects/)
-- [Data-Oriented Programming - Inside Java Newscast #29](https://www.reddit.com/r/java/comments/vyrxug/dataoriented_programming_inside_java_newscast_29/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
