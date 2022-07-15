@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Is it worth to learn Spring Boot ?](https://www.reddit.com/r/java/comments/vzhy5k/is_it_worth_to_learn_spring_boot/)
 - [JavaOne Update Series: Part 1](https://www.reddit.com/r/java/comments/vyz1kb/javaone_update_series_part_1/)
 - [Standard tools for reporting?](https://www.reddit.com/r/java/comments/vyxan1/standard_tools_for_reporting/)
-- [Data-Oriented Programming - Inside Java Newscast #29](https://www.reddit.com/r/java/comments/vyrxug/dataoriented_programming_inside_java_newscast_29/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
