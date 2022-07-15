@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [I saw the &quot;Gray Theme&quot; by &quot;Olga Bernikova&quot; but it says its a third party theme which may collect personal data. Is it safe?](https://www.reddit.com/r/java/comments/vznodg/i_saw_the_gray_theme_by_olga_bernikova_but_it/)
 - [Golden Axe remake in Pure Core Java](https://www.reddit.com/r/java/comments/vzjjdy/golden_axe_remake_in_pure_core_java/)
 - [Is it worth to learn Spring Boot ?](https://www.reddit.com/r/java/comments/vzhy5k/is_it_worth_to_learn_spring_boot/)
+- [JavaOne Update Series: Part 1](https://www.reddit.com/r/java/comments/vyz1kb/javaone_update_series_part_1/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
