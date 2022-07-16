@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Plans for Compile-time Null Pointer Safety?](https://www.reddit.com/r/java/comments/w0lp7t/plans_for_compiletime_null_pointer_safety/)
 - [Where to file OpenJDK bug reports for 3rd-party vendors?](https://www.reddit.com/r/java/comments/w0cncv/where_to_file_openjdk_bug_reports_for_3rdparty/)
 - [Java engineer wants to be a researcher](https://www.reddit.com/r/java/comments/w0arhb/java_engineer_wants_to_be_a_researcher/)
-- [HotSpot JVM Deep Dive - Safepoint](https://www.reddit.com/r/java/comments/w0a4qj/hotspot_jvm_deep_dive_safepoint/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
