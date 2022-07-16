@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Where to file OpenJDK bug reports for 3rd-party vendors?](https://www.reddit.com/r/java/comments/w0cncv/where_to_file_openjdk_bug_reports_for_3rdparty/)
 - [Java engineer wants to be a researcher](https://www.reddit.com/r/java/comments/w0arhb/java_engineer_wants_to_be_a_researcher/)
 - [HotSpot JVM Deep Dive - Safepoint](https://www.reddit.com/r/java/comments/w0a4qj/hotspot_jvm_deep_dive_safepoint/)
-- [How long will it take me to move to another backend framework if I know Spring](https://www.reddit.com/r/java/comments/w06cmr/how_long_will_it_take_me_to_move_to_another/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
