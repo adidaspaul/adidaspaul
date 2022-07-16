@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How long will it take me to move to another backend framework if I know Spring](https://www.reddit.com/r/java/comments/w06cmr/how_long_will_it_take_me_to_move_to_another/)
 - [Need help with finding a replacement for Greenfoot](https://www.reddit.com/r/java/comments/w028h2/need_help_with_finding_a_replacement_for_greenfoot/)
 - [Which big tech companies rely heavily on Java?](https://www.reddit.com/r/java/comments/w000qs/which_big_tech_companies_rely_heavily_on_java/)
-- [Golden Axe remake in Pure Core Java](https://www.reddit.com/r/java/comments/vzjjdy/golden_axe_remake_in_pure_core_java/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
