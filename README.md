@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Is Devoxx worth it?](https://www.reddit.com/r/java/comments/w1jhb6/is_devoxx_worth_it/)
 - [Inside Java Newscast Q&amp;A](https://www.reddit.com/r/java/comments/w0zgw1/inside_java_newscast_qa/)
 - [Plans for Compile-time Null Pointer Safety?](https://www.reddit.com/r/java/comments/w0lp7t/plans_for_compiletime_null_pointer_safety/)
-- [Where to file OpenJDK bug reports for 3rd-party vendors?](https://www.reddit.com/r/java/comments/w0cncv/where_to_file_openjdk_bug_reports_for_3rdparty/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
