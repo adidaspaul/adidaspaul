@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [bootstrap-site-skin - Making Maven Sites Look Modern](https://www.reddit.com/r/java/comments/w2bk2x/bootstrapsiteskin_making_maven_sites_look_modern/)
 - [Java on Visual Studio Code Update – July 2022](https://www.reddit.com/r/java/comments/w2165x/java_on_visual_studio_code_update_july_2022/)
 - [What supporting tools &lpar;linting, style/formatting, etc&rpar; are you using nowadays?](https://www.reddit.com/r/java/comments/w1x7y2/what_supporting_tools_linting_styleformatting_etc/)
-- [Java News Roundup: Microsoft Joins MicroProfile and Jakarta EE, GlassFish, Payara, Micronaut](https://www.reddit.com/r/java/comments/w1tu3y/java_news_roundup_microsoft_joins_microprofile/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
