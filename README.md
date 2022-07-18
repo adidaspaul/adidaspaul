@@ -65,8 +65,8 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Java on Visual Studio Code Update – July 2022](https://www.reddit.com/r/java/comments/w2165x/java_on_visual_studio_code_update_july_2022/)
-- [Spring boot master class](https://www.reddit.com/r/java/comments/w1z2ig/spring_boot_master_class/)
 - [What supporting tools &lpar;linting, style/formatting, etc&rpar; are you using nowadays?](https://www.reddit.com/r/java/comments/w1x7y2/what_supporting_tools_linting_styleformatting_etc/)
+- [Java News Roundup: Microsoft Joins MicroProfile and Jakarta EE, GlassFish, Payara, Micronaut](https://www.reddit.com/r/java/comments/w1tu3y/java_news_roundup_microsoft_joins_microprofile/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
