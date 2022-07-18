@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [What supporting tools &lpar;linting, style/formatting, etc&rpar; are you using nowadays?](https://www.reddit.com/r/java/comments/w1x7y2/what_supporting_tools_linting_styleformatting_etc/)
 - [Java News Roundup: Microsoft Joins MicroProfile and Jakarta EE, GlassFish, Payara, Micronaut](https://www.reddit.com/r/java/comments/w1tu3y/java_news_roundup_microsoft_joins_microprofile/)
 - [Is Devoxx worth it?](https://www.reddit.com/r/java/comments/w1jhb6/is_devoxx_worth_it/)
-- [Inside Java Newscast Q&amp;A](https://www.reddit.com/r/java/comments/w0zgw1/inside_java_newscast_qa/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
