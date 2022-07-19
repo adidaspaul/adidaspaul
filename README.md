@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [What would be the most efficient HTTP REST server framework/toolkit to use with Loom?](https://www.reddit.com/r/java/comments/w2hcrt/what_would_be_the_most_efficient_http_rest_server/)
 - [does decompiling a .jar file execute it?](https://www.reddit.com/r/java/comments/w2gcn8/does_decompiling_a_jar_file_execute_it/)
 - [bootstrap-site-skin - Making Maven Sites Look Modern](https://www.reddit.com/r/java/comments/w2bk2x/bootstrapsiteskin_making_maven_sites_look_modern/)
-- [Java on Visual Studio Code Update – July 2022](https://www.reddit.com/r/java/comments/w2165x/java_on_visual_studio_code_update_july_2022/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
