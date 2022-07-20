@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Better-Layout | Probably the best and most modern layout for Java AWT/Swing](https://www.reddit.com/r/java/comments/w3zo85/betterlayout_probably_the_best_and_most_modern/)
 - [Open Source Chatbot Engine &quot;EDDI&quot; goes Quarkus](https://www.reddit.com/r/java/comments/w3s8s0/open_source_chatbot_engine_eddi_goes_quarkus/)
 - [How to effectively compose your business logic &lpar;using the latest Java features&rpar;](https://www.reddit.com/r/java/comments/w3ry9n/how_to_effectively_compose_your_business_logic/)
-- [Created an open source event sourcing framework for Java](https://www.reddit.com/r/java/comments/w3ogch/created_an_open_source_event_sourcing_framework/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
