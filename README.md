@@ -64,7 +64,7 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Adjusting Latitude and Longitude in Android Studio with Java](https://www.reddit.com/r/java/comments/w3ql11/adjusting_latitude_and_longitude_in_android/)
+- [How to effectively compose your business logic &lpar;using the latest Java features&rpar;](https://www.reddit.com/r/java/comments/w3ry9n/how_to_effectively_compose_your_business_logic/)
 - [Created an open source event sourcing framework for Java](https://www.reddit.com/r/java/comments/w3ogch/created_an_open_source_event_sourcing_framework/)
 - [What would be the most efficient HTTP REST server framework/toolkit to use with Loom?](https://www.reddit.com/r/java/comments/w2hcrt/what_would_be_the_most_efficient_http_rest_server/)
 <!-- BLOG-POST-LIST:END -->
