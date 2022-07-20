@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Open Source Chatbot Engine &quot;EDDI&quot; goes Quarkus](https://www.reddit.com/r/java/comments/w3s8s0/open_source_chatbot_engine_eddi_goes_quarkus/)
 - [How to effectively compose your business logic &lpar;using the latest Java features&rpar;](https://www.reddit.com/r/java/comments/w3ry9n/how_to_effectively_compose_your_business_logic/)
 - [Created an open source event sourcing framework for Java](https://www.reddit.com/r/java/comments/w3ogch/created_an_open_source_event_sourcing_framework/)
-- [What would be the most efficient HTTP REST server framework/toolkit to use with Loom?](https://www.reddit.com/r/java/comments/w2hcrt/what_would_be_the_most_efficient_http_rest_server/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
