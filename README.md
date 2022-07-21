@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Composing Methods in Early Java Versions &lpar;JDK 1.4&rpar;](https://www.reddit.com/r/java/comments/w46m2g/composing_methods_in_early_java_versions_jdk_14/)
 - [Better-Layout | Probably the best and most modern layout for Java AWT/Swing](https://www.reddit.com/r/java/comments/w3zo85/betterlayout_probably_the_best_and_most_modern/)
 - [Open Source Chatbot Engine &quot;EDDI&quot; goes Quarkus](https://www.reddit.com/r/java/comments/w3s8s0/open_source_chatbot_engine_eddi_goes_quarkus/)
-- [How to effectively compose your business logic &lpar;using the latest Java features&rpar;](https://www.reddit.com/r/java/comments/w3ry9n/how_to_effectively_compose_your_business_logic/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
