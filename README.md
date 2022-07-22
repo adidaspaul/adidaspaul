@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Have you attended any of the DevoxxMa editions?](https://www.reddit.com/r/java/comments/w57nws/have_you_attended_any_of_the_devoxxma_editions/)
 - [Java Database Subsetting and Relational Data Browsing Tool.](https://www.reddit.com/r/java/comments/w54qhx/java_database_subsetting_and_relational_data/)
 - [Is there a reason to not use Spring Data JPA and Jackson in big projects?](https://www.reddit.com/r/java/comments/w4abyg/is_there_a_reason_to_not_use_spring_data_jpa_and/)
-- [Open Source Chatbot Engine &quot;EDDI&quot; goes Quarkus](https://www.reddit.com/r/java/comments/w3s8s0/open_source_chatbot_engine_eddi_goes_quarkus/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
