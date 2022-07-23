@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Spring Web and JSF in 2022](https://www.reddit.com/r/java/comments/w5stsu/spring_web_and_jsf_in_2022/)
 - [Whats the best websites for programming help?](https://www.reddit.com/r/java/comments/w5kgsg/whats_the_best_websites_for_programming_help/)
 - [Have you attended any of the DevoxxMa editions?](https://www.reddit.com/r/java/comments/w57nws/have_you_attended_any_of_the_devoxxma_editions/)
-- [Java Database Subsetting and Relational Data Browsing Tool.](https://www.reddit.com/r/java/comments/w54qhx/java_database_subsetting_and_relational_data/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
