@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Consolidating logging in your Java applications](https://www.reddit.com/r/java/comments/w60qyq/consolidating_logging_in_your_java_applications/)
 - [What should I learn as a java ee developer?](https://www.reddit.com/r/java/comments/w5waun/what_should_i_learn_as_a_java_ee_developer/)
 - [Spring Web and JSF in 2022](https://www.reddit.com/r/java/comments/w5stsu/spring_web_and_jsf_in_2022/)
-- [Have you attended any of the DevoxxMa editions?](https://www.reddit.com/r/java/comments/w57nws/have_you_attended_any_of_the_devoxxma_editions/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
