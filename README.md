@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [What are real world use cases for having a distributed command bus ?](https://www.reddit.com/r/java/comments/w6oym8/what_are_real_world_use_cases_for_having_a/)
 - [do any of you guys know a free ide](https://www.reddit.com/r/java/comments/w6kkri/do_any_of_you_guys_know_a_free_ide/)
 - [why did people use log4j](https://www.reddit.com/r/java/comments/w6fjoa/why_did_people_use_log4j/)
-- [Consolidating logging in your Java applications](https://www.reddit.com/r/java/comments/w60qyq/consolidating_logging_in_your_java_applications/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
