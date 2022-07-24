@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to make a cross-compiled java file?](https://www.reddit.com/r/java/comments/w6rqyt/how_to_make_a_crosscompiled_java_file/)
 - [why did people use log4j](https://www.reddit.com/r/java/comments/w6fjoa/why_did_people_use_log4j/)
 - [Consolidating logging in your Java applications](https://www.reddit.com/r/java/comments/w60qyq/consolidating_logging_in_your_java_applications/)
-- [What should I learn as a java ee developer?](https://www.reddit.com/r/java/comments/w5waun/what_should_i_learn_as_a_java_ee_developer/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
