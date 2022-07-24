@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Animated: Flutter-like implicit animations for JavaFX](https://www.reddit.com/r/java/comments/w6x5f7/animated_flutterlike_implicit_animations_for/)
 - [why did people use log4j](https://www.reddit.com/r/java/comments/w6fjoa/why_did_people_use_log4j/)
 - [Consolidating logging in your Java applications](https://www.reddit.com/r/java/comments/w60qyq/consolidating_logging_in_your_java_applications/)
-- [What should I learn as a java ee developer?](https://www.reddit.com/r/java/comments/w5waun/what_should_i_learn_as_a_java_ee_developer/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
