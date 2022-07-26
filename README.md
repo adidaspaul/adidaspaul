@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Splitting software into multiple applications and libraries. Most practical ways!](https://www.reddit.com/r/java/comments/w8vd05/splitting_software_into_multiple_applications_and/)
+- [Enhancing 3rd-Party Library Support in GraalVM Native Image with Shared Metadata](https://www.reddit.com/r/java/comments/w8uzm9/enhancing_3rdparty_library_support_in_graalvm/)
 - [IntelliJ IDEA 2022.2 Is Out!](https://www.reddit.com/r/java/comments/w8sdpe/intellij_idea_20222_is_out/)
-- [Animated Procedurally Generated Retrowave Cityscape using JavaFX 3D](https://www.reddit.com/r/java/comments/w8gi82/animated_procedurally_generated_retrowave/)
-- [ActiveMQ Artemis with Spring Boot on Kubernetes](https://www.reddit.com/r/java/comments/w8fsu7/activemq_artemis_with_spring_boot_on_kubernetes/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
