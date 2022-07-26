@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [ActiveMQ Artemis with Spring Boot on Kubernetes](https://www.reddit.com/r/java/comments/w8fsu7/activemq_artemis_with_spring_boot_on_kubernetes/)
 - [Java emails post May 2022?](https://www.reddit.com/r/java/comments/w88wef/java_emails_post_may_2022/)
 - [Why you should favor composition over inheritance in Java &lpar;Joshua Bloch&rpar;](https://www.reddit.com/r/java/comments/w7yj6g/why_you_should_favor_composition_over_inheritance/)
-- [Latest version of Microhttp, an event-driven, zero-dependency, pure-Java web server with 500 LOC, capable of 1,000,000+ requests per second on commodity EC2 hardware.](https://www.reddit.com/r/java/comments/w7uqcl/latest_version_of_microhttp_an_eventdriven/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
