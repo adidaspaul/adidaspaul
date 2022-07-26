@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [IntelliJ IDEA 2022.2 Is Out!](https://www.reddit.com/r/java/comments/w8sdpe/intellij_idea_20222_is_out/)
 - [Animated Procedurally Generated Retrowave Cityscape using JavaFX 3D](https://www.reddit.com/r/java/comments/w8gi82/animated_procedurally_generated_retrowave/)
 - [ActiveMQ Artemis with Spring Boot on Kubernetes](https://www.reddit.com/r/java/comments/w8fsu7/activemq_artemis_with_spring_boot_on_kubernetes/)
-- [Why you should favor composition over inheritance in Java &lpar;Joshua Bloch&rpar;](https://www.reddit.com/r/java/comments/w7yj6g/why_you_should_favor_composition_over_inheritance/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
