@@ -64,8 +64,8 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Java emails post May 2022?](https://www.reddit.com/r/java/comments/w88wef/java_emails_post_may_2022/)
 - [Why you should favor composition over inheritance in Java &lpar;Joshua Bloch&rpar;](https://www.reddit.com/r/java/comments/w7yj6g/why_you_should_favor_composition_over_inheritance/)
-- [Add Azure AD &lpar;Micrsoft 365&rpar; SSO for a Java web app in minutes via low-code Datawiza](https://www.reddit.com/r/java/comments/w7wsd4/add_azure_ad_micrsoft_365_sso_for_a_java_web_app/)
 - [Latest version of Microhttp, an event-driven, zero-dependency, pure-Java web server with 500 LOC, capable of 1,000,000+ requests per second on commodity EC2 hardware.](https://www.reddit.com/r/java/comments/w7uqcl/latest_version_of_microhttp_an_eventdriven/)
 <!-- BLOG-POST-LIST:END -->
 
