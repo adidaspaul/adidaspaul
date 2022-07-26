@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Which kind of sessions you would love to attend most at a intl tech conference such as Devoxx Morocco? choose with me, and why? :D](https://www.reddit.com/r/java/comments/w8gw1k/which_kind_of_sessions_you_would_love_to_attend/)
 - [Animated Procedurally Generated Retrowave Cityscape using JavaFX 3D](https://www.reddit.com/r/java/comments/w8gi82/animated_procedurally_generated_retrowave/)
 - [ActiveMQ Artemis with Spring Boot on Kubernetes](https://www.reddit.com/r/java/comments/w8fsu7/activemq_artemis_with_spring_boot_on_kubernetes/)
+- [Java emails post May 2022?](https://www.reddit.com/r/java/comments/w88wef/java_emails_post_may_2022/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
