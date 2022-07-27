@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Playing around with Pattern Matching for switch &lpar;Third Preview&rpar;](https://www.reddit.com/r/java/comments/w9aasz/playing_around_with_pattern_matching_for_switch/)
 - [Helidon 3.0 Released!](https://www.reddit.com/r/java/comments/w98drs/helidon_30_released/)
 - [Splitting software into multiple applications and libraries. Most practical ways!](https://www.reddit.com/r/java/comments/w8vd05/splitting_software_into_multiple_applications_and/)
-- [Enhancing 3rd-Party Library Support in GraalVM Native Image with Shared Metadata](https://www.reddit.com/r/java/comments/w8uzm9/enhancing_3rdparty_library_support_in_graalvm/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
