@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Helidon 3.0 Released!](https://www.reddit.com/r/java/comments/w98drs/helidon_30_released/)
 - [Splitting software into multiple applications and libraries. Most practical ways!](https://www.reddit.com/r/java/comments/w8vd05/splitting_software_into_multiple_applications_and/)
 - [Enhancing 3rd-Party Library Support in GraalVM Native Image with Shared Metadata](https://www.reddit.com/r/java/comments/w8uzm9/enhancing_3rdparty_library_support_in_graalvm/)
-- [IntelliJ IDEA 2022.2 Is Out!](https://www.reddit.com/r/java/comments/w8sdpe/intellij_idea_20222_is_out/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
