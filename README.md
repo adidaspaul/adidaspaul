@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [C# To Java - New Project Setup Help](https://www.reddit.com/r/java/comments/waoejd/c_to_java_new_project_setup_help/)
+- [TDD Book](https://www.reddit.com/r/java/comments/wans7h/tdd_book/)
 - [Good Java Project Ideas for CS Student Looking for Internships](https://www.reddit.com/r/java/comments/waboja/good_java_project_ideas_for_cs_student_looking/)
-- [Java Q&amp;A - Inside Java Newscast #30](https://www.reddit.com/r/java/comments/wa8x3k/java_qa_inside_java_newscast_30/)
-- [Heroku Quick Start for Java Developers](https://www.reddit.com/r/java/comments/wa7aio/heroku_quick_start_for_java_developers/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
