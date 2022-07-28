@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Identity crisis.](https://www.reddit.com/r/java/comments/wa5fez/identity_crisis/)
+- [Java Q&amp;A - Inside Java Newscast #30](https://www.reddit.com/r/java/comments/wa8x3k/java_qa_inside_java_newscast_30/)
+- [Heroku Quick Start for Java Developers](https://www.reddit.com/r/java/comments/wa7aio/heroku_quick_start_for_java_developers/)
 - [Getting started with JSF 4.0 on WildFly 27](https://www.reddit.com/r/java/comments/w9iduq/getting_started_with_jsf_40_on_wildfly_27/)
-- [What does everyone use for GUI work?](https://www.reddit.com/r/java/comments/w9gzav/what_does_everyone_use_for_gui_work/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
