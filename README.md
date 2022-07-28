@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Good Java Project Ideas for CS Student Looking for Internships](https://www.reddit.com/r/java/comments/waboja/good_java_project_ideas_for_cs_student_looking/)
 - [Java Q&amp;A - Inside Java Newscast #30](https://www.reddit.com/r/java/comments/wa8x3k/java_qa_inside_java_newscast_30/)
 - [Heroku Quick Start for Java Developers](https://www.reddit.com/r/java/comments/wa7aio/heroku_quick_start_for_java_developers/)
-- [Getting started with JSF 4.0 on WildFly 27](https://www.reddit.com/r/java/comments/w9iduq/getting_started_with_jsf_40_on_wildfly_27/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
