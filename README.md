@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Old mooc.fi courses and exercises no longer available.](https://www.reddit.com/r/java/comments/w9yb7e/old_moocfi_courses_and_exercises_no_longer/)
 - [Getting started with JSF 4.0 on WildFly 27](https://www.reddit.com/r/java/comments/w9iduq/getting_started_with_jsf_40_on_wildfly_27/)
 - [What does everyone use for GUI work?](https://www.reddit.com/r/java/comments/w9gzav/what_does_everyone_use_for_gui_work/)
-- [Playing around with Pattern Matching for switch &lpar;Third Preview&rpar;](https://www.reddit.com/r/java/comments/w9aasz/playing_around_with_pattern_matching_for_switch/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
