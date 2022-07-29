@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Reusing Test Containers in Spring Boot](https://www.reddit.com/r/java/comments/wav957/reusing_test_containers_in_spring_boot/)
 - [C# To Java - New Project Setup Help](https://www.reddit.com/r/java/comments/waoejd/c_to_java_new_project_setup_help/)
 - [TDD Book](https://www.reddit.com/r/java/comments/wans7h/tdd_book/)
-- [Good Java Project Ideas for CS Student Looking for Internships](https://www.reddit.com/r/java/comments/waboja/good_java_project_ideas_for_cs_student_looking/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
