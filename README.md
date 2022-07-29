@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Can we bypass SSL certificate of a third party Https url in Feign?](https://www.reddit.com/r/java/comments/wayl0u/can_we_bypass_ssl_certificate_of_a_third_party/)
 - [Reusing Test Containers in Spring Boot](https://www.reddit.com/r/java/comments/wav957/reusing_test_containers_in_spring_boot/)
 - [C# To Java - New Project Setup Help](https://www.reddit.com/r/java/comments/waoejd/c_to_java_new_project_setup_help/)
-- [TDD Book](https://www.reddit.com/r/java/comments/wans7h/tdd_book/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
