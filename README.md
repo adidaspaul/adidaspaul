@@ -66,7 +66,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [Turn any Java program into a self-contained EXE](https://www.reddit.com/r/java/comments/wbab60/turn_any_java_program_into_a_selfcontained_exe/)
 - [NetBeans 14 Extends JDK 17 Support](https://www.reddit.com/r/java/comments/wb5a29/netbeans_14_extends_jdk_17_support/)
-- [Can we bypass SSL certificate of a third party Https url in Feign?](https://www.reddit.com/r/java/comments/wayl0u/can_we_bypass_ssl_certificate_of_a_third_party/)
+- [Reusing Test Containers in Spring Boot](https://www.reddit.com/r/java/comments/wav957/reusing_test_containers_in_spring_boot/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
