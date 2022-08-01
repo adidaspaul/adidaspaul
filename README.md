@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Can Someone Help me with little error of my java GUI assignment.](https://www.reddit.com/r/java/comments/wdjtuk/can_someone_help_me_with_little_error_of_my_java/)
 - [Help fresh graduate understand the ecosystem](https://www.reddit.com/r/java/comments/wdgfwu/help_fresh_graduate_understand_the_ecosystem/)
 - [Sass and fxml with introspection and hot reload on JavaFX Mobile](https://www.reddit.com/r/java/comments/wdclep/sass_and_fxml_with_introspection_and_hot_reload/)
-- [Gitea 1.17.0 released with support for maven packaging](https://www.reddit.com/r/java/comments/wcy9fu/gitea_1170_released_with_support_for_maven/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
