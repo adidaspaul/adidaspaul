@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Learning Java - Request for Guidance](https://www.reddit.com/r/java/comments/wda84p/learning_java_request_for_guidance/)
-- [Class isn&#39;t OOP, should it be?](https://www.reddit.com/r/java/comments/wd8g4i/class_isnt_oop_should_it_be/)
 - [Gitea 1.17.0 released with support for maven packaging](https://www.reddit.com/r/java/comments/wcy9fu/gitea_1170_released_with_support_for_maven/)
+- [What is the use of bytecode?](https://www.reddit.com/r/java/comments/wcmw9w/what_is_the_use_of_bytecode/)
+- [BCEdit180: A bytecode editor I wrote that lets you modify, add and remove method instructions, create a class from scratch, etc](https://www.reddit.com/r/java/comments/wc26lj/bcedit180_a_bytecode_editor_i_wrote_that_lets_you/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
