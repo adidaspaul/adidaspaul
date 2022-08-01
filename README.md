@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Clarification on &quot;free&quot; Java license &lpar;NFTC&rpar; - JDK vs JRE](https://www.reddit.com/r/java/comments/wdshaa/clarification_on_free_java_license_nftc_jdk_vs_jre/)
 - [Class is not fully OOP, should it be?](https://www.reddit.com/r/java/comments/wdr2mh/class_is_not_fully_oop_should_it_be/)
 - [Help fresh graduate understand the ecosystem](https://www.reddit.com/r/java/comments/wdgfwu/help_fresh_graduate_understand_the_ecosystem/)
-- [Sass and fxml with introspection and hot reload on JavaFX Mobile](https://www.reddit.com/r/java/comments/wdclep/sass_and_fxml_with_introspection_and_hot_reload/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
