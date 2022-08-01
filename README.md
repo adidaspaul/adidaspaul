@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Help fresh graduate understand the ecosystem](https://www.reddit.com/r/java/comments/wdgfwu/help_fresh_graduate_understand_the_ecosystem/)
+- [Algorithm for Calculating the number of changes in order to extract CAT out of a String?](https://www.reddit.com/r/java/comments/wdg9uk/algorithm_for_calculating_the_number_of_changes/)
 - [Sass and fxml with introspection and hot reload on JavaFX Mobile](https://www.reddit.com/r/java/comments/wdclep/sass_and_fxml_with_introspection_and_hot_reload/)
-- [Gitea 1.17.0 released with support for maven packaging](https://www.reddit.com/r/java/comments/wcy9fu/gitea_1170_released_with_support_for_maven/)
-- [What is the use of bytecode?](https://www.reddit.com/r/java/comments/wcmw9w/what_is_the_use_of_bytecode/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
