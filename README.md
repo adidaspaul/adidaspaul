@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Inherit Properties in XML?](https://www.reddit.com/r/java/comments/weeehx/inherit_properties_in_xml/)
 - [New Proposal: ExtendLocal](https://www.reddit.com/r/java/comments/webo4n/new_proposal_extendlocal/)
 - [A Deep Dive Into Spring Boot Configuration - Piotr&#39;s TechBlog](https://www.reddit.com/r/java/comments/we9wry/a_deep_dive_into_spring_boot_configuration_piotrs/)
-- [Things I didn&#39;t know about Java: Generic Constructors](https://www.reddit.com/r/java/comments/we8n5i/things_i_didnt_know_about_java_generic/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
