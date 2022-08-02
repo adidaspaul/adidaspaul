@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Is there anyway I can automatically delete a file ever set duration of time on a minecraft server?](https://www.reddit.com/r/java/comments/weq1tp/is_there_anyway_i_can_automatically_delete_a_file/)
 - [Bright future to Java devs ahead 🚀](https://www.reddit.com/r/java/comments/weil4e/bright_future_to_java_devs_ahead/)
 - [local vs remote dev](https://www.reddit.com/r/java/comments/weg1ci/local_vs_remote_dev/)
-- [Is it possible to implement a garbage collector in Java?](https://www.reddit.com/r/java/comments/weelhq/is_it_possible_to_implement_a_garbage_collector/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
