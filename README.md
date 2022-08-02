@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [local vs remote dev](https://www.reddit.com/r/java/comments/weg1ci/local_vs_remote_dev/)
+- [Is it possible to implement a garbage collector in Java?](https://www.reddit.com/r/java/comments/weelhq/is_it_possible_to_implement_a_garbage_collector/)
 - [Inherit Properties in XML?](https://www.reddit.com/r/java/comments/weeehx/inherit_properties_in_xml/)
-- [New Proposal: ExtendLocal](https://www.reddit.com/r/java/comments/webo4n/new_proposal_extendlocal/)
-- [A Deep Dive Into Spring Boot Configuration - Piotr&#39;s TechBlog](https://www.reddit.com/r/java/comments/we9wry/a_deep_dive_into_spring_boot_configuration_piotrs/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
