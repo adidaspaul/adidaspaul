@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Things I didn&#39;t know about Java: Generic Constructors](https://www.reddit.com/r/java/comments/we8n5i/things_i_didnt_know_about_java_generic/)
+- [Simple Xml Parser &lpar;C# and Java&rpar;](https://www.reddit.com/r/java/comments/we8cfc/simple_xml_parser_c_and_java/)
 - [Choosing the right technology between Express and Spring](https://www.reddit.com/r/java/comments/we6fka/choosing_the_right_technology_between_express_and/)
-- [Clarification on &quot;free&quot; Java license &lpar;NFTC&rpar; - JDK vs JRE](https://www.reddit.com/r/java/comments/wdshaa/clarification_on_free_java_license_nftc_jdk_vs_jre/)
-- [Class is not fully OOP, should it be?](https://www.reddit.com/r/java/comments/wdr2mh/class_is_not_fully_oop_should_it_be/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
