@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [A Deep Dive Into Spring Boot Configuration - Piotr&#39;s TechBlog](https://www.reddit.com/r/java/comments/we9wry/a_deep_dive_into_spring_boot_configuration_piotrs/)
 - [Things I didn&#39;t know about Java: Generic Constructors](https://www.reddit.com/r/java/comments/we8n5i/things_i_didnt_know_about_java_generic/)
 - [Simple Xml Parser &lpar;C# and Java&rpar;](https://www.reddit.com/r/java/comments/we8cfc/simple_xml_parser_c_and_java/)
-- [Choosing the right technology between Express and Spring](https://www.reddit.com/r/java/comments/we6fka/choosing_the_right_technology_between_express_and/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
