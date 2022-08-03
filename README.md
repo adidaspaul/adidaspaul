@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [java good to learn?](https://www.reddit.com/r/java/comments/wewt2h/java_good_to_learn/)
 - [Bright future to Java devs ahead 🚀](https://www.reddit.com/r/java/comments/weil4e/bright_future_to_java_devs_ahead/)
 - [Is it possible to implement a garbage collector in Java?](https://www.reddit.com/r/java/comments/weelhq/is_it_possible_to_implement_a_garbage_collector/)
+- [New Proposal: ExtendLocal](https://www.reddit.com/r/java/comments/webo4n/new_proposal_extendlocal/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
