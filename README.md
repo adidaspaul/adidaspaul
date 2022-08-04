@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Integration testing for Spring Boot with Testcontainers](https://www.reddit.com/r/java/comments/wg1fw0/integration_testing_for_spring_boot_with/)
+- [Java Annotated Monthly – August 2022](https://www.reddit.com/r/java/comments/wg0q1r/java_annotated_monthly_august_2022/)
 - [Bright future to Java devs ahead 🚀](https://www.reddit.com/r/java/comments/weil4e/bright_future_to_java_devs_ahead/)
-- [Is it possible to implement a garbage collector in Java?](https://www.reddit.com/r/java/comments/weelhq/is_it_possible_to_implement_a_garbage_collector/)
-- [New Proposal: ExtendLocal](https://www.reddit.com/r/java/comments/webo4n/new_proposal_extendlocal/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
