@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [I&#39;m tired of static factory methods](https://www.reddit.com/r/java/comments/wgbwzx/im_tired_of_static_factory_methods/)
 - [Integration testing for Spring Boot with Testcontainers](https://www.reddit.com/r/java/comments/wg1fw0/integration_testing_for_spring_boot_with/)
 - [Java Annotated Monthly – August 2022](https://www.reddit.com/r/java/comments/wg0q1r/java_annotated_monthly_august_2022/)
-- [Bright future to Java devs ahead 🚀](https://www.reddit.com/r/java/comments/weil4e/bright_future_to_java_devs_ahead/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
