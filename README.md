@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Java from the bits up](https://www.reddit.com/r/java/comments/wgqkii/java_from_the_bits_up/)
 - [Does the &#39;static&#39; keyword break the OOP principles?](https://www.reddit.com/r/java/comments/wgh0f3/does_the_static_keyword_break_the_oop_principles/)
 - [I&#39;m tired of static factory methods](https://www.reddit.com/r/java/comments/wgbwzx/im_tired_of_static_factory_methods/)
-- [Integration testing for Spring Boot with Testcontainers](https://www.reddit.com/r/java/comments/wg1fw0/integration_testing_for_spring_boot_with/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
