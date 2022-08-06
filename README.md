@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [.NET Dev here: What is the general practice for asynchronous programming in Java?](https://www.reddit.com/r/java/comments/whi0xp/net_dev_here_what_is_the_general_practice_for/)
 - [Programming the GPU in Java](https://www.reddit.com/r/java/comments/whb646/programming_the_gpu_in_java/)
 - [Hiring prospects going from .NET to Java ecosystem.](https://www.reddit.com/r/java/comments/wh9yzi/hiring_prospects_going_from_net_to_java_ecosystem/)
-- [Java from the bits up](https://www.reddit.com/r/java/comments/wgqkii/java_from_the_bits_up/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
