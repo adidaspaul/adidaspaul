@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Choose the right Java runtime for the job &lpar;2020, Quarkus vs Open Liberty vs traditional application server&rpar;](https://www.reddit.com/r/java/comments/wifvo5/choose_the_right_java_runtime_for_the_job_2020/)
 - [Benchmarking Java against Rust #2](https://www.reddit.com/r/java/comments/whkh76/benchmarking_java_against_rust_2/)
 - [I made an ancient Hebrew programming language to make coding holier &lpar;feedback is appreciated&rpar;](https://www.reddit.com/r/java/comments/whiqg0/i_made_an_ancient_hebrew_programming_language_to/)
-- [.NET Dev here: What is the general practice for asynchronous programming in Java?](https://www.reddit.com/r/java/comments/whi0xp/net_dev_here_what_is_the_general_practice_for/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
