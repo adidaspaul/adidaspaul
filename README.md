@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Do you find Agile, people, and culture track interesting to be discussed within a large tech conf such as DevoxxMa?](https://www.reddit.com/r/java/comments/wj6oks/do_you_find_agile_people_and_culture_track/)
 - [Getting started with Jakarta Validation](https://www.reddit.com/r/java/comments/wj5kg5/getting_started_with_jakarta_validation/)
 - [Choose the right Java runtime for the job &lpar;2020, Quarkus vs Open Liberty vs traditional application server&rpar;](https://www.reddit.com/r/java/comments/wifvo5/choose_the_right_java_runtime_for_the_job_2020/)
-- [Benchmarking Java against Rust #2](https://www.reddit.com/r/java/comments/whkh76/benchmarking_java_against_rust_2/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
