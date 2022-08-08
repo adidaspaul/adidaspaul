@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Getting started with Jakarta Validation](https://www.reddit.com/r/java/comments/wj5kg5/getting_started_with_jakarta_validation/)
 - [Choose the right Java runtime for the job &lpar;2020, Quarkus vs Open Liberty vs traditional application server&rpar;](https://www.reddit.com/r/java/comments/wifvo5/choose_the_right_java_runtime_for_the_job_2020/)
 - [Benchmarking Java against Rust #2](https://www.reddit.com/r/java/comments/whkh76/benchmarking_java_against_rust_2/)
-- [I made an ancient Hebrew programming language to make coding holier &lpar;feedback is appreciated&rpar;](https://www.reddit.com/r/java/comments/whiqg0/i_made_an_ancient_hebrew_programming_language_to/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
