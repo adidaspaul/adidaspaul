@@ -65,8 +65,8 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Best setup for a fresh Spring Boot project in 2022](https://www.reddit.com/r/java/comments/wjezvv/best_setup_for_a_fresh_spring_boot_project_in_2022/)
-- [C++ or Java learn](https://www.reddit.com/r/java/comments/wjettz/c_or_java_learn/)
 - [A card game that makes learning Java fun](https://www.reddit.com/r/java/comments/wjet0o/a_card_game_that_makes_learning_java_fun/)
+- [Getting started with Jakarta Validation](https://www.reddit.com/r/java/comments/wj5kg5/getting_started_with_jakarta_validation/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
