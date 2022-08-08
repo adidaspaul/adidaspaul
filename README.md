@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Java recap for week 31/2022](https://www.reddit.com/r/java/comments/wjkohd/java_recap_for_week_312022/)
 - [Best setup for a fresh Spring Boot project in 2022](https://www.reddit.com/r/java/comments/wjezvv/best_setup_for_a_fresh_spring_boot_project_in_2022/)
 - [A card game that makes learning Java fun](https://www.reddit.com/r/java/comments/wjet0o/a_card_game_that_makes_learning_java_fun/)
-- [Getting started with Jakarta Validation](https://www.reddit.com/r/java/comments/wj5kg5/getting_started_with_jakarta_validation/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
