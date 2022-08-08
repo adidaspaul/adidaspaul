@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Getting started with Jakarta Validation](https://www.reddit.com/r/java/comments/wj5kg5/getting_started_with_jakarta_validation/)
-- [Choose the right Java runtime for the job &lpar;2020, Quarkus vs Open Liberty vs traditional application server&rpar;](https://www.reddit.com/r/java/comments/wifvo5/choose_the_right_java_runtime_for_the_job_2020/)
-- [Benchmarking Java against Rust #2](https://www.reddit.com/r/java/comments/whkh76/benchmarking_java_against_rust_2/)
+- [Best setup for a fresh Spring Boot project in 2022](https://www.reddit.com/r/java/comments/wjezvv/best_setup_for_a_fresh_spring_boot_project_in_2022/)
+- [C++ or Java learn](https://www.reddit.com/r/java/comments/wjettz/c_or_java_learn/)
+- [A card game that makes learning Java fun](https://www.reddit.com/r/java/comments/wjet0o/a_card_game_that_makes_learning_java_fun/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
