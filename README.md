@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [A lesser-known MySQL JDBC optimization setting - rewriteBatchedStatements](https://www.reddit.com/r/java/comments/wk640s/a_lesserknown_mysql_jdbc_optimization_setting/)
 - [Eclipse 2022-06 Java IDE Improvements](https://www.reddit.com/r/java/comments/wk2fgt/eclipse_202206_java_ide_improvements/)
 - [How to cause a java.lang.ClassCircularityError](https://www.reddit.com/r/java/comments/wk0caz/how_to_cause_a_javalangclasscircularityerror/)
-- [I made a java client for the todoist api](https://www.reddit.com/r/java/comments/wjpnip/i_made_a_java_client_for_the_todoist_api/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
