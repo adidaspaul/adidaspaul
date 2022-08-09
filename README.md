@@ -66,7 +66,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [I made a java client for the todoist api](https://www.reddit.com/r/java/comments/wjpnip/i_made_a_java_client_for_the_todoist_api/)
 - [Java recap for week 31/2022](https://www.reddit.com/r/java/comments/wjkohd/java_recap_for_week_312022/)
-- [Best setup for a fresh Spring Boot project in 2022](https://www.reddit.com/r/java/comments/wjezvv/best_setup_for_a_fresh_spring_boot_project_in_2022/)
+- [A card game that makes learning Java fun](https://www.reddit.com/r/java/comments/wjet0o/a_card_game_that_makes_learning_java_fun/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
