@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to cause a java.lang.ClassCircularityError](https://www.reddit.com/r/java/comments/wk0caz/how_to_cause_a_javalangclasscircularityerror/)
 - [I made a java client for the todoist api](https://www.reddit.com/r/java/comments/wjpnip/i_made_a_java_client_for_the_todoist_api/)
 - [Java recap for week 31/2022](https://www.reddit.com/r/java/comments/wjkohd/java_recap_for_week_312022/)
-- [Getting started with Jakarta Validation](https://www.reddit.com/r/java/comments/wj5kg5/getting_started_with_jakarta_validation/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
