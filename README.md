@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Introducing Micronaut Test Resources &lpar;Cédric Champeau&#39;s blog&rpar;](https://www.reddit.com/r/java/comments/wksayg/introducing_micronaut_test_resources_cédric/)
 - [Don’t call it a comeback: Why Java is still champ](https://www.reddit.com/r/java/comments/wk7ml4/dont_call_it_a_comeback_why_java_is_still_champ/)
 - [A lesser-known MySQL JDBC optimization setting - rewriteBatchedStatements](https://www.reddit.com/r/java/comments/wk640s/a_lesserknown_mysql_jdbc_optimization_setting/)
-- [Eclipse 2022-06 Java IDE Improvements](https://www.reddit.com/r/java/comments/wk2fgt/eclipse_202206_java_ide_improvements/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
