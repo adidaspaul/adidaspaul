@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [im confused on how m is -10, anyone can direct me why it is?](https://www.reddit.com/r/java/comments/wlajs4/im_confused_on_how_m_is_10_anyone_can_direct_me/)
 - [Adding Coeffect System to Java with Project Loom](https://www.reddit.com/r/java/comments/wl7uva/adding_coeffect_system_to_java_with_project_loom/)
 - [Introducing Micronaut Test Resources &lpar;Cédric Champeau&#39;s blog&rpar;](https://www.reddit.com/r/java/comments/wksayg/introducing_micronaut_test_resources_cédric/)
+- [Don’t call it a comeback: Why Java is still champ](https://www.reddit.com/r/java/comments/wk7ml4/dont_call_it_a_comeback_why_java_is_still_champ/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
