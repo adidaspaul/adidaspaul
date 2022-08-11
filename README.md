@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [im trying to get OptiFine to open, but every time i open it with Java it says this. please help](https://www.reddit.com/r/java/comments/wlg931/im_trying_to_get_optifine_to_open_but_every_time/)
+- [Is it weird for a job to start new projects in Java 8?](https://www.reddit.com/r/java/comments/wlg4vz/is_it_weird_for_a_job_to_start_new_projects_in/)
 - [Adding Coeffect System to Java with Project Loom](https://www.reddit.com/r/java/comments/wl7uva/adding_coeffect_system_to_java_with_project_loom/)
-- [Introducing Micronaut Test Resources &lpar;Cédric Champeau&#39;s blog&rpar;](https://www.reddit.com/r/java/comments/wksayg/introducing_micronaut_test_resources_cédric/)
-- [Don’t call it a comeback: Why Java is still champ](https://www.reddit.com/r/java/comments/wk7ml4/dont_call_it_a_comeback_why_java_is_still_champ/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
