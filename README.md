@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [jtextarea inside a scollpane doesn&#39;t scroll all the way](https://www.reddit.com/r/java/comments/wm4x4t/jtextarea_inside_a_scollpane_doesnt_scroll_all/)
 - [Beginner need roadmap guidance.](https://www.reddit.com/r/java/comments/wm1dxj/beginner_need_roadmap_guidance/)
 - [Books for more advanced Java developers?](https://www.reddit.com/r/java/comments/wm106n/books_for_more_advanced_java_developers/)
-- [Sequenced Collections, Purity, and more at JavaOne - Inside Java Newscast #31](https://www.reddit.com/r/java/comments/wlyy9o/sequenced_collections_purity_and_more_at_javaone/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
