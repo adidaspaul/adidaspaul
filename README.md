@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Sequenced Collections, Purity, and more at JavaOne - Inside Java Newscast #31](https://www.reddit.com/r/java/comments/wlyy9o/sequenced_collections_purity_and_more_at_javaone/)
 - [OCA, OCP, 8, 11, 17 - what&#39;s best for semi-experienced Java dev?](https://www.reddit.com/r/java/comments/wlnq68/oca_ocp_8_11_17_whats_best_for_semiexperienced/)
 - [Is it weird for a job to start new projects in Java 8?](https://www.reddit.com/r/java/comments/wlg4vz/is_it_weird_for_a_job_to_start_new_projects_in/)
-- [Adding Coeffect System to Java with Project Loom](https://www.reddit.com/r/java/comments/wl7uva/adding_coeffect_system_to_java_with_project_loom/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
