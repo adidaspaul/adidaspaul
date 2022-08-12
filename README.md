@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding &quot;advanced&quot; functional programming concepts &lpar;preferably in Java&rpar;](https://www.reddit.com/r/java/comments/wmoj8l/understanding_advanced_functional_programming/)
-- [This served as a friendly guide for me. Hope it helps you too.](https://www.reddit.com/r/java/comments/wmneem/this_served_as_a_friendly_guide_for_me_hope_it/)
-- [Helidon 2.5.2 bugfix release](https://www.reddit.com/r/java/comments/wmmq7g/helidon_252_bugfix_release/)
+- [Standards for handling monetary values](https://www.reddit.com/r/java/comments/wmqv3q/standards_for_handling_monetary_values/)
+- [Jetty adds Loom support](https://www.reddit.com/r/java/comments/wmqszw/jetty_adds_loom_support/)
+- [JEP 429: Extent-Local Variables &lpar;Incubator&rpar; by Andrew Haley](https://www.reddit.com/r/java/comments/wmpwmb/jep_429_extentlocal_variables_incubator_by_andrew/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
