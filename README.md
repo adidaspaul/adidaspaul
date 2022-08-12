@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Will the 3 big IDE:s be ready to handle debugging and other things related to virtual threads when Java 19 is released?](https://www.reddit.com/r/java/comments/wmkr1z/will_the_3_big_ides_be_ready_to_handle_debugging/)
 - [Books for more advanced Java developers?](https://www.reddit.com/r/java/comments/wm106n/books_for_more_advanced_java_developers/)
 - [Sequenced Collections, Purity, and more at JavaOne - Inside Java Newscast #31](https://www.reddit.com/r/java/comments/wlyy9o/sequenced_collections_purity_and_more_at_javaone/)
-- [OCA, OCP, 8, 11, 17 - what&#39;s best for semi-experienced Java dev?](https://www.reddit.com/r/java/comments/wlnq68/oca_ocp_8_11_17_whats_best_for_semiexperienced/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
