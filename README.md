@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [This served as a friendly guide for me. Hope it helps you too.](https://www.reddit.com/r/java/comments/wmneem/this_served_as_a_friendly_guide_for_me_hope_it/)
+- [Helidon 2.5.2 bugfix release](https://www.reddit.com/r/java/comments/wmmq7g/helidon_252_bugfix_release/)
 - [Will the 3 big IDE:s be ready to handle debugging and other things related to virtual threads when Java 19 is released?](https://www.reddit.com/r/java/comments/wmkr1z/will_the_3_big_ides_be_ready_to_handle_debugging/)
-- [Books for more advanced Java developers?](https://www.reddit.com/r/java/comments/wm106n/books_for_more_advanced_java_developers/)
-- [Sequenced Collections, Purity, and more at JavaOne - Inside Java Newscast #31](https://www.reddit.com/r/java/comments/wlyy9o/sequenced_collections_purity_and_more_at_javaone/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
