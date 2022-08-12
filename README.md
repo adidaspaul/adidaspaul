@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Desperate need for advice and opinions](https://www.reddit.com/r/java/comments/wmycg2/desperate_need_for_advice_and_opinions/)
 - [Standards for handling monetary values](https://www.reddit.com/r/java/comments/wmqv3q/standards_for_handling_monetary_values/)
 - [Jetty adds Loom support](https://www.reddit.com/r/java/comments/wmqszw/jetty_adds_loom_support/)
-- [JEP 429: Extent-Local Variables &lpar;Incubator&rpar; by Andrew Haley](https://www.reddit.com/r/java/comments/wmpwmb/jep_429_extentlocal_variables_incubator_by_andrew/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
