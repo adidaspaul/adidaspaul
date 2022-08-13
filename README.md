@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [How do I write the header parameters &lpar;key and stuff like that&rpar; for an api with java?](https://www.reddit.com/r/java/comments/wnhhqc/how_do_i_write_the_header_parameters_key_and/)
 - [mssql-jdbc finally supports different prepare modes](https://www.reddit.com/r/java/comments/wnau0n/mssqljdbc_finally_supports_different_prepare_modes/)
 - [Desperate need for advice and opinions](https://www.reddit.com/r/java/comments/wmycg2/desperate_need_for_advice_and_opinions/)
+- [Standards for handling monetary values](https://www.reddit.com/r/java/comments/wmqv3q/standards_for_handling_monetary_values/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
