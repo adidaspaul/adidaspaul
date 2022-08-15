@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [What is your go-to solution for resetting a database between tests?](https://www.reddit.com/r/java/comments/wpe5fe/what_is_your_goto_solution_for_resetting_a/)
 - [Open Source library to compile some programming language to native code?](https://www.reddit.com/r/java/comments/woy96n/open_source_library_to_compile_some_programming/)
 - [Company job offer, but they dont work with Spring Boot](https://www.reddit.com/r/java/comments/wouzp6/company_job_offer_but_they_dont_work_with_spring/)
-- [If you were the single main designer of Java, what would you change in Java in the next 3 to 5 years? &lpar;May include secondary aspects such as GraalVM or IDEs and so forth, but still java-related&rpar;](https://www.reddit.com/r/java/comments/wodoy4/if_you_were_the_single_main_designer_of_java_what/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
