@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Company job offer, but they dont work with Spring Boot](https://www.reddit.com/r/java/comments/wouzp6/company_job_offer_but_they_dont_work_with_spring/)
 - [If you were the single main designer of Java, what would you change in Java in the next 3 to 5 years? &lpar;May include secondary aspects such as GraalVM or IDEs and so forth, but still java-related&rpar;](https://www.reddit.com/r/java/comments/wodoy4/if_you_were_the_single_main_designer_of_java_what/)
 - [mssql-jdbc finally supports different prepare modes](https://www.reddit.com/r/java/comments/wnau0n/mssqljdbc_finally_supports_different_prepare_modes/)
-- [Desperate need for advice and opinions](https://www.reddit.com/r/java/comments/wmycg2/desperate_need_for_advice_and_opinions/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
