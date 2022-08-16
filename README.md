@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Property Based Testing of State Machines in Java](https://www.reddit.com/r/java/comments/wq82y4/property_based_testing_of_state_machines_in_java/)
 - [Java String intern&lpar;&rpar;: Interesting Q &amp; A](https://www.reddit.com/r/java/comments/wpq10s/java_string_intern_interesting_q_a/)
 - [Benchmarking Java against Rust #3](https://www.reddit.com/r/java/comments/wppq7t/benchmarking_java_against_rust_3/)
-- [Does anyone still uses applets ?](https://www.reddit.com/r/java/comments/wpldoe/does_anyone_still_uses_applets/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
