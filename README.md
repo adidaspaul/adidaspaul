@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Java String intern&lpar;&rpar;: Interesting Q &amp; A](https://www.reddit.com/r/java/comments/wpq10s/java_string_intern_interesting_q_a/)
+- [Benchmarking Java against Rust #3](https://www.reddit.com/r/java/comments/wppq7t/benchmarking_java_against_rust_3/)
 - [Does anyone still uses applets ?](https://www.reddit.com/r/java/comments/wpldoe/does_anyone_still_uses_applets/)
-- [What is your go-to solution for resetting a database between tests?](https://www.reddit.com/r/java/comments/wpe5fe/what_is_your_goto_solution_for_resetting_a/)
-- [Open Source library to compile some programming language to native code?](https://www.reddit.com/r/java/comments/woy96n/open_source_library_to_compile_some_programming/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
