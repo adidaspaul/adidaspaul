@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Detailed book review of the updated Head First Java](https://www.reddit.com/r/java/comments/wqwee9/detailed_book_review_of_the_updated_head_first/)
 - [Ergonomic Setup for IntelliJ IDEA IDE](https://www.reddit.com/r/java/comments/wqveiv/ergonomic_setup_for_intellij_idea_ide/)
 - [Any good acceptable pure Java OCR libraries?](https://www.reddit.com/r/java/comments/wqtm2o/any_good_acceptable_pure_java_ocr_libraries/)
-- [Adobe AEM and Java](https://www.reddit.com/r/java/comments/wqpzx1/adobe_aem_and_java/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
