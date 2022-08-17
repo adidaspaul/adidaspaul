@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Are you using jshell? For what?](https://www.reddit.com/r/java/comments/wqxzbx/are_you_using_jshell_for_what/)
 - [Detailed book review of the updated Head First Java](https://www.reddit.com/r/java/comments/wqwee9/detailed_book_review_of_the_updated_head_first/)
 - [Ergonomic Setup for IntelliJ IDEA IDE](https://www.reddit.com/r/java/comments/wqveiv/ergonomic_setup_for_intellij_idea_ide/)
-- [Any good acceptable pure Java OCR libraries?](https://www.reddit.com/r/java/comments/wqtm2o/any_good_acceptable_pure_java_ocr_libraries/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
