@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Ergonomic Setup for IntelliJ IDEA IDE](https://www.reddit.com/r/java/comments/wqveiv/ergonomic_setup_for_intellij_idea_ide/)
 - [Any good acceptable pure Java OCR libraries?](https://www.reddit.com/r/java/comments/wqtm2o/any_good_acceptable_pure_java_ocr_libraries/)
 - [Adobe AEM and Java](https://www.reddit.com/r/java/comments/wqpzx1/adobe_aem_and_java/)
-- [How to integrate Testcontainers into your multi-database Java project](https://www.reddit.com/r/java/comments/wqizkr/how_to_integrate_testcontainers_into_your/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
