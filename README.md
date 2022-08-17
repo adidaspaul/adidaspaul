@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Any good acceptable pure Java OCR libraries?](https://www.reddit.com/r/java/comments/wqtm2o/any_good_acceptable_pure_java_ocr_libraries/)
 - [Adobe AEM and Java](https://www.reddit.com/r/java/comments/wqpzx1/adobe_aem_and_java/)
 - [How to integrate Testcontainers into your multi-database Java project](https://www.reddit.com/r/java/comments/wqizkr/how_to_integrate_testcontainers_into_your/)
-- [I work for a large company and i moved into the business.](https://www.reddit.com/r/java/comments/wqdl9f/i_work_for_a_large_company_and_i_moved_into_the/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
