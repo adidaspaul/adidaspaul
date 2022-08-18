@@ -65,8 +65,8 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Are there any good GraphQL &quot;passthrough&quot; solutions?](https://www.reddit.com/r/java/comments/wrmtsb/are_there_any_good_graphql_passthrough_solutions/)
-- [perform search functionality in a website from the backend?](https://www.reddit.com/r/java/comments/wrm7pd/perform_search_functionality_in_a_website_from/)
 - [What are non trivial functionalities of IntelliJ IDEA you are using ?](https://www.reddit.com/r/java/comments/wriuzh/what_are_non_trivial_functionalities_of_intellij/)
+- [Concurrent Marking in G1](https://www.reddit.com/r/java/comments/wrfv6w/concurrent_marking_in_g1/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
