@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Concurrent Marking in G1](https://www.reddit.com/r/java/comments/wrfv6w/concurrent_marking_in_g1/)
 - [This is my first article about architecture. What do you think?](https://www.reddit.com/r/java/comments/wr7cjk/this_is_my_first_article_about_architecture_what/)
 - [Are you using jshell? For what?](https://www.reddit.com/r/java/comments/wqxzbx/are_you_using_jshell_for_what/)
-- [Detailed book review of the updated Head First Java](https://www.reddit.com/r/java/comments/wqwee9/detailed_book_review_of_the_updated_head_first/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
