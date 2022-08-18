@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [What are non trivial functionalities of IntelliJ IDEA you are using ?](https://www.reddit.com/r/java/comments/wriuzh/what_are_non_trivial_functionalities_of_intellij/)
 - [Concurrent Marking in G1](https://www.reddit.com/r/java/comments/wrfv6w/concurrent_marking_in_g1/)
 - [This is my first article about architecture. What do you think?](https://www.reddit.com/r/java/comments/wr7cjk/this_is_my_first_article_about_architecture_what/)
-- [Are you using jshell? For what?](https://www.reddit.com/r/java/comments/wqxzbx/are_you_using_jshell_for_what/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
