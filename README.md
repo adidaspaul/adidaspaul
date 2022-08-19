@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Markdown based documentation system with strong Java support written in Java](https://www.reddit.com/r/java/comments/wslv14/markdown_based_documentation_system_with_strong/)
 - [Class.getRecordComponents surprisingly slow](https://www.reddit.com/r/java/comments/ws95cy/classgetrecordcomponents_surprisingly_slow/)
 - [Are there any good GraphQL &quot;passthrough&quot; solutions?](https://www.reddit.com/r/java/comments/wrmtsb/are_there_any_good_graphql_passthrough_solutions/)
-- [What are non trivial functionalities of IntelliJ IDEA you are using ?](https://www.reddit.com/r/java/comments/wriuzh/what_are_non_trivial_functionalities_of_intellij/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
