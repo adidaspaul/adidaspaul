@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Java experts on here, I need advice!](https://www.reddit.com/r/java/comments/ws4gnd/java_experts_on_here_i_need_advice/)
 - [Are there any good GraphQL &quot;passthrough&quot; solutions?](https://www.reddit.com/r/java/comments/wrmtsb/are_there_any_good_graphql_passthrough_solutions/)
 - [What are non trivial functionalities of IntelliJ IDEA you are using ?](https://www.reddit.com/r/java/comments/wriuzh/what_are_non_trivial_functionalities_of_intellij/)
-- [Concurrent Marking in G1](https://www.reddit.com/r/java/comments/wrfv6w/concurrent_marking_in_g1/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
