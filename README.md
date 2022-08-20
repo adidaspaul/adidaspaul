@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Security Control Enhancements - Jim Manico](https://www.reddit.com/r/java/comments/wszso5/security_control_enhancements_jim_manico/)
 - [Markdown based documentation system with strong Java support written in Java](https://www.reddit.com/r/java/comments/wslv14/markdown_based_documentation_system_with_strong/)
 - [Class.getRecordComponents surprisingly slow](https://www.reddit.com/r/java/comments/ws95cy/classgetrecordcomponents_surprisingly_slow/)
-- [Are there any good GraphQL &quot;passthrough&quot; solutions?](https://www.reddit.com/r/java/comments/wrmtsb/are_there_any_good_graphql_passthrough_solutions/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
