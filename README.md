@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How do you add context to your exceptions?](https://www.reddit.com/r/java/comments/wtch23/how_do_you_add_context_to_your_exceptions/)
 - [Thoughts on Micronaut vs. Quarkus?](https://www.reddit.com/r/java/comments/wtauxe/thoughts_on_micronaut_vs_quarkus/)
 - [Why A company choose spring boot over .net core ?](https://www.reddit.com/r/java/comments/wt12td/why_a_company_choose_spring_boot_over_net_core/)
-- [Security Control Enhancements - Jim Manico](https://www.reddit.com/r/java/comments/wszso5/security_control_enhancements_jim_manico/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
