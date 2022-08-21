@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [how is jetbrains academy for java?](https://www.reddit.com/r/java/comments/wtw49n/how_is_jetbrains_academy_for_java/)
 - [Pattern matching for instanceof](https://www.reddit.com/r/java/comments/wttqr3/pattern_matching_for_instanceof/)
 - [JMeter DSL: Bringing Performance Testing Closer to Developers](https://www.reddit.com/r/java/comments/wtt2oq/jmeter_dsl_bringing_performance_testing_closer_to/)
-- [Thoughts on Micronaut vs. Quarkus?](https://www.reddit.com/r/java/comments/wtauxe/thoughts_on_micronaut_vs_quarkus/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
