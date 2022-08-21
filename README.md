@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [JMeter DSL: Bringing Performance Testing Closer to Developers](https://www.reddit.com/r/java/comments/wtt2oq/jmeter_dsl_bringing_performance_testing_closer_to/)
 - [Thoughts on Micronaut vs. Quarkus?](https://www.reddit.com/r/java/comments/wtauxe/thoughts_on_micronaut_vs_quarkus/)
 - [Why A company choose spring boot over .net core ?](https://www.reddit.com/r/java/comments/wt12td/why_a_company_choose_spring_boot_over_net_core/)
-- [Security Control Enhancements - Jim Manico](https://www.reddit.com/r/java/comments/wszso5/security_control_enhancements_jim_manico/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
