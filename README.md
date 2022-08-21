@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [newbie](https://www.reddit.com/r/java/comments/wudbbm/newbie/)
 - [Experiences with Spring Native &lpar;GraalVM&rpar; Containers?](https://www.reddit.com/r/java/comments/wua6rn/experiences_with_spring_native_graalvm_containers/)
 - [Pattern matching for instanceof](https://www.reddit.com/r/java/comments/wttqr3/pattern_matching_for_instanceof/)
-- [JMeter DSL: Bringing Performance Testing Closer to Developers](https://www.reddit.com/r/java/comments/wtt2oq/jmeter_dsl_bringing_performance_testing_closer_to/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
