@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [hi guys, i want to learn Java and I&#39;m beginner. which Java books should I buy to start from scratch. I searched online and Head first java and Intro to Java programming by Y Daniel liyang are two popular choices. Please give me some suggestions as I&#39;m going to start my CS program in college.](https://www.reddit.com/r/java/comments/wullwr/hi_guys_i_want_to_learn_java_and_im_beginner/)
 - [Experiences with Spring Native &lpar;GraalVM&rpar; Containers?](https://www.reddit.com/r/java/comments/wua6rn/experiences_with_spring_native_graalvm_containers/)
 - [Pattern matching for instanceof](https://www.reddit.com/r/java/comments/wttqr3/pattern_matching_for_instanceof/)
-- [JMeter DSL: Bringing Performance Testing Closer to Developers](https://www.reddit.com/r/java/comments/wtt2oq/jmeter_dsl_bringing_performance_testing_closer_to/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
