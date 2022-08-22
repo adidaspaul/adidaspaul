@@ -64,7 +64,7 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [What is the average optimum time for a function in Java?](https://www.reddit.com/r/java/comments/wutsnf/what_is_the_average_optimum_time_for_a_function/)
+- [Transforming lists into maps using Java Stream API](https://www.reddit.com/r/java/comments/wuuot9/transforming_lists_into_maps_using_java_stream_api/)
 - [Cloud based job scheduler in Java Spring-boot using AWS EventBridge and SQS](https://www.reddit.com/r/java/comments/wus6ts/cloud_based_job_scheduler_in_java_springboot/)
 - [Experiences with Spring Native &lpar;GraalVM&rpar; Containers?](https://www.reddit.com/r/java/comments/wua6rn/experiences_with_spring_native_graalvm_containers/)
 <!-- BLOG-POST-LIST:END -->
