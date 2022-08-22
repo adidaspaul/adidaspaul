@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Simple TCP/UDP Socket library in Java](https://www.reddit.com/r/java/comments/wuxkq6/simple_tcpudp_socket_library_in_java/)
+- [Java Does USB: USB library for Java using project Panama](https://www.reddit.com/r/java/comments/wuwpgw/java_does_usb_usb_library_for_java_using_project/)
 - [Transforming lists into maps using Java Stream API](https://www.reddit.com/r/java/comments/wuuot9/transforming_lists_into_maps_using_java_stream_api/)
-- [Cloud based job scheduler in Java Spring-boot using AWS EventBridge and SQS](https://www.reddit.com/r/java/comments/wus6ts/cloud_based_job_scheduler_in_java_springboot/)
-- [Experiences with Spring Native &lpar;GraalVM&rpar; Containers?](https://www.reddit.com/r/java/comments/wua6rn/experiences_with_spring_native_graalvm_containers/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
