@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [SLF4J 2.0.0 is finally stable](https://www.reddit.com/r/java/comments/wvi2fg/slf4j_200_is_finally_stable/)
 - [Helidon Nima - Loom based microservices framework | EclipseCon 2022](https://www.reddit.com/r/java/comments/wvg43r/helidon_nima_loom_based_microservices_framework/)
 - [Simple TCP/UDP Socket library in Java](https://www.reddit.com/r/java/comments/wuxkq6/simple_tcpudp_socket_library_in_java/)
-- [Java Does USB: USB library for Java using project Panama](https://www.reddit.com/r/java/comments/wuwpgw/java_does_usb_usb_library_for_java_using_project/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
