@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Getting back into Java after 12-15 years away?](https://www.reddit.com/r/java/comments/ww1xtg/getting_back_into_java_after_1215_years_away/)
 - [How to use different Java versions for src/main/java and src/test/java in Maven](https://www.reddit.com/r/java/comments/wvnnd5/how_to_use_different_java_versions_for/)
 - [Java class loading – performance impact!](https://www.reddit.com/r/java/comments/wvl7yh/java_class_loading_performance_impact/)
-- [How to Refactor to Configurable Dependency in 5 Steps](https://www.reddit.com/r/java/comments/wvjw6u/how_to_refactor_to_configurable_dependency_in_5/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
