@@ -64,7 +64,7 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [SLF4J 2.0.0 is finally stable](https://www.reddit.com/r/java/comments/wvi2fg/slf4j_200_is_finally_stable/)
+- [SLF4J 2.0.0 released](https://www.reddit.com/r/java/comments/wviip0/slf4j_200_released/)
 - [Helidon Nima - Loom based microservices framework | EclipseCon 2022](https://www.reddit.com/r/java/comments/wvg43r/helidon_nima_loom_based_microservices_framework/)
 - [Simple TCP/UDP Socket library in Java](https://www.reddit.com/r/java/comments/wuxkq6/simple_tcpudp_socket_library_in_java/)
 <!-- BLOG-POST-LIST:END -->
