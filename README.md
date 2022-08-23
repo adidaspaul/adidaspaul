@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Refactor to Configurable Dependency in 5 Steps](https://www.reddit.com/r/java/comments/wvjw6u/how_to_refactor_to_configurable_dependency_in_5/)
 - [SLF4J 2.0.0 released](https://www.reddit.com/r/java/comments/wviip0/slf4j_200_released/)
 - [Helidon Nima - Loom based microservices framework | EclipseCon 2022](https://www.reddit.com/r/java/comments/wvg43r/helidon_nima_loom_based_microservices_framework/)
-- [Simple TCP/UDP Socket library in Java](https://www.reddit.com/r/java/comments/wuxkq6/simple_tcpudp_socket_library_in_java/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
