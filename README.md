@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [how to start Java? I&#39;ve taken a course on educative. am I on the right path if I learn from that?](https://www.reddit.com/r/java/comments/wvkvxq/how_to_start_java_ive_taken_a_course_on_educative/)
 - [How to Refactor to Configurable Dependency in 5 Steps](https://www.reddit.com/r/java/comments/wvjw6u/how_to_refactor_to_configurable_dependency_in_5/)
 - [SLF4J 2.0.0 released](https://www.reddit.com/r/java/comments/wviip0/slf4j_200_released/)
-- [Helidon Nima - Loom based microservices framework | EclipseCon 2022](https://www.reddit.com/r/java/comments/wvg43r/helidon_nima_loom_based_microservices_framework/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
