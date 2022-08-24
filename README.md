@@ -64,7 +64,7 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [JedisSharedInfo Error happening due to JedisCOnnectionFactory being used. I cannot start up the application because of this. Some things I have read told me its because my verision is behind. But when I attempt to revert my version it doesnt work. What can be done? Thank you](https://www.reddit.com/r/java/comments/wwjcf2/jedissharedinfo_error_happening_due_to/)
+- [Other languages might be cool, but Java puts food on the table](https://www.reddit.com/r/java/comments/wwkgx4/other_languages_might_be_cool_but_java_puts_food/)
 - [What steps to take to migrate a Java web app to Spring Boot](https://www.reddit.com/r/java/comments/wwai9s/what_steps_to_take_to_migrate_a_java_web_app_to/)
 - [Getting back into Java after 12-15 years away?](https://www.reddit.com/r/java/comments/ww1xtg/getting_back_into_java_after_1215_years_away/)
 <!-- BLOG-POST-LIST:END -->
