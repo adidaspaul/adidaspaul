@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Is this good for Programming? &lpar;Mainly Java&rpar;](https://www.reddit.com/r/java/comments/wwp7eg/is_this_good_for_programming_mainly_java/)
 - [Red Hat starts officially supporting Adoptium OpenJDK builds](https://www.reddit.com/r/java/comments/wwnzho/red_hat_starts_officially_supporting_adoptium/)
 - [Other languages might be cool, but Java puts food on the table](https://www.reddit.com/r/java/comments/wwkgx4/other_languages_might_be_cool_but_java_puts_food/)
+- [What steps to take to migrate a Java web app to Spring Boot](https://www.reddit.com/r/java/comments/wwai9s/what_steps_to_take_to_migrate_a_java_web_app_to/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
