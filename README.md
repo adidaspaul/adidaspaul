@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Is Bates of &quot;Sierra &amp; Bates&quot; working on a new OCJP study guide?](https://www.reddit.com/r/java/comments/wxoepz/is_bates_of_sierra_bates_working_on_a_new_ocjp/)
+- [Most employable Java skills and packages?](https://www.reddit.com/r/java/comments/wxngd8/most_employable_java_skills_and_packages/)
 - [Java performance in imperative vs declarative code](https://www.reddit.com/r/java/comments/wxcm9w/java_performance_in_imperative_vs_declarative_code/)
-- [Spark-NLP 4.1.0 Released: Vision Transformer &lpar;ViT&rpar; is here! The very first Computer Vision pipeline for the state-of-the-art Image Classification task, AWS Graviton/ARM64 support, new EMR &amp; Databricks support, 1000+ state-of-the-art models, and more!](https://www.reddit.com/r/java/comments/wxc79i/sparknlp_410_released_vision_transformer_vit_is/)
-- [Roadmap to be a Spring Developer](https://www.reddit.com/r/java/comments/wx9k9h/roadmap_to_be_a_spring_developer/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
