@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [what are best books or courses to go from beginning to advance in java.](https://www.reddit.com/r/java/comments/wx62yb/what_are_best_books_or_courses_to_go_from/)
 - [Spring framework slowliness](https://www.reddit.com/r/java/comments/wwwjkh/spring_framework_slowliness/)
 - [Red Hat starts officially supporting Adoptium OpenJDK builds](https://www.reddit.com/r/java/comments/wwnzho/red_hat_starts_officially_supporting_adoptium/)
-- [Other languages might be cool, but Java puts food on the table](https://www.reddit.com/r/java/comments/wwkgx4/other_languages_might_be_cool_but_java_puts_food/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
