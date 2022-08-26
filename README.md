@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [I cant install forge for some reason.](https://www.reddit.com/r/java/comments/wy53ec/i_cant_install_forge_for_some_reason/)
+- [Helidon Nima - First Framework built from the ground up for Project Loom](https://www.reddit.com/r/java/comments/wy50ql/helidon_nima_first_framework_built_from_the/)
 - [Are you guys actually making object oriented web applications? I have never being in a team that didn&#39;t use an absolutely anemic model, and for me this seems like the rule](https://www.reddit.com/r/java/comments/wxunj9/are_you_guys_actually_making_object_oriented_web/)
-- [I declare as &quot;final&quot; every single variable whose value doesn&#39;t change. I also use &quot;this&quot; every time that I&#39;m referring to an attribute, even when there&#39;s no ambiguity in not using it](https://www.reddit.com/r/java/comments/wxu2hr/i_declare_as_final_every_single_variable_whose/)
-- [Java for financial engineering](https://www.reddit.com/r/java/comments/wxtaod/java_for_financial_engineering/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
