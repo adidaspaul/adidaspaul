@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Testing layers and across layers with Java WebTau framework](https://www.reddit.com/r/java/comments/wygh7n/testing_layers_and_across_layers_with_java_webtau/)
 - [Is there any tool for Java reverse engineering that doesn&#39;t totally suck?](https://www.reddit.com/r/java/comments/wyfv4j/is_there_any_tool_for_java_reverse_engineering/)
 - [Fine-tune transformers models and run in Java with ONNX](https://www.reddit.com/r/java/comments/wyao2v/finetune_transformers_models_and_run_in_java_with/)
-- [How did you started with Java as your preferred programming language? [Discussion]](https://www.reddit.com/r/java/comments/wy7lis/how_did_you_started_with_java_as_your_preferred/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
