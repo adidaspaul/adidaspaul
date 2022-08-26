@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Fine-tune transformers models and run in Java with ONNX](https://www.reddit.com/r/java/comments/wyao2v/finetune_transformers_models_and_run_in_java_with/)
 - [How did you started with Java as your preferred programming language? [Discussion]](https://www.reddit.com/r/java/comments/wy7lis/how_did_you_started_with_java_as_your_preferred/)
 - [Helidon Nima - First Framework built from the ground up for Project Loom](https://www.reddit.com/r/java/comments/wy50ql/helidon_nima_first_framework_built_from_the/)
-- [Are you guys actually making object oriented web applications? I have never being in a team that didn&#39;t use an absolutely anemic model, and for me this seems like the rule](https://www.reddit.com/r/java/comments/wxunj9/are_you_guys_actually_making_object_oriented_web/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
