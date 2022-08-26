@@ -64,7 +64,7 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [I cant install forge for some reason.](https://www.reddit.com/r/java/comments/wy53ec/i_cant_install_forge_for_some_reason/)
+- [How did you started with Java as your preferred programming language? [Discussion]](https://www.reddit.com/r/java/comments/wy7lis/how_did_you_started_with_java_as_your_preferred/)
 - [Helidon Nima - First Framework built from the ground up for Project Loom](https://www.reddit.com/r/java/comments/wy50ql/helidon_nima_first_framework_built_from_the/)
 - [Are you guys actually making object oriented web applications? I have never being in a team that didn&#39;t use an absolutely anemic model, and for me this seems like the rule](https://www.reddit.com/r/java/comments/wxunj9/are_you_guys_actually_making_object_oriented_web/)
 <!-- BLOG-POST-LIST:END -->
