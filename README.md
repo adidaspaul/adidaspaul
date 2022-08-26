@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Is Bates of &quot;Sierra &amp; Bates&quot; working on a new OCJP study guide?](https://www.reddit.com/r/java/comments/wxoepz/is_bates_of_sierra_bates_working_on_a_new_ocjp/)
-- [Most employable Java skills and packages?](https://www.reddit.com/r/java/comments/wxngd8/most_employable_java_skills_and_packages/)
-- [Java performance in imperative vs declarative code](https://www.reddit.com/r/java/comments/wxcm9w/java_performance_in_imperative_vs_declarative_code/)
+- [Are you guys actually making object oriented web applications? I have never being in a team that didn&#39;t use an absolutely anemic model, and for me this seems like the rule](https://www.reddit.com/r/java/comments/wxunj9/are_you_guys_actually_making_object_oriented_web/)
+- [I declare as &quot;final&quot; every single variable whose value doesn&#39;t change. I also use &quot;this&quot; every time that I&#39;m referring to an attribute, even when there&#39;s no ambiguity in not using it](https://www.reddit.com/r/java/comments/wxu2hr/i_declare_as_final_every_single_variable_whose/)
+- [Java for financial engineering](https://www.reddit.com/r/java/comments/wxtaod/java_for_financial_engineering/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
