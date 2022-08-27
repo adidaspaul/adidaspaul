@@ -64,7 +64,7 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [How to have continuous learning in Java technologies?](https://www.reddit.com/r/java/comments/wys2ox/how_to_have_continuous_learning_in_java/)
+- [Why Java have this SUS logo?](https://www.reddit.com/r/java/comments/wyx02g/why_java_have_this_sus_logo/)
 - [Are any devs here familiar with MuleSoft?](https://www.reddit.com/r/java/comments/wymi4f/are_any_devs_here_familiar_with_mulesoft/)
 - [Testing layers and across layers with Java WebTau framework](https://www.reddit.com/r/java/comments/wygh7n/testing_layers_and_across_layers_with_java_webtau/)
 <!-- BLOG-POST-LIST:END -->
