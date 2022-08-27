@@ -65,8 +65,8 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [How to have continuous learning in Java technologies?](https://www.reddit.com/r/java/comments/wys2ox/how_to_have_continuous_learning_in_java/)
-- [[HELP] How do I create this pattern using nested for loops?](https://www.reddit.com/r/java/comments/wyrqfj/help_how_do_i_create_this_pattern_using_nested/)
 - [Are any devs here familiar with MuleSoft?](https://www.reddit.com/r/java/comments/wymi4f/are_any_devs_here_familiar_with_mulesoft/)
+- [Testing layers and across layers with Java WebTau framework](https://www.reddit.com/r/java/comments/wygh7n/testing_layers_and_across_layers_with_java_webtau/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
