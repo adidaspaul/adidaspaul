@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Java have this SUS logo?](https://www.reddit.com/r/java/comments/wyx02g/why_java_have_this_sus_logo/)
-- [Are any devs here familiar with MuleSoft?](https://www.reddit.com/r/java/comments/wymi4f/are_any_devs_here_familiar_with_mulesoft/)
 - [Testing layers and across layers with Java WebTau framework](https://www.reddit.com/r/java/comments/wygh7n/testing_layers_and_across_layers_with_java_webtau/)
+- [Fine-tune transformers models and run in Java with ONNX](https://www.reddit.com/r/java/comments/wyao2v/finetune_transformers_models_and_run_in_java_with/)
+- [How did you started with Java as your preferred programming language? [Discussion]](https://www.reddit.com/r/java/comments/wy7lis/how_did_you_started_with_java_as_your_preferred/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
