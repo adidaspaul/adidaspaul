@@ -65,8 +65,8 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [osci-render - Cross-platform, open-source oscilloscope music synthesizer written in Java](https://www.reddit.com/r/java/comments/wzwwwx/oscirender_crossplatform_opensource_oscilloscope/)
-- [Consuming a REST API using just vanilla Java!](https://www.reddit.com/r/java/comments/wzsi04/consuming_a_rest_api_using_just_vanilla_java/)
 - [Does something like Javas Jhipster exist for Python?](https://www.reddit.com/r/java/comments/wz3ehg/does_something_like_javas_jhipster_exist_for/)
+- [Testing layers and across layers with Java WebTau framework](https://www.reddit.com/r/java/comments/wygh7n/testing_layers_and_across_layers_with_java_webtau/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
