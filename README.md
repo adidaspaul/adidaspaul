@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Tools like Eclipse MAT?](https://www.reddit.com/r/java/comments/x0z6be/tools_like_eclipse_mat/)
+- [Should I use CardLayout on Swing for a full fledged app?](https://www.reddit.com/r/java/comments/x0z2pk/should_i_use_cardlayout_on_swing_for_a_full/)
 - [Conveyor + AtlantaFX theme sampler case study](https://www.reddit.com/r/java/comments/x0trxk/conveyor_atlantafx_theme_sampler_case_study/)
-- [Announcing pGenie: Generate typesafe Java from SQL for Postgres](https://www.reddit.com/r/java/comments/x0ld6q/announcing_pgenie_generate_typesafe_java_from_sql/)
-- [Java 8 to 18: Most important changes in the Java Platform](https://www.reddit.com/r/java/comments/x0l7cy/java_8_to_18_most_important_changes_in_the_java/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
