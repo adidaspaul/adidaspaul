@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Any resources for Unit Tests?](https://www.reddit.com/r/java/comments/x118qz/any_resources_for_unit_tests/)
 - [Tools like Eclipse MAT?](https://www.reddit.com/r/java/comments/x0z6be/tools_like_eclipse_mat/)
 - [Should I use CardLayout on Swing for a full fledged app?](https://www.reddit.com/r/java/comments/x0z2pk/should_i_use_cardlayout_on_swing_for_a_full/)
-- [Conveyor + AtlantaFX theme sampler case study](https://www.reddit.com/r/java/comments/x0trxk/conveyor_atlantafx_theme_sampler_case_study/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
