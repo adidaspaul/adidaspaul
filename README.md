@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Conveyor + AtlantaFX theme sampler case study](https://www.reddit.com/r/java/comments/x0trxk/conveyor_atlantafx_theme_sampler_case_study/)
 - [Announcing pGenie: Generate typesafe Java from SQL for Postgres](https://www.reddit.com/r/java/comments/x0ld6q/announcing_pgenie_generate_typesafe_java_from_sql/)
 - [Java 8 to 18: Most important changes in the Java Platform](https://www.reddit.com/r/java/comments/x0l7cy/java_8_to_18_most_important_changes_in_the_java/)
-- [osci-render - Cross-platform, open-source oscilloscope music synthesizer written in Java](https://www.reddit.com/r/java/comments/wzwwwx/oscirender_crossplatform_opensource_oscilloscope/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
