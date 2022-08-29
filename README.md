@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Announcing pGenie: Generate typesafe Java from SQL for Postgres](https://www.reddit.com/r/java/comments/x0ld6q/announcing_pgenie_generate_typesafe_java_from_sql/)
 - [Java 8 to 18: Most important changes in the Java Platform](https://www.reddit.com/r/java/comments/x0l7cy/java_8_to_18_most_important_changes_in_the_java/)
 - [osci-render - Cross-platform, open-source oscilloscope music synthesizer written in Java](https://www.reddit.com/r/java/comments/wzwwwx/oscirender_crossplatform_opensource_oscilloscope/)
-- [Does something like Javas Jhipster exist for Python?](https://www.reddit.com/r/java/comments/wz3ehg/does_something_like_javas_jhipster_exist_for/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
