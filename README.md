@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [GlassFish 7 M8 released! &lpar;passing Jakarta EE 10 TCK&rpar;](https://www.reddit.com/r/java/comments/x1seed/glassfish_7_m8_released_passing_jakarta_ee_10_tck/)
 - [The second best way to fetch a Spring Data JPA DTO Projection](https://www.reddit.com/r/java/comments/x1l345/the_second_best_way_to_fetch_a_spring_data_jpa/)
 - [Best practices for managing Java dependencies](https://www.reddit.com/r/java/comments/x1k6vc/best_practices_for_managing_java_dependencies/)
-- [The best way to fetch a Spring Data JPA DTO Projection](https://www.reddit.com/r/java/comments/x1ege9/the_best_way_to_fetch_a_spring_data_jpa_dto/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
