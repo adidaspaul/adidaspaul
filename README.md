@@ -65,8 +65,8 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Experienced engineer swapping to a new job using Java, resources?](https://www.reddit.com/r/java/comments/x13qv5/experienced_engineer_swapping_to_a_new_job_using/)
-- [Any resources for Unit Tests?](https://www.reddit.com/r/java/comments/x118qz/any_resources_for_unit_tests/)
 - [Tools like Eclipse MAT?](https://www.reddit.com/r/java/comments/x0z6be/tools_like_eclipse_mat/)
+- [Should I use CardLayout on Swing for a full fledged app?](https://www.reddit.com/r/java/comments/x0z2pk/should_i_use_cardlayout_on_swing_for_a_full/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
