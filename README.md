@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Best practices for managing Java dependencies](https://www.reddit.com/r/java/comments/x1k6vc/best_practices_for_managing_java_dependencies/)
 - [The best way to fetch a Spring Data JPA DTO Projection](https://www.reddit.com/r/java/comments/x1ege9/the_best_way_to_fetch_a_spring_data_jpa_dto/)
 - [Experienced engineer swapping to a new job using Java, resources?](https://www.reddit.com/r/java/comments/x13qv5/experienced_engineer_swapping_to_a_new_job_using/)
-- [Tools like Eclipse MAT?](https://www.reddit.com/r/java/comments/x0z6be/tools_like_eclipse_mat/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
