@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Eclipse Jetty-12 Teaser Demo](https://www.reddit.com/r/java/comments/x3jgel/eclipse_jetty12_teaser_demo/)
+- [Which Java version would be the next “Java 8”?](https://www.reddit.com/r/java/comments/x3jeex/which_java_version_would_be_the_next_java_8/)
 - [Uberjar hosting services?](https://www.reddit.com/r/java/comments/x3d3l7/uberjar_hosting_services/)
-- [Is Java 7 still safe to download?](https://www.reddit.com/r/java/comments/x3ac48/is_java_7_still_safe_to_download/)
-- [How to Do Kafka Testing With JMeter](https://www.reddit.com/r/java/comments/x349vd/how_to_do_kafka_testing_with_jmeter/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
