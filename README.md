@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Uberjar hosting services?](https://www.reddit.com/r/java/comments/x3d3l7/uberjar_hosting_services/)
 - [Is Java 7 still safe to download?](https://www.reddit.com/r/java/comments/x3ac48/is_java_7_still_safe_to_download/)
 - [How to Do Kafka Testing With JMeter](https://www.reddit.com/r/java/comments/x349vd/how_to_do_kafka_testing_with_jmeter/)
-- [Custom AWS Lambda Base Images for Java 17 and 18](https://www.reddit.com/r/java/comments/x2gpwn/custom_aws_lambda_base_images_for_java_17_and_18/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
