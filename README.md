@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Beginner here](https://www.reddit.com/r/java/comments/x3157t/beginner_here/)
 - [Custom AWS Lambda Base Images for Java 17 and 18](https://www.reddit.com/r/java/comments/x2gpwn/custom_aws_lambda_base_images_for_java_17_and_18/)
 - [Using java for the front-end of a web app in 2022](https://www.reddit.com/r/java/comments/x2e2ce/using_java_for_the_frontend_of_a_web_app_in_2022/)
+- [GlassFish 7 M8 released! &lpar;passing Jakarta EE 10 TCK&rpar;](https://www.reddit.com/r/java/comments/x1seed/glassfish_7_m8_released_passing_jakarta_ee_10_tck/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
