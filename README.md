@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [VStats Java Library](https://www.reddit.com/r/java/comments/x3nrlk/vstats_java_library/)
 - [Eclipse Jetty-12 Teaser Demo](https://www.reddit.com/r/java/comments/x3jgel/eclipse_jetty12_teaser_demo/)
 - [Which Java version would be the next “Java 8”?](https://www.reddit.com/r/java/comments/x3jeex/which_java_version_would_be_the_next_java_8/)
-- [Uberjar hosting services?](https://www.reddit.com/r/java/comments/x3d3l7/uberjar_hosting_services/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
