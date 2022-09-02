@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Resources for security vulnerabilities and how to make applications secure.](https://www.reddit.com/r/java/comments/x45kr7/resources_for_security_vulnerabilities_and_how_to/)
 - [Bearer Token Support for the WildFly Elytron OIDC Client Subsystem](https://www.reddit.com/r/java/comments/x41fu5/bearer_token_support_for_the_wildfly_elytron_oidc/)
 - [VStats Java Library](https://www.reddit.com/r/java/comments/x3nrlk/vstats_java_library/)
-- [Eclipse Jetty-12 Teaser Demo](https://www.reddit.com/r/java/comments/x3jgel/eclipse_jetty12_teaser_demo/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
