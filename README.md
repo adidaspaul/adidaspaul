@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Bearer Token Support for the WildFly Elytron OIDC Client Subsystem](https://www.reddit.com/r/java/comments/x41fu5/bearer_token_support_for_the_wildfly_elytron_oidc/)
 - [VStats Java Library](https://www.reddit.com/r/java/comments/x3nrlk/vstats_java_library/)
 - [Eclipse Jetty-12 Teaser Demo](https://www.reddit.com/r/java/comments/x3jgel/eclipse_jetty12_teaser_demo/)
-- [Which Java version would be the next “Java 8”?](https://www.reddit.com/r/java/comments/x3jeex/which_java_version_would_be_the_next_java_8/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
