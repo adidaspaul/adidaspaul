@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to get back to Java land quickly](https://www.reddit.com/r/java/comments/x4qupg/how_to_get_back_to_java_land_quickly/)
+- [EclipseLink 4.0.0-RC1 released! Almost ready for prime time](https://www.reddit.com/r/java/comments/x4qnp7/eclipselink_400rc1_released_almost_ready_for/)
 - [what is the best persistent collection library?](https://www.reddit.com/r/java/comments/x4fvgp/what_is_the_best_persistent_collection_library/)
-- [Resources for security vulnerabilities and how to make applications secure.](https://www.reddit.com/r/java/comments/x45kr7/resources_for_security_vulnerabilities_and_how_to/)
-- [Bearer Token Support for the WildFly Elytron OIDC Client Subsystem](https://www.reddit.com/r/java/comments/x41fu5/bearer_token_support_for_the_wildfly_elytron_oidc/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
