@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Panama: Not-so-Foreign Memory. Using MemorySegment as a high-performance ByteBuffer replacement without a 2GB limit.](https://www.reddit.com/r/java/comments/x54aad/panama_notsoforeign_memory_using_memorysegment_as/)
 - [How to get back to Java land quickly](https://www.reddit.com/r/java/comments/x4qupg/how_to_get_back_to_java_land_quickly/)
 - [EclipseLink 4.0.0-RC1 released! Almost ready for prime time](https://www.reddit.com/r/java/comments/x4qnp7/eclipselink_400rc1_released_almost_ready_for/)
-- [what is the best persistent collection library?](https://www.reddit.com/r/java/comments/x4fvgp/what_is_the_best_persistent_collection_library/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
