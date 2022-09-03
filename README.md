@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [what is the best persistent collection library?](https://www.reddit.com/r/java/comments/x4fvgp/what_is_the_best_persistent_collection_library/)
 - [Resources for security vulnerabilities and how to make applications secure.](https://www.reddit.com/r/java/comments/x45kr7/resources_for_security_vulnerabilities_and_how_to/)
 - [Bearer Token Support for the WildFly Elytron OIDC Client Subsystem](https://www.reddit.com/r/java/comments/x41fu5/bearer_token_support_for_the_wildfly_elytron_oidc/)
-- [VStats Java Library](https://www.reddit.com/r/java/comments/x3nrlk/vstats_java_library/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
