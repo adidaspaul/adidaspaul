@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Beginner](https://www.reddit.com/r/java/comments/x5tyqe/beginner/)
 - [Is it possible to make a parallax website with Java?](https://www.reddit.com/r/java/comments/x5rk5y/is_it_possible_to_make_a_parallax_website_with/)
 - [Panama: Not-so-Foreign Memory. Using MemorySegment as a high-performance ByteBuffer replacement without a 2GB limit.](https://www.reddit.com/r/java/comments/x54aad/panama_notsoforeign_memory_using_memorysegment_as/)
-- [How to get back to Java land quickly](https://www.reddit.com/r/java/comments/x4qupg/how_to_get_back_to_java_land_quickly/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
