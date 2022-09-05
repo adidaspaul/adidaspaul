@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [WebSecurityConfigurerAdapter is going away and traditional programming](https://www.reddit.com/r/java/comments/x6i45n/websecurityconfigureradapter_is_going_away_and/)
 - [Unified PayPal and Stripe API in Java!](https://www.reddit.com/r/java/comments/x6h8ht/unified_paypal_and_stripe_api_in_java/)
 - [An interesting post mortem on client performance issues in RuneLite &lpar;a RuneScape client written in Java&rpar;](https://www.reddit.com/r/java/comments/x6gohr/an_interesting_post_mortem_on_client_performance/)
-- [Java web scraping - from first class to data export](https://www.reddit.com/r/java/comments/x6g03r/java_web_scraping_from_first_class_to_data_export/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
