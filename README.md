@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Java web scraping - from first class to data export](https://www.reddit.com/r/java/comments/x6g03r/java_web_scraping_from_first_class_to_data_export/)
 - [💐 Making VSCode itself a Java REPL 🔁](https://www.reddit.com/r/java/comments/x6e28w/making_vscode_itself_a_java_repl/)
 - [Spring Boot &amp;&amp; Vite](https://www.reddit.com/r/java/comments/x68th3/spring_boot_vite/)
-- [Java Loom in microservices frameworks. Can performance and throughput be improved by using Loom?](https://www.reddit.com/r/java/comments/x5y64h/java_loom_in_microservices_frameworks_can/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
