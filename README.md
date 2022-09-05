@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [I have to download a program for university but whenever I want to install it or open the program, all I get is this message. Can someone help me out and tell me how to fix the issue? :&rpar;](https://www.reddit.com/r/java/comments/x6b595/i_have_to_download_a_program_for_university_but/)
 - [Spring Boot &amp;&amp; Vite](https://www.reddit.com/r/java/comments/x68th3/spring_boot_vite/)
 - [Java Loom in microservices frameworks. Can performance and throughput be improved by using Loom?](https://www.reddit.com/r/java/comments/x5y64h/java_loom_in_microservices_frameworks_can/)
+- [Panama: Not-so-Foreign Memory. Using MemorySegment as a high-performance ByteBuffer replacement without a 2GB limit.](https://www.reddit.com/r/java/comments/x54aad/panama_notsoforeign_memory_using_memorysegment_as/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
