@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Spring Boot &amp;&amp; Vite](https://www.reddit.com/r/java/comments/x68th3/spring_boot_vite/)
 - [Java Loom in microservices frameworks. Can performance and throughput be improved by using Loom?](https://www.reddit.com/r/java/comments/x5y64h/java_loom_in_microservices_frameworks_can/)
 - [Panama: Not-so-Foreign Memory. Using MemorySegment as a high-performance ByteBuffer replacement without a 2GB limit.](https://www.reddit.com/r/java/comments/x54aad/panama_notsoforeign_memory_using_memorysegment_as/)
-- [How to get back to Java land quickly](https://www.reddit.com/r/java/comments/x4qupg/how_to_get_back_to_java_land_quickly/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
