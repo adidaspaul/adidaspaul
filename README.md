@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Go to Java boilerplate?](https://www.reddit.com/r/java/comments/x6yoni/go_to_java_boilerplate/)
 - [Are you crazy when still using JSF?](https://www.reddit.com/r/java/comments/x6owgq/are_you_crazy_when_still_using_jsf/)
 - [WebSecurityConfigurerAdapter is going away and traditional programming](https://www.reddit.com/r/java/comments/x6i45n/websecurityconfigureradapter_is_going_away_and/)
+- [Unified PayPal and Stripe API in Java!](https://www.reddit.com/r/java/comments/x6h8ht/unified_paypal_and_stripe_api_in_java/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
