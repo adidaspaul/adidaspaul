@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [GraalVM for MacOS with Java 8](https://www.reddit.com/r/java/comments/x76xlq/graalvm_for_macos_with_java_8/)
 - [Are you crazy when still using JSF?](https://www.reddit.com/r/java/comments/x6owgq/are_you_crazy_when_still_using_jsf/)
 - [WebSecurityConfigurerAdapter is going away and traditional programming](https://www.reddit.com/r/java/comments/x6i45n/websecurityconfigureradapter_is_going_away_and/)
-- [Unified PayPal and Stripe API in Java!](https://www.reddit.com/r/java/comments/x6h8ht/unified_paypal_and_stripe_api_in_java/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
