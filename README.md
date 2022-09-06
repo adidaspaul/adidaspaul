@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Different map declarations.](https://www.reddit.com/r/java/comments/x7npnx/different_map_declarations/)
 - [Java Annotated Monthly – September 2022](https://www.reddit.com/r/java/comments/x7cgb9/java_annotated_monthly_september_2022/)
 - [We released a new version of ShapeShift &lpar;0.6.0&rpar; - A lightweight, modular, performant and extensible object mapping library](https://www.reddit.com/r/java/comments/x79txi/we_released_a_new_version_of_shapeshift_060_a/)
+- [GraalVM for MacOS with Java 8](https://www.reddit.com/r/java/comments/x76xlq/graalvm_for_macos_with_java_8/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
