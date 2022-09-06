@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [We released a new version of ShapeShift &lpar;0.6.0&rpar; - A lightweight, modular, performant and extensible object mapping library](https://www.reddit.com/r/java/comments/x79txi/we_released_a_new_version_of_shapeshift_060_a/)
 - [GraalVM for MacOS with Java 8](https://www.reddit.com/r/java/comments/x76xlq/graalvm_for_macos_with_java_8/)
 - [Are you crazy when still using JSF?](https://www.reddit.com/r/java/comments/x6owgq/are_you_crazy_when_still_using_jsf/)
-- [WebSecurityConfigurerAdapter is going away and traditional programming](https://www.reddit.com/r/java/comments/x6i45n/websecurityconfigureradapter_is_going_away_and/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
