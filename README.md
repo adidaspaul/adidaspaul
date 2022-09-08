@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [YugabyteDB - a PostgreSQL-compatible distributed database that works with any existing Java data access framework](https://www.reddit.com/r/java/comments/x8ugjj/yugabytedb_a_postgresqlcompatible_distributed/)
 - [If I fork a GitHub project &lpar;maven&rpar;, what should my version number be?](https://www.reddit.com/r/java/comments/x8s5yy/if_i_fork_a_github_project_maven_what_should_my/)
 - [Suggest any Course/YouTube Channel to learn Data Structure ?](https://www.reddit.com/r/java/comments/x8rsc2/suggest_any_courseyoutube_channel_to_learn_data/)
-- [The purpose of this module is to solve the problem of multiple keystores using Spring Boot + Kafka + Schema Registry + SSL and deserializer &lpar;specific ou generic&rpar;](https://www.reddit.com/r/java/comments/x8ot4v/the_purpose_of_this_module_is_to_solve_the/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
