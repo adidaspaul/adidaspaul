@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Which date related class is recommended to use ?](https://www.reddit.com/r/java/comments/x8xaed/which_date_related_class_is_recommended_to_use/)
 - [Does Java allow for on-the-fly code splitting/bundling like javascript &quot;bundlers&quot; ?](https://www.reddit.com/r/java/comments/x8wcmn/does_java_allow_for_onthefly_code/)
 - [Java 19 in Action - Inside Java Newscast #33](https://www.reddit.com/r/java/comments/x8uy6l/java_19_in_action_inside_java_newscast_33/)
-- [Advanced Spring Boot Features, must haves?](https://www.reddit.com/r/java/comments/x8uvze/advanced_spring_boot_features_must_haves/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
