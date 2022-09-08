@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [I need guidance in creating an e-commerce website using STS , logic in Java. For an assignment](https://www.reddit.com/r/java/comments/x8mvfd/i_need_guidance_in_creating_an_ecommerce_website/)
+- [Unable to install Netbeans 15 on MacOs Monterey](https://www.reddit.com/r/java/comments/x8laz1/unable_to_install_netbeans_15_on_macos_monterey/)
 - [how much java is used server side on AWS/GCP cloud... versus Android?](https://www.reddit.com/r/java/comments/x89sp1/how_much_java_is_used_server_side_on_awsgcp_cloud/)
-- [Netbeans 15 Released](https://www.reddit.com/r/java/comments/x7yhk9/netbeans_15_released/)
-- [Java Annotated Monthly – September 2022](https://www.reddit.com/r/java/comments/x7cgb9/java_annotated_monthly_september_2022/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
