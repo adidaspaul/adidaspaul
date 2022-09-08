@@ -64,8 +64,8 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [I need guidance in creating an e-commerce website using STS , logic in Java. For an assignment](https://www.reddit.com/r/java/comments/x8mvfd/i_need_guidance_in_creating_an_ecommerce_website/)
-- [Unable to install Netbeans 15 on MacOs Monterey](https://www.reddit.com/r/java/comments/x8laz1/unable_to_install_netbeans_15_on_macos_monterey/)
+- [The purpose of this module is to solve the problem of multiple keystores using Spring Boot + Kafka + Schema Registry + SSL and deserializer &lpar;specific ou generic&rpar;](https://www.reddit.com/r/java/comments/x8ot4v/the_purpose_of_this_module_is_to_solve_the/)
+- [Java Based EMV QR Code Generator and Parser &lpar;MPM, CPM&rpar;](https://www.reddit.com/r/java/comments/x8os98/java_based_emv_qr_code_generator_and_parser_mpm/)
 - [how much java is used server side on AWS/GCP cloud... versus Android?](https://www.reddit.com/r/java/comments/x89sp1/how_much_java_is_used_server_side_on_awsgcp_cloud/)
 <!-- BLOG-POST-LIST:END -->
 
