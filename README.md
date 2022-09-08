@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [If I fork a GitHub project &lpar;maven&rpar;, what should my version number be?](https://www.reddit.com/r/java/comments/x8s5yy/if_i_fork_a_github_project_maven_what_should_my/)
+- [Suggest any Course/YouTube Channel to learn Data Structure ?](https://www.reddit.com/r/java/comments/x8rsc2/suggest_any_courseyoutube_channel_to_learn_data/)
 - [The purpose of this module is to solve the problem of multiple keystores using Spring Boot + Kafka + Schema Registry + SSL and deserializer &lpar;specific ou generic&rpar;](https://www.reddit.com/r/java/comments/x8ot4v/the_purpose_of_this_module_is_to_solve_the/)
-- [Java Based EMV QR Code Generator and Parser &lpar;MPM, CPM&rpar;](https://www.reddit.com/r/java/comments/x8os98/java_based_emv_qr_code_generator_and_parser_mpm/)
-- [how much java is used server side on AWS/GCP cloud... versus Android?](https://www.reddit.com/r/java/comments/x89sp1/how_much_java_is_used_server_side_on_awsgcp_cloud/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
