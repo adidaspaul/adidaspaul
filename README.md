@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Java 19 in Action - Inside Java Newscast #33](https://www.reddit.com/r/java/comments/x8uy6l/java_19_in_action_inside_java_newscast_33/)
+- [Advanced Spring Boot Features, must haves?](https://www.reddit.com/r/java/comments/x8uvze/advanced_spring_boot_features_must_haves/)
 - [YugabyteDB - a PostgreSQL-compatible distributed database that works with any existing Java data access framework](https://www.reddit.com/r/java/comments/x8ugjj/yugabytedb_a_postgresqlcompatible_distributed/)
-- [If I fork a GitHub project &lpar;maven&rpar;, what should my version number be?](https://www.reddit.com/r/java/comments/x8s5yy/if_i_fork_a_github_project_maven_what_should_my/)
-- [Suggest any Course/YouTube Channel to learn Data Structure ?](https://www.reddit.com/r/java/comments/x8rsc2/suggest_any_courseyoutube_channel_to_learn_data/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
