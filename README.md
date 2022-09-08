@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Does Java allow for on-the-fly code splitting/bundling like javascript &quot;bundlers&quot; ?](https://www.reddit.com/r/java/comments/x8wcmn/does_java_allow_for_onthefly_code/)
 - [Java 19 in Action - Inside Java Newscast #33](https://www.reddit.com/r/java/comments/x8uy6l/java_19_in_action_inside_java_newscast_33/)
 - [Advanced Spring Boot Features, must haves?](https://www.reddit.com/r/java/comments/x8uvze/advanced_spring_boot_features_must_haves/)
-- [YugabyteDB - a PostgreSQL-compatible distributed database that works with any existing Java data access framework](https://www.reddit.com/r/java/comments/x8ugjj/yugabytedb_a_postgresqlcompatible_distributed/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
