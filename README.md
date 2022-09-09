@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Learning Java/Spring](https://www.reddit.com/r/java/comments/x9j95m/learning_javaspring/)
 - [Unit testing with JUnit and mockito in app with JSP and Servlets](https://www.reddit.com/r/java/comments/x9ho32/unit_testing_with_junit_and_mockito_in_app_with/)
 - [Java Champion James Ward on Java, Scala &amp; Kotlin](https://www.reddit.com/r/java/comments/x9fm6x/java_champion_james_ward_on_java_scala_kotlin/)
+- [Does Java allow for on-the-fly code splitting/bundling like javascript &quot;bundlers&quot; ?](https://www.reddit.com/r/java/comments/x8wcmn/does_java_allow_for_onthefly_code/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
