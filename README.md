@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Project Amber Proposal: Primitives in instanceof and patterns](https://www.reddit.com/r/java/comments/x9rwcq/project_amber_proposal_primitives_in_instanceof/)
 - [Project Amber proposal: primitive and varags patterns](https://www.reddit.com/r/java/comments/x9qo6c/project_amber_proposal_primitive_and_varags/)
 - [Project Amber proposal: _ as unnamed variable](https://www.reddit.com/r/java/comments/x9qnsc/project_amber_proposal_as_unnamed_variable/)
-- [Akka move from Apache v2 license to BSL](https://www.reddit.com/r/java/comments/x9qls6/akka_move_from_apache_v2_license_to_bsl/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
