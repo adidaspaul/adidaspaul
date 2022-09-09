@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [JDK 19 and JDK 20: What We Know So Far](https://www.reddit.com/r/java/comments/xa3067/jdk_19_and_jdk_20_what_we_know_so_far/)
 - [Does project Jigsaw or its related projects make it possible to run untrusted code more securely?](https://www.reddit.com/r/java/comments/xa0azl/does_project_jigsaw_or_its_related_projects_make/)
 - [primitive suffix capitalization preference](https://www.reddit.com/r/java/comments/x9tdsm/primitive_suffix_capitalization_preference/)
-- [Project Amber Proposal: Primitives in instanceof and patterns](https://www.reddit.com/r/java/comments/x9rwcq/project_amber_proposal_primitives_in_instanceof/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
