@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [primitive suffix capitalization preference](https://www.reddit.com/r/java/comments/x9tdsm/primitive_suffix_capitalization_preference/)
 - [Project Amber Proposal: Primitives in instanceof and patterns](https://www.reddit.com/r/java/comments/x9rwcq/project_amber_proposal_primitives_in_instanceof/)
 - [Project Amber proposal: primitive and varags patterns](https://www.reddit.com/r/java/comments/x9qo6c/project_amber_proposal_primitive_and_varags/)
-- [Project Amber proposal: _ as unnamed variable](https://www.reddit.com/r/java/comments/x9qnsc/project_amber_proposal_as_unnamed_variable/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
