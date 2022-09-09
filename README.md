@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Unit testing with JUnit and mockito in app with JSP and Servlets](https://www.reddit.com/r/java/comments/x9ho32/unit_testing_with_junit_and_mockito_in_app_with/)
-- [Java Champion James Ward on Java, Scala &amp; Kotlin](https://www.reddit.com/r/java/comments/x9fm6x/java_champion_james_ward_on_java_scala_kotlin/)
-- [Does Java allow for on-the-fly code splitting/bundling like javascript &quot;bundlers&quot; ?](https://www.reddit.com/r/java/comments/x8wcmn/does_java_allow_for_onthefly_code/)
+- [Project Amber proposal: primitive and varags patterns](https://www.reddit.com/r/java/comments/x9qo6c/project_amber_proposal_primitive_and_varags/)
+- [Project Amber proposal: _ as unnamed variable](https://www.reddit.com/r/java/comments/x9qnsc/project_amber_proposal_as_unnamed_variable/)
+- [Akka move from Apache v2 license to BSL](https://www.reddit.com/r/java/comments/x9qls6/akka_move_from_apache_v2_license_to_bsl/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
