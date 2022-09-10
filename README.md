@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Why do you think Java is so popular for so long, while languages like Scala come and go rather quickly?](https://www.reddit.com/r/java/comments/xaiz36/why_do_you_think_java_is_so_popular_for_so_long/)
 - [Is there a newly released book for jvm internals?](https://www.reddit.com/r/java/comments/xa8vm4/is_there_a_newly_released_book_for_jvm_internals/)
 - [JDK 19 and JDK 20: What We Know So Far](https://www.reddit.com/r/java/comments/xa3067/jdk_19_and_jdk_20_what_we_know_so_far/)
-- [Does project Jigsaw or its related projects make it possible to run untrusted code more securely?](https://www.reddit.com/r/java/comments/xa0azl/does_project_jigsaw_or_its_related_projects_make/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
