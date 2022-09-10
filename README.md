@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [JVM port of randrew&#39;s layout - a simple/fast stacking box layout library for user interfaces.](https://www.reddit.com/r/java/comments/xarfpq/jvm_port_of_randrews_layout_a_simplefast_stacking/)
 - [Debunk my java open source library idea](https://www.reddit.com/r/java/comments/xapj2g/debunk_my_java_open_source_library_idea/)
 - [Is React JS on frontend and Spring boot MySql on backend CRUD Application enough for Jr. position?](https://www.reddit.com/r/java/comments/xap4k6/is_react_js_on_frontend_and_spring_boot_mysql_on/)
-- [JEP 429: Extent-Local Variables to Promote Immutability in Java](https://www.reddit.com/r/java/comments/xaow62/jep_429_extentlocal_variables_to_promote/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
