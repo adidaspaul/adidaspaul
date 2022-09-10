@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Why do you think Java is so popular for so long, while languages like Scala come and go rather quickly?](https://www.reddit.com/r/java/comments/xaiz36/why_do_you_think_java_is_so_popular_for_so_long/)
-- [Is there a newly released book for jvm internals?](https://www.reddit.com/r/java/comments/xa8vm4/is_there_a_newly_released_book_for_jvm_internals/)
-- [JDK 19 and JDK 20: What We Know So Far](https://www.reddit.com/r/java/comments/xa3067/jdk_19_and_jdk_20_what_we_know_so_far/)
+- [Debunk my java open source library idea](https://www.reddit.com/r/java/comments/xapj2g/debunk_my_java_open_source_library_idea/)
+- [Is React JS on frontend and Spring boot MySql on backend CRUD Application enough for Jr. position?](https://www.reddit.com/r/java/comments/xap4k6/is_react_js_on_frontend_and_spring_boot_mysql_on/)
+- [JEP 429: Extent-Local Variables to Promote Immutability in Java](https://www.reddit.com/r/java/comments/xaow62/jep_429_extentlocal_variables_to_promote/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
