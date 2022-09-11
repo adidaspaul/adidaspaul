@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [[deleted by user]](https://www.reddit.com/r/java/comments/xbf70t/deleted_by_user/)
 - [Which ORM framework are you using with Java, and why?](https://www.reddit.com/r/java/comments/xauhig/which_orm_framework_are_you_using_with_java_and/)
 - [JVM port of randrew&#39;s layout - a simple/fast stacking box layout library for user interfaces.](https://www.reddit.com/r/java/comments/xarfpq/jvm_port_of_randrews_layout_a_simplefast_stacking/)
-- [Debunk my java open source library idea](https://www.reddit.com/r/java/comments/xapj2g/debunk_my_java_open_source_library_idea/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
