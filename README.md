@@ -64,7 +64,7 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [I used coin flip code to randomly return a bool on coding homework, and got it right after 30 or so tries](https://www.reddit.com/r/java/comments/xb7xq4/i_used_coin_flip_code_to_randomly_return_a_bool/)
+- [How can I solve this problem?](https://www.reddit.com/r/java/comments/xbc21k/how_can_i_solve_this_problem/)
 - [Which ORM framework are you using with Java, and why?](https://www.reddit.com/r/java/comments/xauhig/which_orm_framework_are_you_using_with_java_and/)
 - [JVM port of randrew&#39;s layout - a simple/fast stacking box layout library for user interfaces.](https://www.reddit.com/r/java/comments/xarfpq/jvm_port_of_randrews_layout_a_simplefast_stacking/)
 <!-- BLOG-POST-LIST:END -->
