@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Java News Roundup: NetBeans 15, Jakarta EE 10, jtreg 7, Spring Cloud, Groovy, Helidon, Micronaut](https://www.reddit.com/r/java/comments/xc6m15/java_news_roundup_netbeans_15_jakarta_ee_10_jtreg/)
 - [It&#39;s WebLogic dead ?](https://www.reddit.com/r/java/comments/xc5t1v/its_weblogic_dead/)
 - [Interview Question: What are your favorite Spring Boot libraries?](https://www.reddit.com/r/java/comments/xbw8pj/interview_question_what_are_your_favorite_spring/)
-- [Which ORM framework are you using with Java, and why?](https://www.reddit.com/r/java/comments/xauhig/which_orm_framework_are_you_using_with_java_and/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
