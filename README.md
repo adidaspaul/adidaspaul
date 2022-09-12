@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The Spring Data findAll Anti-Pattern](https://www.reddit.com/r/java/comments/xccdes/the_spring_data_findall_antipattern/)
+- [Helidon Níma — Helidon on Virtual Threads](https://www.reddit.com/r/java/comments/xcc5iz/helidon_níma_helidon_on_virtual_threads/)
 - [Please welcome Helidon Nima](https://www.reddit.com/r/java/comments/xcb6id/please_welcome_helidon_nima/)
-- [Good document classification library in Java](https://www.reddit.com/r/java/comments/xcaebc/good_document_classification_library_in_java/)
-- [Java News Roundup: NetBeans 15, Jakarta EE 10, jtreg 7, Spring Cloud, Groovy, Helidon, Micronaut](https://www.reddit.com/r/java/comments/xc6m15/java_news_roundup_netbeans_15_jakarta_ee_10_jtreg/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
