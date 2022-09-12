@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [FIPS 140-2 Certification for an open source project](https://www.reddit.com/r/java/comments/xcl89x/fips_1402_certification_for_an_open_source_project/)
 - [Java recap for week 36/2022](https://www.reddit.com/r/java/comments/xcj3jh/java_recap_for_week_362022/)
 - [The Spring Data findAll Anti-Pattern](https://www.reddit.com/r/java/comments/xccdes/the_spring_data_findall_antipattern/)
-- [Helidon Níma — Helidon on Virtual Threads](https://www.reddit.com/r/java/comments/xcc5iz/helidon_níma_helidon_on_virtual_threads/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
