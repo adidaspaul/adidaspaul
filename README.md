@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Release Notes for JavaFX 19](https://www.reddit.com/r/java/comments/xdalk4/release_notes_for_javafx_19/)
 - [Question: Why exactly are fibers cheaper than platform threads?](https://www.reddit.com/r/java/comments/xcr66k/question_why_exactly_are_fibers_cheaper_than/)
 - [FIPS 140-2 Certification for an open source project](https://www.reddit.com/r/java/comments/xcl89x/fips_1402_certification_for_an_open_source_project/)
-- [Java recap for week 36/2022](https://www.reddit.com/r/java/comments/xcj3jh/java_recap_for_week_362022/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
