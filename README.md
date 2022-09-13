@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Super new to Java](https://www.reddit.com/r/java/comments/xdj0qf/super_new_to_java/)
 - [Intro to Lucene: How to build your Search Engine on Java](https://www.reddit.com/r/java/comments/xdhdoy/intro_to_lucene_how_to_build_your_search_engine/)
 - [A POM by any other name](https://www.reddit.com/r/java/comments/xdh42p/a_pom_by_any_other_name/)
-- [Release Notes for JavaFX 19](https://www.reddit.com/r/java/comments/xdalk4/release_notes_for_javafx_19/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
