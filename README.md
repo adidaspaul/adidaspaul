@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [What&#39;s New in Jakarta EE 10? - Payara](https://www.reddit.com/r/java/comments/xed484/whats_new_in_jakarta_ee_10_payara/)
 - [Great Time at JavaZone 2022](https://www.reddit.com/r/java/comments/xeaj0h/great_time_at_javazone_2022/)
 - [What does the future hold for Project Amber?](https://www.reddit.com/r/java/comments/xe6vmp/what_does_the_future_hold_for_project_amber/)
-- [Anybody here using Java for machine learning?](https://www.reddit.com/r/java/comments/xdku3j/anybody_here_using_java_for_machine_learning/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
