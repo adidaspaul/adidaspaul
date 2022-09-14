@@ -65,8 +65,8 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Anybody here using Java for machine learning?](https://www.reddit.com/r/java/comments/xdku3j/anybody_here_using_java_for_machine_learning/)
-- [How to improve](https://www.reddit.com/r/java/comments/xdk5kh/how_to_improve/)
-- [Super new to Java](https://www.reddit.com/r/java/comments/xdj0qf/super_new_to_java/)
+- [Intro to Lucene: How to build your Search Engine on Java](https://www.reddit.com/r/java/comments/xdhdoy/intro_to_lucene_how_to_build_your_search_engine/)
+- [A POM by any other name](https://www.reddit.com/r/java/comments/xdh42p/a_pom_by_any_other_name/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
