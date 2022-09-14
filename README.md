@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Great Time at JavaZone 2022](https://www.reddit.com/r/java/comments/xeaj0h/great_time_at_javazone_2022/)
 - [What does the future hold for Project Amber?](https://www.reddit.com/r/java/comments/xe6vmp/what_does_the_future_hold_for_project_amber/)
 - [Anybody here using Java for machine learning?](https://www.reddit.com/r/java/comments/xdku3j/anybody_here_using_java_for_machine_learning/)
-- [Intro to Lucene: How to build your Search Engine on Java](https://www.reddit.com/r/java/comments/xdhdoy/intro_to_lucene_how_to_build_your_search_engine/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
