@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Will Quarkus dethrone Spring Boot and Spring WebFlux?](https://www.reddit.com/r/java/comments/xen9jz/will_quarkus_dethrone_spring_boot_and_spring/)
 - [Visualize your dependencies with GraphMyRepo.com](https://www.reddit.com/r/java/comments/xeflxv/visualize_your_dependencies_with_graphmyrepocom/)
 - [Favorite Frameworks / Use Cases For Java &lpar;Not Web Dev&rpar;?](https://www.reddit.com/r/java/comments/xee6v5/favorite_frameworks_use_cases_for_java_not_web_dev/)
-- [What&#39;s New in Jakarta EE 10? - Payara](https://www.reddit.com/r/java/comments/xed484/whats_new_in_jakarta_ee_10_payara/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
