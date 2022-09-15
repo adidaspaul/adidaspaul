@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Need a Mac program to write java code](https://www.reddit.com/r/java/comments/xf7gba/need_a_mac_program_to_write_java_code/)
 - [Static abstract members in interfaces &lpar;new C# feature&rpar;](https://www.reddit.com/r/java/comments/xf5sqi/static_abstract_members_in_interfaces_new_c/)
 - [Reactor bad, Loom good - but how will the landscape shape out?](https://www.reddit.com/r/java/comments/xf4pl7/reactor_bad_loom_good_but_how_will_the_landscape/)
-- [Eclipse 2022-09 Java IDE Improvements](https://www.reddit.com/r/java/comments/xesout/eclipse_202209_java_ide_improvements/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
