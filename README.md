@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Eclipse 2022-09 Java IDE Improvements](https://www.reddit.com/r/java/comments/xesout/eclipse_202209_java_ide_improvements/)
 - [Getting Project Loom benefits, today?](https://www.reddit.com/r/java/comments/xenv0k/getting_project_loom_benefits_today/)
 - [Will Quarkus dethrone Spring Boot and Spring WebFlux?](https://www.reddit.com/r/java/comments/xen9jz/will_quarkus_dethrone_spring_boot_and_spring/)
-- [Visualize your dependencies with GraphMyRepo.com](https://www.reddit.com/r/java/comments/xeflxv/visualize_your_dependencies_with_graphmyrepocom/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
