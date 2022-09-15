@@ -64,7 +64,7 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [how to fetch user details from expired jwt token in spring boot?](https://www.reddit.com/r/java/comments/xf4tc2/how_to_fetch_user_details_from_expired_jwt_token/)
+- [Static abstract members in interfaces &lpar;new C# feature&rpar;](https://www.reddit.com/r/java/comments/xf5sqi/static_abstract_members_in_interfaces_new_c/)
 - [Reactor bad, Loom good - but how will the landscape shape out?](https://www.reddit.com/r/java/comments/xf4pl7/reactor_bad_loom_good_but_how_will_the_landscape/)
 - [Eclipse 2022-09 Java IDE Improvements](https://www.reddit.com/r/java/comments/xesout/eclipse_202209_java_ide_improvements/)
 <!-- BLOG-POST-LIST:END -->
