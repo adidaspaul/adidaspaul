@@ -64,7 +64,7 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Is it possible to send a message with exception when status code is defined as 401/403 &lpar;in spring boot&rpar;?](https://www.reddit.com/r/java/comments/xfnqwo/is_it_possible_to_send_a_message_with_exception/)
+- [Building pathological input for Java HashMaps - hash collisions generator](https://www.reddit.com/r/java/comments/xfrvqg/building_pathological_input_for_java_hashmaps/)
 - [Golo JVM language decides to call it quits](https://www.reddit.com/r/java/comments/xfab2s/golo_jvm_language_decides_to_call_it_quits/)
 - [Static abstract members in interfaces &lpar;new C# feature&rpar;](https://www.reddit.com/r/java/comments/xf5sqi/static_abstract_members_in_interfaces_new_c/)
 <!-- BLOG-POST-LIST:END -->
