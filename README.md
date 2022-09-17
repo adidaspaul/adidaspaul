@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Deezpatch - a simple dispatch library](https://www.reddit.com/r/java/comments/xgbl9v/deezpatch_a_simple_dispatch_library/)
 - [Building pathological input for Java HashMaps - hash collisions generator](https://www.reddit.com/r/java/comments/xfrvqg/building_pathological_input_for_java_hashmaps/)
 - [Golo JVM language decides to call it quits](https://www.reddit.com/r/java/comments/xfab2s/golo_jvm_language_decides_to_call_it_quits/)
-- [Static abstract members in interfaces &lpar;new C# feature&rpar;](https://www.reddit.com/r/java/comments/xf5sqi/static_abstract_members_in_interfaces_new_c/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
