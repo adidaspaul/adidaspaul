@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Array help](https://www.reddit.com/r/java/comments/xhb4dk/array_help/)
 - [Java Weekly by Baeldung, Issue 455](https://www.reddit.com/r/java/comments/xgimez/java_weekly_by_baeldung_issue_455/)
 - [Deezpatch - a simple dispatch library](https://www.reddit.com/r/java/comments/xgbl9v/deezpatch_a_simple_dispatch_library/)
+- [Building pathological input for Java HashMaps - hash collisions generator](https://www.reddit.com/r/java/comments/xfrvqg/building_pathological_input_for_java_hashmaps/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
