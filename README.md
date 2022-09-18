@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [JNA vs JNI Performance Question](https://www.reddit.com/r/java/comments/xhlnsp/jna_vs_jni_performance_question/)
 - [Helidon Nima: High Performance with virtual threads](https://www.reddit.com/r/java/comments/xhgbhu/helidon_nima_high_performance_with_virtual_threads/)
 - [Java Weekly by Baeldung, Issue 455](https://www.reddit.com/r/java/comments/xgimez/java_weekly_by_baeldung_issue_455/)
-- [Deezpatch - a simple dispatch library](https://www.reddit.com/r/java/comments/xgbl9v/deezpatch_a_simple_dispatch_library/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
