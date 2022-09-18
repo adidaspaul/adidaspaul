@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Hi, beginner here. I was f very confused as to why you need to basically state that the variable is the same as the parameters; couldn’t you just put the variables as the parameters like Shirt&lpar;Color, Size&rpar;{}? I don’t get why the separate newColor is needed, seems redundant to me](https://www.reddit.com/r/java/comments/xhio1q/hi_beginner_here_i_was_f_very_confused_as_to_why/)
 - [Helidon Nima: High Performance with virtual threads](https://www.reddit.com/r/java/comments/xhgbhu/helidon_nima_high_performance_with_virtual_threads/)
 - [Java Weekly by Baeldung, Issue 455](https://www.reddit.com/r/java/comments/xgimez/java_weekly_by_baeldung_issue_455/)
+- [Deezpatch - a simple dispatch library](https://www.reddit.com/r/java/comments/xgbl9v/deezpatch_a_simple_dispatch_library/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
