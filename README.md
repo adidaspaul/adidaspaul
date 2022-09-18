@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Question: Is there a way to add language support in Locale class?](https://www.reddit.com/r/java/comments/xhpmzy/question_is_there_a_way_to_add_language_support/)
 - [JNA vs JNI Performance Question](https://www.reddit.com/r/java/comments/xhlnsp/jna_vs_jni_performance_question/)
 - [Helidon Nima: High Performance with virtual threads](https://www.reddit.com/r/java/comments/xhgbhu/helidon_nima_high_performance_with_virtual_threads/)
-- [Java Weekly by Baeldung, Issue 455](https://www.reddit.com/r/java/comments/xgimez/java_weekly_by_baeldung_issue_455/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
