@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Widely used software developer tools in a single application](https://www.reddit.com/r/java/comments/xi4fel/widely_used_software_developer_tools_in_a_single/)
+- [Maven Test Profiler](https://www.reddit.com/r/java/comments/xi45wc/maven_test_profiler/)
 - [Java News Roundup: Helidon Níma, Spring Framework, MicroProfile, MicroStream, Kotlin, Piranha](https://www.reddit.com/r/java/comments/xi2fjx/java_news_roundup_helidon_níma_spring_framework/)
-- [Quarkus and Spring Boot using Virtual Threads. Does someone heard something about?](https://www.reddit.com/r/java/comments/xhuzpv/quarkus_and_spring_boot_using_virtual_threads/)
-- [Question: Is there a way to add language support in Locale class?](https://www.reddit.com/r/java/comments/xhpmzy/question_is_there_a_way_to_add_language_support/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
