@@ -64,7 +64,7 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Need help finding a design pattern to inform one object about a lot of different changes](https://www.reddit.com/r/java/comments/xicoyu/need_help_finding_a_design_pattern_to_inform_one/)
+- [[Refer to Desc] Can I get request and response body data using some sort of custom annotation in Java [ Dropwizard]?](https://www.reddit.com/r/java/comments/xicspf/refer_to_desc_can_i_get_request_and_response_body/)
 - [Java&#39;s Cultural Problem](https://www.reddit.com/r/java/comments/xi68yh/javas_cultural_problem/)
 - [What Happened to the Site FindJar?](https://www.reddit.com/r/java/comments/xi663v/what_happened_to_the_site_findjar/)
 <!-- BLOG-POST-LIST:END -->
