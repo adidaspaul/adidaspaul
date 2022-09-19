@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [How java and go is related #meme](https://www.reddit.com/r/java/comments/xi8um8/how_java_and_go_is_related_meme/)
 - [Java&#39;s Cultural Problem](https://www.reddit.com/r/java/comments/xi68yh/javas_cultural_problem/)
 - [What Happened to the Site FindJar?](https://www.reddit.com/r/java/comments/xi663v/what_happened_to_the_site_findjar/)
+- [Widely used software developer tools in a single application](https://www.reddit.com/r/java/comments/xi4fel/widely_used_software_developer_tools_in_a_single/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
