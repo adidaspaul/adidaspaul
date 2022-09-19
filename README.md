@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [[Refer to Desc] Can I get request and response body data using some sort of custom annotation in Java [ Dropwizard]?](https://www.reddit.com/r/java/comments/xicspf/refer_to_desc_can_i_get_request_and_response_body/)
 - [Java&#39;s Cultural Problem](https://www.reddit.com/r/java/comments/xi68yh/javas_cultural_problem/)
 - [What Happened to the Site FindJar?](https://www.reddit.com/r/java/comments/xi663v/what_happened_to_the_site_findjar/)
+- [Widely used software developer tools in a single application](https://www.reddit.com/r/java/comments/xi4fel/widely_used_software_developer_tools_in_a_single/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
