@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [What framework/library should I use alongside Spring Boot?](https://www.reddit.com/r/java/comments/xig911/what_frameworklibrary_should_i_use_alongside/)
 - [Java&#39;s Cultural Problem](https://www.reddit.com/r/java/comments/xi68yh/javas_cultural_problem/)
 - [What Happened to the Site FindJar?](https://www.reddit.com/r/java/comments/xi663v/what_happened_to_the_site_findjar/)
-- [Widely used software developer tools in a single application](https://www.reddit.com/r/java/comments/xi4fel/widely_used_software_developer_tools_in_a_single/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
