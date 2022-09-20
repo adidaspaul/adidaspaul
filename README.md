@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Is learning Java even worth it? If yes, then how should I start?](https://www.reddit.com/r/java/comments/xj8ted/is_learning_java_even_worth_it_if_yes_then_how/)
+- [Java 19 GA](https://www.reddit.com/r/java/comments/xja8hb/java_19_ga/)
+- [Java 19 / JDK 19: General Availability](https://www.reddit.com/r/java/comments/xja4xs/java_19_jdk_19_general_availability/)
 - [Object Mapping advanced features &amp; QoL with Java](https://www.reddit.com/r/java/comments/xj8ss9/object_mapping_advanced_features_qol_with_java/)
-- [Why is Spring so slow in TechEmpower benchmark?](https://www.reddit.com/r/java/comments/xj58qm/why_is_spring_so_slow_in_techempower_benchmark/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
