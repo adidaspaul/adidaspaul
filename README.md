@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Is learning Java even worth it? If yes, then how should I start?](https://www.reddit.com/r/java/comments/xj8ted/is_learning_java_even_worth_it_if_yes_then_how/)
+- [Object Mapping advanced features &amp; QoL with Java](https://www.reddit.com/r/java/comments/xj8ss9/object_mapping_advanced_features_qol_with_java/)
 - [Why is Spring so slow in TechEmpower benchmark?](https://www.reddit.com/r/java/comments/xj58qm/why_is_spring_so_slow_in_techempower_benchmark/)
-- [Apache ShenYu: Java Responsive API Gateway Announced as Apache Top-Level Project](https://www.reddit.com/r/java/comments/xj200g/apache_shenyu_java_responsive_api_gateway/)
-- [What&#39;s the best approach for creating an embedded Postgresql to be used in production?](https://www.reddit.com/r/java/comments/xizzm2/whats_the_best_approach_for_creating_an_embedded/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
