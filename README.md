@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [I&#39;m taking a face to face course of java but I&#39;m very stressed](https://www.reddit.com/r/java/comments/xjdhhg/im_taking_a_face_to_face_course_of_java_but_im/)
 - [Java job search frustrations](https://www.reddit.com/r/java/comments/xjah37/java_job_search_frustrations/)
 - [Java 19 GA](https://www.reddit.com/r/java/comments/xja8hb/java_19_ga/)
-- [Java 19 / JDK 19: General Availability](https://www.reddit.com/r/java/comments/xja4xs/java_19_jdk_19_general_availability/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
