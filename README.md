@@ -64,7 +64,7 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [I&#39;m taking a face to face course of java but I&#39;m very stressed](https://www.reddit.com/r/java/comments/xjdhhg/im_taking_a_face_to_face_course_of_java_but_im/)
+- [Java 19 Delivers Features for Projects Loom, Panama and Amber](https://www.reddit.com/r/java/comments/xjdtns/java_19_delivers_features_for_projects_loom/)
 - [Java job search frustrations](https://www.reddit.com/r/java/comments/xjah37/java_job_search_frustrations/)
 - [Java 19 GA](https://www.reddit.com/r/java/comments/xja8hb/java_19_ga/)
 <!-- BLOG-POST-LIST:END -->
