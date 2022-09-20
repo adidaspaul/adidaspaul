@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Java 19 Delivers Features for Projects Loom, Panama and Amber](https://www.reddit.com/r/java/comments/xjdtns/java_19_delivers_features_for_projects_loom/)
-- [Java job search frustrations](https://www.reddit.com/r/java/comments/xjah37/java_job_search_frustrations/)
-- [Java 19 GA](https://www.reddit.com/r/java/comments/xja8hb/java_19_ga/)
+- [When Does Someone &lt;Know&gt; Maven?](https://www.reddit.com/r/java/comments/xjggvv/when_does_someone_know_maven/)
+- [How to integrate dependencies 4.0.0 in IntelliJ using Java?](https://www.reddit.com/r/java/comments/xjg7o6/how_to_integrate_dependencies_400_in_intellij/)
+- [Using Spring Boot for a Startup MVP](https://www.reddit.com/r/java/comments/xjfwie/using_spring_boot_for_a_startup_mvp/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
