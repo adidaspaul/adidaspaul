@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [What&#39;s the best approach for creating an embedded Postgresql to be used in production?](https://www.reddit.com/r/java/comments/xizzm2/whats_the_best_approach_for_creating_an_embedded/)
 - [Best practices when writing web api integrations?](https://www.reddit.com/r/java/comments/xinwqs/best_practices_when_writing_web_api_integrations/)
 - [Java recap for week 37/2022](https://www.reddit.com/r/java/comments/ximjw5/java_recap_for_week_372022/)
-- [Java&#39;s Cultural Problem](https://www.reddit.com/r/java/comments/xi68yh/javas_cultural_problem/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
