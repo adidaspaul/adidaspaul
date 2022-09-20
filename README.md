@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Backend developers. Need your help.](https://www.reddit.com/r/java/comments/xjmlln/backend_developers_need_your_help/)
+- [How to Connect my Existing Java Backend Application to the Frontend?](https://www.reddit.com/r/java/comments/xjlaix/how_to_connect_my_existing_java_backend/)
 - [JEP 430: String Templates &lpar;Preview&rpar;](https://www.reddit.com/r/java/comments/xjgldr/jep_430_string_templates_preview/)
-- [When Does Someone &lt;Know&gt; Maven?](https://www.reddit.com/r/java/comments/xjggvv/when_does_someone_know_maven/)
-- [How to integrate dependencies 4.0.0 in IntelliJ using Java?](https://www.reddit.com/r/java/comments/xjg7o6/how_to_integrate_dependencies_400_in_intellij/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
