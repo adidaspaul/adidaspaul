@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [How would I go about sequentially comparing values in an array?](https://www.reddit.com/r/java/comments/xj5vdt/how_would_i_go_about_sequentially_comparing/)
 - [Why is Spring so slow in TechEmpower benchmark?](https://www.reddit.com/r/java/comments/xj58qm/why_is_spring_so_slow_in_techempower_benchmark/)
 - [Apache ShenYu: Java Responsive API Gateway Announced as Apache Top-Level Project](https://www.reddit.com/r/java/comments/xj200g/apache_shenyu_java_responsive_api_gateway/)
+- [What&#39;s the best approach for creating an embedded Postgresql to be used in production?](https://www.reddit.com/r/java/comments/xizzm2/whats_the_best_approach_for_creating_an_embedded/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
