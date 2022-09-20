@@ -66,7 +66,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [Best practices when writing web api integrations?](https://www.reddit.com/r/java/comments/xinwqs/best_practices_when_writing_web_api_integrations/)
 - [Java recap for week 37/2022](https://www.reddit.com/r/java/comments/ximjw5/java_recap_for_week_372022/)
-- [What framework/library should I use alongside Spring Boot?](https://www.reddit.com/r/java/comments/xig911/what_frameworklibrary_should_i_use_alongside/)
+- [Java&#39;s Cultural Problem](https://www.reddit.com/r/java/comments/xi68yh/javas_cultural_problem/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
