@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Java job search frustrations](https://www.reddit.com/r/java/comments/xjah37/java_job_search_frustrations/)
 - [Java 19 GA](https://www.reddit.com/r/java/comments/xja8hb/java_19_ga/)
 - [Java 19 / JDK 19: General Availability](https://www.reddit.com/r/java/comments/xja4xs/java_19_jdk_19_general_availability/)
-- [Object Mapping advanced features &amp; QoL with Java](https://www.reddit.com/r/java/comments/xj8ss9/object_mapping_advanced_features_qol_with_java/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
