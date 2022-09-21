@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [StructuredTaskScope: why is it generic?](https://www.reddit.com/r/java/comments/xk9dos/structuredtaskscope_why_is_it_generic/)
-- [Community-Managed AWS Lambda Base Images for Java 19](https://www.reddit.com/r/java/comments/xk997o/communitymanaged_aws_lambda_base_images_for_java/)
-- [Mapping out the topics of Java - would love to hear your thoughts :&rpar;](https://www.reddit.com/r/java/comments/xk993q/mapping_out_the_topics_of_java_would_love_to_hear/)
+- [Does Java work on Silicon Macs?](https://www.reddit.com/r/java/comments/xkb0nd/does_java_work_on_silicon_macs/)
+- [[Library] Casterlabs Commons](https://www.reddit.com/r/java/comments/xkax87/library_casterlabs_commons/)
+- [How to better understand what JDK 19 brings?](https://www.reddit.com/r/java/comments/xkand2/how_to_better_understand_what_jdk_19_brings/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
