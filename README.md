@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Can you use embedded H2 database without Spring Data JPA?](https://www.reddit.com/r/java/comments/xjwdwn/can_you_use_embedded_h2_database_without_spring/)
 - [JDK 19 - G1/Parallel/Serial GC changes](https://www.reddit.com/r/java/comments/xjuhg8/jdk_19_g1parallelserial_gc_changes/)
 - [I don&#39;t want debug mode in Eclipse to go into inbuilt classes... too much detail](https://www.reddit.com/r/java/comments/xjucwc/i_dont_want_debug_mode_in_eclipse_to_go_into/)
-- [Error on Eclipse IDE](https://www.reddit.com/r/java/comments/xjshdr/error_on_eclipse_ide/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
