@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Moving Java Forward with Java 19](https://www.reddit.com/r/java/comments/xjzbgt/moving_java_forward_with_java_19/)
 - [JDK 19 - G1/Parallel/Serial GC changes](https://www.reddit.com/r/java/comments/xjuhg8/jdk_19_g1parallelserial_gc_changes/)
-- [I don&#39;t want debug mode in Eclipse to go into inbuilt classes... too much detail](https://www.reddit.com/r/java/comments/xjucwc/i_dont_want_debug_mode_in_eclipse_to_go_into/)
-- [using multiple ExecutorService in an application?](https://www.reddit.com/r/java/comments/xjomuz/using_multiple_executorservice_in_an_application/)
+- [Java 19 - virtual threads are quite a disappointment](https://www.reddit.com/r/java/comments/xjmesi/java_19_virtual_threads_are_quite_a_disappointment/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
