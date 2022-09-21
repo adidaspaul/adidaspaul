@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Is it possible to access the H2 database embedded in Spring Boot via command line/terminal?](https://www.reddit.com/r/java/comments/xk06ib/is_it_possible_to_access_the_h2_database_embedded/)
-- [Moving Java Forward with Java 19](https://www.reddit.com/r/java/comments/xjzbgt/moving_java_forward_with_java_19/)
-- [JDK 19 - G1/Parallel/Serial GC changes](https://www.reddit.com/r/java/comments/xjuhg8/jdk_19_g1parallelserial_gc_changes/)
+- [How to pop up a maze window by pressing a JButton?](https://www.reddit.com/r/java/comments/xk4z3m/how_to_pop_up_a_maze_window_by_pressing_a_jbutton/)
+- [Debugging a REST service with Piranha Cloud and VSCode](https://www.reddit.com/r/java/comments/xk499y/debugging_a_rest_service_with_piranha_cloud_and/)
+- [Hashtag Jakarta EE #142](https://www.reddit.com/r/java/comments/xk47z0/hashtag_jakarta_ee_142/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
