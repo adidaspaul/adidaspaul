@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [using multiple ExecutorService in an application?](https://www.reddit.com/r/java/comments/xjomuz/using_multiple_executorservice_in_an_application/)
-- [JEP 430: String Templates &lpar;Preview&rpar;](https://www.reddit.com/r/java/comments/xjgldr/jep_430_string_templates_preview/)
-- [When Does Someone &lt;Know&gt; Maven?](https://www.reddit.com/r/java/comments/xjggvv/when_does_someone_know_maven/)
+- [JDK 19 - G1/Parallel/Serial GC changes](https://www.reddit.com/r/java/comments/xjuhg8/jdk_19_g1parallelserial_gc_changes/)
+- [I don&#39;t want debug mode in Eclipse to go into inbuilt classes... too much detail](https://www.reddit.com/r/java/comments/xjucwc/i_dont_want_debug_mode_in_eclipse_to_go_into/)
+- [Error on Eclipse IDE](https://www.reddit.com/r/java/comments/xjshdr/error_on_eclipse_ide/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
