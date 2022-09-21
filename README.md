@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Backend developers. Need your help.](https://www.reddit.com/r/java/comments/xjmlln/backend_developers_need_your_help/)
-- [How to Connect my Existing Java Backend Application to the Frontend?](https://www.reddit.com/r/java/comments/xjlaix/how_to_connect_my_existing_java_backend/)
+- [using multiple ExecutorService in an application?](https://www.reddit.com/r/java/comments/xjomuz/using_multiple_executorservice_in_an_application/)
 - [JEP 430: String Templates &lpar;Preview&rpar;](https://www.reddit.com/r/java/comments/xjgldr/jep_430_string_templates_preview/)
+- [When Does Someone &lt;Know&gt; Maven?](https://www.reddit.com/r/java/comments/xjggvv/when_does_someone_know_maven/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
