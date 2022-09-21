@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Is it possible to access the H2 database embedded in Spring Boot via command line/terminal?](https://www.reddit.com/r/java/comments/xk06ib/is_it_possible_to_access_the_h2_database_embedded/)
 - [Moving Java Forward with Java 19](https://www.reddit.com/r/java/comments/xjzbgt/moving_java_forward_with_java_19/)
 - [JDK 19 - G1/Parallel/Serial GC changes](https://www.reddit.com/r/java/comments/xjuhg8/jdk_19_g1parallelserial_gc_changes/)
-- [Java 19 - virtual threads are quite a disappointment](https://www.reddit.com/r/java/comments/xjmesi/java_19_virtual_threads_are_quite_a_disappointment/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
