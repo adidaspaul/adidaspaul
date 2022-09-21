@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Remote dev-watch development with the WildFly Jar Maven Plugin](https://www.reddit.com/r/java/comments/xk6klg/remote_devwatch_development_with_the_wildfly_jar/)
 - [Debugging a REST service with Piranha Cloud and VSCode](https://www.reddit.com/r/java/comments/xk499y/debugging_a_rest_service_with_piranha_cloud_and/)
 - [Hashtag Jakarta EE #142](https://www.reddit.com/r/java/comments/xk47z0/hashtag_jakarta_ee_142/)
-- [Is it possible to access the H2 database embedded in Spring Boot via command line/terminal?](https://www.reddit.com/r/java/comments/xk06ib/is_it_possible_to_access_the_h2_database_embedded/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
