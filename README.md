@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Remote dev-watch development with the WildFly Jar Maven Plugin](https://www.reddit.com/r/java/comments/xk6klg/remote_devwatch_development_with_the_wildfly_jar/)
-- [Debugging a REST service with Piranha Cloud and VSCode](https://www.reddit.com/r/java/comments/xk499y/debugging_a_rest_service_with_piranha_cloud_and/)
-- [Hashtag Jakarta EE #142](https://www.reddit.com/r/java/comments/xk47z0/hashtag_jakarta_ee_142/)
+- [StructuredTaskScope: why is it generic?](https://www.reddit.com/r/java/comments/xk9dos/structuredtaskscope_why_is_it_generic/)
+- [Community-Managed AWS Lambda Base Images for Java 19](https://www.reddit.com/r/java/comments/xk997o/communitymanaged_aws_lambda_base_images_for_java/)
+- [Mapping out the topics of Java - would love to hear your thoughts :&rpar;](https://www.reddit.com/r/java/comments/xk993q/mapping_out_the_topics_of_java_would_love_to_hear/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
