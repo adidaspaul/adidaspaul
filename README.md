@@ -64,8 +64,8 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Foojay Podcast #5: OpenJDK Discussion Panel](https://www.reddit.com/r/java/comments/xkfd2m/foojay_podcast_5_openjdk_discussion_panel/)
 - [What&#39;s Looming in Java The Why and What of Project Loom - Venkat Subramaniam](https://www.reddit.com/r/java/comments/xkcfqp/whats_looming_in_java_the_why_and_what_of_project/)
-- [Does Java work on Silicon Macs?](https://www.reddit.com/r/java/comments/xkb0nd/does_java_work_on_silicon_macs/)
 - [[Library] Casterlabs Commons](https://www.reddit.com/r/java/comments/xkax87/library_casterlabs_commons/)
 <!-- BLOG-POST-LIST:END -->
 
