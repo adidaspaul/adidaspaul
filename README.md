@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Best Java Books?](https://www.reddit.com/r/java/comments/xkxmp3/best_java_books/)
 - [Can we use h2 database embedded in spring boot in our static website?](https://www.reddit.com/r/java/comments/xksfrx/can_we_use_h2_database_embedded_in_spring_boot_in/)
 - [Foojay Podcast #5: OpenJDK Discussion Panel](https://www.reddit.com/r/java/comments/xkfd2m/foojay_podcast_5_openjdk_discussion_panel/)
-- [What&#39;s Looming in Java The Why and What of Project Loom - Venkat Subramaniam](https://www.reddit.com/r/java/comments/xkcfqp/whats_looming_in_java_the_why_and_what_of_project/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
