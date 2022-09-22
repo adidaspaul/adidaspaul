@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [OmniFish announces support for Eclipse GlassFish and Jakarta EE 10](https://www.reddit.com/r/java/comments/xl1k19/omnifish_announces_support_for_eclipse_glassfish/)
+- [Jakarta EE 10 released!](https://www.reddit.com/r/java/comments/xl18wv/jakarta_ee_10_released/)
 - [Best Java Books?](https://www.reddit.com/r/java/comments/xkxmp3/best_java_books/)
-- [Can we use h2 database embedded in spring boot in our static website?](https://www.reddit.com/r/java/comments/xksfrx/can_we_use_h2_database_embedded_in_spring_boot_in/)
-- [Foojay Podcast #5: OpenJDK Discussion Panel](https://www.reddit.com/r/java/comments/xkfd2m/foojay_podcast_5_openjdk_discussion_panel/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
