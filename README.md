@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How should I go about learning Java?](https://www.reddit.com/r/java/comments/xlblnj/how_should_i_go_about_learning_java/)
+- [Childhood game I forgot the name of &lpar;please help&rpar;](https://www.reddit.com/r/java/comments/xlbfv8/childhood_game_i_forgot_the_name_of_please_help/)
 - [JDK 19 Security Enhancements](https://www.reddit.com/r/java/comments/xl4xue/jdk_19_security_enhancements/)
-- [Jakarta EE 10 release overview](https://www.reddit.com/r/java/comments/xl49vm/jakarta_ee_10_release_overview/)
-- [OmniFish announces support for Eclipse GlassFish and Jakarta EE 10](https://www.reddit.com/r/java/comments/xl1k19/omnifish_announces_support_for_eclipse_glassfish/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
