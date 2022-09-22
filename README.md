@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Jakarta EE 10 release overview](https://www.reddit.com/r/java/comments/xl49vm/jakarta_ee_10_release_overview/)
 - [OmniFish announces support for Eclipse GlassFish and Jakarta EE 10](https://www.reddit.com/r/java/comments/xl1k19/omnifish_announces_support_for_eclipse_glassfish/)
 - [Jakarta EE 10 released!](https://www.reddit.com/r/java/comments/xl18wv/jakarta_ee_10_released/)
-- [Best Java Books?](https://www.reddit.com/r/java/comments/xkxmp3/best_java_books/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
