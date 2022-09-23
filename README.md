@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Any way to do Bean Validation on construction with records or Lombok?](https://www.reddit.com/r/java/comments/xm3e2m/any_way_to_do_bean_validation_on_construction/)
 - [Virtual Threads: New Foundations for High-Scale Java Applications - Brian Goetz](https://www.reddit.com/r/java/comments/xlwrjw/virtual_threads_new_foundations_for_highscale/)
 - [Pitfalls you encounter with virtual threads](https://www.reddit.com/r/java/comments/xlwegt/pitfalls_you_encounter_with_virtual_threads/)
-- [Mockito - Horrible Documentation](https://www.reddit.com/r/java/comments/xltscx/mockito_horrible_documentation/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
