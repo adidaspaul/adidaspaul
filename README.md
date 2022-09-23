@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Any way to do Bean Validation on construction with records or Lombok?](https://www.reddit.com/r/java/comments/xm3e2m/any_way_to_do_bean_validation_on_construction/)
 - [Virtual Threads: New Foundations for High-Scale Java Applications - Brian Goetz](https://www.reddit.com/r/java/comments/xlwrjw/virtual_threads_new_foundations_for_highscale/)
 - [Pitfalls you encounter with virtual threads](https://www.reddit.com/r/java/comments/xlwegt/pitfalls_you_encounter_with_virtual_threads/)
+- [Subtle difference between lambda and method reference](https://www.reddit.com/r/java/comments/xlrth2/subtle_difference_between_lambda_and_method/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
