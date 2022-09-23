@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Subtle difference between lambda and method reference](https://www.reddit.com/r/java/comments/xlrth2/subtle_difference_between_lambda_and_method/)
 - [Any recommended courses or projects to get really &quot;senior&quot; with Spring Boot?](https://www.reddit.com/r/java/comments/xlrr5x/any_recommended_courses_or_projects_to_get_really/)
 - [The mysterious Ljava.internal.vm.FillerArray;](https://www.reddit.com/r/java/comments/xlnw9q/the_mysterious_ljavainternalvmfillerarray/)
-- [Childhood game I forgot the name of &lpar;please help&rpar;](https://www.reddit.com/r/java/comments/xlbfv8/childhood_game_i_forgot_the_name_of_please_help/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
