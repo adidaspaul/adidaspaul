@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Pitfalls you encounter with virtual threads](https://www.reddit.com/r/java/comments/xlwegt/pitfalls_you_encounter_with_virtual_threads/)
 - [Mockito - Horrible Documentation](https://www.reddit.com/r/java/comments/xltscx/mockito_horrible_documentation/)
 - [Subtle difference between lambda and method reference](https://www.reddit.com/r/java/comments/xlrth2/subtle_difference_between_lambda_and_method/)
-- [Any recommended courses or projects to get really &quot;senior&quot; with Spring Boot?](https://www.reddit.com/r/java/comments/xlrr5x/any_recommended_courses_or_projects_to_get_really/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
