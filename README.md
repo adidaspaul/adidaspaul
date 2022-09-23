@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [When to use ;](https://www.reddit.com/r/java/comments/xlhj2r/when_to_use/)
 - [Childhood game I forgot the name of &lpar;please help&rpar;](https://www.reddit.com/r/java/comments/xlbfv8/childhood_game_i_forgot_the_name_of_please_help/)
 - [JDK 19 Security Enhancements](https://www.reddit.com/r/java/comments/xl4xue/jdk_19_security_enhancements/)
+- [Jakarta EE 10 release overview](https://www.reddit.com/r/java/comments/xl49vm/jakarta_ee_10_release_overview/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
