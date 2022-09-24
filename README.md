@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [What are some more options or good practices for dynamic SQL query building?](https://www.reddit.com/r/java/comments/xmgkc9/what_are_some_more_options_or_good_practices_for/)
 - [Virtual Threads: New Foundations for High-Scale Java Applications - Brian Goetz](https://www.reddit.com/r/java/comments/xlwrjw/virtual_threads_new_foundations_for_highscale/)
 - [Pitfalls you encounter with virtual threads](https://www.reddit.com/r/java/comments/xlwegt/pitfalls_you_encounter_with_virtual_threads/)
-- [Subtle difference between lambda and method reference](https://www.reddit.com/r/java/comments/xlrth2/subtle_difference_between_lambda_and_method/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
