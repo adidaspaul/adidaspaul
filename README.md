@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Better Java logging, inspired by Clojure and Rust](https://www.reddit.com/r/java/comments/xntw4u/better_java_logging_inspired_by_clojure_and_rust/)
 - [Hashtag Jakarta EE #143](https://www.reddit.com/r/java/comments/xnt7oz/hashtag_jakarta_ee_143/)
 - [What are some more options or good practices for dynamic SQL query building?](https://www.reddit.com/r/java/comments/xmgkc9/what_are_some_more_options_or_good_practices_for/)
-- [Virtual Threads: New Foundations for High-Scale Java Applications - Brian Goetz](https://www.reddit.com/r/java/comments/xlwrjw/virtual_threads_new_foundations_for_highscale/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
