@@ -64,7 +64,7 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Going From Java to Kotlin](https://www.reddit.com/r/java/comments/xoe8ap/going_from_java_to_kotlin/)
+- [has anyone written custom annotations using Lombok ?](https://www.reddit.com/r/java/comments/xoeyh1/has_anyone_written_custom_annotations_using_lombok/)
 - [Your experience with Java microservices vs monolith in the Cloud](https://www.reddit.com/r/java/comments/xod8tk/your_experience_with_java_microservices_vs/)
 - [What exactly is done in &quot;SQA Automation Tester in Java&quot;](https://www.reddit.com/r/java/comments/xocsv4/what_exactly_is_done_in_sqa_automation_tester_in/)
 <!-- BLOG-POST-LIST:END -->
