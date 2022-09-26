@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Your experience with Java microservices vs monolith in the Cloud](https://www.reddit.com/r/java/comments/xod8tk/your_experience_with_java_microservices_vs/)
+- [What exactly is done in &quot;SQA Automation Tester in Java&quot;](https://www.reddit.com/r/java/comments/xocsv4/what_exactly_is_done_in_sqa_automation_tester_in/)
 - [Better Java logging, inspired by Clojure and Rust](https://www.reddit.com/r/java/comments/xntw4u/better_java_logging_inspired_by_clojure_and_rust/)
-- [Hashtag Jakarta EE #143](https://www.reddit.com/r/java/comments/xnt7oz/hashtag_jakarta_ee_143/)
-- [What are some more options or good practices for dynamic SQL query building?](https://www.reddit.com/r/java/comments/xmgkc9/what_are_some_more_options_or_good_practices_for/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
