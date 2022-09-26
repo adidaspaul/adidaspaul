@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [One or many repositories for a microservice architecture?](https://www.reddit.com/r/java/comments/xoqu3l/one_or_many_repositories_for_a_microservice/)
 - [Java recap for week 38/2022](https://www.reddit.com/r/java/comments/xofglg/java_recap_for_week_382022/)
 - [has anyone written custom annotations using Lombok ?](https://www.reddit.com/r/java/comments/xoeyh1/has_anyone_written_custom_annotations_using_lombok/)
-- [Your experience with Java microservices vs monolith in the Cloud](https://www.reddit.com/r/java/comments/xod8tk/your_experience_with_java_microservices_vs/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
