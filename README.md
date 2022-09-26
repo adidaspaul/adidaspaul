@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [&quot; WHY IS JAVA THE MOST UNSUITABLE PROGRAMMING LANGUAGE FOR STARTUPS? &quot; by Sayantani Sanyal](https://www.reddit.com/r/java/comments/xoo9f6/why_is_java_the_most_unsuitable_programming/)
 - [Java recap for week 38/2022](https://www.reddit.com/r/java/comments/xofglg/java_recap_for_week_382022/)
 - [has anyone written custom annotations using Lombok ?](https://www.reddit.com/r/java/comments/xoeyh1/has_anyone_written_custom_annotations_using_lombok/)
-- [Your experience with Java microservices vs monolith in the Cloud](https://www.reddit.com/r/java/comments/xod8tk/your_experience_with_java_microservices_vs/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
