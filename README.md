@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [One or many repositories for a microservice architecture?](https://www.reddit.com/r/java/comments/xoqu3l/one_or_many_repositories_for_a_microservice/)
-- [Java recap for week 38/2022](https://www.reddit.com/r/java/comments/xofglg/java_recap_for_week_382022/)
-- [has anyone written custom annotations using Lombok ?](https://www.reddit.com/r/java/comments/xoeyh1/has_anyone_written_custom_annotations_using_lombok/)
+- [Are remote jobs common for Java Backend &lpar;ex: Spring&rpar;?](https://www.reddit.com/r/java/comments/xp5rwi/are_remote_jobs_common_for_java_backend_ex_spring/)
+- [JavaFX Interfacing with Windows Media Overlay](https://www.reddit.com/r/java/comments/xp5rj9/javafx_interfacing_with_windows_media_overlay/)
+- [Is there any java benchmark result for different CPU](https://www.reddit.com/r/java/comments/xp5ooj/is_there_any_java_benchmark_result_for_different/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
