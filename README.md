@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [About record hashcode requirements](https://www.reddit.com/r/java/comments/xpgsry/about_record_hashcode_requirements/)
 - [Loom in the Java Ecosystem - Inside Java Newscast #34](https://www.reddit.com/r/java/comments/xp954a/loom_in_the_java_ecosystem_inside_java_newscast_34/)
 - [Are remote jobs common for Java Backend &lpar;ex: Spring&rpar;?](https://www.reddit.com/r/java/comments/xp5rwi/are_remote_jobs_common_for_java_backend_ex_spring/)
-- [Is there any java benchmark result for different CPU](https://www.reddit.com/r/java/comments/xp5ooj/is_there_any_java_benchmark_result_for_different/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
