@@ -64,7 +64,7 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Loom in the Java Ecosystem - Inside Java Newscast](https://www.reddit.com/r/java/comments/xparyk/loom_in_the_java_ecosystem_inside_java_newscast/)
+- [Loom in the Java Ecosystem - Inside Java Newscast #34](https://www.reddit.com/r/java/comments/xp954a/loom_in_the_java_ecosystem_inside_java_newscast_34/)
 - [Are remote jobs common for Java Backend &lpar;ex: Spring&rpar;?](https://www.reddit.com/r/java/comments/xp5rwi/are_remote_jobs_common_for_java_backend_ex_spring/)
 - [JavaFX Interfacing with Windows Media Overlay](https://www.reddit.com/r/java/comments/xp5rj9/javafx_interfacing_with_windows_media_overlay/)
 <!-- BLOG-POST-LIST:END -->
