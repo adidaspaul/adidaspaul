@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Any Java related libraries or pattern that will help me manage user settings?](https://www.reddit.com/r/java/comments/xqkffo/any_java_related_libraries_or_pattern_that_will/)
+- [What&#39;s next for Java? JDK 20 is coming soon](https://www.reddit.com/r/java/comments/xqjgvl/whats_next_for_java_jdk_20_is_coming_soon/)
 - [Sending async http requests efficiently](https://www.reddit.com/r/java/comments/xqgxel/sending_async_http_requests_efficiently/)
-- [Will Jakarta EE Core compete with Microprofile for the hearts of microservices developers?](https://www.reddit.com/r/java/comments/xqe8kt/will_jakarta_ee_core_compete_with_microprofile/)
-- [Spring Boot Migrator Converts Non-Spring Applications](https://www.reddit.com/r/java/comments/xqaa30/spring_boot_migrator_converts_nonspring/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
