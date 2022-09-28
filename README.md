@@ -64,7 +64,7 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [What does this mean in java [underlined]](https://www.reddit.com/r/java/comments/xqola4/what_does_this_mean_in_java_underlined/)
+- [Really happy to release my Sorting Visualizer that i made with Java. It was such a fun project and i hope you like it! GitHub Link in the comments](https://www.reddit.com/r/java/comments/xqpatf/really_happy_to_release_my_sorting_visualizer/)
 - [Guide to Virtual Threads &amp; how to use them for writing services](https://www.reddit.com/r/java/comments/xql77l/guide_to_virtual_threads_how_to_use_them_for/)
 - [Paving the on-ramp [Brian Goetz]](https://www.reddit.com/r/java/comments/xqkw6x/paving_the_onramp_brian_goetz/)
 <!-- BLOG-POST-LIST:END -->
