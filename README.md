@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Spark-NLP 4.2.0: Wav2Vec2 for Automatic Speech Recognition &lpar;ASR&rpar;, TAPAS for Table Question Answering, CamemBERT for Token Classification, new evaluation metrics for external datasets in all classifiers, much faster EntityRuler, over 3000+ state-of-the-art models &amp; pipelines, and many more!](https://www.reddit.com/r/java/comments/xq5yyt/sparknlp_420_wav2vec2_for_automatic_speech/)
 - [compiling to Javascript &amp; deploying on Cloudflare Workers?](https://www.reddit.com/r/java/comments/xq36b5/compiling_to_javascript_deploying_on_cloudflare/)
 - [OS Threads vs Virtual Threads - JMH Benchmark &amp; locust on Sping App](https://www.reddit.com/r/java/comments/xpqjxv/os_threads_vs_virtual_threads_jmh_benchmark/)
-- [About record hashcode requirements](https://www.reddit.com/r/java/comments/xpgsry/about_record_hashcode_requirements/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
