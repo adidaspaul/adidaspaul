@@ -65,8 +65,8 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Will Jakarta EE Core compete with Microprofile for the hearts of microservices developers?](https://www.reddit.com/r/java/comments/xqe8kt/will_jakarta_ee_core_compete_with_microprofile/)
-- [I have installed the jdk 19 from oracle&#39;s official site. vs code is giving me this error. Any solution appreciated.](https://www.reddit.com/r/java/comments/xqe44f/i_have_installed_the_jdk_19_from_oracles_official/)
 - [Spring Boot Migrator Converts Non-Spring Applications](https://www.reddit.com/r/java/comments/xqaa30/spring_boot_migrator_converts_nonspring/)
+- [Is anyone using Tess4j? Seems to work in Java 1.8, not Java 17 or 19](https://www.reddit.com/r/java/comments/xq9ya7/is_anyone_using_tess4j_seems_to_work_in_java_18/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
