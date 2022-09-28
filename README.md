@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Spring Boot Migrator Converts Non-Spring Applications](https://www.reddit.com/r/java/comments/xqaa30/spring_boot_migrator_converts_nonspring/)
 - [Is anyone using Tess4j? Seems to work in Java 1.8, not Java 17 or 19](https://www.reddit.com/r/java/comments/xq9ya7/is_anyone_using_tess4j_seems_to_work_in_java_18/)
 - [Spark-NLP 4.2.0: Wav2Vec2 for Automatic Speech Recognition &lpar;ASR&rpar;, TAPAS for Table Question Answering, CamemBERT for Token Classification, new evaluation metrics for external datasets in all classifiers, much faster EntityRuler, over 3000+ state-of-the-art models &amp; pipelines, and many more!](https://www.reddit.com/r/java/comments/xq5yyt/sparknlp_420_wav2vec2_for_automatic_speech/)
-- [OS Threads vs Virtual Threads - JMH Benchmark &amp; locust on Sping App](https://www.reddit.com/r/java/comments/xpqjxv/os_threads_vs_virtual_threads_jmh_benchmark/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
