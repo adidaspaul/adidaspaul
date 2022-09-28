@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [compiling to Javascript &amp; deploying on Cloudflare Workers?](https://www.reddit.com/r/java/comments/xq36b5/compiling_to_javascript_deploying_on_cloudflare/)
 - [OS Threads vs Virtual Threads - JMH Benchmark &amp; locust on Sping App](https://www.reddit.com/r/java/comments/xpqjxv/os_threads_vs_virtual_threads_jmh_benchmark/)
 - [About record hashcode requirements](https://www.reddit.com/r/java/comments/xpgsry/about_record_hashcode_requirements/)
-- [Loom in the Java Ecosystem - Inside Java Newscast #34](https://www.reddit.com/r/java/comments/xp954a/loom_in_the_java_ecosystem_inside_java_newscast_34/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
