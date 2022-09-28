@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [What does this mean in java [underlined]](https://www.reddit.com/r/java/comments/xqola4/what_does_this_mean_in_java_underlined/)
 - [Guide to Virtual Threads &amp; how to use them for writing services](https://www.reddit.com/r/java/comments/xql77l/guide_to_virtual_threads_how_to_use_them_for/)
 - [Paving the on-ramp [Brian Goetz]](https://www.reddit.com/r/java/comments/xqkw6x/paving_the_onramp_brian_goetz/)
-- [Any Java related libraries or pattern that will help me manage user settings?](https://www.reddit.com/r/java/comments/xqkffo/any_java_related_libraries_or_pattern_that_will/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
