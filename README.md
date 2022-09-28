@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Guide to Virtual Threads &amp; how to use them for writing services](https://www.reddit.com/r/java/comments/xql77l/guide_to_virtual_threads_how_to_use_them_for/)
+- [Paving the on-ramp [Brian Goetz]](https://www.reddit.com/r/java/comments/xqkw6x/paving_the_onramp_brian_goetz/)
 - [Any Java related libraries or pattern that will help me manage user settings?](https://www.reddit.com/r/java/comments/xqkffo/any_java_related_libraries_or_pattern_that_will/)
-- [What&#39;s next for Java? JDK 20 is coming soon](https://www.reddit.com/r/java/comments/xqjgvl/whats_next_for_java_jdk_20_is_coming_soon/)
-- [Sending async http requests efficiently](https://www.reddit.com/r/java/comments/xqgxel/sending_async_http_requests_efficiently/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
