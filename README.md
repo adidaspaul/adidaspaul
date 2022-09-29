@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Is JDBC becoming a “legacy” API??](https://www.reddit.com/r/java/comments/xrkbmu/is_jdbc_becoming_a_legacy_api/)
 - [Just a reminder: Swing is vividly alive and actively developed](https://www.reddit.com/r/java/comments/xrgg6u/just_a_reminder_swing_is_vividly_alive_and/)
 - [Jakarta EE 10 Has Landed!](https://www.reddit.com/r/java/comments/xr699i/jakarta_ee_10_has_landed/)
-- [IKVM.NET 8.7.0.0 Super experimental ikNative closed-source preview released](https://www.reddit.com/r/java/comments/xr1wy8/ikvmnet_8700_super_experimental_iknative/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
