@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Just a reminder: Swing is vividly alive and actively developed](https://www.reddit.com/r/java/comments/xrgg6u/just_a_reminder_swing_is_vividly_alive_and/)
 - [Jakarta EE 10 Has Landed!](https://www.reddit.com/r/java/comments/xr699i/jakarta_ee_10_has_landed/)
 - [IKVM.NET 8.7.0.0 Super experimental ikNative closed-source preview released](https://www.reddit.com/r/java/comments/xr1wy8/ikvmnet_8700_super_experimental_iknative/)
-- [Really happy to release my Sorting Visualizer that i made with Java. It was such a fun project and i hope you like it! GitHub Link in the comments](https://www.reddit.com/r/java/comments/xqpatf/really_happy_to_release_my_sorting_visualizer/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
