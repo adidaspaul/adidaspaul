@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How Microsoft applies Java &lpar;PDF&rpar;](https://www.reddit.com/r/java/comments/xs8zl2/how_microsoft_applies_java_pdf/)
 - [GlassFish 7.0.0-M9 released!](https://www.reddit.com/r/java/comments/xs7s22/glassfish_700m9_released/)
 - [Short Interview with Helidon Project Lead about Helidon, Microservices &amp; GraalVM](https://www.reddit.com/r/java/comments/xrwp7s/short_interview_with_helidon_project_lead_about/)
-- [JUnit 5.9 Supports GraalVM Native Image](https://www.reddit.com/r/java/comments/xrwmvd/junit_59_supports_graalvm_native_image/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
