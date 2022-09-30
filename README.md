@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [what jvm/gc opts do you use for running webservices in docker/kubernetes](https://www.reddit.com/r/java/comments/xruumc/what_jvmgc_opts_do_you_use_for_running/)
-- [Nine years of blogging about Java](https://www.reddit.com/r/java/comments/xrugp9/nine_years_of_blogging_about_java/)
-- [is there a cli that can add DAO/DTO/Service classes ?](https://www.reddit.com/r/java/comments/xrs5ou/is_there_a_cli_that_can_add_daodtoservice_classes/)
+- [Short Interview with Helidon Project Lead about Helidon, Microservices &amp; GraalVM](https://www.reddit.com/r/java/comments/xrwp7s/short_interview_with_helidon_project_lead_about/)
+- [JUnit 5.9 Supports GraalVM Native Image](https://www.reddit.com/r/java/comments/xrwmvd/junit_59_supports_graalvm_native_image/)
+- [Why there is no built in method in java array to add an element in the array?](https://www.reddit.com/r/java/comments/xrw736/why_there_is_no_built_in_method_in_java_array_to/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
