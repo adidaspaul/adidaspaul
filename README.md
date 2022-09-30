@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [[JDK-8294349] Unnamed local variables and patterns](https://www.reddit.com/r/java/comments/xrmkj1/jdk8294349_unnamed_local_variables_and_patterns/)
 - [Is JDBC becoming a “legacy” API??](https://www.reddit.com/r/java/comments/xrkbmu/is_jdbc_becoming_a_legacy_api/)
 - [Just a reminder: Swing is vividly alive and actively developed](https://www.reddit.com/r/java/comments/xrgg6u/just_a_reminder_swing_is_vividly_alive_and/)
-- [Jakarta EE 10 Has Landed!](https://www.reddit.com/r/java/comments/xr699i/jakarta_ee_10_has_landed/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
