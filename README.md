@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [what jvm/gc opts do you use for running webservices in docker/kubernetes](https://www.reddit.com/r/java/comments/xruumc/what_jvmgc_opts_do_you_use_for_running/)
 - [Nine years of blogging about Java](https://www.reddit.com/r/java/comments/xrugp9/nine_years_of_blogging_about_java/)
 - [is there a cli that can add DAO/DTO/Service classes ?](https://www.reddit.com/r/java/comments/xrs5ou/is_there_a_cli_that_can_add_daodtoservice_classes/)
-- [Lucene 9.4 &lpar;optionally&rpar; uses Panama&#39;s mapped MemorySegments when JDK 19 is detected](https://www.reddit.com/r/java/comments/xrrcpj/lucene_94_optionally_uses_panamas_mapped/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
