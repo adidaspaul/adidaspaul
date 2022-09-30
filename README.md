@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [is there a cli that can add DAO/DTO/Service classes ?](https://www.reddit.com/r/java/comments/xrs5ou/is_there_a_cli_that_can_add_daodtoservice_classes/)
+- [Lucene 9.4 &lpar;optionally&rpar; uses Panama&#39;s mapped MemorySegments when JDK 19 is detected](https://www.reddit.com/r/java/comments/xrrcpj/lucene_94_optionally_uses_panamas_mapped/)
 - [[JDK-8294349] Unnamed local variables and patterns](https://www.reddit.com/r/java/comments/xrmkj1/jdk8294349_unnamed_local_variables_and_patterns/)
-- [Is JDBC becoming a “legacy” API??](https://www.reddit.com/r/java/comments/xrkbmu/is_jdbc_becoming_a_legacy_api/)
-- [Just a reminder: Swing is vividly alive and actively developed](https://www.reddit.com/r/java/comments/xrgg6u/just_a_reminder_swing_is_vividly_alive_and/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
