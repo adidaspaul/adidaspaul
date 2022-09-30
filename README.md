@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Displaying Japanese characters not working](https://www.reddit.com/r/java/comments/xs34b2/displaying_japanese_characters_not_working/)
 - [Short Interview with Helidon Project Lead about Helidon, Microservices &amp; GraalVM](https://www.reddit.com/r/java/comments/xrwp7s/short_interview_with_helidon_project_lead_about/)
 - [JUnit 5.9 Supports GraalVM Native Image](https://www.reddit.com/r/java/comments/xrwmvd/junit_59_supports_graalvm_native_image/)
-- [eventuate.io feedback](https://www.reddit.com/r/java/comments/xrw6ps/eventuateio_feedback/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
