@@ -66,7 +66,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [Short Interview with Helidon Project Lead about Helidon, Microservices &amp; GraalVM](https://www.reddit.com/r/java/comments/xrwp7s/short_interview_with_helidon_project_lead_about/)
 - [JUnit 5.9 Supports GraalVM Native Image](https://www.reddit.com/r/java/comments/xrwmvd/junit_59_supports_graalvm_native_image/)
-- [Why there is no built in method in java array to add an element in the array?](https://www.reddit.com/r/java/comments/xrw736/why_there_is_no_built_in_method_in_java_array_to/)
+- [eventuate.io feedback](https://www.reddit.com/r/java/comments/xrw6ps/eventuateio_feedback/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
