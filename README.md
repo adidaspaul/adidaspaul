@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Is throwing nullexceptions considered good style??](https://www.reddit.com/r/java/comments/xsq9pt/is_throwing_nullexceptions_considered_good_style/)
 - [WildFly 27-B1 released!](https://www.reddit.com/r/java/comments/xsclp6/wildfly_27b1_released/)
 - [How Microsoft applies Java &lpar;PDF&rpar;](https://www.reddit.com/r/java/comments/xs8zl2/how_microsoft_applies_java_pdf/)
-- [GlassFish 7.0.0-M9 released!](https://www.reddit.com/r/java/comments/xs7s22/glassfish_700m9_released/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
