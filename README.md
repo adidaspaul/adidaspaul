@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Question about StringToWrapper, can we use a primitive type for ValueOf?](https://www.reddit.com/r/java/comments/xtymi1/question_about_stringtowrapper_can_we_use_a/)
 - [Liberty InstantOn startup for cloud native Java applications](https://www.reddit.com/r/java/comments/xtwysw/liberty_instanton_startup_for_cloud_native_java/)
 - [2022-10-02 gRPC benchmark results](https://www.reddit.com/r/java/comments/xtqzzc/20221002_grpc_benchmark_results/)
-- [How to Debug JMeter Test Scripts](https://www.reddit.com/r/java/comments/xtivji/how_to_debug_jmeter_test_scripts/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
