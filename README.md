@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [If only that were possible](https://www.reddit.com/r/java/comments/xtbz19/if_only_that_were_possible/)
 - [Quality java resources](https://www.reddit.com/r/java/comments/xt37nj/quality_java_resources/)
 - [WildFly 27-B1 released!](https://www.reddit.com/r/java/comments/xsclp6/wildfly_27b1_released/)
-- [How Microsoft applies Java &lpar;PDF&rpar;](https://www.reddit.com/r/java/comments/xs8zl2/how_microsoft_applies_java_pdf/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
