@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Debug JMeter Test Scripts](https://www.reddit.com/r/java/comments/xtivji/how_to_debug_jmeter_test_scripts/)
 - [Quality java resources](https://www.reddit.com/r/java/comments/xt37nj/quality_java_resources/)
 - [WildFly 27-B1 released!](https://www.reddit.com/r/java/comments/xsclp6/wildfly_27b1_released/)
-- [How Microsoft applies Java &lpar;PDF&rpar;](https://www.reddit.com/r/java/comments/xs8zl2/how_microsoft_applies_java_pdf/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
