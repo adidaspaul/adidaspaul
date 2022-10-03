@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Learn Multi-Threaded programming in Java](https://www.reddit.com/r/java/comments/xuq3p7/learn_multithreaded_programming_in_java/)
 - [Jakarta EE Survey 2022](https://www.reddit.com/r/java/comments/xumx7q/jakarta_ee_survey_2022/)
 - [HackSquad, 1200+ Contributors - 300 Swag Kits](https://www.reddit.com/r/java/comments/xulo40/hacksquad_1200_contributors_300_swag_kits/)
-- [Javalin v5 has been released! &lpar;web micro-framework&rpar;](https://www.reddit.com/r/java/comments/xul5kw/javalin_v5_has_been_released_web_microframework/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
