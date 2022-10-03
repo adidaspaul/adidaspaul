@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Do you prefer making methods like Way 1 or Way 2?](https://www.reddit.com/r/java/comments/xu3sc9/do_you_prefer_making_methods_like_way_1_or_way_2/)
-- [Can someone explain java, openjdk, azul, as simple as possible?](https://www.reddit.com/r/java/comments/xu1p8o/can_someone_explain_java_openjdk_azul_as_simple/)
 - [OmniFaces 4.0 released!](https://www.reddit.com/r/java/comments/xu0pt7/omnifaces_40_released/)
+- [Implementation of load balancer — Consistent hashing](https://www.reddit.com/r/java/comments/xtzh0g/implementation_of_load_balancer_consistent_hashing/)
+- [Liberty InstantOn startup for cloud native Java applications](https://www.reddit.com/r/java/comments/xtwysw/liberty_instanton_startup_for_cloud_native_java/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
