@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Jakarta EE Survey 2022](https://www.reddit.com/r/java/comments/xumx7q/jakarta_ee_survey_2022/)
 - [HackSquad, 1200+ Contributors - 300 Swag Kits](https://www.reddit.com/r/java/comments/xulo40/hacksquad_1200_contributors_300_swag_kits/)
 - [Javalin v5 has been released! &lpar;web micro-framework&rpar;](https://www.reddit.com/r/java/comments/xul5kw/javalin_v5_has_been_released_web_microframework/)
-- [Execute Shell Commands in Java/Scala/Kotlin](https://www.reddit.com/r/java/comments/xuh80f/execute_shell_commands_in_javascalakotlin/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
