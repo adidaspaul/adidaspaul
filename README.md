@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Oracle joins the Micronaut Framework as an Engineering Partner](https://www.reddit.com/r/java/comments/xvjl6z/oracle_joins_the_micronaut_framework_as_an/)
+- [The 20% that would give me 80% of the required knowledge in Java?](https://www.reddit.com/r/java/comments/xvin90/the_20_that_would_give_me_80_of_the_required/)
 - [Java News Roundup: BellSoft Introduces Alpaquita Linux, GlassFish, WildFly, Hibernate, Tomcat](https://www.reddit.com/r/java/comments/xv8ido/java_news_roundup_bellsoft_introduces_alpaquita/)
-- [Jakarta EE Survey 2022](https://www.reddit.com/r/java/comments/xumx7q/jakarta_ee_survey_2022/)
-- [Javalin v5 has been released! &lpar;web micro-framework&rpar;](https://www.reddit.com/r/java/comments/xul5kw/javalin_v5_has_been_released_web_microframework/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
