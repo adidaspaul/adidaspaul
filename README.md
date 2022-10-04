@@ -65,8 +65,8 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Java News Roundup: BellSoft Introduces Alpaquita Linux, GlassFish, WildFly, Hibernate, Tomcat](https://www.reddit.com/r/java/comments/xv8ido/java_news_roundup_bellsoft_introduces_alpaquita/)
-- [Learn Multi-Threaded programming in Java](https://www.reddit.com/r/java/comments/xuq3p7/learn_multithreaded_programming_in_java/)
 - [Jakarta EE Survey 2022](https://www.reddit.com/r/java/comments/xumx7q/jakarta_ee_survey_2022/)
+- [Javalin v5 has been released! &lpar;web micro-framework&rpar;](https://www.reddit.com/r/java/comments/xul5kw/javalin_v5_has_been_released_web_microframework/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
