@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Java News Roundup: BellSoft Introduces Alpaquita Linux, GlassFish, WildFly, Hibernate, Tomcat](https://www.reddit.com/r/java/comments/xv8ido/java_news_roundup_bellsoft_introduces_alpaquita/)
 - [Learn Multi-Threaded programming in Java](https://www.reddit.com/r/java/comments/xuq3p7/learn_multithreaded_programming_in_java/)
 - [Jakarta EE Survey 2022](https://www.reddit.com/r/java/comments/xumx7q/jakarta_ee_survey_2022/)
-- [HackSquad, 1200+ Contributors - 300 Swag Kits](https://www.reddit.com/r/java/comments/xulo40/hacksquad_1200_contributors_300_swag_kits/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
