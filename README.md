@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [What does Kotlin have to offer for Java developers in 2022?](https://www.reddit.com/r/java/comments/xw8iap/what_does_kotlin_have_to_offer_for_java/)
 - [Java recap for week 39/2022](https://www.reddit.com/r/java/comments/xvmot0/java_recap_for_week_392022/)
 - [Oracle joins the Micronaut Framework as an Engineering Partner](https://www.reddit.com/r/java/comments/xvjl6z/oracle_joins_the_micronaut_framework_as_an/)
+- [The 20% that would give me 80% of the required knowledge in Java?](https://www.reddit.com/r/java/comments/xvin90/the_20_that_would_give_me_80_of_the_required/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
