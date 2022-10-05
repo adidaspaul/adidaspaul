@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [From Java to Golang and back](https://www.reddit.com/r/java/comments/xwjbfe/from_java_to_golang_and_back/)
 - [Why so much hate for Webflux?](https://www.reddit.com/r/java/comments/xwgooa/why_so_much_hate_for_webflux/)
 - [Java recap for week 39/2022](https://www.reddit.com/r/java/comments/xvmot0/java_recap_for_week_392022/)
-- [Oracle joins the Micronaut Framework as an Engineering Partner](https://www.reddit.com/r/java/comments/xvjl6z/oracle_joins_the_micronaut_framework_as_an/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
