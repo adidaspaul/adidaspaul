@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Quarkus with Java Virtual Threads - Piotr&#39;s TechBlog](https://www.reddit.com/r/java/comments/xx09mv/quarkus_with_java_virtual_threads_piotrs_techblog/)
 - [Starting &lpar;With&rpar; Java, Made Simple - Inside Java Newscast #35](https://www.reddit.com/r/java/comments/xwyvaa/starting_with_java_made_simple_inside_java/)
 - [Picnic loves Error Prone: producing high-quality and consistent Java code](https://www.reddit.com/r/java/comments/xwy90h/picnic_loves_error_prone_producing_highquality/)
-- [Been 12 years, never had to do dynamic programming or reverse a BST. Still being asked those questions.](https://www.reddit.com/r/java/comments/xww4zu/been_12_years_never_had_to_do_dynamic_programming/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
