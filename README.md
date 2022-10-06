@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Starting &lpar;With&rpar; Java, Made Simple - Inside Java Newscast #35](https://www.reddit.com/r/java/comments/xwyvaa/starting_with_java_made_simple_inside_java/)
 - [Picnic loves Error Prone: producing high-quality and consistent Java code](https://www.reddit.com/r/java/comments/xwy90h/picnic_loves_error_prone_producing_highquality/)
 - [Been 12 years, never had to do dynamic programming or reverse a BST. Still being asked those questions.](https://www.reddit.com/r/java/comments/xww4zu/been_12_years_never_had_to_do_dynamic_programming/)
-- [Java start-up time improvement with project Leyden. Great initiative!](https://www.reddit.com/r/java/comments/xwpoqs/java_startup_time_improvement_with_project_leyden/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
