@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Java on-ramp - Fully defined Entrypoints - an alternative proposal for OpenJDK](https://www.reddit.com/r/java/comments/xx2ra8/java_onramp_fully_defined_entrypoints_an/)
 - [Quarkus with Java Virtual Threads - Piotr&#39;s TechBlog](https://www.reddit.com/r/java/comments/xx09mv/quarkus_with_java_virtual_threads_piotrs_techblog/)
 - [Starting &lpar;With&rpar; Java, Made Simple - Inside Java Newscast #35](https://www.reddit.com/r/java/comments/xwyvaa/starting_with_java_made_simple_inside_java/)
-- [Picnic loves Error Prone: producing high-quality and consistent Java code](https://www.reddit.com/r/java/comments/xwy90h/picnic_loves_error_prone_producing_highquality/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
