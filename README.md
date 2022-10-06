@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [No/Low Code Spring boot platform](https://www.reddit.com/r/java/comments/xx4ged/nolow_code_spring_boot_platform/)
 - [Java on-ramp - Fully defined Entrypoints - an alternative proposal for OpenJDK](https://www.reddit.com/r/java/comments/xx2ra8/java_onramp_fully_defined_entrypoints_an/)
 - [Quarkus with Java Virtual Threads - Piotr&#39;s TechBlog](https://www.reddit.com/r/java/comments/xx09mv/quarkus_with_java_virtual_threads_piotrs_techblog/)
-- [Starting &lpar;With&rpar; Java, Made Simple - Inside Java Newscast #35](https://www.reddit.com/r/java/comments/xwyvaa/starting_with_java_made_simple_inside_java/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
