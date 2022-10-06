@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [No/Low Code Spring boot platform](https://www.reddit.com/r/java/comments/xx4ged/nolow_code_spring_boot_platform/)
-- [Java on-ramp - Fully defined Entrypoints - an alternative proposal for OpenJDK](https://www.reddit.com/r/java/comments/xx2ra8/java_onramp_fully_defined_entrypoints_an/)
-- [Quarkus with Java Virtual Threads - Piotr&#39;s TechBlog](https://www.reddit.com/r/java/comments/xx09mv/quarkus_with_java_virtual_threads_piotrs_techblog/)
+- [PrimeFaces 12 released!](https://www.reddit.com/r/java/comments/xx5liv/primefaces_12_released/)
+- [How can I master stream api?](https://www.reddit.com/r/java/comments/xx5k3i/how_can_i_master_stream_api/)
+- [Spring Boot: Up &amp; Running with Mark Heckler &amp; Thomas Vitale](https://www.reddit.com/r/java/comments/xx4spv/spring_boot_up_running_with_mark_heckler_thomas/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
