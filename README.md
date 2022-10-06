@@ -65,8 +65,8 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Java start-up time improvement with project Leyden. Great initiative!](https://www.reddit.com/r/java/comments/xwpoqs/java_startup_time_improvement_with_project_leyden/)
-- [What to do?](https://www.reddit.com/r/java/comments/xwpixs/what_to_do/)
 - [From Java to Golang and back](https://www.reddit.com/r/java/comments/xwjbfe/from_java_to_golang_and_back/)
+- [Why so much hate for Webflux?](https://www.reddit.com/r/java/comments/xwgooa/why_so_much_hate_for_webflux/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
