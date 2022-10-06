@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Been 12 years, never had to do dynamic programming or reverse a BST. Still being asked those questions.](https://www.reddit.com/r/java/comments/xww4zu/been_12_years_never_had_to_do_dynamic_programming/)
 - [Java start-up time improvement with project Leyden. Great initiative!](https://www.reddit.com/r/java/comments/xwpoqs/java_startup_time_improvement_with_project_leyden/)
 - [From Java to Golang and back](https://www.reddit.com/r/java/comments/xwjbfe/from_java_to_golang_and_back/)
-- [Why so much hate for Webflux?](https://www.reddit.com/r/java/comments/xwgooa/why_so_much_hate_for_webflux/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
