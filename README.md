@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The best way to map MonetaryAmount with Jakarta Persistence and Hibernate](https://www.reddit.com/r/java/comments/xy6k52/the_best_way_to_map_monetaryamount_with_jakarta/)
 - [Reposilite 3.x released - alternative lightweight Maven repository manager for hobbyists](https://www.reddit.com/r/java/comments/xy07vc/reposilite_3x_released_alternative_lightweight/)
 - [Released a Wizard Component for LitElement/Vaadin Flow to Maven Central/NPM](https://www.reddit.com/r/java/comments/xxlupl/released_a_wizard_component_for_litelementvaadin/)
-- [PrimeFaces 12 released!](https://www.reddit.com/r/java/comments/xx5liv/primefaces_12_released/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
