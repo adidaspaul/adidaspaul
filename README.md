@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [What one should i choose? &lpar;Trying to download java 17&rpar;](https://www.reddit.com/r/java/comments/xxmuac/what_one_should_i_choose_trying_to_download_java/)
+- [Released a Wizard Component for LitElement/Vaadin Flow to Maven Central/NPM](https://www.reddit.com/r/java/comments/xxlupl/released_a_wizard_component_for_litelementvaadin/)
 - [PrimeFaces 12 released!](https://www.reddit.com/r/java/comments/xx5liv/primefaces_12_released/)
-- [How can I master stream api?](https://www.reddit.com/r/java/comments/xx5k3i/how_can_i_master_stream_api/)
-- [Spring Boot: Up &amp; Running with Mark Heckler &amp; Thomas Vitale](https://www.reddit.com/r/java/comments/xx4spv/spring_boot_up_running_with_mark_heckler_thomas/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
