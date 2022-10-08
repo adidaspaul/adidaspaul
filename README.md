@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Java vs csharp](https://www.reddit.com/r/java/comments/xypdpq/java_vs_csharp/)
 - [Spring Boot 3 Ships November 2022, Delays Java Module Support](https://www.reddit.com/r/java/comments/xylztu/spring_boot_3_ships_november_2022_delays_java/)
 - [The best way to map MonetaryAmount with Jakarta Persistence and Hibernate](https://www.reddit.com/r/java/comments/xy6k52/the_best_way_to_map_monetaryamount_with_jakarta/)
-- [Reposilite 3.x released - alternative lightweight Maven repository manager for hobbyists](https://www.reddit.com/r/java/comments/xy07vc/reposilite_3x_released_alternative_lightweight/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
