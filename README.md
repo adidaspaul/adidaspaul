@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [for&lpar;;;&rpar;](https://www.reddit.com/r/java/comments/xzzd56/for/)
 - [&lpar;Discussion&rpar; Which IDE is best for Java](https://www.reddit.com/r/java/comments/xztgwj/discussion_which_ide_is_best_for_java/)
 - [what is the most famous java application that you&#39;ve worked on?](https://www.reddit.com/r/java/comments/xzqf04/what_is_the_most_famous_java_application_that/)
-- [Spring Boot 3 Ships November 2022, Delays Java Module Support](https://www.reddit.com/r/java/comments/xylztu/spring_boot_3_ships_november_2022_delays_java/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
