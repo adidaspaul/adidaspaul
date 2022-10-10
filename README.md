@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Certification: Advice On Balancing Between Reading New Chapters And Reviewing Material Already Covered.](https://www.reddit.com/r/java/comments/y0lfll/certification_advice_on_balancing_between_reading/)
 - [Aire-UX Testing Framework Released to Maven Central!](https://www.reddit.com/r/java/comments/y0hhxl/aireux_testing_framework_released_to_maven_central/)
 - [Helidon 2.5.4 is released!](https://www.reddit.com/r/java/comments/y089xq/helidon_254_is_released/)
-- [Error Prone Improves Java Code by Detecting Common Mistakes](https://www.reddit.com/r/java/comments/y07xta/error_prone_improves_java_code_by_detecting/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
