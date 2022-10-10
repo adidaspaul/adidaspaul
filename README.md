@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Aire-UX Testing Framework Released to Maven Central!](https://www.reddit.com/r/java/comments/y0hhxl/aireux_testing_framework_released_to_maven_central/)
 - [Helidon 2.5.4 is released!](https://www.reddit.com/r/java/comments/y089xq/helidon_254_is_released/)
 - [Error Prone Improves Java Code by Detecting Common Mistakes](https://www.reddit.com/r/java/comments/y07xta/error_prone_improves_java_code_by_detecting/)
-- [What are the options to migrating existing code to support the Jakarta EE API?](https://www.reddit.com/r/java/comments/xzzmjb/what_are_the_options_to_migrating_existing_code/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
