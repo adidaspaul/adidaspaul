@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Helidon 2.5.4 is released!](https://www.reddit.com/r/java/comments/y089xq/helidon_254_is_released/)
+- [Error Prone Improves Java Code by Detecting Common Mistakes](https://www.reddit.com/r/java/comments/y07xta/error_prone_improves_java_code_by_detecting/)
 - [What are the options to migrating existing code to support the Jakarta EE API?](https://www.reddit.com/r/java/comments/xzzmjb/what_are_the_options_to_migrating_existing_code/)
-- [&lpar;Discussion&rpar; Which IDE is best for Java](https://www.reddit.com/r/java/comments/xztgwj/discussion_which_ide_is_best_for_java/)
-- [what is the most famous java application that you&#39;ve worked on?](https://www.reddit.com/r/java/comments/xzqf04/what_is_the_most_famous_java_application_that/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
