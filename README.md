@@ -65,8 +65,8 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [What are the options to migrating existing code to support the Jakarta EE API?](https://www.reddit.com/r/java/comments/xzzmjb/what_are_the_options_to_migrating_existing_code/)
-- [for&lpar;;;&rpar;](https://www.reddit.com/r/java/comments/xzzd56/for/)
 - [&lpar;Discussion&rpar; Which IDE is best for Java](https://www.reddit.com/r/java/comments/xztgwj/discussion_which_ide_is_best_for_java/)
+- [what is the most famous java application that you&#39;ve worked on?](https://www.reddit.com/r/java/comments/xzqf04/what_is_the_most_famous_java_application_that/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
