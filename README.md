@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Envious FX: JavaFX &amp; Panama FFI-based Nvidia GPU monitoring utility.](https://www.reddit.com/r/java/comments/y12lym/envious_fx_javafx_panama_ffibased_nvidia_gpu/)
 - [InfoQ Java News Roundup: Introducing OmniFish, Oracle Joins Micronaut Foundation, OpenJDK Updates](https://www.reddit.com/r/java/comments/y0rc7s/infoq_java_news_roundup_introducing_omnifish/)
 - [Aire-UX Testing Framework Released to Maven Central!](https://www.reddit.com/r/java/comments/y0hhxl/aireux_testing_framework_released_to_maven_central/)
-- [Helidon 2.5.4 is released!](https://www.reddit.com/r/java/comments/y089xq/helidon_254_is_released/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
