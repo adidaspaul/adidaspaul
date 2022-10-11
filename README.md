@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Do you ever create your own functors/monads?](https://www.reddit.com/r/java/comments/y1aa45/do_you_ever_create_your_own_functorsmonads/)
 - [Paving the on-ramp – Day 2 – SwingUtilities.showInFrame](https://www.reddit.com/r/java/comments/y16c4p/paving_the_onramp_day_2_swingutilitiesshowinframe/)
 - [Embracing Virtual Threads with Spring](https://www.reddit.com/r/java/comments/y12w6m/embracing_virtual_threads_with_spring/)
-- [Envious FX: JavaFX &amp; Panama FFI-based Nvidia GPU monitoring utility.](https://www.reddit.com/r/java/comments/y12lym/envious_fx_javafx_panama_ffibased_nvidia_gpu/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
