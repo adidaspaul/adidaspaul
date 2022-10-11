@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to use Java DTOs to stay secure](https://www.reddit.com/r/java/comments/y1ebj5/how_to_use_java_dtos_to_stay_secure/)
 - [Do you ever create your own functors/monads?](https://www.reddit.com/r/java/comments/y1aa45/do_you_ever_create_your_own_functorsmonads/)
 - [Paving the on-ramp – Day 2 – SwingUtilities.showInFrame](https://www.reddit.com/r/java/comments/y16c4p/paving_the_onramp_day_2_swingutilitiesshowinframe/)
-- [Embracing Virtual Threads with Spring](https://www.reddit.com/r/java/comments/y12w6m/embracing_virtual_threads_with_spring/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
