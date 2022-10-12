@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Are there any reasons for not using SQLite as an embedded DB in a Spring Boot web app?](https://www.reddit.com/r/java/comments/y25jf2/are_there_any_reasons_for_not_using_sqlite_as_an/)
+- [The overview of the new JEPs: String Templating, Sequenced Collections, Project Liliput and others](https://www.reddit.com/r/java/comments/y25ikx/the_overview_of_the_new_jeps_string_templating/)
 - [Build your own framework using an annotation processor](https://www.reddit.com/r/java/comments/y24k1z/build_your_own_framework_using_an_annotation/)
-- [Big update for LogMasker](https://www.reddit.com/r/java/comments/y24d9q/big_update_for_logmasker/)
-- [JetBrains Fleet - Public Preview](https://www.reddit.com/r/java/comments/y248r2/jetbrains_fleet_public_preview/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
