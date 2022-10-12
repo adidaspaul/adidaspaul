@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Tracking specific products](https://www.reddit.com/r/java/comments/y1rdk3/tracking_specific_products/)
 - [Loom is Blooming by José Paumard &amp; Remi Forax](https://www.reddit.com/r/java/comments/y1itqz/loom_is_blooming_by_josé_paumard_remi_forax/)
 - [Access your brain with an API by Sébastien Blanc](https://www.reddit.com/r/java/comments/y1freb/access_your_brain_with_an_api_by_sébastien_blanc/)
-- [How to use Java DTOs to stay secure](https://www.reddit.com/r/java/comments/y1ebj5/how_to_use_java_dtos_to_stay_secure/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
