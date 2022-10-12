@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Apache InLong: Integration Framework for Massive Data](https://www.reddit.com/r/java/comments/y1y7vw/apache_inlong_integration_framework_for_massive/)
-- [New candidate JEP: 431: Sequenced Collections](https://www.reddit.com/r/java/comments/y1tw6k/new_candidate_jep_431_sequenced_collections/)
-- [Loom is Blooming by José Paumard &amp; Remi Forax](https://www.reddit.com/r/java/comments/y1itqz/loom_is_blooming_by_josé_paumard_remi_forax/)
+- [Build your own framework using an annotation processor](https://www.reddit.com/r/java/comments/y24k1z/build_your_own_framework_using_an_annotation/)
+- [Big update for LogMasker](https://www.reddit.com/r/java/comments/y24d9q/big_update_for_logmasker/)
+- [JetBrains Fleet - Public Preview](https://www.reddit.com/r/java/comments/y248r2/jetbrains_fleet_public_preview/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
