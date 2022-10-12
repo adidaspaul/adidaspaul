@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [AtlantaFX 1.1.0 / New JavaFX CSS theme library](https://www.reddit.com/r/java/comments/y2951o/atlantafx_110_new_javafx_css_theme_library/)
 - [Are there any reasons for not using SQLite as an embedded DB in a Spring Boot web app?](https://www.reddit.com/r/java/comments/y25jf2/are_there_any_reasons_for_not_using_sqlite_as_an/)
 - [The overview of the new JEPs: String Templating, Sequenced Collections, Project Liliput and others](https://www.reddit.com/r/java/comments/y25ikx/the_overview_of_the_new_jeps_string_templating/)
-- [Build your own framework using an annotation processor](https://www.reddit.com/r/java/comments/y24k1z/build_your_own_framework_using_an_annotation/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
