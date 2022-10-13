@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Java Collections Puzzlers](https://www.reddit.com/r/java/comments/y2v82t/java_collections_puzzlers/)
 - [Picnic Open-sources Error Prone Support](https://www.reddit.com/r/java/comments/y2u8tv/picnic_opensources_error_prone_support/)
 - [Improving the Reproducibility of Spring Boot’s Docker Image Builder](https://www.reddit.com/r/java/comments/y2c538/improving_the_reproducibility_of_spring_boots/)
-- [The never ending paradox in the Java world: Eclipse vs Netbeans](https://www.reddit.com/r/java/comments/y2axii/the_never_ending_paradox_in_the_java_world/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
