@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Project Leyden: Selectively Shifting and Constraining Computation](https://www.reddit.com/r/java/comments/y35mgk/project_leyden_selectively_shifting_and/)
 - [MD5 Hashing](https://www.reddit.com/r/java/comments/y31yzg/md5_hashing/)
 - [Java Collections Puzzlers](https://www.reddit.com/r/java/comments/y2v82t/java_collections_puzzlers/)
-- [Picnic Open-sources Error Prone Support](https://www.reddit.com/r/java/comments/y2u8tv/picnic_opensources_error_prone_support/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
