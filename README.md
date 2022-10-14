@@ -65,8 +65,8 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [The Java Logging Battleground Gets Two New Updates](https://www.reddit.com/r/java/comments/y391tb/the_java_logging_battleground_gets_two_new_updates/)
-- [We built a tool that automatically generates API tests](https://www.reddit.com/r/java/comments/y390sh/we_built_a_tool_that_automatically_generates_api/)
 - [Project Leyden: Selectively Shifting and Constraining Computation](https://www.reddit.com/r/java/comments/y35mgk/project_leyden_selectively_shifting_and/)
+- [Java Collections Puzzlers](https://www.reddit.com/r/java/comments/y2v82t/java_collections_puzzlers/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
