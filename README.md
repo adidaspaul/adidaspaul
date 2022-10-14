@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [IoT in the Trenches, at Scale byJames Gosling](https://www.reddit.com/r/java/comments/y3tmcs/iot_in_the_trenches_at_scale_byjames_gosling/)
 - [What Steve Poole&#39;s Devoxx Talk Encourages Developers to Learn in 2023 to Fight Cyberattacks](https://www.reddit.com/r/java/comments/y3p4q2/what_steve_pooles_devoxx_talk_encourages/)
 - [The Java Logging Battleground Gets Two New Updates](https://www.reddit.com/r/java/comments/y391tb/the_java_logging_battleground_gets_two_new_updates/)
-- [Project Leyden: Selectively Shifting and Constraining Computation](https://www.reddit.com/r/java/comments/y35mgk/project_leyden_selectively_shifting_and/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
