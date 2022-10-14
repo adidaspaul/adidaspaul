@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [jSQL-Gen -&gt; GUI for generating JDBC code](https://www.reddit.com/r/java/comments/y3v14a/jsqlgen_gui_for_generating_jdbc_code/)
 - [IoT in the Trenches, at Scale byJames Gosling](https://www.reddit.com/r/java/comments/y3tmcs/iot_in_the_trenches_at_scale_byjames_gosling/)
 - [What Steve Poole&#39;s Devoxx Talk Encourages Developers to Learn in 2023 to Fight Cyberattacks](https://www.reddit.com/r/java/comments/y3p4q2/what_steve_pooles_devoxx_talk_encourages/)
+- [The Java Logging Battleground Gets Two New Updates](https://www.reddit.com/r/java/comments/y391tb/the_java_logging_battleground_gets_two_new_updates/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
