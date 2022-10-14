@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [What Steve Poole&#39;s Devoxx Talk Encourages Developers to Learn in 2023 to Fight Cyberattacks](https://www.reddit.com/r/java/comments/y3p4q2/what_steve_pooles_devoxx_talk_encourages/)
 - [The Java Logging Battleground Gets Two New Updates](https://www.reddit.com/r/java/comments/y391tb/the_java_logging_battleground_gets_two_new_updates/)
 - [Project Leyden: Selectively Shifting and Constraining Computation](https://www.reddit.com/r/java/comments/y35mgk/project_leyden_selectively_shifting_and/)
-- [Java Collections Puzzlers](https://www.reddit.com/r/java/comments/y2v82t/java_collections_puzzlers/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
