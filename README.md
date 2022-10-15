@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Venkat Subramaniam Brings a Contemporary Twist to GoF Design Patterns With Modern Java at Devoxx BE](https://www.reddit.com/r/java/comments/y4i7oj/venkat_subramaniam_brings_a_contemporary_twist_to/)
 - [is anyone using graal/spring native in production?](https://www.reddit.com/r/java/comments/y4feio/is_anyone_using_graalspring_native_in_production/)
 - [Implications of blocking java.com downloads &lpar;or more&rpar;](https://www.reddit.com/r/java/comments/y46hae/implications_of_blocking_javacom_downloads_or_more/)
-- [IoT in the Trenches, at Scale byJames Gosling](https://www.reddit.com/r/java/comments/y3tmcs/iot_in_the_trenches_at_scale_byjames_gosling/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
