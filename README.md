@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [I want to uninstall Java &lpar;so I can reinstall it&rpar;, but I keep getting an error when trying.](https://www.reddit.com/r/java/comments/y4blkt/i_want_to_uninstall_java_so_i_can_reinstall_it/)
 - [Learning java with TechElevator](https://www.reddit.com/r/java/comments/y49a39/learning_java_with_techelevator/)
 - [Implications of blocking java.com downloads &lpar;or more&rpar;](https://www.reddit.com/r/java/comments/y46hae/implications_of_blocking_javacom_downloads_or_more/)
+- [IoT in the Trenches, at Scale byJames Gosling](https://www.reddit.com/r/java/comments/y3tmcs/iot_in_the_trenches_at_scale_byjames_gosling/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
