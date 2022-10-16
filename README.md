@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [nalim - Fast Java native interface based on JVMCI](https://www.reddit.com/r/java/comments/y4ycxi/nalim_fast_java_native_interface_based_on_jvmci/)
 - [Azure vs AWS](https://www.reddit.com/r/java/comments/y4tnww/azure_vs_aws/)
 - [Is anyone using Java Spring Boot in AWS Lambda?](https://www.reddit.com/r/java/comments/y4kuvr/is_anyone_using_java_spring_boot_in_aws_lambda/)
-- [Venkat Subramaniam Brings a Contemporary Twist to GoF Design Patterns With Modern Java at Devoxx BE](https://www.reddit.com/r/java/comments/y4i7oj/venkat_subramaniam_brings_a_contemporary_twist_to/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
