@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Where can I find this jre? &lpar;I get the same message with Java SE 9&rpar;](https://www.reddit.com/r/java/comments/y5p2r8/where_can_i_find_this_jre_i_get_the_same_message/)
 - [Best Devoxx 2022 talks?](https://www.reddit.com/r/java/comments/y5mbga/best_devoxx_2022_talks/)
 - [nalim - Fast Java native interface based on JVMCI](https://www.reddit.com/r/java/comments/y4ycxi/nalim_fast_java_native_interface_based_on_jvmci/)
+- [Azure vs AWS](https://www.reddit.com/r/java/comments/y4tnww/azure_vs_aws/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
