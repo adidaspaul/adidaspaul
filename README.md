@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [What&#39;s happening with Oracle?..](https://www.reddit.com/r/java/comments/y68f64/whats_happening_with_oracle/)
 - [Java News Roundup: Sequenced Collections, Spring 6.0-RC1, Apache Tomcat, Reactor 2022.0-RC1](https://www.reddit.com/r/java/comments/y67hu4/java_news_roundup_sequenced_collections_spring/)
 - [ArchUnit Verifies Architecture Rules for Java Applications](https://www.reddit.com/r/java/comments/y652e6/archunit_verifies_architecture_rules_for_java/)
+- [Exceptions in Java lambdas](https://www.reddit.com/r/java/comments/y5s8do/exceptions_in_java_lambdas/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
