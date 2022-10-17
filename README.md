@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [how to upload and download large files up to 1gb by chunks using spring boot and mongodb](https://www.reddit.com/r/java/comments/y662cf/how_to_upload_and_download_large_files_up_to_1gb/)
-- [I need to create a desktop application with Java for a project, but I have no idea how](https://www.reddit.com/r/java/comments/y65np1/i_need_to_create_a_desktop_application_with_java/)
+- [Java News Roundup: Sequenced Collections, Spring 6.0-RC1, Apache Tomcat, Reactor 2022.0-RC1](https://www.reddit.com/r/java/comments/y67hu4/java_news_roundup_sequenced_collections_spring/)
 - [ArchUnit Verifies Architecture Rules for Java Applications](https://www.reddit.com/r/java/comments/y652e6/archunit_verifies_architecture_rules_for_java/)
+- [Exceptions in Java lambdas](https://www.reddit.com/r/java/comments/y5s8do/exceptions_in_java_lambdas/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
