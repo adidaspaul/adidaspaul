@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [How would you go about coding a virtual assistant?](https://www.reddit.com/r/java/comments/y5vrs7/how_would_you_go_about_coding_a_virtual_assistant/)
 - [Exceptions in Java lambdas](https://www.reddit.com/r/java/comments/y5s8do/exceptions_in_java_lambdas/)
 - [Kotlin is now the recommended programming language for server-side JVM usage at Google, set to replace Java while still providing access to a large existing Java ecosystem](https://www.reddit.com/r/java/comments/y5r1cn/kotlin_is_now_the_recommended_programming/)
+- [Best Devoxx 2022 talks?](https://www.reddit.com/r/java/comments/y5mbga/best_devoxx_2022_talks/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
