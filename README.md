@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [I need to create a desktop application with Java for a project, but I have no idea how](https://www.reddit.com/r/java/comments/y65np1/i_need_to_create_a_desktop_application_with_java/)
+- [ArchUnit Verifies Architecture Rules for Java Applications](https://www.reddit.com/r/java/comments/y652e6/archunit_verifies_architecture_rules_for_java/)
 - [Learning Java after python](https://www.reddit.com/r/java/comments/y636n0/learning_java_after_python/)
-- [Exceptions in Java lambdas](https://www.reddit.com/r/java/comments/y5s8do/exceptions_in_java_lambdas/)
-- [Kotlin is now the recommended programming language for server-side JVM usage at Google, set to replace Java while still providing access to a large existing Java ecosystem](https://www.reddit.com/r/java/comments/y5r1cn/kotlin_is_now_the_recommended_programming/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
