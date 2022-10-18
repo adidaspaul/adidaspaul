@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Dear JetBrains. Don&#39;t mess with your UI.](https://www.reddit.com/r/java/comments/y6zkxr/dear_jetbrains_dont_mess_with_your_ui/)
+- [Error Prone Support Introduces New Bug Checks and Refaster Templates](https://www.reddit.com/r/java/comments/y6zfzm/error_prone_support_introduces_new_bug_checks_and/)
 - [Level up Your Java Performance with TornadoVM by Juan Fumero](https://www.reddit.com/r/java/comments/y6y6y1/level_up_your_java_performance_with_tornadovm_by/)
-- [Java News Roundup: Sequenced Collections, Spring 6.0-RC1, Apache Tomcat, Reactor 2022.0-RC1](https://www.reddit.com/r/java/comments/y67hu4/java_news_roundup_sequenced_collections_spring/)
-- [ArchUnit Verifies Architecture Rules for Java Applications](https://www.reddit.com/r/java/comments/y652e6/archunit_verifies_architecture_rules_for_java/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
