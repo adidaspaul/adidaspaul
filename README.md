@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Generational ZGC Early-Access builds are now available!](https://www.reddit.com/r/java/comments/y7g4g2/generational_zgc_earlyaccess_builds_are_now/)
 - [New candidate JEP: 433: Pattern Matching for switch &lpar;Fourth Preview&rpar;](https://www.reddit.com/r/java/comments/y7d5xd/new_candidate_jep_433_pattern_matching_for_switch/)
 - [New candidate JEP: 432: Record Patterns &lpar;Second Preview&rpar;](https://www.reddit.com/r/java/comments/y7d5ny/new_candidate_jep_432_record_patterns_second/)
-- [Dangerous hole in Apache Commons Text &lt;1.10 – like Log4Shell all over again](https://www.reddit.com/r/java/comments/y7czev/dangerous_hole_in_apache_commons_text_110_like/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
