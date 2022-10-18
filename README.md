@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Assignment - help or tutor](https://www.reddit.com/r/java/comments/y75psf/assignment_help_or_tutor/)
 - [Helidon Release Thread](https://www.reddit.com/r/java/comments/y718av/helidon_release_thread/)
 - [Is Spring Boot bad for real-time web apps?](https://www.reddit.com/r/java/comments/y70miq/is_spring_boot_bad_for_realtime_web_apps/)
+- [Dear JetBrains. Don&#39;t mess with your UI.](https://www.reddit.com/r/java/comments/y6zkxr/dear_jetbrains_dont_mess_with_your_ui/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
