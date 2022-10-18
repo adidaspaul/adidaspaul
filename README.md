@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Is there a website similar to LeetCode with some Spring challenges?](https://www.reddit.com/r/java/comments/y7b6oq/is_there_a_website_similar_to_leetcode_with_some/)
-- [Helidon Release Thread](https://www.reddit.com/r/java/comments/y718av/helidon_release_thread/)
-- [Is Spring Boot bad for real-time web apps?](https://www.reddit.com/r/java/comments/y70miq/is_spring_boot_bad_for_realtime_web_apps/)
+- [New candidate JEP: 433: Pattern Matching for switch &lpar;Fourth Preview&rpar;](https://www.reddit.com/r/java/comments/y7d5xd/new_candidate_jep_433_pattern_matching_for_switch/)
+- [New candidate JEP: 432: Record Patterns &lpar;Second Preview&rpar;](https://www.reddit.com/r/java/comments/y7d5ny/new_candidate_jep_432_record_patterns_second/)
+- [Dangerous hole in Apache Commons Text &lt;1.10 – like Log4Shell all over again](https://www.reddit.com/r/java/comments/y7czev/dangerous_hole_in_apache_commons_text_110_like/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
