@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Is Spring Boot bad for real-time web apps?](https://www.reddit.com/r/java/comments/y70miq/is_spring_boot_bad_for_realtime_web_apps/)
 - [Dear JetBrains. Don&#39;t mess with your UI.](https://www.reddit.com/r/java/comments/y6zkxr/dear_jetbrains_dont_mess_with_your_ui/)
 - [Error Prone Support Introduces New Bug Checks and Refaster Templates](https://www.reddit.com/r/java/comments/y6zfzm/error_prone_support_introduces_new_bug_checks_and/)
-- [Level up Your Java Performance with TornadoVM by Juan Fumero](https://www.reddit.com/r/java/comments/y6y6y1/level_up_your_java_performance_with_tornadovm_by/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
