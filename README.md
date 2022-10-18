@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [How can I select a random number on average every 1 in 8 times &lpar;in my code a number is converted to a direction and this direction will help to move a robot through a maze&rpar;](https://www.reddit.com/r/java/comments/y72bf8/how_can_i_select_a_random_number_on_average_every/)
 - [Helidon Release Thread](https://www.reddit.com/r/java/comments/y718av/helidon_release_thread/)
 - [Is Spring Boot bad for real-time web apps?](https://www.reddit.com/r/java/comments/y70miq/is_spring_boot_bad_for_realtime_web_apps/)
+- [Dear JetBrains. Don&#39;t mess with your UI.](https://www.reddit.com/r/java/comments/y6zkxr/dear_jetbrains_dont_mess_with_your_ui/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
