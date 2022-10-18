@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Is there a website similar to LeetCode with some Spring challenges?](https://www.reddit.com/r/java/comments/y7b6oq/is_there_a_website_similar_to_leetcode_with_some/)
 - [Helidon Release Thread](https://www.reddit.com/r/java/comments/y718av/helidon_release_thread/)
 - [Is Spring Boot bad for real-time web apps?](https://www.reddit.com/r/java/comments/y70miq/is_spring_boot_bad_for_realtime_web_apps/)
-- [Dear JetBrains. Don&#39;t mess with your UI.](https://www.reddit.com/r/java/comments/y6zkxr/dear_jetbrains_dont_mess_with_your_ui/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
