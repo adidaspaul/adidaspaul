@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Is there a way to write tests to validate the Hibernate-generated queries?](https://www.reddit.com/r/java/comments/y8dstw/is_there_a_way_to_write_tests_to_validate_the/)
 - [Path to becoming a backend Java Engineer](https://www.reddit.com/r/java/comments/y8d81o/path_to_becoming_a_backend_java_engineer/)
 - [MoviePy alternative](https://www.reddit.com/r/java/comments/y8awhd/moviepy_alternative/)
-- [[JavaOne] Java First. Java Always.](https://www.reddit.com/r/java/comments/y85t4w/javaone_java_first_java_always/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
