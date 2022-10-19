@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [[JavaOne] Java First. Java Always.](https://www.reddit.com/r/java/comments/y85t4w/javaone_java_first_java_always/)
 - [Creating a REST service with JSON on the Jakarta EE Core Profile](https://www.reddit.com/r/java/comments/y83t54/creating_a_rest_service_with_json_on_the_jakarta/)
 - [Google will support OpenJDK development: the giant&#39;s investments in Java and Kotlin](https://www.reddit.com/r/java/comments/y83ldf/google_will_support_openjdk_development_the/)
-- [CVE-2022-42889 - Important Vulnerability in Apache Commons with a Score 9.8](https://www.reddit.com/r/java/comments/y7zpn8/cve202242889_important_vulnerability_in_apache/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
