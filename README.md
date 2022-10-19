@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Drools 8 Released!](https://www.reddit.com/r/java/comments/y7ptnl/drools_8_released/)
 - [how do I get Oracle JDK 8 without making an account?](https://www.reddit.com/r/java/comments/y7mf9x/how_do_i_get_oracle_jdk_8_without_making_an/)
 - [Generational ZGC Early-Access builds are now available!](https://www.reddit.com/r/java/comments/y7g4g2/generational_zgc_earlyaccess_builds_are_now/)
-- [New candidate JEP: 433: Pattern Matching for switch &lpar;Fourth Preview&rpar;](https://www.reddit.com/r/java/comments/y7d5xd/new_candidate_jep_433_pattern_matching_for_switch/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
