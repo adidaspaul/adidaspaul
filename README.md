@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [MoviePy alternative](https://www.reddit.com/r/java/comments/y8awhd/moviepy_alternative/)
 - [[JavaOne] Java First. Java Always.](https://www.reddit.com/r/java/comments/y85t4w/javaone_java_first_java_always/)
 - [Creating a REST service with JSON on the Jakarta EE Core Profile](https://www.reddit.com/r/java/comments/y83t54/creating_a_rest_service_with_json_on_the_jakarta/)
-- [Google will support OpenJDK development: the giant&#39;s investments in Java and Kotlin](https://www.reddit.com/r/java/comments/y83ldf/google_will_support_openjdk_development_the/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
