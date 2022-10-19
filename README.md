@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to write a custom Spring Data base Repository](https://www.reddit.com/r/java/comments/y7y6n0/how_to_write_a_custom_spring_data_base_repository/)
 - [Oracle is contributing GraalVM CE Java code to OpenJDK!](https://www.reddit.com/r/java/comments/y7x3au/oracle_is_contributing_graalvm_ce_java_code_to/)
 - [Quarkus Defends REST APIs Against Attack](https://www.reddit.com/r/java/comments/y7x2b4/quarkus_defends_rest_apis_against_attack/)
-- [Drools 8 Released!](https://www.reddit.com/r/java/comments/y7ptnl/drools_8_released/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
