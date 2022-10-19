@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [hey guys I need a faver](https://www.reddit.com/r/java/comments/y897a6/hey_guys_i_need_a_faver/)
 - [[JavaOne] Java First. Java Always.](https://www.reddit.com/r/java/comments/y85t4w/javaone_java_first_java_always/)
 - [Creating a REST service with JSON on the Jakarta EE Core Profile](https://www.reddit.com/r/java/comments/y83t54/creating_a_rest_service_with_json_on_the_jakarta/)
-- [Google will support OpenJDK development: the giant&#39;s investments in Java and Kotlin](https://www.reddit.com/r/java/comments/y83ldf/google_will_support_openjdk_development_the/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
