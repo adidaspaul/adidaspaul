@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Creating a REST service with JSON on the Jakarta EE Core Profile](https://www.reddit.com/r/java/comments/y83t54/creating_a_rest_service_with_json_on_the_jakarta/)
+- [Google will support OpenJDK development: the giant&#39;s investments in Java and Kotlin](https://www.reddit.com/r/java/comments/y83ldf/google_will_support_openjdk_development_the/)
 - [CVE-2022-42889 - Important Vulnerability in Apache Commons with a Score 9.8](https://www.reddit.com/r/java/comments/y7zpn8/cve202242889_important_vulnerability_in_apache/)
-- [How to write a custom Spring Data base Repository](https://www.reddit.com/r/java/comments/y7y6n0/how_to_write_a_custom_spring_data_base_repository/)
-- [Oracle is contributing GraalVM CE Java code to OpenJDK!](https://www.reddit.com/r/java/comments/y7x3au/oracle_is_contributing_graalvm_ce_java_code_to/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
