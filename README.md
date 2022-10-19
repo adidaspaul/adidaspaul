@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Path to becoming a backend Java Engineer](https://www.reddit.com/r/java/comments/y8d81o/path_to_becoming_a_backend_java_engineer/)
 - [MoviePy alternative](https://www.reddit.com/r/java/comments/y8awhd/moviepy_alternative/)
 - [[JavaOne] Java First. Java Always.](https://www.reddit.com/r/java/comments/y85t4w/javaone_java_first_java_always/)
-- [Creating a REST service with JSON on the Jakarta EE Core Profile](https://www.reddit.com/r/java/comments/y83t54/creating_a_rest_service_with_json_on_the_jakarta/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
