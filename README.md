@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Can Anyone Help me with Java Concepts for Interview Prep?](https://www.reddit.com/r/java/comments/y9abea/can_anyone_help_me_with_java_concepts_for/)
 - [mirrord 3.0 is out - run/debug your code in the context of your k8s cluster](https://www.reddit.com/r/java/comments/y93xyj/mirrord_30_is_out_rundebug_your_code_in_the/)
 - [EclipseLink 4 released!](https://www.reddit.com/r/java/comments/y8xe1e/eclipselink_4_released/)
+- [What Kind of Spring projects should i do to get the recruter&#39;s attentions &amp; proves my efficiency ?](https://www.reddit.com/r/java/comments/y8jpia/what_kind_of_spring_projects_should_i_do_to_get/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
