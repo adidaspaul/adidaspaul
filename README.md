@@ -65,8 +65,8 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [EclipseLink 4 released!](https://www.reddit.com/r/java/comments/y8xe1e/eclipselink_4_released/)
-- [Bot-like coding helper](https://www.reddit.com/r/java/comments/y8w890/botlike_coding_helper/)
 - [What Kind of Spring projects should i do to get the recruter&#39;s attentions &amp; proves my efficiency ?](https://www.reddit.com/r/java/comments/y8jpia/what_kind_of_spring_projects_should_i_do_to_get/)
+- [Is there a way to write tests to validate the Hibernate-generated queries?](https://www.reddit.com/r/java/comments/y8dstw/is_there_a_way_to_write_tests_to_validate_the/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
