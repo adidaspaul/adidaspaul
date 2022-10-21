@@ -64,8 +64,8 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Anyone else experiencing problems with JitPack the last few days?](https://www.reddit.com/r/java/comments/y9wmun/anyone_else_experiencing_problems_with_jitpack/)
 - [Introducing Spring Modulith](https://www.reddit.com/r/java/comments/y9ryzi/introducing_spring_modulith/)
-- [Project Development](https://www.reddit.com/r/java/comments/y9qgay/project_development/)
 - [Did anyone use java spring boot no-code platforms before?](https://www.reddit.com/r/java/comments/y9pi4u/did_anyone_use_java_spring_boot_nocode_platforms/)
 <!-- BLOG-POST-LIST:END -->
 
