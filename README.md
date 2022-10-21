@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Introducing Spring Modulith](https://www.reddit.com/r/java/comments/y9ryzi/introducing_spring_modulith/)
 - [Project Development](https://www.reddit.com/r/java/comments/y9qgay/project_development/)
 - [Did anyone use java spring boot no-code platforms before?](https://www.reddit.com/r/java/comments/y9pi4u/did_anyone_use_java_spring_boot_nocode_platforms/)
-- [Spring Boot 3.0 RC1 available now](https://www.reddit.com/r/java/comments/y9o6jk/spring_boot_30_rc1_available_now/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
