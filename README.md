@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Help with my program.](https://www.reddit.com/r/java/comments/ya3as1/help_with_my_program/)
-- [Quick preview of jstachio a type safe java mustache templating engine](https://www.reddit.com/r/java/comments/ya1zw5/quick_preview_of_jstachio_a_type_safe_java/)
-- [Udemy Java course for seasoned C# dev](https://www.reddit.com/r/java/comments/ya1rv5/udemy_java_course_for_seasoned_c_dev/)
+- [Favorite hidden gem library?](https://www.reddit.com/r/java/comments/ya6kck/favorite_hidden_gem_library/)
+- [Sharing my first JavaFX program](https://www.reddit.com/r/java/comments/ya5hau/sharing_my_first_javafx_program/)
+- [How to get started on a Parser for a tcg?](https://www.reddit.com/r/java/comments/ya5fd5/how_to_get_started_on_a_parser_for_a_tcg/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
