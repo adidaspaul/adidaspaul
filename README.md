@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Quick preview of jstachio a type safe java mustache templating engine](https://www.reddit.com/r/java/comments/ya1zw5/quick_preview_of_jstachio_a_type_safe_java/)
+- [Udemy Java course for seasoned C# dev](https://www.reddit.com/r/java/comments/ya1rv5/udemy_java_course_for_seasoned_c_dev/)
 - [Anyone else experiencing problems with JitPack the last few days?](https://www.reddit.com/r/java/comments/y9wmun/anyone_else_experiencing_problems_with_jitpack/)
-- [Introducing Spring Modulith](https://www.reddit.com/r/java/comments/y9ryzi/introducing_spring_modulith/)
-- [Did anyone use java spring boot no-code platforms before?](https://www.reddit.com/r/java/comments/y9pi4u/did_anyone_use_java_spring_boot_nocode_platforms/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
