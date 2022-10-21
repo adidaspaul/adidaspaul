@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Java Annotations](https://www.reddit.com/r/java/comments/y9nuev/java_annotations/)
+- [Any interesting stories or cool hacks you&#39;ve made using streams?](https://www.reddit.com/r/java/comments/y9nrlh/any_interesting_stories_or_cool_hacks_youve_made/)
 - [mirrord 3.0 is out - run/debug your code in the context of your k8s cluster](https://www.reddit.com/r/java/comments/y93xyj/mirrord_30_is_out_rundebug_your_code_in_the/)
-- [EclipseLink 4 released!](https://www.reddit.com/r/java/comments/y8xe1e/eclipselink_4_released/)
-- [What Kind of Spring projects should i do to get the recruter&#39;s attentions &amp; proves my efficiency ?](https://www.reddit.com/r/java/comments/y8jpia/what_kind_of_spring_projects_should_i_do_to_get/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
