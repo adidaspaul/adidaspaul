@@ -64,7 +64,7 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Java Annotations](https://www.reddit.com/r/java/comments/y9nuev/java_annotations/)
+- [Spring Boot 3.0 RC1 available now](https://www.reddit.com/r/java/comments/y9o6jk/spring_boot_30_rc1_available_now/)
 - [Any interesting stories or cool hacks you&#39;ve made using streams?](https://www.reddit.com/r/java/comments/y9nrlh/any_interesting_stories_or_cool_hacks_youve_made/)
 - [mirrord 3.0 is out - run/debug your code in the context of your k8s cluster](https://www.reddit.com/r/java/comments/y93xyj/mirrord_30_is_out_rundebug_your_code_in_the/)
 <!-- BLOG-POST-LIST:END -->
