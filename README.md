@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [learn jvm bytecode](https://www.reddit.com/r/java/comments/yawzdp/learn_jvm_bytecode/)
 - [BellSoft Introduces Alpaquita Linux for Containerized Java Applications](https://www.reddit.com/r/java/comments/yavswx/bellsoft_introduces_alpaquita_linux_for/)
 - [Favorite hidden gem library?](https://www.reddit.com/r/java/comments/ya6kck/favorite_hidden_gem_library/)
+- [Quick preview of jstachio a type safe java mustache templating engine](https://www.reddit.com/r/java/comments/ya1zw5/quick_preview_of_jstachio_a_type_safe_java/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
