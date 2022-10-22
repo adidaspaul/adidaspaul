@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [trying to run nearinfinity.java](https://www.reddit.com/r/java/comments/yah3ss/trying_to_run_nearinfinityjava/)
 - [Favorite hidden gem library?](https://www.reddit.com/r/java/comments/ya6kck/favorite_hidden_gem_library/)
-- [Sharing my first JavaFX program](https://www.reddit.com/r/java/comments/ya5hau/sharing_my_first_javafx_program/)
+- [Quick preview of jstachio a type safe java mustache templating engine](https://www.reddit.com/r/java/comments/ya1zw5/quick_preview_of_jstachio_a_type_safe_java/)
+- [Anyone else experiencing problems with JitPack the last few days?](https://www.reddit.com/r/java/comments/y9wmun/anyone_else_experiencing_problems_with_jitpack/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
