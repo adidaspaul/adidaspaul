@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Best YouTube channel to learn core java in details explained in very simple way.Check the link for your a beginner in java language. I guarantee you all this channel is the best of the best. Channel name : &#39;Durga Software Solutions&#39;.](https://www.reddit.com/r/java/comments/yasvnk/best_youtube_channel_to_learn_core_java_in/)
-- [A Java support discord community](https://www.reddit.com/r/java/comments/yanzav/a_java_support_discord_community/)
 - [Favorite hidden gem library?](https://www.reddit.com/r/java/comments/ya6kck/favorite_hidden_gem_library/)
+- [Quick preview of jstachio a type safe java mustache templating engine](https://www.reddit.com/r/java/comments/ya1zw5/quick_preview_of_jstachio_a_type_safe_java/)
+- [Anyone else experiencing problems with JitPack the last few days?](https://www.reddit.com/r/java/comments/y9wmun/anyone_else_experiencing_problems_with_jitpack/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
