@@ -65,8 +65,8 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [A Java support discord community](https://www.reddit.com/r/java/comments/yanzav/a_java_support_discord_community/)
-- [I need to create a circular reference. Should I be using WeakReference?](https://www.reddit.com/r/java/comments/yanhea/i_need_to_create_a_circular_reference_should_i_be/)
 - [Favorite hidden gem library?](https://www.reddit.com/r/java/comments/ya6kck/favorite_hidden_gem_library/)
+- [Quick preview of jstachio a type safe java mustache templating engine](https://www.reddit.com/r/java/comments/ya1zw5/quick_preview_of_jstachio_a_type_safe_java/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
