@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Comparing the safety of Java &lpar;and C#&rpar; during parallelism and mutation with Rust](https://www.reddit.com/r/java/comments/ybdosi/comparing_the_safety_of_java_and_c_during/)
+- [Can I install Java without admin privileges?](https://www.reddit.com/r/java/comments/ybdc7u/can_i_install_java_without_admin_privileges/)
 - [Are you using any load/stress testing tools?](https://www.reddit.com/r/java/comments/ybcikw/are_you_using_any_loadstress_testing_tools/)
-- [BellSoft Introduces Alpaquita Linux for Containerized Java Applications](https://www.reddit.com/r/java/comments/yavswx/bellsoft_introduces_alpaquita_linux_for/)
-- [Favorite hidden gem library?](https://www.reddit.com/r/java/comments/ya6kck/favorite_hidden_gem_library/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
