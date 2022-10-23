@@ -65,8 +65,8 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Computing Convex hulls from decision manifolds in JavaFX 3D](https://www.reddit.com/r/java/comments/ybnuyb/computing_convex_hulls_from_decision_manifolds_in/)
-- [Article of how jvm works](https://www.reddit.com/r/java/comments/yblh2c/article_of_how_jvm_works/)
 - [What larger desktop applications use RxJava?](https://www.reddit.com/r/java/comments/ybffoo/what_larger_desktop_applications_use_rxjava/)
+- [Comparing the safety of Java &lpar;and C#&rpar; during parallelism and mutation with Rust](https://www.reddit.com/r/java/comments/ybdosi/comparing_the_safety_of_java_and_c_during/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
