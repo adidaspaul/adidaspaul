@@ -64,7 +64,7 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Beta users wanted: never lose control of your software architecture and save time in routinary tasks &lpar;a combination of Notion + Figma specifically for software architecture&rpar;](https://www.reddit.com/r/java/comments/ybg28s/beta_users_wanted_never_lose_control_of_your/)
+- [Article of how jvm works](https://www.reddit.com/r/java/comments/yblh2c/article_of_how_jvm_works/)
 - [What larger desktop applications use RxJava?](https://www.reddit.com/r/java/comments/ybffoo/what_larger_desktop_applications_use_rxjava/)
 - [Comparing the safety of Java &lpar;and C#&rpar; during parallelism and mutation with Rust](https://www.reddit.com/r/java/comments/ybdosi/comparing_the_safety_of_java_and_c_during/)
 <!-- BLOG-POST-LIST:END -->
