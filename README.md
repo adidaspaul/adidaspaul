@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Beta users wanted: never lose control of your software architecture and save time in routinary tasks &lpar;a combination of Notion + Figma specifically for software architecture&rpar;](https://www.reddit.com/r/java/comments/ybg28s/beta_users_wanted_never_lose_control_of_your/)
+- [What larger desktop applications use RxJava?](https://www.reddit.com/r/java/comments/ybffoo/what_larger_desktop_applications_use_rxjava/)
 - [Comparing the safety of Java &lpar;and C#&rpar; during parallelism and mutation with Rust](https://www.reddit.com/r/java/comments/ybdosi/comparing_the_safety_of_java_and_c_during/)
-- [Can I install Java without admin privileges?](https://www.reddit.com/r/java/comments/ybdc7u/can_i_install_java_without_admin_privileges/)
-- [Are you using any load/stress testing tools?](https://www.reddit.com/r/java/comments/ybcikw/are_you_using_any_loadstress_testing_tools/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
