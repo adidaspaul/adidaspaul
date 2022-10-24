@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Best Heatmap Visualization](https://www.reddit.com/r/java/comments/ycnt50/best_heatmap_visualization/)
 - [Web app in Java with Template Engine](https://www.reddit.com/r/java/comments/yck0mi/web_app_in_java_with_template_engine/)
 - [Which microprofile java framework plays the best with Guice for DI?](https://www.reddit.com/r/java/comments/ychkhp/which_microprofile_java_framework_plays_the_best/)
-- [Inside Java | JavaOne 2022 Technical Keynote](https://www.reddit.com/r/java/comments/yc8wwl/inside_java_javaone_2022_technical_keynote/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
