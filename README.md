@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Which microprofile java framework plays the best with Guice for DI?](https://www.reddit.com/r/java/comments/ychkhp/which_microprofile_java_framework_plays_the_best/)
 - [Inside Java | JavaOne 2022 Technical Keynote](https://www.reddit.com/r/java/comments/yc8wwl/inside_java_javaone_2022_technical_keynote/)
 - [Spring boot 3 slow boot time](https://www.reddit.com/r/java/comments/yc8kmu/spring_boot_3_slow_boot_time/)
-- [Computing Convex hulls from decision manifolds in JavaFX 3D](https://www.reddit.com/r/java/comments/ybnuyb/computing_convex_hulls_from_decision_manifolds_in/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
