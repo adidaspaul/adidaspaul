@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to make parseBoolean default to true](https://www.reddit.com/r/java/comments/yce8at/how_to_make_parseboolean_default_to_true/)
 - [Inside Java | JavaOne 2022 Technical Keynote](https://www.reddit.com/r/java/comments/yc8wwl/inside_java_javaone_2022_technical_keynote/)
 - [Spring boot 3 slow boot time](https://www.reddit.com/r/java/comments/yc8kmu/spring_boot_3_slow_boot_time/)
-- [Computing Convex hulls from decision manifolds in JavaFX 3D](https://www.reddit.com/r/java/comments/ybnuyb/computing_convex_hulls_from_decision_manifolds_in/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
