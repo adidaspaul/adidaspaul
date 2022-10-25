@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [why spring boot developer gets higher salary compared to core java developer.](https://www.reddit.com/r/java/comments/ycrhvb/why_spring_boot_developer_gets_higher_salary/)
 - [Best Heatmap Visualization](https://www.reddit.com/r/java/comments/ycnt50/best_heatmap_visualization/)
 - [Web app in Java with Template Engine](https://www.reddit.com/r/java/comments/yck0mi/web_app_in_java_with_template_engine/)
-- [Which microprofile java framework plays the best with Guice for DI?](https://www.reddit.com/r/java/comments/ychkhp/which_microprofile_java_framework_plays_the_best/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
