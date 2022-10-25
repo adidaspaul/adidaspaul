@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [More details on Oracle&#39;s GraalVM CE contribution to OpenJDK](https://www.reddit.com/r/java/comments/ydcr28/more_details_on_oracles_graalvm_ce_contribution/)
 - [GraalVM 22.3 is here: JDK 19 builds, jlink support, new monitoring features, and more!](https://www.reddit.com/r/java/comments/ydaq7r/graalvm_223_is_here_jdk_19_builds_jlink_support/)
 - [Payara Zero Day Vulnerability](https://www.reddit.com/r/java/comments/yd64br/payara_zero_day_vulnerability/)
-- [Open Source privacy scanning tool to create data flows from code](https://www.reddit.com/r/java/comments/yd50sv/open_source_privacy_scanning_tool_to_create_data/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
