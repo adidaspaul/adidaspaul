@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Why do people keep on using application servers like Jboss?](https://www.reddit.com/r/java/comments/yd0gr2/why_do_people_keep_on_using_application_servers/)
+- [Java News Roundup: JEP Updates, GraalVM Code to OpenJDK, Return of JavaOne](https://www.reddit.com/r/java/comments/yczw4e/java_news_roundup_jep_updates_graalvm_code_to/)
 - [Open-source non-blocking NIO Java HTTP Server](https://www.reddit.com/r/java/comments/ycxhs1/opensource_nonblocking_nio_java_http_server/)
-- [Between using H2 and HSQLDB as a production DB, which is the better choice?](https://www.reddit.com/r/java/comments/ycx09p/between_using_h2_and_hsqldb_as_a_production_db/)
-- [Best Heatmap Visualization](https://www.reddit.com/r/java/comments/ycnt50/best_heatmap_visualization/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
