@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Open Source privacy scanning tool to create data flows from code](https://www.reddit.com/r/java/comments/yd50sv/open_source_privacy_scanning_tool_to_create_data/)
+- [Is there still good jobs in Java?](https://www.reddit.com/r/java/comments/yd4loq/is_there_still_good_jobs_in_java/)
 - [Building a Distributed Audit Log with YugabyteDB, JPA, and Hibernate](https://www.reddit.com/r/java/comments/yd2fut/building_a_distributed_audit_log_with_yugabytedb/)
-- [Why do people keep on using application servers like Jboss?](https://www.reddit.com/r/java/comments/yd0gr2/why_do_people_keep_on_using_application_servers/)
-- [Java News Roundup: JEP Updates, GraalVM Code to OpenJDK, Return of JavaOne](https://www.reddit.com/r/java/comments/yczw4e/java_news_roundup_jep_updates_graalvm_code_to/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
