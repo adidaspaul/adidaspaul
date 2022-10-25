@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Building a Distributed Audit Log with YugabyteDB, JPA, and Hibernate](https://www.reddit.com/r/java/comments/yd2fut/building_a_distributed_audit_log_with_yugabytedb/)
 - [Why do people keep on using application servers like Jboss?](https://www.reddit.com/r/java/comments/yd0gr2/why_do_people_keep_on_using_application_servers/)
 - [Java News Roundup: JEP Updates, GraalVM Code to OpenJDK, Return of JavaOne](https://www.reddit.com/r/java/comments/yczw4e/java_news_roundup_jep_updates_graalvm_code_to/)
-- [Open-source non-blocking NIO Java HTTP Server](https://www.reddit.com/r/java/comments/ycxhs1/opensource_nonblocking_nio_java_http_server/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
