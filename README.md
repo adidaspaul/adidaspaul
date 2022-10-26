@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Can anybody make this code correct?😑](https://www.reddit.com/r/java/comments/ye2ec1/can_anybody_make_this_code_correct/)
+- [How committing GraalVM to OpenJDK changes the rules for Project Leyden](https://www.reddit.com/r/java/comments/ye285n/how_committing_graalvm_to_openjdk_changes_the/)
 - [Apache Kafka 3.3 Replaces ZooKeeper with the New KRaft Consensus Protocol](https://www.reddit.com/r/java/comments/ydsh9g/apache_kafka_33_replaces_zookeeper_with_the_new/)
-- [More details on Oracle&#39;s GraalVM CE contribution to OpenJDK](https://www.reddit.com/r/java/comments/ydcr28/more_details_on_oracles_graalvm_ce_contribution/)
-- [GraalVM 22.3 is here: JDK 19 builds, jlink support, new monitoring features, and more!](https://www.reddit.com/r/java/comments/ydaq7r/graalvm_223_is_here_jdk_19_builds_jlink_support/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
