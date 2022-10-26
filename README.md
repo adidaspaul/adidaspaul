@@ -64,7 +64,7 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [My university teaches Java for its Software Engineering program, should I stick ti it, or try to learn another language for Data Science?](https://www.reddit.com/r/java/comments/ydhh32/my_university_teaches_java_for_its_software/)
+- [Apache Kafka 3.3 Replaces ZooKeeper with the New KRaft Consensus Protocol](https://www.reddit.com/r/java/comments/ydsh9g/apache_kafka_33_replaces_zookeeper_with_the_new/)
 - [More details on Oracle&#39;s GraalVM CE contribution to OpenJDK](https://www.reddit.com/r/java/comments/ydcr28/more_details_on_oracles_graalvm_ce_contribution/)
 - [GraalVM 22.3 is here: JDK 19 builds, jlink support, new monitoring features, and more!](https://www.reddit.com/r/java/comments/ydaq7r/graalvm_223_is_here_jdk_19_builds_jlink_support/)
 <!-- BLOG-POST-LIST:END -->
