@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Java: Exploring JNI performance via Decoding Base64](https://www.reddit.com/r/java/comments/yep32n/java_exploring_jni_performance_via_decoding_base64/)
 - [Spring Boot continuous testing](https://www.reddit.com/r/java/comments/yejtut/spring_boot_continuous_testing/)
 - [The Future of Java is You | JavaOne 2022 Community Keynote](https://www.reddit.com/r/java/comments/yejl3w/the_future_of_java_is_you_javaone_2022_community/)
-- [Apache Kafka 3.3 Replaces ZooKeeper with the New KRaft Consensus Protocol](https://www.reddit.com/r/java/comments/ydsh9g/apache_kafka_33_replaces_zookeeper_with_the_new/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
