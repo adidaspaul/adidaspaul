@@ -66,7 +66,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [Spring Boot continuous testing](https://www.reddit.com/r/java/comments/yejtut/spring_boot_continuous_testing/)
 - [The Future of Java is You | JavaOne 2022 Community Keynote](https://www.reddit.com/r/java/comments/yejl3w/the_future_of_java_is_you_javaone_2022_community/)
-- [Save Bookmarks to Notion Database with Telegram and Quarkus](https://www.reddit.com/r/java/comments/ye90cb/save_bookmarks_to_notion_database_with_telegram/)
+- [Apache Kafka 3.3 Replaces ZooKeeper with the New KRaft Consensus Protocol](https://www.reddit.com/r/java/comments/ydsh9g/apache_kafka_33_replaces_zookeeper_with_the_new/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
