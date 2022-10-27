@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How contributing GraalVM to OpenJDK changes the rules for Project Leyden](https://www.reddit.com/r/java/comments/yer9p8/how_contributing_graalvm_to_openjdk_changes_the/)
 - [Java: Exploring JNI performance via Decoding Base64](https://www.reddit.com/r/java/comments/yep32n/java_exploring_jni_performance_via_decoding_base64/)
 - [Spring Boot continuous testing](https://www.reddit.com/r/java/comments/yejtut/spring_boot_continuous_testing/)
-- [The Future of Java is You | JavaOne 2022 Community Keynote](https://www.reddit.com/r/java/comments/yejl3w/the_future_of_java_is_you_javaone_2022_community/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
