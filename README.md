@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [ActiveMQ Artemis Docker Image](https://www.reddit.com/r/java/comments/yfnyc8/activemq_artemis_docker_image/)
 - [Modern JVM Multithreading • Paweł Jurczenko • Devoxx Poland 2021](https://www.reddit.com/r/java/comments/yfix8n/modern_jvm_multithreading_paweł_jurczenko_devoxx/)
 - [Anyone got a Devoxx 2023 &lpar;London&rpar; promotional code?](https://www.reddit.com/r/java/comments/yfi74o/anyone_got_a_devoxx_2023_london_promotional_code/)
-- [Anyone tested jdk 20 early access build for valhalla](https://www.reddit.com/r/java/comments/yfdofb/anyone_tested_jdk_20_early_access_build_for/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
