@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Anyone tested jdk 20 early access build for valhalla](https://www.reddit.com/r/java/comments/yfdofb/anyone_tested_jdk_20_early_access_build_for/)
 - [How contributing GraalVM to OpenJDK changes the rules for Project Leyden](https://www.reddit.com/r/java/comments/yer9p8/how_contributing_graalvm_to_openjdk_changes_the/)
 - [Java: Exploring JNI performance via Decoding Base64](https://www.reddit.com/r/java/comments/yep32n/java_exploring_jni_performance_via_decoding_base64/)
-- [Spring Boot continuous testing](https://www.reddit.com/r/java/comments/yejtut/spring_boot_continuous_testing/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
