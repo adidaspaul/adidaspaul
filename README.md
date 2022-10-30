@@ -65,8 +65,8 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [HttpsURLConnection with specific network interface?](https://www.reddit.com/r/java/comments/yhqgwp/httpsurlconnection_with_specific_network_interface/)
-- [How can I debug log4j2 issues? For example, I have a Sentry appender that simply doesn&#39;t do anything](https://www.reddit.com/r/java/comments/yhq8k0/how_can_i_debug_log4j2_issues_for_example_i_have/)
 - [Strange behaviour of javac 15, 16, 17, 18, 19](https://www.reddit.com/r/java/comments/yhlv52/strange_behaviour_of_javac_15_16_17_18_19/)
+- [Best way to combine Python and Java?](https://www.reddit.com/r/java/comments/ygnh2q/best_way_to_combine_python_and_java/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
