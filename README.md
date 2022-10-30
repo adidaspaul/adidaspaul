@@ -64,7 +64,7 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [What do I have to learn to make a good dynamic website?](https://www.reddit.com/r/java/comments/yholp1/what_do_i_have_to_learn_to_make_a_good_dynamic/)
+- [How can I debug log4j2 issues? For example, I have a Sentry appender that simply doesn&#39;t do anything](https://www.reddit.com/r/java/comments/yhq8k0/how_can_i_debug_log4j2_issues_for_example_i_have/)
 - [Strange behaviour of javac 15, 16, 17, 18, 19](https://www.reddit.com/r/java/comments/yhlv52/strange_behaviour_of_javac_15_16_17_18_19/)
 - [Best way to combine Python and Java?](https://www.reddit.com/r/java/comments/ygnh2q/best_way_to_combine_python_and_java/)
 <!-- BLOG-POST-LIST:END -->
