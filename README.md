@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Strange behaviour of javac 15, 16, 17, 18, 19](https://www.reddit.com/r/java/comments/yhlv52/strange_behaviour_of_javac_15_16_17_18_19/)
 - [Best way to combine Python and Java?](https://www.reddit.com/r/java/comments/ygnh2q/best_way_to_combine_python_and_java/)
 - [ActiveMQ Artemis Docker Image](https://www.reddit.com/r/java/comments/yfnyc8/activemq_artemis_docker_image/)
-- [Modern JVM Multithreading • Paweł Jurczenko • Devoxx Poland 2021](https://www.reddit.com/r/java/comments/yfix8n/modern_jvm_multithreading_paweł_jurczenko_devoxx/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
