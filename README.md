@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Writing a MINIBASIC interpreter in java](https://www.reddit.com/r/java/comments/yiel61/writing_a_minibasic_interpreter_in_java/)
+- [JReleaser 1.3.0 has been released!](https://www.reddit.com/r/java/comments/yiho05/jreleaser_130_has_been_released/)
+- [Java: Automating data setup in unit tests](https://www.reddit.com/r/java/comments/yihfb6/java_automating_data_setup_in_unit_tests/)
 - [Java Extension Methods](https://www.reddit.com/r/java/comments/yid6pe/java_extension_methods/)
-- [Backend Java 19 vs Kotlin?](https://www.reddit.com/r/java/comments/yiamni/backend_java_19_vs_kotlin/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
