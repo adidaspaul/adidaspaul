@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Writing a MINIBASIC interpreter in java](https://www.reddit.com/r/java/comments/yiel61/writing_a_minibasic_interpreter_in_java/)
 - [Java Extension Methods](https://www.reddit.com/r/java/comments/yid6pe/java_extension_methods/)
 - [Backend Java 19 vs Kotlin?](https://www.reddit.com/r/java/comments/yiamni/backend_java_19_vs_kotlin/)
-- [Strange behaviour of javac 15, 16, 17, 18, 19](https://www.reddit.com/r/java/comments/yhlv52/strange_behaviour_of_javac_15_16_17_18_19/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
