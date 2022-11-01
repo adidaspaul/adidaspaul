@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Tech interview Java/Spring](https://www.reddit.com/r/java/comments/yj4sue/tech_interview_javaspring/)
 - [Your take on the recent GraalVM release?](https://www.reddit.com/r/java/comments/yinkt9/your_take_on_the_recent_graalvm_release/)
 - [JReleaser 1.3.0 has been released!](https://www.reddit.com/r/java/comments/yiho05/jreleaser_130_has_been_released/)
-- [Java: Automating data setup in unit tests](https://www.reddit.com/r/java/comments/yihfb6/java_automating_data_setup_in_unit_tests/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
