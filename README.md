@@ -64,7 +64,7 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Developing java android applications on laptop?](https://www.reddit.com/r/java/comments/yj5k9k/developing_java_android_applications_on_laptop/)
+- [Adam Bien - Past, Present and Future: Serverside Java on Premise and in the Clouds](https://www.reddit.com/r/java/comments/yj8hp1/adam_bien_past_present_and_future_serverside_java/)
 - [BitSail - distributed high-performance data integration engine.](https://www.reddit.com/r/java/comments/yj5dud/bitsail_distributed_highperformance_data/)
 - [Tech interview Java/Spring](https://www.reddit.com/r/java/comments/yj4sue/tech_interview_javaspring/)
 <!-- BLOG-POST-LIST:END -->
