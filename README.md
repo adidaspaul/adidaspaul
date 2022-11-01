@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [What does Java do better than Python?](https://www.reddit.com/r/java/comments/yjcgiy/what_does_java_do_better_than_python/)
+- [CompletableFuture and Structured Concurrency](https://www.reddit.com/r/java/comments/yjc0w3/completablefuture_and_structured_concurrency/)
 - [Documenting APIs and Code: Swagger, Javadoc, and ?](https://www.reddit.com/r/java/comments/yjaw0a/documenting_apis_and_code_swagger_javadoc_and/)
-- [Adam Bien - Past, Present and Future: Serverside Java on Premise and in the Clouds](https://www.reddit.com/r/java/comments/yj8hp1/adam_bien_past_present_and_future_serverside_java/)
-- [BitSail - distributed high-performance data integration engine.](https://www.reddit.com/r/java/comments/yj5dud/bitsail_distributed_highperformance_data/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
