@@ -64,7 +64,7 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [I kind of need sone help. Is there any old Java program for older phones that tells you stats about the phone?&lpar;Preferably for sony erricson phones&rpar;](https://www.reddit.com/r/java/comments/yjkmt3/i_kind_of_need_sone_help_is_there_any_old_java/)
+- [What we can do in Java that we can&#39;t do in Python?0](https://www.reddit.com/r/java/comments/yjm5yv/what_we_can_do_in_java_that_we_cant_do_in_python0/)
 - [Lazy static final fields: what, why, &amp; how](https://www.reddit.com/r/java/comments/yjevmh/lazy_static_final_fields_what_why_how/)
 - [What does Java do better than Python?](https://www.reddit.com/r/java/comments/yjcgiy/what_does_java_do_better_than_python/)
 <!-- BLOG-POST-LIST:END -->
