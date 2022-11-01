@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Developing java android applications on laptop?](https://www.reddit.com/r/java/comments/yj5k9k/developing_java_android_applications_on_laptop/)
+- [BitSail - distributed high-performance data integration engine.](https://www.reddit.com/r/java/comments/yj5dud/bitsail_distributed_highperformance_data/)
 - [Tech interview Java/Spring](https://www.reddit.com/r/java/comments/yj4sue/tech_interview_javaspring/)
-- [Your take on the recent GraalVM release?](https://www.reddit.com/r/java/comments/yinkt9/your_take_on_the_recent_graalvm_release/)
-- [JReleaser 1.3.0 has been released!](https://www.reddit.com/r/java/comments/yiho05/jreleaser_130_has_been_released/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
