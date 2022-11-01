@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Lazy static final fields: what, why, &amp; how](https://www.reddit.com/r/java/comments/yjevmh/lazy_static_final_fields_what_why_how/)
 - [What does Java do better than Python?](https://www.reddit.com/r/java/comments/yjcgiy/what_does_java_do_better_than_python/)
 - [CompletableFuture and Structured Concurrency](https://www.reddit.com/r/java/comments/yjc0w3/completablefuture_and_structured_concurrency/)
-- [Documenting APIs and Code: Swagger, Javadoc, and ?](https://www.reddit.com/r/java/comments/yjaw0a/documenting_apis_and_code_swagger_javadoc_and/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
