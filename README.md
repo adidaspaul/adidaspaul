@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Why is Vaadin&#39;s adoption small?](https://www.reddit.com/r/java/comments/ykgcnq/why_is_vaadins_adoption_small/)
 - [Cascade operator in Java](https://www.reddit.com/r/java/comments/ykcqcl/cascade_operator_in_java/)
 - [EJB support in Piranha via CDI](https://www.reddit.com/r/java/comments/yk6iuf/ejb_support_in_piranha_via_cdi/)
-- [Named Parameters in Java](https://www.reddit.com/r/java/comments/yk21jo/named_parameters_in_java/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
