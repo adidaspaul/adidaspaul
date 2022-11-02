@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to create SBOMs in Java with Maven and Gradle](https://www.reddit.com/r/java/comments/ykkyoq/how_to_create_sboms_in_java_with_maven_and_gradle/)
 - [Why is Vaadin&#39;s adoption small?](https://www.reddit.com/r/java/comments/ykgcnq/why_is_vaadins_adoption_small/)
 - [Cascade operator in Java](https://www.reddit.com/r/java/comments/ykcqcl/cascade_operator_in_java/)
-- [EJB support in Piranha via CDI](https://www.reddit.com/r/java/comments/yk6iuf/ejb_support_in_piranha_via_cdi/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
