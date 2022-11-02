@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Named Parameters in Java](https://www.reddit.com/r/java/comments/yk21jo/named_parameters_in_java/)
+- [How can I access a specific class&#39;s main in a jar from the command line?](https://www.reddit.com/r/java/comments/yk20nh/how_can_i_access_a_specific_classs_main_in_a_jar/)
 - [Should I focus on learning JavaX/Swing or JavaFX?](https://www.reddit.com/r/java/comments/yjwa1o/should_i_focus_on_learning_javaxswing_or_javafx/)
-- [Virtual threads work great... until something goes wrong](https://www.reddit.com/r/java/comments/yjtwhc/virtual_threads_work_great_until_something_goes/)
-- [What we can do in Java that we can&#39;t do in Python?0](https://www.reddit.com/r/java/comments/yjm5yv/what_we_can_do_in_java_that_we_cant_do_in_python0/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
