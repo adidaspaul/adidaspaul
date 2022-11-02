@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Try out code wars they said...](https://www.reddit.com/r/java/comments/yk5qxo/try_out_code_wars_they_said/)
 - [Named Parameters in Java](https://www.reddit.com/r/java/comments/yk21jo/named_parameters_in_java/)
 - [How can I access a specific class&#39;s main in a jar from the command line?](https://www.reddit.com/r/java/comments/yk20nh/how_can_i_access_a_specific_classs_main_in_a_jar/)
-- [Should I focus on learning JavaX/Swing or JavaFX?](https://www.reddit.com/r/java/comments/yjwa1o/should_i_focus_on_learning_javaxswing_or_javafx/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
