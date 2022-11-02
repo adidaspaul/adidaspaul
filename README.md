@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Can Anyone Help Me Out Create This For Me To Communicate With My Friend IN A Unique and Special Way - Both Huge Fans Of Stranger Things - Please PM me if you would like to help out or have any questions. Thank you.](https://www.reddit.com/r/java/comments/yk6mqs/can_anyone_help_me_out_create_this_for_me_to/)
+- [EJB support in Piranha via CDI](https://www.reddit.com/r/java/comments/yk6iuf/ejb_support_in_piranha_via_cdi/)
 - [Try out code wars they said...](https://www.reddit.com/r/java/comments/yk5qxo/try_out_code_wars_they_said/)
-- [Named Parameters in Java](https://www.reddit.com/r/java/comments/yk21jo/named_parameters_in_java/)
-- [How can I access a specific class&#39;s main in a jar from the command line?](https://www.reddit.com/r/java/comments/yk20nh/how_can_i_access_a_specific_classs_main_in_a_jar/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
