@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Cascade operator in Java](https://www.reddit.com/r/java/comments/ykcqcl/cascade_operator_in_java/)
 - [EJB support in Piranha via CDI](https://www.reddit.com/r/java/comments/yk6iuf/ejb_support_in_piranha_via_cdi/)
 - [Named Parameters in Java](https://www.reddit.com/r/java/comments/yk21jo/named_parameters_in_java/)
-- [Should I focus on learning JavaX/Swing or JavaFX?](https://www.reddit.com/r/java/comments/yjwa1o/should_i_focus_on_learning_javaxswing_or_javafx/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
