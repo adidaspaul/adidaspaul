@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [how to prevent a short circuit](https://www.reddit.com/r/java/comments/yjutjd/how_to_prevent_a_short_circuit/)
 - [What we can do in Java that we can&#39;t do in Python?0](https://www.reddit.com/r/java/comments/yjm5yv/what_we_can_do_in_java_that_we_cant_do_in_python0/)
 - [Lazy static final fields: what, why, &amp; how](https://www.reddit.com/r/java/comments/yjevmh/lazy_static_final_fields_what_why_how/)
-- [What does Java do better than Python?](https://www.reddit.com/r/java/comments/yjcgiy/what_does_java_do_better_than_python/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
