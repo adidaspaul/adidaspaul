@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [how to prevent a short circuit](https://www.reddit.com/r/java/comments/yjutjd/how_to_prevent_a_short_circuit/)
+- [Should I focus on learning JavaX/Swing or JavaFX?](https://www.reddit.com/r/java/comments/yjwa1o/should_i_focus_on_learning_javaxswing_or_javafx/)
+- [Virtual threads work great... until something goes wrong](https://www.reddit.com/r/java/comments/yjtwhc/virtual_threads_work_great_until_something_goes/)
 - [What we can do in Java that we can&#39;t do in Python?0](https://www.reddit.com/r/java/comments/yjm5yv/what_we_can_do_in_java_that_we_cant_do_in_python0/)
-- [Lazy static final fields: what, why, &amp; how](https://www.reddit.com/r/java/comments/yjevmh/lazy_static_final_fields_what_why_how/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
