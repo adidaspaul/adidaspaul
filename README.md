@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Possibly stupid question, is java the right language for low latency and high throughput web servers?](https://www.reddit.com/r/java/comments/yl7n22/possibly_stupid_question_is_java_the_right/)
 - [&quot;Dissecting Memory Sessions&quot; - A proposal for a unifying of Panama MemorySession into a better-encapsulated and more composable &quot;Arena&quot; API](https://www.reddit.com/r/java/comments/yl55qe/dissecting_memory_sessions_a_proposal_for_a/)
 - [How does a made-for-JVM Linux distro perform? Alpaquita Linux benchmarks are impressive](https://www.reddit.com/r/java/comments/yl475a/how_does_a_madeforjvm_linux_distro_perform/)
-- [Is There a Way to Verify Spring WebFlux is Running Properly With Everything Non-Blocking?](https://www.reddit.com/r/java/comments/yl34rr/is_there_a_way_to_verify_spring_webflux_is/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
