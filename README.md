@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [How to create SBOMs in Java with Maven and Gradle](https://www.reddit.com/r/java/comments/ykkyoq/how_to_create_sboms_in_java_with_maven_and_gradle/)
-- [Why is Vaadin&#39;s adoption small?](https://www.reddit.com/r/java/comments/ykgcnq/why_is_vaadins_adoption_small/)
-- [Cascade operator in Java](https://www.reddit.com/r/java/comments/ykcqcl/cascade_operator_in_java/)
+- [What do you think about generating OpenAPI specs from code?](https://www.reddit.com/r/java/comments/ykoz63/what_do_you_think_about_generating_openapi_specs/)
+- [MacOS Catalina has java installed but says it doesnt have it?? Help](https://www.reddit.com/r/java/comments/ykoy3r/macos_catalina_has_java_installed_but_says_it/)
+- [Can I use Java to build a website?](https://www.reddit.com/r/java/comments/ykm27o/can_i_use_java_to_build_a_website/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
