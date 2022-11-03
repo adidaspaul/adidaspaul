@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Is There a Way to Verify Spring WebFlux is Running Properly With Everything Non-Blocking?](https://www.reddit.com/r/java/comments/yl34rr/is_there_a_way_to_verify_spring_webflux_is/)
 - [GraalVM In OpenJDK And More JavaOne Announcements - Inside Java Newscast #36](https://www.reddit.com/r/java/comments/ykuxfz/graalvm_in_openjdk_and_more_javaone_announcements/)
 - [What do you think about generating OpenAPI specs from code?](https://www.reddit.com/r/java/comments/ykoz63/what_do_you_think_about_generating_openapi_specs/)
-- [How to create SBOMs in Java with Maven and Gradle](https://www.reddit.com/r/java/comments/ykkyoq/how_to_create_sboms_in_java_with_maven_and_gradle/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
