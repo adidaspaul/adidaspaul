@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [&quot;Dissecting Memory Sessions&quot; - A proposal for a unifying of Panama MemorySession into a better-encapsulated and more composable &quot;Arena&quot; API](https://www.reddit.com/r/java/comments/yl55qe/dissecting_memory_sessions_a_proposal_for_a/)
+- [How does a made-for-JVM Linux distro perform? Alpaquita Linux benchmarks are impressive](https://www.reddit.com/r/java/comments/yl475a/how_does_a_madeforjvm_linux_distro_perform/)
 - [Is There a Way to Verify Spring WebFlux is Running Properly With Everything Non-Blocking?](https://www.reddit.com/r/java/comments/yl34rr/is_there_a_way_to_verify_spring_webflux_is/)
-- [GraalVM In OpenJDK And More JavaOne Announcements - Inside Java Newscast #36](https://www.reddit.com/r/java/comments/ykuxfz/graalvm_in_openjdk_and_more_javaone_announcements/)
-- [What do you think about generating OpenAPI specs from code?](https://www.reddit.com/r/java/comments/ykoz63/what_do_you_think_about_generating_openapi_specs/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
