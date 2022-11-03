@@ -64,7 +64,7 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [How plausible is taking over control of the aux at a bar by using code?](https://www.reddit.com/r/java/comments/yktp4c/how_plausible_is_taking_over_control_of_the_aux/)
+- [GraalVM In OpenJDK And More JavaOne Announcements - Inside Java Newscast #36](https://www.reddit.com/r/java/comments/ykuxfz/graalvm_in_openjdk_and_more_javaone_announcements/)
 - [What do you think about generating OpenAPI specs from code?](https://www.reddit.com/r/java/comments/ykoz63/what_do_you_think_about_generating_openapi_specs/)
 - [How to create SBOMs in Java with Maven and Gradle](https://www.reddit.com/r/java/comments/ykkyoq/how_to_create_sboms_in_java_with_maven_and_gradle/)
 <!-- BLOG-POST-LIST:END -->
