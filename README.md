@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [What are the most well-known partnerships between companies in the software business?](https://www.reddit.com/r/java/comments/ympmwo/what_are_the_most_wellknown_partnerships_between/)
 - [Java licensing is troublesome. I&#39;m trying to figure out what is exempt.](https://www.reddit.com/r/java/comments/ym5daq/java_licensing_is_troublesome_im_trying_to_figure/)
 - [Possibly stupid question, is java the right language for low latency and high throughput web servers?](https://www.reddit.com/r/java/comments/yl7n22/possibly_stupid_question_is_java_the_right/)
-- [&quot;Dissecting Memory Sessions&quot; - A proposal for a unifying of Panama MemorySession into a better-encapsulated and more composable &quot;Arena&quot; API](https://www.reddit.com/r/java/comments/yl55qe/dissecting_memory_sessions_a_proposal_for_a/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
