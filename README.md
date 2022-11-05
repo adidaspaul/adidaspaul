@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to add something to the java standard library?](https://www.reddit.com/r/java/comments/yn7fhv/how_to_add_something_to_the_java_standard_library/)
 - [Try type in Java](https://www.reddit.com/r/java/comments/ymtupc/try_type_in_java/)
 - [Java licensing is troublesome. I&#39;m trying to figure out what is exempt.](https://www.reddit.com/r/java/comments/ym5daq/java_licensing_is_troublesome_im_trying_to_figure/)
-- [Possibly stupid question, is java the right language for low latency and high throughput web servers?](https://www.reddit.com/r/java/comments/yl7n22/possibly_stupid_question_is_java_the_right/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
