@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [kotlin or java?](https://www.reddit.com/r/java/comments/ynk5b2/kotlin_or_java/)
 - [use external library](https://www.reddit.com/r/java/comments/yncap9/use_external_library/)
 - [looking for a partner to read data structures and algorithm in java.](https://www.reddit.com/r/java/comments/ynbtgx/looking_for_a_partner_to_read_data_structures_and/)
-- [How to add something to the java standard library?](https://www.reddit.com/r/java/comments/yn7fhv/how_to_add_something_to_the_java_standard_library/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
