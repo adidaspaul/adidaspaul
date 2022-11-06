@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Advanced Java Resources](https://www.reddit.com/r/java/comments/ynwz93/advanced_java_resources/)
 - [kotlin or java?](https://www.reddit.com/r/java/comments/ynk5b2/kotlin_or_java/)
 - [How to add something to the java standard library?](https://www.reddit.com/r/java/comments/yn7fhv/how_to_add_something_to_the_java_standard_library/)
+- [Try type in Java](https://www.reddit.com/r/java/comments/ymtupc/try_type_in_java/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
