@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [use external library](https://www.reddit.com/r/java/comments/yncap9/use_external_library/)
+- [looking for a partner to read data structures and algorithm in java.](https://www.reddit.com/r/java/comments/ynbtgx/looking_for_a_partner_to_read_data_structures_and/)
 - [How to add something to the java standard library?](https://www.reddit.com/r/java/comments/yn7fhv/how_to_add_something_to_the_java_standard_library/)
-- [Try type in Java](https://www.reddit.com/r/java/comments/ymtupc/try_type_in_java/)
-- [Java licensing is troublesome. I&#39;m trying to figure out what is exempt.](https://www.reddit.com/r/java/comments/ym5daq/java_licensing_is_troublesome_im_trying_to_figure/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
