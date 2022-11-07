@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Use JS and Java](https://www.reddit.com/r/java/comments/yof2ib/use_js_and_java/)
 - [How does jUnit runs multiple spring servers within 1 JVM](https://www.reddit.com/r/java/comments/yo9rck/how_does_junit_runs_multiple_spring_servers/)
 - [kotlin or java?](https://www.reddit.com/r/java/comments/ynk5b2/kotlin_or_java/)
-- [How to add something to the java standard library?](https://www.reddit.com/r/java/comments/yn7fhv/how_to_add_something_to_the_java_standard_library/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
