@@ -64,7 +64,7 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Use JS and Java](https://www.reddit.com/r/java/comments/yof2ib/use_js_and_java/)
+- [UI build tool for JavaFX](https://www.reddit.com/r/java/comments/yofxoe/ui_build_tool_for_javafx/)
 - [How does jUnit runs multiple spring servers within 1 JVM](https://www.reddit.com/r/java/comments/yo9rck/how_does_junit_runs_multiple_spring_servers/)
 - [kotlin or java?](https://www.reddit.com/r/java/comments/ynk5b2/kotlin_or_java/)
 <!-- BLOG-POST-LIST:END -->
