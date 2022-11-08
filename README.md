@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Does anybody know any good tutorials where it&#39;s a project that you keep making better using more and more advanced programming techniques?](https://www.reddit.com/r/java/comments/yp4m4i/does_anybody_know_any_good_tutorials_where_its_a/)
 - [How to publish a Java library to Maven Central - Complete Guide - By Maciej Walkowiak](https://www.reddit.com/r/java/comments/yojdaw/how_to_publish_a_java_library_to_maven_central/)
 - [James Gosling, the father of Java, is the keynote speaker for reClojure 2022](https://www.reddit.com/r/java/comments/yoj2j2/james_gosling_the_father_of_java_is_the_keynote/)
-- [How does jUnit runs multiple spring servers within 1 JVM](https://www.reddit.com/r/java/comments/yo9rck/how_does_junit_runs_multiple_spring_servers/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
