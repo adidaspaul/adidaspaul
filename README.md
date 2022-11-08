@@ -64,7 +64,7 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Timeframe to migrate from Python to Java](https://www.reddit.com/r/java/comments/ypr36l/timeframe_to_migrate_from_python_to_java/)
+- [Spring Data JPA entity locking](https://www.reddit.com/r/java/comments/yptr9n/spring_data_jpa_entity_locking/)
 - [We released spring-componentmap &lpar;0.1.0&rpar; - A JVM library for Map&lpar;s&rpar; injection with Spring](https://www.reddit.com/r/java/comments/ypmcvv/we_released_springcomponentmap_010_a_jvm_library/)
 - [Is there a library with observable properties similar to the JavaFX ones?](https://www.reddit.com/r/java/comments/yphbz0/is_there_a_library_with_observable_properties/)
 <!-- BLOG-POST-LIST:END -->
