@@ -64,8 +64,8 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [GitHub - jafarlihi/eemit: Tiny event emitter library for Java](https://www.reddit.com/r/java/comments/ypxnjo/github_jafarlihieemit_tiny_event_emitter_library/)
 - [Am I the only one who does not like the instanceof pattern matching?](https://www.reddit.com/r/java/comments/ypwk51/am_i_the_only_one_who_does_not_like_the/)
-- [Learning Spring Webflux + RDBC2 with SQL database](https://www.reddit.com/r/java/comments/ypwbvm/learning_spring_webflux_rdbc2_with_sql_database/)
 - [Spring Data JPA entity locking](https://www.reddit.com/r/java/comments/yptr9n/spring_data_jpa_entity_locking/)
 <!-- BLOG-POST-LIST:END -->
 
