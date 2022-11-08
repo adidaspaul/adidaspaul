@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Is there a library with observable properties similar to the JavaFX ones?](https://www.reddit.com/r/java/comments/yphbz0/is_there_a_library_with_observable_properties/)
 - [Understanding Java&#39;s Project Loom](https://www.reddit.com/r/java/comments/ypg8bl/understanding_javas_project_loom/)
 - [How to publish a Java library to Maven Central - Complete Guide - By Maciej Walkowiak](https://www.reddit.com/r/java/comments/yojdaw/how_to_publish_a_java_library_to_maven_central/)
-- [James Gosling, the father of Java, is the keynote speaker for reClojure 2022](https://www.reddit.com/r/java/comments/yoj2j2/james_gosling_the_father_of_java_is_the_keynote/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
