@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [We released spring-componentmap &lpar;0.1.0&rpar; - A JVM library for Map&lpar;s&rpar; injection with Spring](https://www.reddit.com/r/java/comments/ypmcvv/we_released_springcomponentmap_010_a_jvm_library/)
+- [Too little errors, help](https://www.reddit.com/r/java/comments/yplyc1/too_little_errors_help/)
 - [Is there a library with observable properties similar to the JavaFX ones?](https://www.reddit.com/r/java/comments/yphbz0/is_there_a_library_with_observable_properties/)
-- [Understanding Java&#39;s Project Loom](https://www.reddit.com/r/java/comments/ypg8bl/understanding_javas_project_loom/)
-- [How to publish a Java library to Maven Central - Complete Guide - By Maciej Walkowiak](https://www.reddit.com/r/java/comments/yojdaw/how_to_publish_a_java_library_to_maven_central/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
