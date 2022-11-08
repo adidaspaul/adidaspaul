@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Am I the only one who does not like the instanceof pattern matching?](https://www.reddit.com/r/java/comments/ypwk51/am_i_the_only_one_who_does_not_like_the/)
+- [Learning Spring Webflux + RDBC2 with SQL database](https://www.reddit.com/r/java/comments/ypwbvm/learning_spring_webflux_rdbc2_with_sql_database/)
 - [Spring Data JPA entity locking](https://www.reddit.com/r/java/comments/yptr9n/spring_data_jpa_entity_locking/)
-- [We released spring-componentmap &lpar;0.1.0&rpar; - A JVM library for Map&lpar;s&rpar; injection with Spring](https://www.reddit.com/r/java/comments/ypmcvv/we_released_springcomponentmap_010_a_jvm_library/)
-- [Is there a library with observable properties similar to the JavaFX ones?](https://www.reddit.com/r/java/comments/yphbz0/is_there_a_library_with_observable_properties/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
