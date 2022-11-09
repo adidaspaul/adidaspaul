@@ -65,8 +65,8 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [BitSet Vs BigInteger](https://www.reddit.com/r/java/comments/yq7lrs/bitset_vs_biginteger/)
-- [Most important Java topics](https://www.reddit.com/r/java/comments/ypzw8z/most_important_java_topics/)
 - [GitHub - jafarlihi/eemit: Tiny event emitter library for Java](https://www.reddit.com/r/java/comments/ypxnjo/github_jafarlihieemit_tiny_event_emitter_library/)
+- [Am I the only one who does not like the instanceof pattern matching?](https://www.reddit.com/r/java/comments/ypwk51/am_i_the_only_one_who_does_not_like_the/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
