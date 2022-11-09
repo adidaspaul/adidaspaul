@@ -64,7 +64,7 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Need Some Help on Website - Can Anyone Help Me Out Please?](https://www.reddit.com/r/java/comments/yq5jcj/need_some_help_on_website_can_anyone_help_me_out/)
+- [BitSet Vs BigInteger](https://www.reddit.com/r/java/comments/yq7lrs/bitset_vs_biginteger/)
 - [Most important Java topics](https://www.reddit.com/r/java/comments/ypzw8z/most_important_java_topics/)
 - [GitHub - jafarlihi/eemit: Tiny event emitter library for Java](https://www.reddit.com/r/java/comments/ypxnjo/github_jafarlihieemit_tiny_event_emitter_library/)
 <!-- BLOG-POST-LIST:END -->
