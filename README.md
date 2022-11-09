@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Need Some Help on Website - Can Anyone Help Me Out Please?](https://www.reddit.com/r/java/comments/yq5jcj/need_some_help_on_website_can_anyone_help_me_out/)
 - [Most important Java topics](https://www.reddit.com/r/java/comments/ypzw8z/most_important_java_topics/)
 - [GitHub - jafarlihi/eemit: Tiny event emitter library for Java](https://www.reddit.com/r/java/comments/ypxnjo/github_jafarlihieemit_tiny_event_emitter_library/)
-- [Am I the only one who does not like the instanceof pattern matching?](https://www.reddit.com/r/java/comments/ypwk51/am_i_the_only_one_who_does_not_like_the/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
