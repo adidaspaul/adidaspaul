@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Extract Data From Files With JMeter](https://www.reddit.com/r/java/comments/yqcftm/how_to_extract_data_from_files_with_jmeter/)
 - [BitSet Vs BigInteger](https://www.reddit.com/r/java/comments/yq7lrs/bitset_vs_biginteger/)
 - [GitHub - jafarlihi/eemit: Tiny event emitter library for Java](https://www.reddit.com/r/java/comments/ypxnjo/github_jafarlihieemit_tiny_event_emitter_library/)
-- [Am I the only one who does not like the instanceof pattern matching?](https://www.reddit.com/r/java/comments/ypwk51/am_i_the_only_one_who_does_not_like_the/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
