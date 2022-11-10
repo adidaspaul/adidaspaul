@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [shortest path to make money with Java &lpar;favorably freelancing Upwork&rpar;](https://www.reddit.com/r/java/comments/yr0tl3/shortest_path_to_make_money_with_java_favorably/)
 - [Improving Developer Productivity at Disney with Serverless and Open Source](https://www.reddit.com/r/java/comments/yqvdxs/improving_developer_productivity_at_disney_with/)
 - [How to Extract Data From Files With JMeter](https://www.reddit.com/r/java/comments/yqcftm/how_to_extract_data_from_files_with_jmeter/)
-- [BitSet Vs BigInteger](https://www.reddit.com/r/java/comments/yq7lrs/bitset_vs_biginteger/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
