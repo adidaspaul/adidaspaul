@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [WildFly 27 Final is released!](https://www.reddit.com/r/java/comments/yrbb02/wildfly_27_final_is_released/)
 - [Micronaut vs others&lpar;Spring Boot, Quarkus and co.&rpar;](https://www.reddit.com/r/java/comments/yr8yli/micronaut_vs_othersspring_boot_quarkus_and_co/)
 - [Improving Developer Productivity at Disney with Serverless and Open Source](https://www.reddit.com/r/java/comments/yqvdxs/improving_developer_productivity_at_disney_with/)
-- [How to Extract Data From Files With JMeter](https://www.reddit.com/r/java/comments/yqcftm/how_to_extract_data_from_files_with_jmeter/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
