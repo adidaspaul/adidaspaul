@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Firebird JDBC driver Jaybird 4.0.7 released](https://www.reddit.com/r/java/comments/ysbxvp/firebird_jdbc_driver_jaybird_407_released/)
 - [Ever hear of anyone doing headless functional testing with Jest?](https://www.reddit.com/r/java/comments/ysazlx/ever_hear_of_anyone_doing_headless_functional/)
 - [Is docker really necessary for Java especially when tools like gradle exist?](https://www.reddit.com/r/java/comments/yrknn8/is_docker_really_necessary_for_java_especially/)
-- [Much Ado About Observability: easier profiling thanks to new JEP and Quarkus dropping &lpar;one 😉&rpar; MicroProfile standard](https://www.reddit.com/r/java/comments/yrft4w/much_ado_about_observability_easier_profiling/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
