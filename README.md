@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Daobab 1.5 released - an independent Java ORM initiative](https://www.reddit.com/r/java/comments/ysj1hw/daobab_15_released_an_independent_java_orm/)
+- [hypersistence optimizer worth it](https://www.reddit.com/r/java/comments/ysiv8q/hypersistence_optimizer_worth_it/)
 - [[Panama] Dissecting Memory Sessions / Maurizio Cimadamore](https://www.reddit.com/r/java/comments/yshg4h/panama_dissecting_memory_sessions_maurizio/)
-- [Firebird JDBC driver Jaybird 4.0.7 released](https://www.reddit.com/r/java/comments/ysbxvp/firebird_jdbc_driver_jaybird_407_released/)
-- [Ever hear of anyone doing headless functional testing with Jest?](https://www.reddit.com/r/java/comments/ysazlx/ever_hear_of_anyone_doing_headless_functional/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
