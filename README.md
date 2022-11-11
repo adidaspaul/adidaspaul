@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [[Panama] Dissecting Memory Sessions / Maurizio Cimadamore](https://www.reddit.com/r/java/comments/yshg4h/panama_dissecting_memory_sessions_maurizio/)
 - [Firebird JDBC driver Jaybird 4.0.7 released](https://www.reddit.com/r/java/comments/ysbxvp/firebird_jdbc_driver_jaybird_407_released/)
 - [Ever hear of anyone doing headless functional testing with Jest?](https://www.reddit.com/r/java/comments/ysazlx/ever_hear_of_anyone_doing_headless_functional/)
-- [Is docker really necessary for Java especially when tools like gradle exist?](https://www.reddit.com/r/java/comments/yrknn8/is_docker_really_necessary_for_java_especially/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
