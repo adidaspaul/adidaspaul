@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Hashtag Jakarta EE #150](https://www.reddit.com/r/java/comments/yueedv/hashtag_jakarta_ee_150/)
+- [Do you use the dependency inversion principle in your design? Do you define interfaces for all layers?](https://www.reddit.com/r/java/comments/yudp7b/do_you_use_the_dependency_inversion_principle_in/)
 - [Piranha Cloud 22.11 released!](https://www.reddit.com/r/java/comments/yu9z7n/piranha_cloud_2211_released/)
-- [Is there any way to manually purge objects? Why not?](https://www.reddit.com/r/java/comments/ytyvrp/is_there_any_way_to_manually_purge_objects_why_not/)
-- [Daobab 1.5 released - an independent Java ORM initiative](https://www.reddit.com/r/java/comments/ysj1hw/daobab_15_released_an_independent_java_orm/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
