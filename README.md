@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Is there any way to manually purge objects? Why not?](https://www.reddit.com/r/java/comments/ytyvrp/is_there_any_way_to_manually_purge_objects_why_not/)
 - [Daobab 1.5 released - an independent Java ORM initiative](https://www.reddit.com/r/java/comments/ysj1hw/daobab_15_released_an_independent_java_orm/)
 - [hypersistence optimizer worth it](https://www.reddit.com/r/java/comments/ysiv8q/hypersistence_optimizer_worth_it/)
-- [[Panama] Dissecting Memory Sessions / Maurizio Cimadamore](https://www.reddit.com/r/java/comments/yshg4h/panama_dissecting_memory_sessions_maurizio/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
