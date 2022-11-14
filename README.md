@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [I bought a book about java...](https://www.reddit.com/r/java/comments/yv7spl/i_bought_a_book_about_java/)
 - [Jakarta EE 10 and MicroProfile 6 features debut in Open Liberty beta!](https://www.reddit.com/r/java/comments/yuvgvf/jakarta_ee_10_and_microprofile_6_features_debut/)
 - [Challenging Java Hobby Projects](https://www.reddit.com/r/java/comments/yuqc8z/challenging_java_hobby_projects/)
+- [Hashtag Jakarta EE #150](https://www.reddit.com/r/java/comments/yueedv/hashtag_jakarta_ee_150/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
