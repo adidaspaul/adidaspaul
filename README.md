@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Jakarta EE 10 and MicroProfile 6 features debut in Open Liberty beta!](https://www.reddit.com/r/java/comments/yuvgvf/jakarta_ee_10_and_microprofile_6_features_debut/)
 - [Challenging Java Hobby Projects](https://www.reddit.com/r/java/comments/yuqc8z/challenging_java_hobby_projects/)
 - [Hashtag Jakarta EE #150](https://www.reddit.com/r/java/comments/yueedv/hashtag_jakarta_ee_150/)
-- [Do you use the dependency inversion principle in your design? Do you define interfaces for all layers?](https://www.reddit.com/r/java/comments/yudp7b/do_you_use_the_dependency_inversion_principle_in/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
