@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Challenging Java Hobby Projects](https://www.reddit.com/r/java/comments/yuqc8z/challenging_java_hobby_projects/)
 - [Hashtag Jakarta EE #150](https://www.reddit.com/r/java/comments/yueedv/hashtag_jakarta_ee_150/)
 - [Do you use the dependency inversion principle in your design? Do you define interfaces for all layers?](https://www.reddit.com/r/java/comments/yudp7b/do_you_use_the_dependency_inversion_principle_in/)
-- [Piranha Cloud 22.11 released!](https://www.reddit.com/r/java/comments/yu9z7n/piranha_cloud_2211_released/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
