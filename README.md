@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Simple comparison of common logging libs initialization time](https://www.reddit.com/r/java/comments/yw3jr1/simple_comparison_of_common_logging_libs/)
 - [Call Graphs: The Bread and Butter of Program Analysis](https://www.reddit.com/r/java/comments/yvwix2/call_graphs_the_bread_and_butter_of_program/)
 - [[JDK-8288476] Support for primitive types in `instanceof` and type patterns](https://www.reddit.com/r/java/comments/yvr3w5/jdk8288476_support_for_primitive_types_in/)
-- [The Spring Data JPA findById Anti-Pattern](https://www.reddit.com/r/java/comments/yvoyov/the_spring_data_jpa_findbyid_antipattern/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
