@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [I&#39;m new, very new, please forgive my newness](https://www.reddit.com/r/java/comments/yvyt0y/im_new_very_new_please_forgive_my_newness/)
+- [Call Graphs: The Bread and Butter of Program Analysis](https://www.reddit.com/r/java/comments/yvwix2/call_graphs_the_bread_and_butter_of_program/)
 - [[JDK-8288476] Support for primitive types in `instanceof` and type patterns](https://www.reddit.com/r/java/comments/yvr3w5/jdk8288476_support_for_primitive_types_in/)
-- [The Spring Data JPA findById Anti-Pattern](https://www.reddit.com/r/java/comments/yvoyov/the_spring_data_jpa_findbyid_antipattern/)
-- [Jakarta EE 10 and MicroProfile 6 features debut in Open Liberty beta!](https://www.reddit.com/r/java/comments/yuvgvf/jakarta_ee_10_and_microprofile_6_features_debut/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
