@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [I need advice](https://www.reddit.com/r/java/comments/yvpjck/i_need_advice/)
 - [The Spring Data JPA findById Anti-Pattern](https://www.reddit.com/r/java/comments/yvoyov/the_spring_data_jpa_findbyid_antipattern/)
 - [Jakarta EE 10 and MicroProfile 6 features debut in Open Liberty beta!](https://www.reddit.com/r/java/comments/yuvgvf/jakarta_ee_10_and_microprofile_6_features_debut/)
-- [Challenging Java Hobby Projects](https://www.reddit.com/r/java/comments/yuqc8z/challenging_java_hobby_projects/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
