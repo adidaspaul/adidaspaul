@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Can you please suggest me a Apache Beam project idea ?](https://www.reddit.com/r/java/comments/ywo6je/can_you_please_suggest_me_a_apache_beam_project/)
 - [Testcontainers: Testing with real dependencies](https://www.reddit.com/r/java/comments/ywe76f/testcontainers_testing_with_real_dependencies/)
 - [Vector classes are getting closer to becoming Value Types](https://www.reddit.com/r/java/comments/yw8c9s/vector_classes_are_getting_closer_to_becoming/)
-- [Simple comparison of common logging libs initialization time](https://www.reddit.com/r/java/comments/yw3jr1/simple_comparison_of_common_logging_libs/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
