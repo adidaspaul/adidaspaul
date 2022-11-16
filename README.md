@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Spring Modulith Structures Spring Boot 3 Applications with Modules and Events](https://www.reddit.com/r/java/comments/ywpx41/spring_modulith_structures_spring_boot_3/)
 - [Can you please suggest me a Apache Beam project idea ?](https://www.reddit.com/r/java/comments/ywo6je/can_you_please_suggest_me_a_apache_beam_project/)
 - [Testcontainers: Testing with real dependencies](https://www.reddit.com/r/java/comments/ywe76f/testcontainers_testing_with_real_dependencies/)
-- [Vector classes are getting closer to becoming Value Types](https://www.reddit.com/r/java/comments/yw8c9s/vector_classes_are_getting_closer_to_becoming/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
