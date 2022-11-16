@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Spring Framework 6.0 goes GA](https://www.reddit.com/r/java/comments/ywrh0i/spring_framework_60_goes_ga/)
 - [Spring Modulith Structures Spring Boot 3 Applications with Modules and Events](https://www.reddit.com/r/java/comments/ywpx41/spring_modulith_structures_spring_boot_3/)
 - [Can you please suggest me a Apache Beam project idea ?](https://www.reddit.com/r/java/comments/ywo6je/can_you_please_suggest_me_a_apache_beam_project/)
-- [Testcontainers: Testing with real dependencies](https://www.reddit.com/r/java/comments/ywe76f/testcontainers_testing_with_real_dependencies/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
