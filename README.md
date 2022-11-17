@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Foojay.social: A Mastodon Service for the Java community](https://www.reddit.com/r/java/comments/yxv7jx/foojaysocial_a_mastodon_service_for_the_java/)
+- [Inside Java Newscast - Generational ZGC](https://www.reddit.com/r/java/comments/yxv0be/inside_java_newscast_generational_zgc/)
 - [Issues downloading Java](https://www.reddit.com/r/java/comments/yxp07t/issues_downloading_java/)
-- [Java community seeks happiness beyond Twitter. Want to join?](https://www.reddit.com/r/java/comments/yxme4d/java_community_seeks_happiness_beyond_twitter/)
-- [Spring Framework 6.0 goes GA](https://www.reddit.com/r/java/comments/ywrh0i/spring_framework_60_goes_ga/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
