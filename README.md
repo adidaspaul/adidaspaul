@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Java community seeks happiness beyond Twitter. Want to join?](https://www.reddit.com/r/java/comments/yxme4d/java_community_seeks_happiness_beyond_twitter/)
 - [Spring Framework 6.0 goes GA](https://www.reddit.com/r/java/comments/ywrh0i/spring_framework_60_goes_ga/)
 - [Spring Modulith Structures Spring Boot 3 Applications with Modules and Events](https://www.reddit.com/r/java/comments/ywpx41/spring_modulith_structures_spring_boot_3/)
-- [Testcontainers: Testing with real dependencies](https://www.reddit.com/r/java/comments/ywe76f/testcontainers_testing_with_real_dependencies/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
