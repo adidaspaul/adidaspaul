@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Is there any complete non-video learning resources for learning Spring/Spring Boot?](https://www.reddit.com/r/java/comments/yxpjgc/is_there_any_complete_nonvideo_learning_resources/)
 - [Issues downloading Java](https://www.reddit.com/r/java/comments/yxp07t/issues_downloading_java/)
 - [Java community seeks happiness beyond Twitter. Want to join?](https://www.reddit.com/r/java/comments/yxme4d/java_community_seeks_happiness_beyond_twitter/)
-- [Spring Framework 6.0 goes GA](https://www.reddit.com/r/java/comments/ywrh0i/spring_framework_60_goes_ga/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
