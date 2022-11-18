@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [JDK 20: java.nio.file.Path::getExtension](https://www.reddit.com/r/java/comments/yyl5gf/jdk_20_javaniofilepathgetextension/)
+- [Any suggestions for good open source Java codebases to study&lpar;With below criteria&rpar;?](https://www.reddit.com/r/java/comments/yyl59q/any_suggestions_for_good_open_source_java/)
 - [Foojay.social: A Mastodon Service for the Java community](https://www.reddit.com/r/java/comments/yxv7jx/foojaysocial_a_mastodon_service_for_the_java/)
-- [Inside Java Newscast - Generational ZGC](https://www.reddit.com/r/java/comments/yxv0be/inside_java_newscast_generational_zgc/)
-- [Spring Framework 6.0 goes GA](https://www.reddit.com/r/java/comments/ywrh0i/spring_framework_60_goes_ga/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
