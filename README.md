@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [jstachio v0.7.0 released. A typesafe Java Mustache templating engine.](https://www.reddit.com/r/java/comments/yyvz87/jstachio_v070_released_a_typesafe_java_mustache/)
 - [JDK 20: java.nio.file.Path::getExtension](https://www.reddit.com/r/java/comments/yyl5gf/jdk_20_javaniofilepathgetextension/)
 - [Any suggestions for good open source Java codebases to study&lpar;With below criteria&rpar;?](https://www.reddit.com/r/java/comments/yyl59q/any_suggestions_for_good_open_source_java/)
-- [Foojay.social: A Mastodon Service for the Java community](https://www.reddit.com/r/java/comments/yxv7jx/foojaysocial_a_mastodon_service_for_the_java/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
