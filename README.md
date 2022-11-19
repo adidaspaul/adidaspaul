@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Any examples of a well designed Java web backend?](https://www.reddit.com/r/java/comments/yzlxcp/any_examples_of_a_well_designed_java_web_backend/)
 - [7GUIs of Java/Object Oriented Design?](https://www.reddit.com/r/java/comments/yzhxya/7guis_of_javaobject_oriented_design/)
 - [jstachio v0.7.0 released. A typesafe Java Mustache templating engine.](https://www.reddit.com/r/java/comments/yyvz87/jstachio_v070_released_a_typesafe_java_mustache/)
-- [JDK 20: java.nio.file.Path::getExtension](https://www.reddit.com/r/java/comments/yyl5gf/jdk_20_javaniofilepathgetextension/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
