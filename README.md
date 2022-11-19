@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [How to create an API that starts from my desktop image software](https://www.reddit.com/r/java/comments/yz82v0/how_to_create_an_api_that_starts_from_my_desktop/)
 - [jstachio v0.7.0 released. A typesafe Java Mustache templating engine.](https://www.reddit.com/r/java/comments/yyvz87/jstachio_v070_released_a_typesafe_java_mustache/)
 - [JDK 20: java.nio.file.Path::getExtension](https://www.reddit.com/r/java/comments/yyl5gf/jdk_20_javaniofilepathgetextension/)
+- [Any suggestions for good open source Java codebases to study&lpar;With below criteria&rpar;?](https://www.reddit.com/r/java/comments/yyl59q/any_suggestions_for_good_open_source_java/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
