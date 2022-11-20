@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [jdk won&#39;t install on windows after deleting it](https://www.reddit.com/r/java/comments/z05ehe/jdk_wont_install_on_windows_after_deleting_it/)
 - [Omni Faces 4.0 Changes Minimal Dependency to Java 11, While Removing Deprecated Classes](https://www.reddit.com/r/java/comments/z01ref/omni_faces_40_changes_minimal_dependency_to_java/)
 - [Jersey 3.1.0 is finally released](https://www.reddit.com/r/java/comments/z01qqx/jersey_310_is_finally_released/)
-- [Map of open Java positions in Linkedin per country](https://www.reddit.com/r/java/comments/z01kbx/map_of_open_java_positions_in_linkedin_per_country/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
