@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Hackathon tips](https://www.reddit.com/r/java/comments/yzwfey/hackathon_tips/)
 - [Is Spring Professional Certification worth it?](https://www.reddit.com/r/java/comments/yzrnyd/is_spring_professional_certification_worth_it/)
 - [Any examples of a well designed Java web backend?](https://www.reddit.com/r/java/comments/yzlxcp/any_examples_of_a_well_designed_java_web_backend/)
-- [7GUIs of Java/Object Oriented Design?](https://www.reddit.com/r/java/comments/yzhxya/7guis_of_javaobject_oriented_design/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
