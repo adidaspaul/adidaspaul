@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Project Help for Java class!](https://www.reddit.com/r/java/comments/z0ni3g/project_help_for_java_class/)
 - [Async/Await in Java using JDK 19&#39;s Virtual Threads](https://www.reddit.com/r/java/comments/z0jp6c/asyncawait_in_java_using_jdk_19s_virtual_threads/)
 - [Omni Faces 4.0 Changes Minimal Dependency to Java 11, While Removing Deprecated Classes](https://www.reddit.com/r/java/comments/z01ref/omni_faces_40_changes_minimal_dependency_to_java/)
-- [Jersey 3.1.0 is finally released](https://www.reddit.com/r/java/comments/z01qqx/jersey_310_is_finally_released/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
