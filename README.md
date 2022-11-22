@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Spring 6 Migration Guide](https://www.reddit.com/r/java/comments/z1s58l/spring_6_migration_guide/)
+- [Spring Boot 3.x on Java 17 and support roadmap](https://www.reddit.com/r/java/comments/z1rnef/spring_boot_3x_on_java_17_and_support_roadmap/)
 - [Should you still be using Lombok?](https://www.reddit.com/r/java/comments/z1fgj7/should_you_still_be_using_lombok/)
-- [Foojay Podcast #7: Security in Java, what do we need to know and how to keep our applications secure?](https://www.reddit.com/r/java/comments/z11h2h/foojay_podcast_7_security_in_java_what_do_we_need/)
-- [Async/Await in Java using JDK 19&#39;s Virtual Threads](https://www.reddit.com/r/java/comments/z0jp6c/asyncawait_in_java_using_jdk_19s_virtual_threads/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
