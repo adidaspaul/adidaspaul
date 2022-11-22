@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Where to start in the industry?](https://www.reddit.com/r/java/comments/z26u5d/where_to_start_in_the_industry/)
 - [Retrofitting null-safety onto Java at Meta](https://www.reddit.com/r/java/comments/z215an/retrofitting_nullsafety_onto_java_at_meta/)
 - [The build process in my team in sorta messy.](https://www.reddit.com/r/java/comments/z20p71/the_build_process_in_my_team_in_sorta_messy/)
-- [GlassFish 7 release candidate is out!](https://www.reddit.com/r/java/comments/z1wown/glassfish_7_release_candidate_is_out/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
