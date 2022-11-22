@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [GlassFish 7 release candidate is out!](https://www.reddit.com/r/java/comments/z1wown/glassfish_7_release_candidate_is_out/)
 - [Observability with Spring Boot 3](https://www.reddit.com/r/java/comments/z1uhlf/observability_with_spring_boot_3/)
 - [CVE&#39;s for openjdk and scans by twistlock](https://www.reddit.com/r/java/comments/z1tq0u/cves_for_openjdk_and_scans_by_twistlock/)
-- [Spring Boot 3.x on Java 17 and support roadmap](https://www.reddit.com/r/java/comments/z1rnef/spring_boot_3x_on_java_17_and_support_roadmap/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
