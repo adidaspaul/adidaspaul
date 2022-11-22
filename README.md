@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Observability with Spring Boot 3](https://www.reddit.com/r/java/comments/z1uhlf/observability_with_spring_boot_3/)
+- [CVE&#39;s for openjdk and scans by twistlock](https://www.reddit.com/r/java/comments/z1tq0u/cves_for_openjdk_and_scans_by_twistlock/)
 - [Spring 6 Migration Guide](https://www.reddit.com/r/java/comments/z1s58l/spring_6_migration_guide/)
-- [Spring Boot 3.x on Java 17 and support roadmap](https://www.reddit.com/r/java/comments/z1rnef/spring_boot_3x_on_java_17_and_support_roadmap/)
-- [Should you still be using Lombok?](https://www.reddit.com/r/java/comments/z1fgj7/should_you_still_be_using_lombok/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
