@@ -64,7 +64,7 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Spring MVC help.](https://www.reddit.com/r/java/comments/z2ingv/spring_mvc_help/)
+- [Heroku is scrapping free tiers on Nov 28 – how does it affect developers while deploying their apps](https://www.reddit.com/r/java/comments/z2l4r3/heroku_is_scrapping_free_tiers_on_nov_28_how_does/)
 - [How to get the most out of the upgrade to Spring 6](https://www.reddit.com/r/java/comments/z2hwva/how_to_get_the_most_out_of_the_upgrade_to_spring_6/)
 - [Where to start in the industry?](https://www.reddit.com/r/java/comments/z26u5d/where_to_start_in_the_industry/)
 <!-- BLOG-POST-LIST:END -->
