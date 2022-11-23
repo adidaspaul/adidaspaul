@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [What is new in Java 20?](https://www.reddit.com/r/java/comments/z2ukze/what_is_new_in_java_20/)
 - [Whats a good tool for applying code changes to many repos](https://www.reddit.com/r/java/comments/z2m0f0/whats_a_good_tool_for_applying_code_changes_to/)
 - [How to get the most out of the upgrade to Spring 6](https://www.reddit.com/r/java/comments/z2hwva/how_to_get_the_most_out_of_the_upgrade_to_spring_6/)
-- [Where to start in the industry?](https://www.reddit.com/r/java/comments/z26u5d/where_to_start_in_the_industry/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
