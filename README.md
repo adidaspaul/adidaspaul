@@ -65,8 +65,8 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [JEP Draft for value objects: questions](https://www.reddit.com/r/java/comments/z32i88/jep_draft_for_value_objects_questions/)
-- [Open source Java projects for a mid developer](https://www.reddit.com/r/java/comments/z2ztr7/open_source_java_projects_for_a_mid_developer/)
 - [What is new in Java 20?](https://www.reddit.com/r/java/comments/z2ukze/what_is_new_in_java_20/)
+- [Whats a good tool for applying code changes to many repos](https://www.reddit.com/r/java/comments/z2m0f0/whats_a_good_tool_for_applying_code_changes_to/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
