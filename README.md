@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [We built an open-source lightweight alternative to Pingdom and Checkly Automation](https://www.reddit.com/r/java/comments/z3dyfq/we_built_an_opensource_lightweight_alternative_to/)
 - [JEP Draft for value objects: questions](https://www.reddit.com/r/java/comments/z32i88/jep_draft_for_value_objects_questions/)
 - [What is new in Java 20?](https://www.reddit.com/r/java/comments/z2ukze/what_is_new_in_java_20/)
-- [Whats a good tool for applying code changes to many repos](https://www.reddit.com/r/java/comments/z2m0f0/whats_a_good_tool_for_applying_code_changes_to/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
