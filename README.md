@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The New Age for Spring - Spring Framework 6.0, Spring Boot 3.0 and lack of support for pre-JDK 17](https://www.reddit.com/r/java/comments/z3kgxo/the_new_age_for_spring_spring_framework_60_spring/)
 - [We built an open-source lightweight alternative to Pingdom and Checkly Automation](https://www.reddit.com/r/java/comments/z3dyfq/we_built_an_opensource_lightweight_alternative_to/)
 - [JEP Draft for value objects: questions](https://www.reddit.com/r/java/comments/z32i88/jep_draft_for_value_objects_questions/)
-- [What is new in Java 20?](https://www.reddit.com/r/java/comments/z2ukze/what_is_new_in_java_20/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
