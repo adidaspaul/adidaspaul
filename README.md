@@ -66,7 +66,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [Spring Boot 3.0 is GA!](https://www.reddit.com/r/java/comments/z3rkmm/spring_boot_30_is_ga/)
 - [Is completing hyperskill java backend developer track enough to get a job as junior?](https://www.reddit.com/r/java/comments/z3qzht/is_completing_hyperskill_java_backend_developer/)
-- [Mixed Content Error](https://www.reddit.com/r/java/comments/z3p37k/mixed_content_error/)
+- [The New Age for Spring - Spring Framework 6.0, Spring Boot 3.0 and lack of support for pre-JDK 17](https://www.reddit.com/r/java/comments/z3kgxo/the_new_age_for_spring_spring_framework_60_spring/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
