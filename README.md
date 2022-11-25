@@ -65,8 +65,8 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Spring Batch 5.0 Goes GA!](https://www.reddit.com/r/java/comments/z3vmb2/spring_batch_50_goes_ga/)
-- [JDK version management on macos / M1](https://www.reddit.com/r/java/comments/z3ur1z/jdk_version_management_on_macos_m1/)
 - [Spring Boot 3.0 is GA!](https://www.reddit.com/r/java/comments/z3rkmm/spring_boot_30_is_ga/)
+- [Is completing hyperskill java backend developer track enough to get a job as junior?](https://www.reddit.com/r/java/comments/z3qzht/is_completing_hyperskill_java_backend_developer/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
