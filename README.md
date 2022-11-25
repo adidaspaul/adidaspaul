@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [[HIRING] ISO &lpar;In search of&rpar; talented Java scripters that can create video game bots.](https://www.reddit.com/r/java/comments/z4614u/hiring_iso_in_search_of_talented_java_scripters/)
 - [Spring Batch 5.0 Goes GA!](https://www.reddit.com/r/java/comments/z3vmb2/spring_batch_50_goes_ga/)
 - [JDK version management on macos / M1](https://www.reddit.com/r/java/comments/z3ur1z/jdk_version_management_on_macos_m1/)
+- [Spring Boot 3.0 is GA!](https://www.reddit.com/r/java/comments/z3rkmm/spring_boot_30_is_ga/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
