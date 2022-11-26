@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Which to use for spring boot projects Gradle or Maven ?](https://www.reddit.com/r/java/comments/z5f5sh/which_to_use_for_spring_boot_projects_gradle_or/)
 - [Java news](https://www.reddit.com/r/java/comments/z4erco/java_news/)
 - [Spring Batch 5.0 Goes GA!](https://www.reddit.com/r/java/comments/z3vmb2/spring_batch_50_goes_ga/)
+- [Spring Boot 3.0 is GA!](https://www.reddit.com/r/java/comments/z3rkmm/spring_boot_30_is_ga/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
