@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [WAR deployment](https://www.reddit.com/r/java/comments/z4vonl/war_deployment/)
 - [Java news](https://www.reddit.com/r/java/comments/z4erco/java_news/)
 - [Spring Batch 5.0 Goes GA!](https://www.reddit.com/r/java/comments/z3vmb2/spring_batch_50_goes_ga/)
+- [Spring Boot 3.0 is GA!](https://www.reddit.com/r/java/comments/z3rkmm/spring_boot_30_is_ga/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
