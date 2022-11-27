@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Dominion VS Artemis, the missing benchmarks &lpar;link in the comments&rpar;](https://www.reddit.com/r/java/comments/z5yj0i/dominion_vs_artemis_the_missing_benchmarks_link/)
 - [Java news](https://www.reddit.com/r/java/comments/z4erco/java_news/)
 - [Spring Batch 5.0 Goes GA!](https://www.reddit.com/r/java/comments/z3vmb2/spring_batch_50_goes_ga/)
-- [Spring Boot 3.0 is GA!](https://www.reddit.com/r/java/comments/z3rkmm/spring_boot_30_is_ga/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
