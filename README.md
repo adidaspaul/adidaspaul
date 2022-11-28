@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Running Doom on top of GraalVM](https://www.reddit.com/r/java/comments/z6vasb/running_doom_on_top_of_graalvm/)
 - [JVM Options Explorer](https://www.reddit.com/r/java/comments/z6qy27/jvm_options_explorer/)
 - [Dominion VS Artemis, the missing benchmarks &lpar;link in the comments&rpar;](https://www.reddit.com/r/java/comments/z5yj0i/dominion_vs_artemis_the_missing_benchmarks_link/)
-- [Java news](https://www.reddit.com/r/java/comments/z4erco/java_news/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
