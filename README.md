@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Lazy loading entities not working when same method is annotated with @Cashable](https://www.reddit.com/r/java/comments/z86a8t/lazy_loading_entities_not_working_when_same/)
 - [JEP 429: Scoped Values Proposed To Target Java 20](https://www.reddit.com/r/java/comments/z84k7d/jep_429_scoped_values_proposed_to_target_java_20/)
-- [What tools would be useful to you as developers?](https://www.reddit.com/r/java/comments/z7zq2o/what_tools_would_be_useful_to_you_as_developers/)
+- [We released a new version of ShapeShift &lpar;0.7.0&rpar; - A lightweight, modular, performant and extensible library for Object Mapping](https://www.reddit.com/r/java/comments/z7v738/we_released_a_new_version_of_shapeshift_070_a/)
+- [DoytoQuery - The best and the last ORM framework in Java](https://www.reddit.com/r/java/comments/z7v2k2/doytoquery_the_best_and_the_last_orm_framework_in/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
