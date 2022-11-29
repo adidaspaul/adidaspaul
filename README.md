@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Swing based Universal Database Client](https://www.reddit.com/r/java/comments/z7skg6/swing_based_universal_database_client/)
 - [A poem about Java written by text-davinci-003 &lpar;GPT-3&rpar;](https://www.reddit.com/r/java/comments/z7q4ha/a_poem_about_java_written_by_textdavinci003_gpt3/)
 - [Amazon Announces AWS Lambda SnapStart With Java Support](https://www.reddit.com/r/java/comments/z7m6y6/amazon_announces_aws_lambda_snapstart_with_java/)
-- [Dycon: `ldc` intrinsics for lazy dynamic constants](https://www.reddit.com/r/java/comments/z77xeo/dycon_ldc_intrinsics_for_lazy_dynamic_constants/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
