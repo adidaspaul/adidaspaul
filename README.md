@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [CodePen and what others sites like it? Also, need extra help with a few things on my site.](https://www.reddit.com/r/java/comments/z7ceiu/codepen_and_what_others_sites_like_it_also_need/)
 - [Dycon: `ldc` intrinsics for lazy dynamic constants](https://www.reddit.com/r/java/comments/z77xeo/dycon_ldc_intrinsics_for_lazy_dynamic_constants/)
 - [Running Doom on top of GraalVM](https://www.reddit.com/r/java/comments/z6vasb/running_doom_on_top_of_graalvm/)
-- [JVM Options Explorer](https://www.reddit.com/r/java/comments/z6qy27/jvm_options_explorer/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
