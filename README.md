@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [We released a new version of ShapeShift &lpar;0.7.0&rpar; - A lightweight, modular, performant and extensible library for Object Mapping](https://www.reddit.com/r/java/comments/z7v738/we_released_a_new_version_of_shapeshift_070_a/)
+- [DoytoQuery - The best and the last ORM framework in Java](https://www.reddit.com/r/java/comments/z7v2k2/doytoquery_the_best_and_the_last_orm_framework_in/)
 - [Swing based Universal Database Client](https://www.reddit.com/r/java/comments/z7skg6/swing_based_universal_database_client/)
-- [A poem about Java written by text-davinci-003 &lpar;GPT-3&rpar;](https://www.reddit.com/r/java/comments/z7q4ha/a_poem_about_java_written_by_textdavinci003_gpt3/)
-- [Amazon Announces AWS Lambda SnapStart With Java Support](https://www.reddit.com/r/java/comments/z7m6y6/amazon_announces_aws_lambda_snapstart_with_java/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
