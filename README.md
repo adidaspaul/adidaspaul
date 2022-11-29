@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Amazon Announces AWS Lambda SnapStart With Java Support](https://www.reddit.com/r/java/comments/z7m6y6/amazon_announces_aws_lambda_snapstart_with_java/)
 - [Dycon: `ldc` intrinsics for lazy dynamic constants](https://www.reddit.com/r/java/comments/z77xeo/dycon_ldc_intrinsics_for_lazy_dynamic_constants/)
 - [Running Doom on top of GraalVM](https://www.reddit.com/r/java/comments/z6vasb/running_doom_on_top_of_graalvm/)
-- [JVM Options Explorer](https://www.reddit.com/r/java/comments/z6qy27/jvm_options_explorer/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
