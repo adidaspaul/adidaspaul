@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Why Swing has not been removed from OpenJDK releases like JavaFX?](https://www.reddit.com/r/java/comments/z8wdrn/why_swing_has_not_been_removed_from_openjdk/)
 - [Java FIPS 140-2 migration](https://www.reddit.com/r/java/comments/z8t4h7/java_fips_1402_migration/)
 - [JEP 429: Scoped Values Proposed To Target Java 20](https://www.reddit.com/r/java/comments/z84k7d/jep_429_scoped_values_proposed_to_target_java_20/)
-- [We released a new version of ShapeShift &lpar;0.7.0&rpar; - A lightweight, modular, performant and extensible library for Object Mapping](https://www.reddit.com/r/java/comments/z7v738/we_released_a_new_version_of_shapeshift_070_a/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
