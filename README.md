@@ -64,7 +64,7 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Job Opportunity - Java + BPM/Camunda expertise](https://www.reddit.com/r/java/comments/z907jk/job_opportunity_java_bpmcamunda_expertise/)
+- [Resources for JVM tinkering &lpar;focused on containers&rpar;](https://www.reddit.com/r/java/comments/z93bbj/resources_for_jvm_tinkering_focused_on_containers/)
 - [IntelliJ IDEA 2022.3 Is Out!](https://www.reddit.com/r/java/comments/z8yxyx/intellij_idea_20223_is_out/)
 - [Why Swing has not been removed from OpenJDK releases like JavaFX?](https://www.reddit.com/r/java/comments/z8wdrn/why_swing_has_not_been_removed_from_openjdk/)
 <!-- BLOG-POST-LIST:END -->
