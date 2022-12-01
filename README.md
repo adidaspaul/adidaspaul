@@ -64,7 +64,7 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Please help!! I tried to download BlueJ on my macbook pro and this happened to me, what should I do ?](https://www.reddit.com/r/java/comments/z9ku28/please_help_i_tried_to_download_bluej_on_my/)
+- [The road to AWS Lambda SnapStart: The guide through the years of JVM &quot;cold start&quot; tinkering](https://www.reddit.com/r/java/comments/z9msbs/the_road_to_aws_lambda_snapstart_the_guide/)
 - [Can you give me some examples of cases where the OpenJDK JVM startup and/or warmup is considered too slow? I’m just trying to understand in what kind of situation this usually happens.](https://www.reddit.com/r/java/comments/z9ig4b/can_you_give_me_some_examples_of_cases_where_the/)
 - [Vinyl: Relational Streams for Java](https://www.reddit.com/r/java/comments/z99un5/vinyl_relational_streams_for_java/)
 <!-- BLOG-POST-LIST:END -->
