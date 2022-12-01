@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Can you give me some examples of cases where the OpenJDK JVM startup and/or warmup is considered too slow? I’m just trying to understand in what kind of situation this usually happens.](https://www.reddit.com/r/java/comments/z9ig4b/can_you_give_me_some_examples_of_cases_where_the/)
 - [Vinyl: Relational Streams for Java](https://www.reddit.com/r/java/comments/z99un5/vinyl_relational_streams_for_java/)
 - [Why upgrade from Java 1.8?](https://www.reddit.com/r/java/comments/z965mk/why_upgrade_from_java_18/)
-- [Resources for JVM tinkering &lpar;focused on containers&rpar;](https://www.reddit.com/r/java/comments/z93bbj/resources_for_jvm_tinkering_focused_on_containers/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
