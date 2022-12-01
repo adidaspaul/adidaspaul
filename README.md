@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Integrating OpenTelemetry with java 17 soring boot 3](https://www.reddit.com/r/java/comments/z9p9yp/integrating_opentelemetry_with_java_17_soring/)
 - [The road to AWS Lambda SnapStart: The guide through the years of JVM &quot;cold start&quot; tinkering](https://www.reddit.com/r/java/comments/z9msbs/the_road_to_aws_lambda_snapstart_the_guide/)
 - [Can you give me some examples of cases where the OpenJDK JVM startup and/or warmup is considered too slow? I’m just trying to understand in what kind of situation this usually happens.](https://www.reddit.com/r/java/comments/z9ig4b/can_you_give_me_some_examples_of_cases_where_the/)
-- [Vinyl: Relational Streams for Java](https://www.reddit.com/r/java/comments/z99un5/vinyl_relational_streams_for_java/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
