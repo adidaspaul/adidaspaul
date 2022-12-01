@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Struggling with java exercises](https://www.reddit.com/r/java/comments/z9amdk/struggling_with_java_exercises/)
+- [Vinyl: Relational Streams for Java](https://www.reddit.com/r/java/comments/z99un5/vinyl_relational_streams_for_java/)
 - [Why upgrade from Java 1.8?](https://www.reddit.com/r/java/comments/z965mk/why_upgrade_from_java_18/)
-- [Resources for JVM tinkering &lpar;focused on containers&rpar;](https://www.reddit.com/r/java/comments/z93bbj/resources_for_jvm_tinkering_focused_on_containers/)
-- [IntelliJ IDEA 2022.3 Is Out!](https://www.reddit.com/r/java/comments/z8yxyx/intellij_idea_20223_is_out/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
