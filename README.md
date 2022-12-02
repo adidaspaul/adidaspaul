@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Is Quartz abandoned?](https://www.reddit.com/r/java/comments/zariyv/is_quartz_abandoned/)
+- [OmniFish on Providing Support for Jakarta EE 10 and GlassFish 7](https://www.reddit.com/r/java/comments/zarius/omnifish_on_providing_support_for_jakarta_ee_10/)
 - [Java patterns or tools for processing data?](https://www.reddit.com/r/java/comments/zah98b/java_patterns_or_tools_for_processing_data/)
-- [Need creative oop project ideas](https://www.reddit.com/r/java/comments/zah2tw/need_creative_oop_project_ideas/)
-- [Is &#39;Actions on Save&#39; broken for anyone else in IDEA 2022.3?](https://www.reddit.com/r/java/comments/zafegj/is_actions_on_save_broken_for_anyone_else_in_idea/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
