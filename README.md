@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Java records make Google&#39;s AutoValue mostly obsolete](https://www.reddit.com/r/java/comments/zatsd2/java_records_make_googles_autovalue_mostly/)
 - [Is Quartz abandoned?](https://www.reddit.com/r/java/comments/zariyv/is_quartz_abandoned/)
 - [OmniFish on Providing Support for Jakarta EE 10 and GlassFish 7](https://www.reddit.com/r/java/comments/zarius/omnifish_on_providing_support_for_jakarta_ee_10/)
-- [Java patterns or tools for processing data?](https://www.reddit.com/r/java/comments/zah98b/java_patterns_or_tools_for_processing_data/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
