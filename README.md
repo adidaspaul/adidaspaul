@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Java patterns or tools for processing data?](https://www.reddit.com/r/java/comments/zah98b/java_patterns_or_tools_for_processing_data/)
+- [Need creative oop project ideas](https://www.reddit.com/r/java/comments/zah2tw/need_creative_oop_project_ideas/)
 - [Is &#39;Actions on Save&#39; broken for anyone else in IDEA 2022.3?](https://www.reddit.com/r/java/comments/zafegj/is_actions_on_save_broken_for_anyone_else_in_idea/)
-- [The road to AWS Lambda SnapStart: The guide through the years of JVM &quot;cold start&quot; tinkering](https://www.reddit.com/r/java/comments/z9msbs/the_road_to_aws_lambda_snapstart_the_guide/)
-- [Can you give me some examples of cases where the OpenJDK JVM startup and/or warmup is considered too slow? I’m just trying to understand in what kind of situation this usually happens.](https://www.reddit.com/r/java/comments/z9ig4b/can_you_give_me_some_examples_of_cases_where_the/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
