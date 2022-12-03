@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Naming pattern for technical services vs business services](https://www.reddit.com/r/java/comments/zbgkx5/naming_pattern_for_technical_services_vs_business/)
 - [JDK 19, Virtual Thread-specific bugs &lpar;2nd edition&rpar;](https://www.reddit.com/r/java/comments/zbcejy/jdk_19_virtual_threadspecific_bugs_2nd_edition/)
 - [Java records make Google&#39;s AutoValue mostly obsolete](https://www.reddit.com/r/java/comments/zatsd2/java_records_make_googles_autovalue_mostly/)
-- [Is Quartz abandoned?](https://www.reddit.com/r/java/comments/zariyv/is_quartz_abandoned/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
