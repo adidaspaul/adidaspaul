@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [JDK 19, Virtual Thread-specific bugs &lpar;2nd edition&rpar;](https://www.reddit.com/r/java/comments/zbcejy/jdk_19_virtual_threadspecific_bugs_2nd_edition/)
 - [Java records make Google&#39;s AutoValue mostly obsolete](https://www.reddit.com/r/java/comments/zatsd2/java_records_make_googles_autovalue_mostly/)
 - [Is Quartz abandoned?](https://www.reddit.com/r/java/comments/zariyv/is_quartz_abandoned/)
-- [OmniFish on Providing Support for Jakarta EE 10 and GlassFish 7](https://www.reddit.com/r/java/comments/zarius/omnifish_on_providing_support_for_jakarta_ee_10/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
