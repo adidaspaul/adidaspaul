@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Options for targeting ios with Java](https://www.reddit.com/r/java/comments/zc3w07/options_for_targeting_ios_with_java/)
 - [I have 47 days to complete 15 Java assignments with no knowledge of Java](https://www.reddit.com/r/java/comments/zc2je9/i_have_47_days_to_complete_15_java_assignments/)
 - [Naming pattern for technical services vs business services](https://www.reddit.com/r/java/comments/zbgkx5/naming_pattern_for_technical_services_vs_business/)
-- [JDK 19, Virtual Thread-specific bugs &lpar;2nd edition&rpar;](https://www.reddit.com/r/java/comments/zbcejy/jdk_19_virtual_threadspecific_bugs_2nd_edition/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
