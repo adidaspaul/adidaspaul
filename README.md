@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Any library to find value of variable in single variable equations](https://www.reddit.com/r/java/comments/zd1ytq/any_library_to_find_value_of_variable_in_single/)
 - [How to break your HashMap in less than a minute](https://www.reddit.com/r/java/comments/zd0nob/how_to_break_your_hashmap_in_less_than_a_minute/)
 - [Kradle: Gradle plugin to setup Analysis &lpar;PMD, ErrorProne, SpotBugs&rpar;, Lint &lpar;Checkstyle&rpar;, Testing &lpar;TestContainer, ArchUnit, JaCoCo&rpar;, Bench &lpar;JMH&rpar;, Docker, Dep. Vuln. Scanning, Hot-Reloading](https://www.reddit.com/r/java/comments/zcc6af/kradle_gradle_plugin_to_setup_analysis_pmd/)
-- [Options for targeting ios with Java](https://www.reddit.com/r/java/comments/zc3w07/options_for_targeting_ios_with_java/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
