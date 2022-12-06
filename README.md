@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [what coding language to learn for apps](https://www.reddit.com/r/java/comments/zduynt/what_coding_language_to_learn_for_apps/)
 - [java 19 in latest eclipse IDE](https://www.reddit.com/r/java/comments/zdjpou/java_19_in_latest_eclipse_ide/)
 - [Java 20 - Sneak Peek on the Foreign Function &amp; Memory API &lpar;2nd preview&rpar;](https://www.reddit.com/r/java/comments/zdgu0o/java_20_sneak_peek_on_the_foreign_function_memory/)
+- [Kradle: Gradle plugin to setup Analysis &lpar;PMD, ErrorProne, SpotBugs&rpar;, Lint &lpar;Checkstyle&rpar;, Testing &lpar;TestContainer, ArchUnit, JaCoCo&rpar;, Bench &lpar;JMH&rpar;, Docker, Dep. Vuln. Scanning, Hot-Reloading](https://www.reddit.com/r/java/comments/zcc6af/kradle_gradle_plugin_to_setup_analysis_pmd/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
