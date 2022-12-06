@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Tools, techniques or recommendations for un-attended performance monitoring?](https://www.reddit.com/r/java/comments/zelf70/tools_techniques_or_recommendations_for/)
 - [Jakarta REST 3.1 via examples](https://www.reddit.com/r/java/comments/ze7u30/jakarta_rest_31_via_examples/)
 - [Java Value Objects in Action with Valhalla - JEP Café #15](https://www.reddit.com/r/java/comments/ze6z68/java_value_objects_in_action_with_valhalla_jep/)
-- [Mapper for DynamoDB in Java using Jackson for the object serialization](https://www.reddit.com/r/java/comments/zdyjsn/mapper_for_dynamodb_in_java_using_jackson_for_the/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
