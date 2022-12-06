@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Heroku is scrapping free plans – how does it affect you - guide](https://www.reddit.com/r/java/comments/zdzi0u/heroku_is_scrapping_free_plans_how_does_it_affect/)
 - [Mapper for DynamoDB in Java using Jackson for the object serialization](https://www.reddit.com/r/java/comments/zdyjsn/mapper_for_dynamodb_in_java_using_jackson_for_the/)
 - [java 19 in latest eclipse IDE](https://www.reddit.com/r/java/comments/zdjpou/java_19_in_latest_eclipse_ide/)
-- [Java 20 - Sneak Peek on the Foreign Function &amp; Memory API &lpar;2nd preview&rpar;](https://www.reddit.com/r/java/comments/zdgu0o/java_20_sneak_peek_on_the_foreign_function_memory/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
