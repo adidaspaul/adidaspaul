@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Improved Hibernate ORM Firebird dialect support](https://www.reddit.com/r/java/comments/zfuedi/improved_hibernate_orm_firebird_dialect_support/)
 - [Spring Boot 3.0 Indubitably Rocks With Java 19 Support](https://www.reddit.com/r/java/comments/zfh5pe/spring_boot_30_indubitably_rocks_with_java_19/)
 - [Tools, techniques or recommendations for un-attended performance monitoring?](https://www.reddit.com/r/java/comments/zelf70/tools_techniques_or_recommendations_for/)
-- [Jakarta REST 3.1 via examples](https://www.reddit.com/r/java/comments/ze7u30/jakarta_rest_31_via_examples/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
