@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The pitfalls of CDI 4.0 Lite](https://www.reddit.com/r/java/comments/zfvrjn/the_pitfalls_of_cdi_40_lite/)
 - [Improved Hibernate ORM Firebird dialect support](https://www.reddit.com/r/java/comments/zfuedi/improved_hibernate_orm_firebird_dialect_support/)
 - [Spring Boot 3.0 Indubitably Rocks With Java 19 Support](https://www.reddit.com/r/java/comments/zfh5pe/spring_boot_30_indubitably_rocks_with_java_19/)
-- [Tools, techniques or recommendations for un-attended performance monitoring?](https://www.reddit.com/r/java/comments/zelf70/tools_techniques_or_recommendations_for/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
