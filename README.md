@@ -64,7 +64,7 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Eclipse](https://www.reddit.com/r/java/comments/zga7m9/eclipse/)
+- [C++ beats Java in the Tiobe Index | The future of Java](https://www.reddit.com/r/java/comments/zga0ad/c_beats_java_in_the_tiobe_index_the_future_of_java/)
 - [Feature Freeze for JDK 20 - what will the new edition bring?](https://www.reddit.com/r/java/comments/zg6gbi/feature_freeze_for_jdk_20_what_will_the_new/)
 - [Building and Deploying Java Client Desktop Applications with JDK 17 and Beyond](https://www.reddit.com/r/java/comments/zfwmai/building_and_deploying_java_client_desktop/)
 <!-- BLOG-POST-LIST:END -->
