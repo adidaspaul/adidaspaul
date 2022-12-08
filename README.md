@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Feature Freeze for JDK 20 - what will the new edition bring?](https://www.reddit.com/r/java/comments/zg6gbi/feature_freeze_for_jdk_20_what_will_the_new/)
 - [Building and Deploying Java Client Desktop Applications with JDK 17 and Beyond](https://www.reddit.com/r/java/comments/zfwmai/building_and_deploying_java_client_desktop/)
 - [The pitfalls of CDI 4.0 Lite](https://www.reddit.com/r/java/comments/zfvrjn/the_pitfalls_of_cdi_40_lite/)
-- [Improved Hibernate ORM Firebird dialect support](https://www.reddit.com/r/java/comments/zfuedi/improved_hibernate_orm_firebird_dialect_support/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
