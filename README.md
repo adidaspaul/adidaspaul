@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Slow smb file read when using jcif.](https://www.reddit.com/r/java/comments/zfrgp3/slow_smb_file_read_when_using_jcif/)
-- [&lpar;Ignore the writings&rpar; can someone please help me out with this? How did they get 20?](https://www.reddit.com/r/java/comments/zfrck7/ignore_the_writings_can_someone_please_help_me/)
 - [Spring Boot 3.0 Indubitably Rocks With Java 19 Support](https://www.reddit.com/r/java/comments/zfh5pe/spring_boot_30_indubitably_rocks_with_java_19/)
+- [Tools, techniques or recommendations for un-attended performance monitoring?](https://www.reddit.com/r/java/comments/zelf70/tools_techniques_or_recommendations_for/)
+- [Jakarta REST 3.1 via examples](https://www.reddit.com/r/java/comments/ze7u30/jakarta_rest_31_via_examples/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
