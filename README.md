@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [must known frameworks/libs/tech, every senior java developer must know&lpar;?&rpar;](https://www.reddit.com/r/java/comments/zh6k63/must_known_frameworkslibstech_every_senior_java/)
 - [REST API Data Coverage With Java Testing Framework WebTau](https://www.reddit.com/r/java/comments/zh1x68/rest_api_data_coverage_with_java_testing/)
 - [Auto-vectorization: How to get beaten by compiler optimization — Java JIT!](https://www.reddit.com/r/java/comments/zgz501/autovectorization_how_to_get_beaten_by_compiler/)
-- [Evergreen Java 11 up with jlink on traditional servers.](https://www.reddit.com/r/java/comments/zgw0oo/evergreen_java_11_up_with_jlink_on_traditional/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
