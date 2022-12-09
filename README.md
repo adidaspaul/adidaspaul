@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Auto-vectorization: How to get beaten by compiler optimization — Java JIT!](https://www.reddit.com/r/java/comments/zgz501/autovectorization_how_to_get_beaten_by_compiler/)
 - [Evergreen Java 11 up with jlink on traditional servers.](https://www.reddit.com/r/java/comments/zgw0oo/evergreen_java_11_up_with_jlink_on_traditional/)
 - [Modern Java Microservices in the Cloud • Andrzej Grzesik • Devoxx Poland 2022](https://www.reddit.com/r/java/comments/zgtzm0/modern_java_microservices_in_the_cloud_andrzej/)
-- [A Makefile to compile a Maven/Gradle-style project layout using a custom JDK &lpar;for use w/ IE, Valhalla&rpar; -- Built because neither IntelliJ nor Maven can build/run Valhalla projects right now](https://www.reddit.com/r/java/comments/zgc50m/a_makefile_to_compile_a_mavengradlestyle_project/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
