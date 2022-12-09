@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Modern Java Microservices in the Cloud • Andrzej Grzesik • Devoxx Poland 2022](https://www.reddit.com/r/java/comments/zgtzm0/modern_java_microservices_in_the_cloud_andrzej/)
 - [A Makefile to compile a Maven/Gradle-style project layout using a custom JDK &lpar;for use w/ IE, Valhalla&rpar; -- Built because neither IntelliJ nor Maven can build/run Valhalla projects right now](https://www.reddit.com/r/java/comments/zgc50m/a_makefile_to_compile_a_mavengradlestyle_project/)
 - [C++ beats Java in the Tiobe Index | The future of Java](https://www.reddit.com/r/java/comments/zga0ad/c_beats_java_in_the_tiobe_index_the_future_of_java/)
-- [Feature Freeze for JDK 20 - what will the new edition bring?](https://www.reddit.com/r/java/comments/zg6gbi/feature_freeze_for_jdk_20_what_will_the_new/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
