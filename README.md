@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [What java related to cyber security project could I make that is not too hard? &lpar;School Project&rpar;](https://www.reddit.com/r/java/comments/zh8efv/what_java_related_to_cyber_security_project_could/)
 - [must known frameworks/libs/tech, every senior java developer must know&lpar;?&rpar;](https://www.reddit.com/r/java/comments/zh6k63/must_known_frameworkslibstech_every_senior_java/)
 - [How do you optimize slow Hibernate queries?](https://www.reddit.com/r/java/comments/zh516r/how_do_you_optimize_slow_hibernate_queries/)
+- [REST API Data Coverage With Java Testing Framework WebTau](https://www.reddit.com/r/java/comments/zh1x68/rest_api_data_coverage_with_java_testing/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
