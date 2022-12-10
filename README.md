@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Java Usage Keeps Climbing, According to New Survey](https://www.reddit.com/r/java/comments/zhm7s9/java_usage_keeps_climbing_according_to_new_survey/)
 - [Welk Lidwoord? - A buddy to help you to improve your Dutch grammar](https://www.reddit.com/r/java/comments/zhchb5/welk_lidwoord_a_buddy_to_help_you_to_improve_your/)
 - [must known frameworks/libs/tech, every senior java developer must know&lpar;?&rpar;](https://www.reddit.com/r/java/comments/zh6k63/must_known_frameworkslibstech_every_senior_java/)
-- [How do you optimize slow Hibernate queries?](https://www.reddit.com/r/java/comments/zh516r/how_do_you_optimize_slow_hibernate_queries/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
