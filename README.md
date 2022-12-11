@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Options for turning Java into .exe or: abusing GraalVM to generate a launcher .exe](https://www.reddit.com/r/java/comments/zil7nv/options_for_turning_java_into_exe_or_abusing/)
 - [Are protected fields really bad practice?](https://www.reddit.com/r/java/comments/zhq3cf/are_protected_fields_really_bad_practice/)
 - [Java Usage Keeps Climbing, According to New Survey](https://www.reddit.com/r/java/comments/zhm7s9/java_usage_keeps_climbing_according_to_new_survey/)
-- [Welk Lidwoord? - A buddy to help you to improve your Dutch grammar](https://www.reddit.com/r/java/comments/zhchb5/welk_lidwoord_a_buddy_to_help_you_to_improve_your/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
