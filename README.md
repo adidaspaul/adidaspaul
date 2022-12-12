@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to include a central repo maven project&#39;s jar in my eclipse project](https://www.reddit.com/r/java/comments/zjkfk8/how_to_include_a_central_repo_maven_projects_jar/)
 - [Migration / upgrade approach of legacy application](https://www.reddit.com/r/java/comments/ziuj5v/migration_upgrade_approach_of_legacy_application/)
 - [Options for turning Java into .exe or: abusing GraalVM to generate a launcher .exe](https://www.reddit.com/r/java/comments/zil7nv/options_for_turning_java_into_exe_or_abusing/)
-- [Are protected fields really bad practice?](https://www.reddit.com/r/java/comments/zhq3cf/are_protected_fields_really_bad_practice/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
