@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Java is your preferred language, but if you could press a button...](https://www.reddit.com/r/java/comments/zk06oq/java_is_your_preferred_language_but_if_you_could/)
 - [Programmer&#39;s Guide to JDK Flight Recorder](https://www.reddit.com/r/java/comments/zjwhpk/programmers_guide_to_jdk_flight_recorder/)
 - [Migration / upgrade approach of legacy application](https://www.reddit.com/r/java/comments/ziuj5v/migration_upgrade_approach_of_legacy_application/)
+- [Options for turning Java into .exe or: abusing GraalVM to generate a launcher .exe](https://www.reddit.com/r/java/comments/zil7nv/options_for_turning_java_into_exe_or_abusing/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
