@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Java is your preferred language, but if you could press a button...](https://www.reddit.com/r/java/comments/zk06oq/java_is_your_preferred_language_but_if_you_could/)
 - [AWS SnapStart makes your Java-based function cold starts up to **10x faster** 🤯 typically with no changes to your function code. SnapStast is now available on the Altostra cloud infrastructure builder for you to try. Link in the first comment.](https://www.reddit.com/r/java/comments/zjyg29/aws_snapstart_makes_your_javabased_function_cold/)
 - [Programmer&#39;s Guide to JDK Flight Recorder](https://www.reddit.com/r/java/comments/zjwhpk/programmers_guide_to_jdk_flight_recorder/)
-- [Migration / upgrade approach of legacy application](https://www.reddit.com/r/java/comments/ziuj5v/migration_upgrade_approach_of_legacy_application/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
