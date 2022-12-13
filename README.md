@@ -66,7 +66,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [How to Modernize Your Java Application for Speed](https://www.reddit.com/r/java/comments/zl2wky/how_to_modernize_your_java_application_for_speed/)
 - [mvncenter is a better Maven search engine that directly supports class and package name searches.](https://www.reddit.com/r/java/comments/zl2tj9/mvncenter_is_a_better_maven_search_engine_that/)
-- [I trained an AI to understand and fix command-line errors](https://www.reddit.com/r/java/comments/zkz7si/i_trained_an_ai_to_understand_and_fix_commandline/)
+- [Call for Discussion: New Project: Galahad](https://www.reddit.com/r/java/comments/zkrkr6/call_for_discussion_new_project_galahad/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
