@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Call for Discussion: New Project: Galahad](https://www.reddit.com/r/java/comments/zkrkr6/call_for_discussion_new_project_galahad/)
 - [JMeter Performance Testing: Upload and Download Scenarios](https://www.reddit.com/r/java/comments/zkqiym/jmeter_performance_testing_upload_and_download/)
 - [Programmer&#39;s Guide to JDK Flight Recorder](https://www.reddit.com/r/java/comments/zjwhpk/programmers_guide_to_jdk_flight_recorder/)
-- [Migration / upgrade approach of legacy application](https://www.reddit.com/r/java/comments/ziuj5v/migration_upgrade_approach_of_legacy_application/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
