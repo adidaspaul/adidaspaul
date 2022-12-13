@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [I trained an AI to understand and fix command-line errors](https://www.reddit.com/r/java/comments/zkz7si/i_trained_an_ai_to_understand_and_fix_commandline/)
 - [Call for Discussion: New Project: Galahad](https://www.reddit.com/r/java/comments/zkrkr6/call_for_discussion_new_project_galahad/)
 - [JMeter Performance Testing: Upload and Download Scenarios](https://www.reddit.com/r/java/comments/zkqiym/jmeter_performance_testing_upload_and_download/)
-- [Programmer&#39;s Guide to JDK Flight Recorder](https://www.reddit.com/r/java/comments/zjwhpk/programmers_guide_to_jdk_flight_recorder/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
