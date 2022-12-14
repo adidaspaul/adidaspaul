@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [What&#39;s new on Java 20 for us, developers ?](https://www.reddit.com/r/java/comments/zlw7c1/whats_new_on_java_20_for_us_developers/)
 - [Just - a command line toolkit for developing Spring Boot application](https://www.reddit.com/r/java/comments/zlnhbz/just_a_command_line_toolkit_for_developing_spring/)
 - [What is a domain gateway, why do you need it, and how to build it?](https://www.reddit.com/r/java/comments/zll12n/what_is_a_domain_gateway_why_do_you_need_it_and/)
-- [Call for Discussion: New Project: Galahad](https://www.reddit.com/r/java/comments/zkrkr6/call_for_discussion_new_project_galahad/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
