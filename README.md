@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [A faster way to build Spring Boot + React apps: Hilla](https://www.reddit.com/r/java/comments/zm121v/a_faster_way_to_build_spring_boot_react_apps_hilla/)
 - [How does someone catch up with all the updates who has been working with Java 8 for all this while?](https://www.reddit.com/r/java/comments/zlxmh5/how_does_someone_catch_up_with_all_the_updates/)
 - [What&#39;s new on Java 20 for us, developers ?](https://www.reddit.com/r/java/comments/zlw7c1/whats_new_on_java_20_for_us_developers/)
-- [Just - a command line toolkit for developing Spring Boot application](https://www.reddit.com/r/java/comments/zlnhbz/just_a_command_line_toolkit_for_developing_spring/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
