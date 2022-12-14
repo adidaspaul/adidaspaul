@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Creating a minimal WebSocket application](https://www.reddit.com/r/java/comments/zm3qre/creating_a_minimal_websocket_application/)
 - [GlassFish 7 released!](https://www.reddit.com/r/java/comments/zm23om/glassfish_7_released/)
 - [Move to Java or keep with .net in 2023?](https://www.reddit.com/r/java/comments/zm1j3x/move_to_java_or_keep_with_net_in_2023/)
-- [A faster way to build Spring Boot + React apps: Hilla](https://www.reddit.com/r/java/comments/zm121v/a_faster_way_to_build_spring_boot_react_apps_hilla/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
