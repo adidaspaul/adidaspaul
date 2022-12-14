@@ -65,8 +65,8 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [12 Java Best Practices That Every Java Developer Should Know](https://www.reddit.com/r/java/comments/zlosor/12_java_best_practices_that_every_java_developer/)
-- [An Interactive Guide to JavaScript Events](https://www.reddit.com/r/java/comments/zlog4z/an_interactive_guide_to_javascript_events/)
 - [Just - a command line toolkit for developing Spring Boot application](https://www.reddit.com/r/java/comments/zlnhbz/just_a_command_line_toolkit_for_developing_spring/)
+- [What is a domain gateway, why do you need it, and how to build it?](https://www.reddit.com/r/java/comments/zll12n/what_is_a_domain_gateway_why_do_you_need_it_and/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
