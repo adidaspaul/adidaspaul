@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [GlassFish 7 released!](https://www.reddit.com/r/java/comments/zm23om/glassfish_7_released/)
+- [Move to Java or keep with .net in 2023?](https://www.reddit.com/r/java/comments/zm1j3x/move_to_java_or_keep_with_net_in_2023/)
 - [A faster way to build Spring Boot + React apps: Hilla](https://www.reddit.com/r/java/comments/zm121v/a_faster_way_to_build_spring_boot_react_apps_hilla/)
-- [How does someone catch up with all the updates who has been working with Java 8 for all this while?](https://www.reddit.com/r/java/comments/zlxmh5/how_does_someone_catch_up_with_all_the_updates/)
-- [What&#39;s new on Java 20 for us, developers ?](https://www.reddit.com/r/java/comments/zlw7c1/whats_new_on_java_20_for_us_developers/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
