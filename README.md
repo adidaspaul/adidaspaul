@@ -64,7 +64,7 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [need a cool java project for college submission](https://www.reddit.com/r/java/comments/zllugg/need_a_cool_java_project_for_college_submission/)
+- [Just - a command line toolkit for developing Spring Boot application](https://www.reddit.com/r/java/comments/zlnhbz/just_a_command_line_toolkit_for_developing_spring/)
 - [What is a domain gateway, why do you need it, and how to build it?](https://www.reddit.com/r/java/comments/zll12n/what_is_a_domain_gateway_why_do_you_need_it_and/)
 - [mvncenter is a better Maven search engine that directly supports class and package name searches.](https://www.reddit.com/r/java/comments/zl2tj9/mvncenter_is_a_better_maven_search_engine_that/)
 <!-- BLOG-POST-LIST:END -->
