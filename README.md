@@ -65,8 +65,8 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Created an anti-malware scanning solution for AWS S3 using clamAV in Java ⭐️](https://www.reddit.com/r/java/comments/zmpvel/created_an_antimalware_scanning_solution_for_aws/)
-- [Course to learn Java](https://www.reddit.com/r/java/comments/zmotnu/course_to_learn_java/)
-- [Java or golang](https://www.reddit.com/r/java/comments/zmojkh/java_or_golang/)
+- [Galahad embarks on a journey to bring GraalVM to Java](https://www.reddit.com/r/java/comments/zmlw4d/galahad_embarks_on_a_journey_to_bring_graalvm_to/)
+- [24 Java Features You Missed In 2022](https://www.reddit.com/r/java/comments/zmhwei/24_java_features_you_missed_in_2022/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
