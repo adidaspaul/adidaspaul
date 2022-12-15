@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Created an anti-malware scanning solution for AWS S3 using clamAV in Java ⭐️](https://www.reddit.com/r/java/comments/zmpvel/created_an_antimalware_scanning_solution_for_aws/)
 - [Course to learn Java](https://www.reddit.com/r/java/comments/zmotnu/course_to_learn_java/)
 - [Java or golang](https://www.reddit.com/r/java/comments/zmojkh/java_or_golang/)
-- [Help me with Your Suggestions.](https://www.reddit.com/r/java/comments/zmnbbn/help_me_with_your_suggestions/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
