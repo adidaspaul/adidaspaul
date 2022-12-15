@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [24 Java Features You Missed In 2022](https://www.reddit.com/r/java/comments/zmhwei/24_java_features_you_missed_in_2022/)
 - [After a lot of work, my Dark Mode JavaFX theme in CSS is out, you can find it here!](https://www.reddit.com/r/java/comments/zmhn4b/after_a_lot_of_work_my_dark_mode_javafx_theme_in/)
 - [Unsafe deserialization in SnakeYaml - Exploring CVE-2022-1471](https://www.reddit.com/r/java/comments/zmdsek/unsafe_deserialization_in_snakeyaml_exploring/)
-- [Repeat 5.7 - Cross platform macro and automation hotkeys creation using modern programming languages](https://www.reddit.com/r/java/comments/zm7x8c/repeat_57_cross_platform_macro_and_automation/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
