@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Creating a minimal WebSocket application](https://www.reddit.com/r/java/comments/zm3qre/creating_a_minimal_websocket_application/)
-- [GlassFish 7 released!](https://www.reddit.com/r/java/comments/zm23om/glassfish_7_released/)
-- [Move to Java or keep with .net in 2023?](https://www.reddit.com/r/java/comments/zm1j3x/move_to_java_or_keep_with_net_in_2023/)
+- [Repeat 5.7 - Cross platform macro and automation hotkeys creation using modern programming languages](https://www.reddit.com/r/java/comments/zm7x8c/repeat_57_cross_platform_macro_and_automation/)
+- [Just - Command Line toolkit for developing Spring Boot applications](https://www.reddit.com/r/java/comments/zm6qa6/just_command_line_toolkit_for_developing_spring/)
+- [Do I need to teach myself Spring Boot in order to transition from a .NET job to a Java job or are most companies willing to accommodate based on strong fundamentals?](https://www.reddit.com/r/java/comments/zm6l1l/do_i_need_to_teach_myself_spring_boot_in_order_to/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
