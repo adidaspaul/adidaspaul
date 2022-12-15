@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [File.java is a non-project file, only syntax errors are reported](https://www.reddit.com/r/java/comments/zmccty/filejava_is_a_nonproject_file_only_syntax_errors/)
 - [Repeat 5.7 - Cross platform macro and automation hotkeys creation using modern programming languages](https://www.reddit.com/r/java/comments/zm7x8c/repeat_57_cross_platform_macro_and_automation/)
 - [Just - Command Line toolkit for developing Spring Boot applications](https://www.reddit.com/r/java/comments/zm6qa6/just_command_line_toolkit_for_developing_spring/)
-- [Do I need to teach myself Spring Boot in order to transition from a .NET job to a Java job or are most companies willing to accommodate based on strong fundamentals?](https://www.reddit.com/r/java/comments/zm6l1l/do_i_need_to_teach_myself_spring_boot_in_order_to/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
