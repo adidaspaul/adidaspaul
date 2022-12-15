@@ -64,7 +64,7 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [File.java is a non-project file, only syntax errors are reported](https://www.reddit.com/r/java/comments/zmccty/filejava_is_a_nonproject_file_only_syntax_errors/)
+- [Unsafe deserialization in SnakeYaml - Exploring CVE-2022-1471](https://www.reddit.com/r/java/comments/zmdsek/unsafe_deserialization_in_snakeyaml_exploring/)
 - [Repeat 5.7 - Cross platform macro and automation hotkeys creation using modern programming languages](https://www.reddit.com/r/java/comments/zm7x8c/repeat_57_cross_platform_macro_and_automation/)
 - [Just - Command Line toolkit for developing Spring Boot applications](https://www.reddit.com/r/java/comments/zm6qa6/just_command_line_toolkit_for_developing_spring/)
 <!-- BLOG-POST-LIST:END -->
