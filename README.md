@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Course to learn Java](https://www.reddit.com/r/java/comments/zmotnu/course_to_learn_java/)
+- [Java or golang](https://www.reddit.com/r/java/comments/zmojkh/java_or_golang/)
 - [Help me with Your Suggestions.](https://www.reddit.com/r/java/comments/zmnbbn/help_me_with_your_suggestions/)
-- [Galahad embarks on a journey to bring GraalVM to Java](https://www.reddit.com/r/java/comments/zmlw4d/galahad_embarks_on_a_journey_to_bring_graalvm_to/)
-- [AWS Lambda SnapStart for Spring Developers](https://www.reddit.com/r/java/comments/zmlp5c/aws_lambda_snapstart_for_spring_developers/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
