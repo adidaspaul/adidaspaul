@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Created an anti-malware scanning solution for AWS S3 using clamAV in Java ⭐️](https://www.reddit.com/r/java/comments/zmpvel/created_an_antimalware_scanning_solution_for_aws/)
 - [Galahad embarks on a journey to bring GraalVM to Java](https://www.reddit.com/r/java/comments/zmlw4d/galahad_embarks_on_a_journey_to_bring_graalvm_to/)
 - [24 Java Features You Missed In 2022](https://www.reddit.com/r/java/comments/zmhwei/24_java_features_you_missed_in_2022/)
+- [After a lot of work, my Dark Mode JavaFX theme in CSS is out, you can find it here!](https://www.reddit.com/r/java/comments/zmhn4b/after_a_lot_of_work_my_dark_mode_javafx_theme_in/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
