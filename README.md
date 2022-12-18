@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Async-profiler - manual by use cases](https://www.reddit.com/r/java/comments/zp71fg/asyncprofiler_manual_by_use_cases/)
 - [Don&#39;t let your persistence layer bleed into your presentation layer](https://www.reddit.com/r/java/comments/zot16t/dont_let_your_persistence_layer_bleed_into_your/)
 - [Dark mode for JavaFX/Swing is out! please leave a star if you like it!](https://www.reddit.com/r/java/comments/zng7ex/dark_mode_for_javafxswing_is_out_please_leave_a/)
-- [Galahad embarks on a journey to bring GraalVM to Java](https://www.reddit.com/r/java/comments/zmlw4d/galahad_embarks_on_a_journey_to_bring_graalvm_to/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
