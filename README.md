@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to install spring boot cli on windows 11?](https://www.reddit.com/r/java/comments/zop09p/how_to_install_spring_boot_cli_on_windows_11/)
 - [Dark mode for JavaFX/Swing is out! please leave a star if you like it!](https://www.reddit.com/r/java/comments/zng7ex/dark_mode_for_javafxswing_is_out_please_leave_a/)
 - [Galahad embarks on a journey to bring GraalVM to Java](https://www.reddit.com/r/java/comments/zmlw4d/galahad_embarks_on_a_journey_to_bring_graalvm_to/)
-- [24 Java Features You Missed In 2022](https://www.reddit.com/r/java/comments/zmhwei/24_java_features_you_missed_in_2022/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
