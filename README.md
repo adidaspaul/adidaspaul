@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Java streams are black magic !](https://www.reddit.com/r/java/comments/zpssjl/java_streams_are_black_magic/)
 - [Async-profiler - manual by use cases](https://www.reddit.com/r/java/comments/zp71fg/asyncprofiler_manual_by_use_cases/)
 - [Don&#39;t let your persistence layer bleed into your presentation layer](https://www.reddit.com/r/java/comments/zot16t/dont_let_your_persistence_layer_bleed_into_your/)
-- [Dark mode for JavaFX/Swing is out! please leave a star if you like it!](https://www.reddit.com/r/java/comments/zng7ex/dark_mode_for_javafxswing_is_out_please_leave_a/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
