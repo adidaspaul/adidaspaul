@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [ModuleFS - A handy file system implementation for Java modules](https://www.reddit.com/r/java/comments/zq49wa/modulefs_a_handy_file_system_implementation_for/)
 - [Java streams are black magic !](https://www.reddit.com/r/java/comments/zpssjl/java_streams_are_black_magic/)
 - [Async-profiler - manual by use cases](https://www.reddit.com/r/java/comments/zp71fg/asyncprofiler_manual_by_use_cases/)
-- [Don&#39;t let your persistence layer bleed into your presentation layer](https://www.reddit.com/r/java/comments/zot16t/dont_let_your_persistence_layer_bleed_into_your/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
