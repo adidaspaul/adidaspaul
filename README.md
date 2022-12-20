@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Performance impact of turning off FastThrow](https://www.reddit.com/r/java/comments/zqp5sh/performance_impact_of_turning_off_fastthrow/)
 - [Why Picnic picked Java](https://www.reddit.com/r/java/comments/zqkp76/why_picnic_picked_java/)
 - [ModuleFS - A handy file system implementation for Java modules](https://www.reddit.com/r/java/comments/zq49wa/modulefs_a_handy_file_system_implementation_for/)
-- [Java streams are black magic !](https://www.reddit.com/r/java/comments/zpssjl/java_streams_are_black_magic/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
