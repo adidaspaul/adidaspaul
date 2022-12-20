@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Hello World integrating LibGDX, TeaVM, and Micronaut: widgets rendered in HTML Canvas with JDK 8-17 bytecode conversion to JS](https://www.reddit.com/r/java/comments/zr2qy0/hello_world_integrating_libgdx_teavm_and/)
+- [What challenges are there moving from Java 8 to 17?](https://www.reddit.com/r/java/comments/zr2gck/what_challenges_are_there_moving_from_java_8_to_17/)
 - [Hashtag Jakarta EE #155](https://www.reddit.com/r/java/comments/zqy0w8/hashtag_jakarta_ee_155/)
-- [WildFly 27 Delivers Support for JDK 17 and Jakarta EE 10](https://www.reddit.com/r/java/comments/zqxkig/wildfly_27_delivers_support_for_jdk_17_and/)
-- [Invoking webassembly functions from jvm-based applications](https://www.reddit.com/r/java/comments/zqwcqz/invoking_webassembly_functions_from_jvmbased/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
