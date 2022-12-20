@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Hashtag Jakarta EE #155](https://www.reddit.com/r/java/comments/zqy0w8/hashtag_jakarta_ee_155/)
+- [WildFly 27 Delivers Support for JDK 17 and Jakarta EE 10](https://www.reddit.com/r/java/comments/zqxkig/wildfly_27_delivers_support_for_jdk_17_and/)
 - [Invoking webassembly functions from jvm-based applications](https://www.reddit.com/r/java/comments/zqwcqz/invoking_webassembly_functions_from_jvmbased/)
-- [Apache CXF: Custom naming strategy for generates Java files?](https://www.reddit.com/r/java/comments/zqrxkr/apache_cxf_custom_naming_strategy_for_generates/)
-- [Performance impact of turning off FastThrow](https://www.reddit.com/r/java/comments/zqp5sh/performance_impact_of_turning_off_fastthrow/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
