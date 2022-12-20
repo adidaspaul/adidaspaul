@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Why Picnic picked Java](https://www.reddit.com/r/java/comments/zqkp76/why_picnic_picked_java/)
 - [ModuleFS - A handy file system implementation for Java modules](https://www.reddit.com/r/java/comments/zq49wa/modulefs_a_handy_file_system_implementation_for/)
 - [Java streams are black magic !](https://www.reddit.com/r/java/comments/zpssjl/java_streams_are_black_magic/)
-- [Async-profiler - manual by use cases](https://www.reddit.com/r/java/comments/zp71fg/asyncprofiler_manual_by_use_cases/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
