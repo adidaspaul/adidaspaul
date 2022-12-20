@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Invoking webassembly functions from jvm-based applications](https://www.reddit.com/r/java/comments/zqwcqz/invoking_webassembly_functions_from_jvmbased/)
 - [Apache CXF: Custom naming strategy for generates Java files?](https://www.reddit.com/r/java/comments/zqrxkr/apache_cxf_custom_naming_strategy_for_generates/)
 - [Performance impact of turning off FastThrow](https://www.reddit.com/r/java/comments/zqp5sh/performance_impact_of_turning_off_fastthrow/)
-- [Why Picnic picked Java](https://www.reddit.com/r/java/comments/zqkp76/why_picnic_picked_java/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
