@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Upgrade Skills](https://www.reddit.com/r/java/comments/zr8voy/upgrade_skills/)
 - [Hello World integrating LibGDX, TeaVM, and Micronaut: widgets rendered in HTML Canvas with JDK 8-17 bytecode conversion to JS](https://www.reddit.com/r/java/comments/zr2qy0/hello_world_integrating_libgdx_teavm_and/)
 - [What challenges are there moving from Java 8 to 17?](https://www.reddit.com/r/java/comments/zr2gck/what_challenges_are_there_moving_from_java_8_to_17/)
-- [Hashtag Jakarta EE #155](https://www.reddit.com/r/java/comments/zqy0w8/hashtag_jakarta_ee_155/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
