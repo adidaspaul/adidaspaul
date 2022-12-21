@@ -64,8 +64,8 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [&quot;ProductMasterBuilderController - actionDeactiveAs400DeletedCloseout&quot; any idea shat this message refers to? Thanks](https://www.reddit.com/r/java/comments/zrbtu2/productmasterbuildercontroller/)
 - [Eclipse GlassFish catches up with Jakarta EE 10](https://www.reddit.com/r/java/comments/zrak20/eclipse_glassfish_catches_up_with_jakarta_ee_10/)
-- [I&#39;m building a simple sudoku solver web app and I have a few Q&#39;s about the web side of things](https://www.reddit.com/r/java/comments/zragdp/im_building_a_simple_sudoku_solver_web_app_and_i/)
 - [Hello World integrating LibGDX, TeaVM, and Micronaut: widgets rendered in HTML Canvas with JDK 8-17 bytecode conversion to JS](https://www.reddit.com/r/java/comments/zr2qy0/hello_world_integrating_libgdx_teavm_and/)
 <!-- BLOG-POST-LIST:END -->
 
