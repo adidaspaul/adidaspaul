@@ -64,7 +64,7 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Spring Boot generated skeleton - a couple of observations](https://www.reddit.com/r/java/comments/zrfocb/spring_boot_generated_skeleton_a_couple_of/)
+- [How to get a random number in java](https://www.reddit.com/r/java/comments/zrha14/how_to_get_a_random_number_in_java/)
 - [Eclipse GlassFish catches up with Jakarta EE 10](https://www.reddit.com/r/java/comments/zrak20/eclipse_glassfish_catches_up_with_jakarta_ee_10/)
 - [Hello World integrating LibGDX, TeaVM, and Micronaut: widgets rendered in HTML Canvas with JDK 8-17 bytecode conversion to JS](https://www.reddit.com/r/java/comments/zr2qy0/hello_world_integrating_libgdx_teavm_and/)
 <!-- BLOG-POST-LIST:END -->
