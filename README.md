@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [how do you effectively study a library inside spring?](https://www.reddit.com/r/java/comments/zrvutr/how_do_you_effectively_study_a_library_inside/)
 - [What tech stack do you use at work? What&#39;s your favourite one?](https://www.reddit.com/r/java/comments/zru6cx/what_tech_stack_do_you_use_at_work_whats_your/)
 - [Thanks for all the suggestion for my Open Source project KeyHolder!](https://www.reddit.com/r/java/comments/zrsu7m/thanks_for_all_the_suggestion_for_my_open_source/)
-- [Spring MDC Transaction Logging](https://www.reddit.com/r/java/comments/zrrq95/spring_mdc_transaction_logging/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
