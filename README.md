@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How difficult is Go for Java Developers?](https://www.reddit.com/r/java/comments/zsmtei/how_difficult_is_go_for_java_developers/)
 - [Should I make a switch to java if its more in demand and higher paying in my location?](https://www.reddit.com/r/java/comments/zskd9z/should_i_make_a_switch_to_java_if_its_more_in/)
 - [Java HTTP Server and Virtual Threads - Piotr&#39;s TechBlog](https://www.reddit.com/r/java/comments/zsh8cy/java_http_server_and_virtual_threads_piotrs/)
-- [What tech stack do you use at work? What&#39;s your favourite one?](https://www.reddit.com/r/java/comments/zru6cx/what_tech_stack_do_you_use_at_work_whats_your/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
