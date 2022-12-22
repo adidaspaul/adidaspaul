@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Is it easy to switch from Java to Go - even just for Advent of Code?](https://www.reddit.com/r/java/comments/zsudy9/is_it_easy_to_switch_from_java_to_go_even_just/)
 - [Is there a youtube channel which keeps up with the latest happenings in the Java ecosytem?](https://www.reddit.com/r/java/comments/zst743/is_there_a_youtube_channel_which_keeps_up_with/)
 - [Should I make a switch to java if its more in demand and higher paying in my location?](https://www.reddit.com/r/java/comments/zskd9z/should_i_make_a_switch_to_java_if_its_more_in/)
+- [Java HTTP Server and Virtual Threads - Piotr&#39;s TechBlog](https://www.reddit.com/r/java/comments/zsh8cy/java_http_server_and_virtual_threads_piotrs/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
