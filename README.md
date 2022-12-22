@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Java HTTP Server and Virtual Threads - Piotr&#39;s TechBlog](https://www.reddit.com/r/java/comments/zsh8cy/java_http_server_and_virtual_threads_piotrs/)
 - [What tech stack do you use at work? What&#39;s your favourite one?](https://www.reddit.com/r/java/comments/zru6cx/what_tech_stack_do_you_use_at_work_whats_your/)
 - [Spring MDC Transaction Logging](https://www.reddit.com/r/java/comments/zrrq95/spring_mdc_transaction_logging/)
-- [Eclipse GlassFish catches up with Jakarta EE 10](https://www.reddit.com/r/java/comments/zrak20/eclipse_glassfish_catches_up_with_jakarta_ee_10/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
