@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Jvm warmup](https://www.reddit.com/r/java/comments/ztuxv6/jvm_warmup/)
+- [Run a web application on Piranha Servlet with CRaC](https://www.reddit.com/r/java/comments/ztufbw/run_a_web_application_on_piranha_servlet_with_crac/)
 - [JStachio v0.9.0 released now with Spring support](https://www.reddit.com/r/java/comments/ztgnpk/jstachio_v090_released_now_with_spring_support/)
-- [WebAssembly for the Java Geek - JVM Advent](https://www.reddit.com/r/java/comments/zta1at/webassembly_for_the_java_geek_jvm_advent/)
-- [Any news on the Classfile API?](https://www.reddit.com/r/java/comments/zt9a83/any_news_on_the_classfile_api/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
