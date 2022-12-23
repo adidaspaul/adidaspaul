@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How do I get System/device time as an input ?](https://www.reddit.com/r/java/comments/zt61wg/how_do_i_get_systemdevice_time_as_an_input/)
 - [What technologies do I need to master to become a junior java developer in europe?](https://www.reddit.com/r/java/comments/zt1axe/what_technologies_do_i_need_to_master_to_become_a/)
 - [Is there a youtube channel which keeps up with the latest happenings in the Java ecosytem?](https://www.reddit.com/r/java/comments/zst743/is_there_a_youtube_channel_which_keeps_up_with/)
-- [Should I make a switch to java if its more in demand and higher paying in my location?](https://www.reddit.com/r/java/comments/zskd9z/should_i_make_a_switch_to_java_if_its_more_in/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
