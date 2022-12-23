@@ -64,7 +64,7 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Food for thought](https://www.reddit.com/r/java/comments/ztl5g5/food_for_thought/)
+- [I built a tool that aggregates and filters java job postings from the internet for you. Let me know your thoughts!](https://www.reddit.com/r/java/comments/ztmct1/i_built_a_tool_that_aggregates_and_filters_java/)
 - [JStachio v0.9.0 released now with Spring support](https://www.reddit.com/r/java/comments/ztgnpk/jstachio_v090_released_now_with_spring_support/)
 - [WebAssembly for the Java Geek - JVM Advent](https://www.reddit.com/r/java/comments/zta1at/webassembly_for_the_java_geek_jvm_advent/)
 <!-- BLOG-POST-LIST:END -->
