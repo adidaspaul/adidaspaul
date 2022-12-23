@@ -64,8 +64,8 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [How do I get System/device time as an input ?](https://www.reddit.com/r/java/comments/zt61wg/how_do_i_get_systemdevice_time_as_an_input/)
-- [What technologies do I need to master to become a junior java developer in europe?](https://www.reddit.com/r/java/comments/zt1axe/what_technologies_do_i_need_to_master_to_become_a/)
+- [WebAssembly for the Java Geek - JVM Advent](https://www.reddit.com/r/java/comments/zta1at/webassembly_for_the_java_geek_jvm_advent/)
+- [Any news on the Classfile API?](https://www.reddit.com/r/java/comments/zt9a83/any_news_on_the_classfile_api/)
 - [Is there a youtube channel which keeps up with the latest happenings in the Java ecosytem?](https://www.reddit.com/r/java/comments/zst743/is_there_a_youtube_channel_which_keeps_up_with/)
 <!-- BLOG-POST-LIST:END -->
 
