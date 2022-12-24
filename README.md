@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [What Should I Use For Creating Lists In Java-Swing?](https://www.reddit.com/r/java/comments/zub1jh/what_should_i_use_for_creating_lists_in_javaswing/)
 - [MicroProfile 6 released!](https://www.reddit.com/r/java/comments/zu6tmt/microprofile_6_released/)
 - [Run a web application on Piranha Servlet with CRaC](https://www.reddit.com/r/java/comments/ztufbw/run_a_web_application_on_piranha_servlet_with_crac/)
-- [JStachio v0.9.0 released now with Spring support](https://www.reddit.com/r/java/comments/ztgnpk/jstachio_v090_released_now_with_spring_support/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
