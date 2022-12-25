@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Is this UI doable with only using Java Swing?](https://www.reddit.com/r/java/comments/zuqti8/is_this_ui_doable_with_only_using_java_swing/)
 - [Evaluating Spring Boot, Quarkus, or Micronaut and why for Stargate v2](https://www.reddit.com/r/java/comments/zufonr/evaluating_spring_boot_quarkus_or_micronaut_and/)
 - [MicroProfile 6 released!](https://www.reddit.com/r/java/comments/zu6tmt/microprofile_6_released/)
+- [Run a web application on Piranha Servlet with CRaC](https://www.reddit.com/r/java/comments/ztufbw/run_a_web_application_on_piranha_servlet_with_crac/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
