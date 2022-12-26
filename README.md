@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Quarkus or Spring for a Management System? Why?](https://www.reddit.com/r/java/comments/zvy48d/quarkus_or_spring_for_a_management_system_why/)
+- [What are some of the biggest problems you personally face in Java?](https://www.reddit.com/r/java/comments/zvxqx0/what_are_some_of_the_biggest_problems_you/)
 - [Should I read Java Concurrency in Practice in 2023?](https://www.reddit.com/r/java/comments/zvsji7/should_i_read_java_concurrency_in_practice_in_2023/)
-- [7 Awesome Libraries for Java Unit &amp; Integration Testing](https://www.reddit.com/r/java/comments/zvkt7s/7_awesome_libraries_for_java_unit_integration/)
-- [Evaluating Spring Boot, Quarkus, or Micronaut and why for Stargate v2](https://www.reddit.com/r/java/comments/zufonr/evaluating_spring_boot_quarkus_or_micronaut_and/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
