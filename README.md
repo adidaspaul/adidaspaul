@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [DBPack has released `sharding databases &amp;&amp; tables` at v0.5.0](https://www.reddit.com/r/java/comments/zvhs5r/dbpack_has_released_sharding_databases_tables_at/)
 - [Evaluating Spring Boot, Quarkus, or Micronaut and why for Stargate v2](https://www.reddit.com/r/java/comments/zufonr/evaluating_spring_boot_quarkus_or_micronaut_and/)
 - [MicroProfile 6 released!](https://www.reddit.com/r/java/comments/zu6tmt/microprofile_6_released/)
-- [Run a web application on Piranha Servlet with CRaC](https://www.reddit.com/r/java/comments/ztufbw/run_a_web_application_on_piranha_servlet_with_crac/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
