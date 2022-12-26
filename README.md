@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [jshell, jlink and other cool jdk stuff](https://www.reddit.com/r/java/comments/zvle3y/jshell_jlink_and_other_cool_jdk_stuff/)
 - [7 Awesome Libraries for Java Unit &amp; Integration Testing](https://www.reddit.com/r/java/comments/zvkt7s/7_awesome_libraries_for_java_unit_integration/)
 - [Evaluating Spring Boot, Quarkus, or Micronaut and why for Stargate v2](https://www.reddit.com/r/java/comments/zufonr/evaluating_spring_boot_quarkus_or_micronaut_and/)
-- [MicroProfile 6 released!](https://www.reddit.com/r/java/comments/zu6tmt/microprofile_6_released/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
