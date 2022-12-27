@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [If you want to remove one language feature in Java what will be your pick and why?](https://www.reddit.com/r/java/comments/zwei50/if_you_want_to_remove_one_language_feature_in/)
+- [Improving loading times of data-rich dashboards with async workloads in Spring Boot](https://www.reddit.com/r/java/comments/zwdhwa/improving_loading_times_of_datarich_dashboards/)
 - [Quarkus or Spring for a Management System? Why?](https://www.reddit.com/r/java/comments/zvy48d/quarkus_or_spring_for_a_management_system_why/)
-- [What are some of the biggest problems you personally face in Java?](https://www.reddit.com/r/java/comments/zvxqx0/what_are_some_of_the_biggest_problems_you/)
-- [Should I read Java Concurrency in Practice in 2023?](https://www.reddit.com/r/java/comments/zvsji7/should_i_read_java_concurrency_in_practice_in_2023/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
