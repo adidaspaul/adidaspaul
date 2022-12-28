@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Learning it for REAL](https://www.reddit.com/r/java/comments/zxaxgu/learning_it_for_real/)
+- [Share your java tips ‘n tricks](https://www.reddit.com/r/java/comments/zxgdy3/share_your_java_tips_n_tricks/)
+- [RIFE2 web framework under development](https://www.reddit.com/r/java/comments/zxgcei/rife2_web_framework_under_development/)
 - [What would happen if Java would break backwards compatibility?](https://www.reddit.com/r/java/comments/zxa5zp/what_would_happen_if_java_would_break_backwards/)
-- [What UI framework does JetBrains use for it&#39;s IDE products?](https://www.reddit.com/r/java/comments/zx9z7i/what_ui_framework_does_jetbrains_use_for_its_ide/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
