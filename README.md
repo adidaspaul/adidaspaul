@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Java Networking Enhancements since JDK 11](https://www.reddit.com/r/java/comments/zx70c9/java_networking_enhancements_since_jdk_11/)
+- [Use JPA Relations mindfully](https://www.reddit.com/r/java/comments/zx6o9w/use_jpa_relations_mindfully/)
 - [Azure access token with self-signed certificate in Spring boot](https://www.reddit.com/r/java/comments/zx572b/azure_access_token_with_selfsigned_certificate_in/)
-- [Certificate Ripper v2 released - tool to extract server certificates](https://www.reddit.com/r/java/comments/zwveia/certificate_ripper_v2_released_tool_to_extract/)
-- [If you want to remove one language feature in Java what will be your pick and why?](https://www.reddit.com/r/java/comments/zwei50/if_you_want_to_remove_one_language_feature_in/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
