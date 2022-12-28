@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [LinkedIn endorsement I wish I had but don’t 🤓…](https://www.reddit.com/r/java/comments/zxjulv/linkedin_endorsement_i_wish_i_had_but_dont/)
 - [Share your java tips ‘n tricks](https://www.reddit.com/r/java/comments/zxgdy3/share_your_java_tips_n_tricks/)
 - [RIFE2 web framework under development](https://www.reddit.com/r/java/comments/zxgcei/rife2_web_framework_under_development/)
+- [What would happen if Java would break backwards compatibility?](https://www.reddit.com/r/java/comments/zxa5zp/what_would_happen_if_java_would_break_backwards/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
