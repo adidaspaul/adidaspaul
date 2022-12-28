@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [What free or cheap software can I use to program java? I’m making my first app](https://www.reddit.com/r/java/comments/zwx6fa/what_free_or_cheap_software_can_i_use_to_program/)
 - [Certificate Ripper v2 released - tool to extract server certificates](https://www.reddit.com/r/java/comments/zwveia/certificate_ripper_v2_released_tool_to_extract/)
 - [If you want to remove one language feature in Java what will be your pick and why?](https://www.reddit.com/r/java/comments/zwei50/if_you_want_to_remove_one_language_feature_in/)
+- [Improving loading times of data-rich dashboards with async workloads in Spring Boot](https://www.reddit.com/r/java/comments/zwdhwa/improving_loading_times_of_datarich_dashboards/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
