@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How do I go about learning advanced Java topics?](https://www.reddit.com/r/java/comments/zxx3xj/how_do_i_go_about_learning_advanced_java_topics/)
 - [AboutFX](https://www.reddit.com/r/java/comments/zxvgg1/aboutfx/)
 - [Is it Hard to switch companies?](https://www.reddit.com/r/java/comments/zxmzly/is_it_hard_to_switch_companies/)
-- [Share your java tips ‘n tricks](https://www.reddit.com/r/java/comments/zxgdy3/share_your_java_tips_n_tricks/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
