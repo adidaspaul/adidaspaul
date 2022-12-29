@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Java Downloads &lpar;JDK,JRE&rpar; Just won&#39;t install on my computer and I have tried everything. Please help me cause I&#39;m going insane over this.](https://www.reddit.com/r/java/comments/zxy8ty/java_downloads_jdkjre_just_wont_install_on_my/)
 - [How do I go about learning advanced Java topics?](https://www.reddit.com/r/java/comments/zxx3xj/how_do_i_go_about_learning_advanced_java_topics/)
 - [AboutFX](https://www.reddit.com/r/java/comments/zxvgg1/aboutfx/)
-- [Is it Hard to switch companies?](https://www.reddit.com/r/java/comments/zxmzly/is_it_hard_to_switch_companies/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
