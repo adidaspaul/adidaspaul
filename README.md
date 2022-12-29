@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Java modules in old jar](https://www.reddit.com/r/java/comments/zy9k0c/java_modules_in_old_jar/)
+- [Can y&#39;all please comment on my interview prep?](https://www.reddit.com/r/java/comments/zydeh4/can_yall_please_comment_on_my_interview_prep/)
+- [Jakoby Oda Junami Jauns Unichi Mind-Reading SOS](https://www.reddit.com/r/java/comments/zycqgs/jakoby_oda_junami_jauns_unichi_mindreading_sos/)
 - [The ultimate guide to Java Security Vulnerabilities &lpar;CVE&rpar;](https://www.reddit.com/r/java/comments/zy3543/the_ultimate_guide_to_java_security/)
-- [&quot;Java Language - State of the Union&quot; with Gavin Bierman | Inside Java Podcast](https://www.reddit.com/r/java/comments/zxzjzq/java_language_state_of_the_union_with_gavin/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
