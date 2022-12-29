@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Where will Micronaut and Quarkus be in 5-10 years?](https://www.reddit.com/r/java/comments/zyin7g/where_will_micronaut_and_quarkus_be_in_510_years/)
 - [Could Java Applets have been done right? DOM is limiting [CrossPost Discussion]](https://www.reddit.com/r/java/comments/zyhx7t/could_java_applets_have_been_done_right_dom_is/)
 - [The ultimate guide to Java Security Vulnerabilities &lpar;CVE&rpar;](https://www.reddit.com/r/java/comments/zy3543/the_ultimate_guide_to_java_security/)
-- [&quot;Java Language - State of the Union&quot; with Gavin Bierman | Inside Java Podcast](https://www.reddit.com/r/java/comments/zxzjzq/java_language_state_of_the_union_with_gavin/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
