@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [MOOC Telegram down](https://www.reddit.com/r/java/comments/zy67kl/mooc_telegram_down/)
 - [The ultimate guide to Java Security Vulnerabilities &lpar;CVE&rpar;](https://www.reddit.com/r/java/comments/zy3543/the_ultimate_guide_to_java_security/)
 - [&quot;Java Language - State of the Union&quot; with Gavin Bierman | Inside Java Podcast](https://www.reddit.com/r/java/comments/zxzjzq/java_language_state_of_the_union_with_gavin/)
+- [AboutFX](https://www.reddit.com/r/java/comments/zxvgg1/aboutfx/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
