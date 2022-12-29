@@ -64,8 +64,8 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Where can I find an ebook or Pdf for Head First Java 3rd edition for free?? please help.](https://www.reddit.com/r/java/comments/zy1jom/where_can_i_find_an_ebook_or_pdf_for_head_first/)
 - [&quot;Java Language - State of the Union&quot; with Gavin Bierman | Inside Java Podcast](https://www.reddit.com/r/java/comments/zxzjzq/java_language_state_of_the_union_with_gavin/)
-- [How do I go about learning advanced Java topics?](https://www.reddit.com/r/java/comments/zxx3xj/how_do_i_go_about_learning_advanced_java_topics/)
 - [AboutFX](https://www.reddit.com/r/java/comments/zxvgg1/aboutfx/)
 <!-- BLOG-POST-LIST:END -->
 
