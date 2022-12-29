@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Can y&#39;all please comment on my interview prep?](https://www.reddit.com/r/java/comments/zydeh4/can_yall_please_comment_on_my_interview_prep/)
 - [The ultimate guide to Java Security Vulnerabilities &lpar;CVE&rpar;](https://www.reddit.com/r/java/comments/zy3543/the_ultimate_guide_to_java_security/)
 - [&quot;Java Language - State of the Union&quot; with Gavin Bierman | Inside Java Podcast](https://www.reddit.com/r/java/comments/zxzjzq/java_language_state_of_the_union_with_gavin/)
+- [AboutFX](https://www.reddit.com/r/java/comments/zxvgg1/aboutfx/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
