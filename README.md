@@ -65,8 +65,8 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [&quot;Java Language - State of the Union&quot; with Gavin Bierman | Inside Java Podcast](https://www.reddit.com/r/java/comments/zxzjzq/java_language_state_of_the_union_with_gavin/)
-- [Java Downloads &lpar;JDK,JRE&rpar; Just won&#39;t install on my computer and I have tried everything. Please help me cause I&#39;m going insane over this.](https://www.reddit.com/r/java/comments/zxy8ty/java_downloads_jdkjre_just_wont_install_on_my/)
 - [How do I go about learning advanced Java topics?](https://www.reddit.com/r/java/comments/zxx3xj/how_do_i_go_about_learning_advanced_java_topics/)
+- [AboutFX](https://www.reddit.com/r/java/comments/zxvgg1/aboutfx/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
