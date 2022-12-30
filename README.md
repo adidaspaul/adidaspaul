@@ -64,7 +64,7 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Math Trivia Beginner](https://www.reddit.com/r/java/comments/zz5qyp/math_trivia_beginner/)
+- [ChatGPT: &quot;Write a simple Java application using Project Loom&quot;](https://www.reddit.com/r/java/comments/zz5xuw/chatgpt_write_a_simple_java_application_using/)
 - [Anyone know the precise behaviour of the JVM &lpar;on Linux&rpar; upon receiving a SIGTERM from the OS?](https://www.reddit.com/r/java/comments/zyxsxx/anyone_know_the_precise_behaviour_of_the_jvm_on/)
 - [Easily switch between java versions with SDKMAN! and &#39;j&#39;](https://www.reddit.com/r/java/comments/zyv57r/easily_switch_between_java_versions_with_sdkman/)
 <!-- BLOG-POST-LIST:END -->
