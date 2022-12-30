@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Start same program blazingly fast.](https://www.reddit.com/r/java/comments/zywsci/start_same_program_blazingly_fast/)
 - [Easily switch between java versions with SDKMAN! and &#39;j&#39;](https://www.reddit.com/r/java/comments/zyv57r/easily_switch_between_java_versions_with_sdkman/)
 - [Where will Micronaut and Quarkus be in 5-10 years?](https://www.reddit.com/r/java/comments/zyin7g/where_will_micronaut_and_quarkus_be_in_510_years/)
-- [Could Java Applets have been done right? DOM is limiting [CrossPost Discussion]](https://www.reddit.com/r/java/comments/zyhx7t/could_java_applets_have_been_done_right_dom_is/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
