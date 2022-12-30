@@ -65,8 +65,8 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Anyone know the precise behaviour of the JVM &lpar;on Linux&rpar; upon receiving a SIGTERM from the OS?](https://www.reddit.com/r/java/comments/zyxsxx/anyone_know_the_precise_behaviour_of_the_jvm_on/)
-- [Start same program blazingly fast.](https://www.reddit.com/r/java/comments/zywsci/start_same_program_blazingly_fast/)
 - [Easily switch between java versions with SDKMAN! and &#39;j&#39;](https://www.reddit.com/r/java/comments/zyv57r/easily_switch_between_java_versions_with_sdkman/)
+- [Where will Micronaut and Quarkus be in 5-10 years?](https://www.reddit.com/r/java/comments/zyin7g/where_will_micronaut_and_quarkus_be_in_510_years/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
