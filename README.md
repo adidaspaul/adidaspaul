@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How is the Java market compared to javascript?](https://www.reddit.com/r/java/comments/1002wtp/how_is_the_java_market_compared_to_javascript/)
 - [What to learn to become a Java developer](https://www.reddit.com/r/java/comments/zzvywy/what_to_learn_to_become_a_java_developer/)
 - [Anyone know the precise behaviour of the JVM &lpar;on Linux&rpar; upon receiving a SIGTERM from the OS?](https://www.reddit.com/r/java/comments/zyxsxx/anyone_know_the_precise_behaviour_of_the_jvm_on/)
-- [Easily switch between java versions with SDKMAN! and &#39;j&#39;](https://www.reddit.com/r/java/comments/zyv57r/easily_switch_between_java_versions_with_sdkman/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
