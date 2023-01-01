@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Happy New Year with my first finished open source java repo](https://www.reddit.com/r/java/comments/100t8p5/happy_new_year_with_my_first_finished_open_source/)
 - [Open Source Webhooks as a Service](https://www.reddit.com/r/java/comments/1005jol/open_source_webhooks_as_a_service/)
 - [What to learn to become a Java developer](https://www.reddit.com/r/java/comments/zzvywy/what_to_learn_to_become_a_java_developer/)
-- [Anyone know the precise behaviour of the JVM &lpar;on Linux&rpar; upon receiving a SIGTERM from the OS?](https://www.reddit.com/r/java/comments/zyxsxx/anyone_know_the_precise_behaviour_of_the_jvm_on/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
