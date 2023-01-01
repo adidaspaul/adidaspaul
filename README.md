@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Why Java Developers Should Learn Docker in 2023?](https://www.reddit.com/r/java/comments/100c2p2/why_java_developers_should_learn_docker_in_2023/)
 - [Open Source Webhooks as a Service](https://www.reddit.com/r/java/comments/1005jol/open_source_webhooks_as_a_service/)
 - [How is the Java market compared to javascript?](https://www.reddit.com/r/java/comments/1002wtp/how_is_the_java_market_compared_to_javascript/)
-- [What to learn to become a Java developer](https://www.reddit.com/r/java/comments/zzvywy/what_to_learn_to_become_a_java_developer/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
