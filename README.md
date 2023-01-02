@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Are Long better than Integer as keys for a Map?](https://www.reddit.com/r/java/comments/101cwd1/are_long_better_than_integer_as_keys_for_a_map/)
 - [MDC4Spring: simple management of Mapped Diagnostic Contexts &lpar;MDCs&rpar; in declarative form for your logging system.](https://www.reddit.com/r/java/comments/101c4tk/mdc4spring_simple_management_of_mapped_diagnostic/)
 - [Happy New Year with my first finished open source java repo](https://www.reddit.com/r/java/comments/100t8p5/happy_new_year_with_my_first_finished_open_source/)
-- [Open Source Webhooks as a Service](https://www.reddit.com/r/java/comments/1005jol/open_source_webhooks_as_a_service/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
