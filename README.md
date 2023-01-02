@@ -64,7 +64,7 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Who uses Java ?](https://www.reddit.com/r/java/comments/1019spv/who_uses_java/)
+- [Can I learn Java SDET on my own? If yes, may you recommend resources for that please? If you were to pick between a $14K 7months learning program, or SDET self education, which one would you pick?](https://www.reddit.com/r/java/comments/101aedo/can_i_learn_java_sdet_on_my_own_if_yes_may_you/)
 - [Happy New Year with my first finished open source java repo](https://www.reddit.com/r/java/comments/100t8p5/happy_new_year_with_my_first_finished_open_source/)
 - [Open Source Webhooks as a Service](https://www.reddit.com/r/java/comments/1005jol/open_source_webhooks_as_a_service/)
 <!-- BLOG-POST-LIST:END -->
