@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [I bought a computer that used to be a school computer. Now I have gotten pretty far by finding ways to go around all the admin stuff. Now I can’t figure out how to install java on it with out opening it and needing to install it. Is there anyway I can get around this?](https://www.reddit.com/r/java/comments/102ie1n/i_bought_a_computer_that_used_to_be_a_school/)
 - [My attempt to understand why people perceive Java as complex](https://www.reddit.com/r/java/comments/102cfti/my_attempt_to_understand_why_people_perceive_java/)
 - [Helidon 3.1.0 released!](https://www.reddit.com/r/java/comments/102887a/helidon_310_released/)
+- [Are Long better than Integer as keys for a Map?](https://www.reddit.com/r/java/comments/101cwd1/are_long_better_than_integer_as_keys_for_a_map/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
