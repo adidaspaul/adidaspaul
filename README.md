@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [I get this whenever i try to run a code on eclipse &lpar;java se 17&rpar;, any help?](https://www.reddit.com/r/java/comments/102e9b0/i_get_this_whenever_i_try_to_run_a_code_on/)
 - [My attempt to understand why people perceive Java as complex](https://www.reddit.com/r/java/comments/102cfti/my_attempt_to_understand_why_people_perceive_java/)
 - [Helidon 3.1.0 released!](https://www.reddit.com/r/java/comments/102887a/helidon_310_released/)
-- [Are Long better than Integer as keys for a Map?](https://www.reddit.com/r/java/comments/101cwd1/are_long_better_than_integer_as_keys_for_a_map/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
