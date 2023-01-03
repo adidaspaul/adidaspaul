@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [My attempt to understand why people perceive Java as complex](https://www.reddit.com/r/java/comments/102cfti/my_attempt_to_understand_why_people_perceive_java/)
 - [Helidon 3.1.0 released!](https://www.reddit.com/r/java/comments/102887a/helidon_310_released/)
 - [Are Long better than Integer as keys for a Map?](https://www.reddit.com/r/java/comments/101cwd1/are_long_better_than_integer_as_keys_for_a_map/)
-- [MDC4Spring: simple management of Mapped Diagnostic Contexts &lpar;MDCs&rpar; in declarative form for your logging system.](https://www.reddit.com/r/java/comments/101c4tk/mdc4spring_simple_management_of_mapped_diagnostic/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
