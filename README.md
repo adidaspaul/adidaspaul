@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Instancio 2.2.0 released](https://www.reddit.com/r/java/comments/102pjij/instancio_220_released/)
+- [Adding sign in to your Spring web application using OIDC](https://www.reddit.com/r/java/comments/102n2c3/adding_sign_in_to_your_spring_web_application/)
 - [My attempt to understand why people perceive Java as complex](https://www.reddit.com/r/java/comments/102cfti/my_attempt_to_understand_why_people_perceive_java/)
-- [Helidon 3.1.0 released!](https://www.reddit.com/r/java/comments/102887a/helidon_310_released/)
-- [Are Long better than Integer as keys for a Map?](https://www.reddit.com/r/java/comments/101cwd1/are_long_better_than_integer_as_keys_for_a_map/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
