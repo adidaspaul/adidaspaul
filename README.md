@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Thought on the tester pattern?](https://www.reddit.com/r/java/comments/1030cdb/thought_on_the_tester_pattern/)
 - [Firebird JDBC driver Jaybird 5.0.0-beta-1 released for testing](https://www.reddit.com/r/java/comments/102yxah/firebird_jdbc_driver_jaybird_500beta1_released/)
 - [How difficult is it to be capable of contributing to the JDK?](https://www.reddit.com/r/java/comments/102yto7/how_difficult_is_it_to_be_capable_of_contributing/)
-- [Instancio 2.2.0 released](https://www.reddit.com/r/java/comments/102pjij/instancio_220_released/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
