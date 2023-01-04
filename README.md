@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Thought on the tester pattern?](https://www.reddit.com/r/java/comments/1030cdb/thought_on_the_tester_pattern/)
-- [Firebird JDBC driver Jaybird 5.0.0-beta-1 released for testing](https://www.reddit.com/r/java/comments/102yxah/firebird_jdbc_driver_jaybird_500beta1_released/)
-- [How difficult is it to be capable of contributing to the JDK?](https://www.reddit.com/r/java/comments/102yto7/how_difficult_is_it_to_be_capable_of_contributing/)
+- [Native Java with GraalVM and Virtual Threads on Kubernetes](https://www.reddit.com/r/java/comments/1032lbg/native_java_with_graalvm_and_virtual_threads_on/)
+- [Secure Coding Guidelines for Java - Video](https://www.reddit.com/r/java/comments/1032l15/secure_coding_guidelines_for_java_video/)
+- [Video: Secure Coding Guidelines for Java SE](https://www.reddit.com/r/java/comments/1032145/video_secure_coding_guidelines_for_java_se/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
