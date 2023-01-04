@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Rust for Java developers, an introduction](https://www.reddit.com/r/java/comments/1033bq4/rust_for_java_developers_an_introduction/)
 - [Native Java with GraalVM and Virtual Threads on Kubernetes](https://www.reddit.com/r/java/comments/1032lbg/native_java_with_graalvm_and_virtual_threads_on/)
-- [Secure Coding Guidelines for Java - Video](https://www.reddit.com/r/java/comments/1032l15/secure_coding_guidelines_for_java_video/)
+- [Video: Secure Coding Guidelines for Java SE](https://www.reddit.com/r/java/comments/1032145/video_secure_coding_guidelines_for_java_se/)
+- [Thought on the tester pattern?](https://www.reddit.com/r/java/comments/1030cdb/thought_on_the_tester_pattern/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
