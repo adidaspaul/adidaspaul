@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How long did it take you to learn the basics of Java. And where they easy to learn?](https://www.reddit.com/r/java/comments/103h9ql/how_long_did_it_take_you_to_learn_the_basics_of/)
 - [We released a small no-dependencies UrlEncoder library for Kotlin and Java that actually encodes URL parameters and not HTML form parameters, as the JDK URLEncoder does.](https://www.reddit.com/r/java/comments/103djzf/we_released_a_small_nodependencies_urlencoder/)
 - [Native Java with GraalVM and Virtual Threads on Kubernetes](https://www.reddit.com/r/java/comments/1032lbg/native_java_with_graalvm_and_virtual_threads_on/)
-- [Video: Secure Coding Guidelines for Java SE](https://www.reddit.com/r/java/comments/1032145/video_secure_coding_guidelines_for_java_se/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
