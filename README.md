@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [We released a small no-dependencies UrlEncoder library for Kotlin and Java that actually encodes URL parameters and not HTML form parameters, as the JDK URLEncoder does.](https://www.reddit.com/r/java/comments/103djzf/we_released_a_small_nodependencies_urlencoder/)
 - [Native Java with GraalVM and Virtual Threads on Kubernetes](https://www.reddit.com/r/java/comments/1032lbg/native_java_with_graalvm_and_virtual_threads_on/)
 - [Video: Secure Coding Guidelines for Java SE](https://www.reddit.com/r/java/comments/1032145/video_secure_coding_guidelines_for_java_se/)
-- [Thought on the tester pattern?](https://www.reddit.com/r/java/comments/1030cdb/thought_on_the_tester_pattern/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
