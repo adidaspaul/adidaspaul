@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [PW SKILL- JAVA+DSA](https://www.reddit.com/r/java/comments/1040xr0/pw_skill_javadsa/)
 - [I made a program to generate truthtables for expressions of propositional logic](https://www.reddit.com/r/java/comments/103v941/i_made_a_program_to_generate_truthtables_for/)
 - [I created a Pixel Art Tycoon Game with Java](https://www.reddit.com/r/java/comments/103ukjl/i_created_a_pixel_art_tycoon_game_with_java/)
-- [Bill Gates: I&#39;m literally losing sleep over Java](https://www.reddit.com/r/java/comments/103r3fl/bill_gates_im_literally_losing_sleep_over_java/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
