@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Can abstract classes have instance variables with values assigned to it?](https://www.reddit.com/r/java/comments/103q798/can_abstract_classes_have_instance_variables_with/)
+- [Anyone here used the Java version of Gatling?](https://www.reddit.com/r/java/comments/103ptw9/anyone_here_used_the_java_version_of_gatling/)
 - [Any way to force a dependency jar to use jakarta instead of javax?](https://www.reddit.com/r/java/comments/103omyw/any_way_to_force_a_dependency_jar_to_use_jakarta/)
-- [has anyone went through this course ? if yes how far you have got ? and would you recommend this course to someone else?](https://www.reddit.com/r/java/comments/103kwqv/has_anyone_went_through_this_course_if_yes_how/)
-- [How long did it take you to learn the basics of Java. And where they easy to learn?](https://www.reddit.com/r/java/comments/103h9ql/how_long_did_it_take_you_to_learn_the_basics_of/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
