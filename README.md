@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [I&#39;m beginner to Java. I coded a metric converter program with java&lpar;Temperature/Time/Weight/Lenght/Area/Volume&rpar;. This is one of my first projects.](https://www.reddit.com/r/java/comments/1045nth/im_beginner_to_java_i_coded_a_metric_converter/)
-- [Small project providing GitHub status badge with passed and failed test counts](https://www.reddit.com/r/java/comments/1043u3w/small_project_providing_github_status_badge_with/)
-- [I made a program to generate truthtables for expressions of propositional logic](https://www.reddit.com/r/java/comments/103v941/i_made_a_program_to_generate_truthtables_for/)
+- [Bill Gates: I&#39;m literally losing sleep over Java](https://www.reddit.com/r/java/comments/103r3fl/bill_gates_im_literally_losing_sleep_over_java/)
+- [Anyone here used the Java version of Gatling?](https://www.reddit.com/r/java/comments/103ptw9/anyone_here_used_the_java_version_of_gatling/)
+- [has anyone went through this course ? if yes how far you have got ? and would you recommend this course to someone else?](https://www.reddit.com/r/java/comments/103kwqv/has_anyone_went_through_this_course_if_yes_how/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
