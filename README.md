@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Any way to force a dependency jar to use jakarta instead of javax?](https://www.reddit.com/r/java/comments/103omyw/any_way_to_force_a_dependency_jar_to_use_jakarta/)
 - [has anyone went through this course ? if yes how far you have got ? and would you recommend this course to someone else?](https://www.reddit.com/r/java/comments/103kwqv/has_anyone_went_through_this_course_if_yes_how/)
 - [How long did it take you to learn the basics of Java. And where they easy to learn?](https://www.reddit.com/r/java/comments/103h9ql/how_long_did_it_take_you_to_learn_the_basics_of/)
-- [We released a small no-dependencies UrlEncoder library for Kotlin and Java that actually encodes URL parameters and not HTML form parameters, as the JDK URLEncoder does.](https://www.reddit.com/r/java/comments/103djzf/we_released_a_small_nodependencies_urlencoder/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
