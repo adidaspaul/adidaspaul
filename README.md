@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Learning JavaScript and can’t understand what is wrong with my code here? TIA](https://www.reddit.com/r/java/comments/104epyt/learning_javascript_and_cant_understand_what_is/)
 - [Bill Gates: I&#39;m literally losing sleep over Java](https://www.reddit.com/r/java/comments/103r3fl/bill_gates_im_literally_losing_sleep_over_java/)
 - [Anyone here used the Java version of Gatling?](https://www.reddit.com/r/java/comments/103ptw9/anyone_here_used_the_java_version_of_gatling/)
-- [has anyone went through this course ? if yes how far you have got ? and would you recommend this course to someone else?](https://www.reddit.com/r/java/comments/103kwqv/has_anyone_went_through_this_course_if_yes_how/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
