@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Implementing SonarQube code coverage in a simple JavaScript application](https://www.reddit.com/r/java/comments/1054l8s/implementing_sonarqube_code_coverage_in_a_simple/)
 - [What really is “object best”?](https://www.reddit.com/r/java/comments/104zmr0/what_really_is_object_best/)
 - [Does the JVM do Data in-lineing?](https://www.reddit.com/r/java/comments/104fzq3/does_the_jvm_do_data_inlineing/)
-- [Bill Gates: I&#39;m literally losing sleep over Java](https://www.reddit.com/r/java/comments/103r3fl/bill_gates_im_literally_losing_sleep_over_java/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
