@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Java refresher courses](https://www.reddit.com/r/java/comments/105fdbb/java_refresher_courses/)
 - [JetBrains Java Annotated Monthly – January 2023](https://www.reddit.com/r/java/comments/1058hgy/jetbrains_java_annotated_monthly_january_2023/)
 - [What really is “object best”?](https://www.reddit.com/r/java/comments/104zmr0/what_really_is_object_best/)
-- [Does the JVM do Data in-lineing?](https://www.reddit.com/r/java/comments/104fzq3/does_the_jvm_do_data_inlineing/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
