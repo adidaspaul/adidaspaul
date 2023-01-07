@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Java refresher courses](https://www.reddit.com/r/java/comments/105fdbb/java_refresher_courses/)
+- [DuckYAML - Simple Python script to convert .yml configuration to .properties for Spring projects](https://www.reddit.com/r/java/comments/105hnti/duckyaml_simple_python_script_to_convert_yml/)
+- [Hard hard is it going from C++ to Java?](https://www.reddit.com/r/java/comments/105gnxq/hard_hard_is_it_going_from_c_to_java/)
 - [JetBrains Java Annotated Monthly – January 2023](https://www.reddit.com/r/java/comments/1058hgy/jetbrains_java_annotated_monthly_january_2023/)
-- [What really is “object best”?](https://www.reddit.com/r/java/comments/104zmr0/what_really_is_object_best/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
