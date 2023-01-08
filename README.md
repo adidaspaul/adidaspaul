@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [What’s new in Jakarta Security 3](https://www.reddit.com/r/java/comments/106x3g6/whats_new_in_jakarta_security_3/)
 - [Testing without Mocks / Using &quot;Nullables&quot; as first class deliverable features](https://www.reddit.com/r/java/comments/106jhhb/testing_without_mocks_using_nullables_as_first/)
 - [Do Java developers have lower salaries than JavaScript developers?](https://www.reddit.com/r/java/comments/1065y7l/do_java_developers_have_lower_salaries_than/)
-- [GeneWarrior &lpar;DNA sequence manipulation web app&rpar; is now open source](https://www.reddit.com/r/java/comments/105mie9/genewarrior_dna_sequence_manipulation_web_app_is/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
