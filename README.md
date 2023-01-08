@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Do Java developers have lower salaries than JavaScript developers?](https://www.reddit.com/r/java/comments/1065y7l/do_java_developers_have_lower_salaries_than/)
 - [GeneWarrior &lpar;DNA sequence manipulation web app&rpar; is now open source](https://www.reddit.com/r/java/comments/105mie9/genewarrior_dna_sequence_manipulation_web_app_is/)
 - [JetBrains Java Annotated Monthly – January 2023](https://www.reddit.com/r/java/comments/1058hgy/jetbrains_java_annotated_monthly_january_2023/)
-- [What really is “object best”?](https://www.reddit.com/r/java/comments/104zmr0/what_really_is_object_best/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
