@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Major Improvements with Helidon and OpenAPI](https://www.reddit.com/r/java/comments/107mrn0/major_improvements_with_helidon_and_openapi/)
 - [Firebird JDBC driver Jaybird 5.0.0 final released](https://www.reddit.com/r/java/comments/107k4ef/firebird_jdbc_driver_jaybird_500_final_released/)
 - [Java 20 - Colossal Sparse Memory Segments](https://www.reddit.com/r/java/comments/107efg3/java_20_colossal_sparse_memory_segments/)
-- [Everything you might have missed in Java in 2022](https://www.reddit.com/r/java/comments/107d0kd/everything_you_might_have_missed_in_java_in_2022/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
