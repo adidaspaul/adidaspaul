@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Java 20 - Colossal Sparse Memory Segments](https://www.reddit.com/r/java/comments/107efg3/java_20_colossal_sparse_memory_segments/)
 - [Everything you might have missed in Java in 2022](https://www.reddit.com/r/java/comments/107d0kd/everything_you_might_have_missed_in_java_in_2022/)
 - [What’s new in Jakarta Security 3](https://www.reddit.com/r/java/comments/106x3g6/whats_new_in_jakarta_security_3/)
-- [Testing without Mocks / Using &quot;Nullables&quot; as first class deliverable features](https://www.reddit.com/r/java/comments/106jhhb/testing_without_mocks_using_nullables_as_first/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
