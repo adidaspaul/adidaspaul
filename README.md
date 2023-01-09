@@ -64,7 +64,7 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Hello everyone! What is the best book to learn Java from scratch? Thank you very much for your help!](https://www.reddit.com/r/java/comments/107j2iz/hello_everyone_what_is_the_best_book_to_learn/)
+- [Firebird JDBC driver Jaybird 5.0.0 final released](https://www.reddit.com/r/java/comments/107k4ef/firebird_jdbc_driver_jaybird_500_final_released/)
 - [Java 20 - Colossal Sparse Memory Segments](https://www.reddit.com/r/java/comments/107efg3/java_20_colossal_sparse_memory_segments/)
 - [Everything you might have missed in Java in 2022](https://www.reddit.com/r/java/comments/107d0kd/everything_you_might_have_missed_in_java_in_2022/)
 <!-- BLOG-POST-LIST:END -->
