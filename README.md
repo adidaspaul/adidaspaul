@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [JTest - an interactive educational lab to build a testing framework](https://www.reddit.com/r/java/comments/1070d05/jtest_an_interactive_educational_lab_to_build_a/)
 - [What’s new in Jakarta Security 3](https://www.reddit.com/r/java/comments/106x3g6/whats_new_in_jakarta_security_3/)
 - [Testing without Mocks / Using &quot;Nullables&quot; as first class deliverable features](https://www.reddit.com/r/java/comments/106jhhb/testing_without_mocks_using_nullables_as_first/)
-- [Do Java developers have lower salaries than JavaScript developers?](https://www.reddit.com/r/java/comments/1065y7l/do_java_developers_have_lower_salaries_than/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
