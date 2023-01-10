@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [.NET Developer tries Java Spring](https://www.reddit.com/r/java/comments/1080dvp/net_developer_tries_java_spring/)
 - [Java News Roundup: Ideal Graph Visualizer Open-Sourced, TomEE MicroProfile 5.0 Certification](https://www.reddit.com/r/java/comments/107syan/java_news_roundup_ideal_graph_visualizer/)
 - [Major Improvements with Helidon and OpenAPI](https://www.reddit.com/r/java/comments/107mrn0/major_improvements_with_helidon_and_openapi/)
-- [Firebird JDBC driver Jaybird 5.0.0 final released](https://www.reddit.com/r/java/comments/107k4ef/firebird_jdbc_driver_jaybird_500_final_released/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
