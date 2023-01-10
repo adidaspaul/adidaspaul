@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Yet another delimited continuations implementation and why Project Loom is a bit disappointing](https://www.reddit.com/r/java/comments/10889p1/yet_another_delimited_continuations/)
+- [GlassFish 7.0 Delivers Support for JDK 17 and Jakarta EE 10](https://www.reddit.com/r/java/comments/108837y/glassfish_70_delivers_support_for_jdk_17_and/)
 - [.NET Developer tries Java Spring](https://www.reddit.com/r/java/comments/1080dvp/net_developer_tries_java_spring/)
-- [Java News Roundup: Ideal Graph Visualizer Open-Sourced, TomEE MicroProfile 5.0 Certification](https://www.reddit.com/r/java/comments/107syan/java_news_roundup_ideal_graph_visualizer/)
-- [Major Improvements with Helidon and OpenAPI](https://www.reddit.com/r/java/comments/107mrn0/major_improvements_with_helidon_and_openapi/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
