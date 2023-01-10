@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Write once, run anywhere: An Android game using JavaFX and the GraalVM](https://www.reddit.com/r/java/comments/108da1o/write_once_run_anywhere_an_android_game_using/)
+- [Azure Cosmos DB API for NoSQL - The Java Ecosystem](https://www.reddit.com/r/java/comments/108ctyj/azure_cosmos_db_api_for_nosql_the_java_ecosystem/)
 - [I made a small OSS tool for &quot;Mavenizing&quot; old/local/proprietary JARs](https://www.reddit.com/r/java/comments/108bqu6/i_made_a_small_oss_tool_for_mavenizing/)
-- [Java 20: from ThreadLocals to ScopedValues](https://www.reddit.com/r/java/comments/108bk58/java_20_from_threadlocals_to_scopedvalues/)
-- [Yet another delimited continuations implementation and why Project Loom is a bit disappointing](https://www.reddit.com/r/java/comments/10889p1/yet_another_delimited_continuations/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
