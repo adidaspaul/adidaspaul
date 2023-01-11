@@ -64,8 +64,8 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Developers, what PC/laptop do you use?](https://www.reddit.com/r/java/comments/109dujn/developers_what_pclaptop_do_you_use/)
 - [A Java EE security module for web applications &lpar;and educational purposes&rpar;](https://www.reddit.com/r/java/comments/109bdoy/a_java_ee_security_module_for_web_applications/)
-- [Is there tool like pyinvoke for Java?](https://www.reddit.com/r/java/comments/109a6q7/is_there_tool_like_pyinvoke_for_java/)
 - [How to Migrate a Java Monolith to Microservices](https://www.reddit.com/r/java/comments/10998xk/how_to_migrate_a_java_monolith_to_microservices/)
 <!-- BLOG-POST-LIST:END -->
 
