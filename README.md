@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [I&#39;m working on Book Store web application](https://www.reddit.com/r/java/comments/109hxit/im_working_on_book_store_web_application/)
 - [Developers, what PC/laptop do you use?](https://www.reddit.com/r/java/comments/109dujn/developers_what_pclaptop_do_you_use/)
 - [A Java EE security module for web applications &lpar;and educational purposes&rpar;](https://www.reddit.com/r/java/comments/109bdoy/a_java_ee_security_module_for_web_applications/)
-- [How to Migrate a Java Monolith to Microservices](https://www.reddit.com/r/java/comments/10998xk/how_to_migrate_a_java_monolith_to_microservices/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
