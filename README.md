@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [[Beginner] Is a controller in Spring Boot, same as Servlet ?](https://www.reddit.com/r/java/comments/108xuh9/beginner_is_a_controller_in_spring_boot_same_as/)
 - [Kubernetes, Your Next Java App Server • Burr Sutter](https://www.reddit.com/r/java/comments/108k76x/kubernetes_your_next_java_app_server_burr_sutter/)
 - [MacOS Java devs - how is your experience developing Java applications on Apple Silicon &lpar;M1&rpar;?](https://www.reddit.com/r/java/comments/108jbqm/macos_java_devs_how_is_your_experience_developing/)
-- [The Jandex has moved to SmallRye!](https://www.reddit.com/r/java/comments/108g2vd/the_jandex_has_moved_to_smallrye/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
