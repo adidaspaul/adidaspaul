@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Testing a Java Memory Leak using System.gc&lpar;&rpar; and WeakReference](https://www.reddit.com/r/java/comments/109zy5e/testing_a_java_memory_leak_using_systemgc_and/)
 - [Inside Java podcast about Helidon Nima](https://www.reddit.com/r/java/comments/109u8dx/inside_java_podcast_about_helidon_nima/)
 - [A Java EE security module for web applications &lpar;and educational purposes&rpar;](https://www.reddit.com/r/java/comments/109bdoy/a_java_ee_security_module_for_web_applications/)
-- [How to Migrate a Java Monolith to Microservices](https://www.reddit.com/r/java/comments/10998xk/how_to_migrate_a_java_monolith_to_microservices/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
