@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Spring Boot 3 - What’s new in Spring Framework 6 and Spring Boot 3.0](https://www.reddit.com/r/java/comments/10ar74d/spring_boot_3_whats_new_in_spring_framework_6_and/)
 - [Bytecoder: Interpret and transpile JVM bytecode to JavaScript, OpenCL or WebAssembly](https://www.reddit.com/r/java/comments/10a6vjn/bytecoder_interpret_and_transpile_jvm_bytecode_to/)
 - [Architecture Pitfalls: Don’t use your ORM entities for everything — embrace the SQL!](https://www.reddit.com/r/java/comments/10a3nqq/architecture_pitfalls_dont_use_your_orm_entities/)
-- [Testing a Java Memory Leak using System.gc&lpar;&rpar; and WeakReference](https://www.reddit.com/r/java/comments/109zy5e/testing_a_java_memory_leak_using_systemgc_and/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
