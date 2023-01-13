@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Made my first Java Program as a MC Plugin that would optimize / allow for TPS stability for fun](https://www.reddit.com/r/java/comments/10aiae4/made_my_first_java_program_as_a_mc_plugin_that/)
 - [Bytecoder: Interpret and transpile JVM bytecode to JavaScript, OpenCL or WebAssembly](https://www.reddit.com/r/java/comments/10a6vjn/bytecoder_interpret_and_transpile_jvm_bytecode_to/)
 - [Architecture Pitfalls: Don’t use your ORM entities for everything — embrace the SQL!](https://www.reddit.com/r/java/comments/10a3nqq/architecture_pitfalls_dont_use_your_orm_entities/)
+- [Testing a Java Memory Leak using System.gc&lpar;&rpar; and WeakReference](https://www.reddit.com/r/java/comments/109zy5e/testing_a_java_memory_leak_using_systemgc_and/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
