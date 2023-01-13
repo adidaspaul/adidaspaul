@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Java 19 cannot be executed by latest JRE &lpar;1.8.0_351-b10&rpar; . Why?](https://www.reddit.com/r/java/comments/10axppb/java_19_cannot_be_executed_by_latest_jre_180/)
 - [Should I learn Java as a student aspiring for a backend role?](https://www.reddit.com/r/java/comments/10awynh/should_i_learn_java_as_a_student_aspiring_for_a/)
 - [Any resources for Java optimization/performance enhancement/testing?](https://www.reddit.com/r/java/comments/10aul8w/any_resources_for_java_optimizationperformance/)
+- [Change Data Capture with Debezium, PostgreSQL and QuestDB](https://www.reddit.com/r/java/comments/10atvxz/change_data_capture_with_debezium_postgresql_and/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
