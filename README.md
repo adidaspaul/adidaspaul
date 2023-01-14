@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Trying to make notepad clone using java swing. Looking for contributors in my project.](https://www.reddit.com/r/java/comments/10bhfxj/trying_to_make_notepad_clone_using_java_swing/)
 - [Java vs NodeJS](https://www.reddit.com/r/java/comments/10bcfv7/java_vs_nodejs/)
 - [Any resources for Java optimization/performance enhancement/testing?](https://www.reddit.com/r/java/comments/10aul8w/any_resources_for_java_optimizationperformance/)
-- [Change Data Capture with Debezium, PostgreSQL and QuestDB](https://www.reddit.com/r/java/comments/10atvxz/change_data_capture_with_debezium_postgresql_and/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
