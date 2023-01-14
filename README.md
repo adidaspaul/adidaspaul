@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Performance Pathologies in OpenJDK&#39;s BigInteger Implementation](https://www.reddit.com/r/java/comments/10bwdxx/performance_pathologies_in_openjdks_biginteger/)
 - [Java OSS with the WORST code quality you’ve ever seen?](https://www.reddit.com/r/java/comments/10bs2on/java_oss_with_the_worst_code_quality_youve_ever/)
 - [Java OSS with best code quality you’ve ever seen?](https://www.reddit.com/r/java/comments/10bn8sy/java_oss_with_best_code_quality_youve_ever_seen/)
-- [Java vs NodeJS](https://www.reddit.com/r/java/comments/10bcfv7/java_vs_nodejs/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
