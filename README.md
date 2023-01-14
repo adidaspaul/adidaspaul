@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Java OSS with best code quality you’ve ever seen?](https://www.reddit.com/r/java/comments/10bn8sy/java_oss_with_best_code_quality_youve_ever_seen/)
 - [Java vs NodeJS](https://www.reddit.com/r/java/comments/10bcfv7/java_vs_nodejs/)
 - [Any resources for Java optimization/performance enhancement/testing?](https://www.reddit.com/r/java/comments/10aul8w/any_resources_for_java_optimizationperformance/)
-- [Change Data Capture with Debezium, PostgreSQL and QuestDB](https://www.reddit.com/r/java/comments/10atvxz/change_data_capture_with_debezium_postgresql_and/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
