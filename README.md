@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [C# vs Java: in terms of fields they specialise in?](https://www.reddit.com/r/java/comments/10ck3ef/c_vs_java_in_terms_of_fields_they_specialise_in/)
 - [Synthesizer built with Java that renders objects on an oscilloscope in real-time using audio](https://www.reddit.com/r/java/comments/10cacam/synthesizer_built_with_java_that_renders_objects/)
 - [Mockito 5.0.0 released, requires Java 11](https://www.reddit.com/r/java/comments/10c3yk0/mockito_500_released_requires_java_11/)
-- [Improving Java&#39;s Sorting Interface](https://www.reddit.com/r/java/comments/10c1mxs/improving_javas_sorting_interface/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
