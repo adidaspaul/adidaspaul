@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Mockito 5.0.0 released, requires Java 11](https://www.reddit.com/r/java/comments/10c3yk0/mockito_500_released_requires_java_11/)
 - [Improving Java&#39;s Sorting Interface](https://www.reddit.com/r/java/comments/10c1mxs/improving_javas_sorting_interface/)
 - [Performance Pathologies in OpenJDK&#39;s BigInteger Implementation](https://www.reddit.com/r/java/comments/10bwdxx/performance_pathologies_in_openjdks_biginteger/)
-- [Java OSS with the WORST code quality you’ve ever seen?](https://www.reddit.com/r/java/comments/10bs2on/java_oss_with_the_worst_code_quality_youve_ever/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
