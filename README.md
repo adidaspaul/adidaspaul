@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [spring-web exceptions in controller](https://www.reddit.com/r/java/comments/10cnt17/springweb_exceptions_in_controller/)
 - [Java’s James Gosling on Fame, Freedom, Failure Modes and Fun](https://www.reddit.com/r/java/comments/10cnmjm/javas_james_gosling_on_fame_freedom_failure_modes/)
 - [C# vs Java: in terms of fields they specialise in?](https://www.reddit.com/r/java/comments/10ck3ef/c_vs_java_in_terms_of_fields_they_specialise_in/)
-- [Synthesizer built with Java that renders objects on an oscilloscope in real-time using audio](https://www.reddit.com/r/java/comments/10cacam/synthesizer_built_with_java_that_renders_objects/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
