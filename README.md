@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Personal experiences with Native &lpar;GraalVM&rpar; Images and Spring 6 / Spring Boot 3?](https://www.reddit.com/r/java/comments/10cv886/personal_experiences_with_native_graalvm_images/)
 - [Named and Optional Parameters in Java 17 - Redefined Version](https://www.reddit.com/r/java/comments/10ctf7x/named_and_optional_parameters_in_java_17/)
 - [Hashtag Jakarta EE #159](https://www.reddit.com/r/java/comments/10cp4a6/hashtag_jakarta_ee_159/)
-- [Java’s James Gosling on Fame, Freedom, Failure Modes and Fun](https://www.reddit.com/r/java/comments/10cnmjm/javas_james_gosling_on_fame_freedom_failure_modes/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
