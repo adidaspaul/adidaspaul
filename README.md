@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Synthesizer built with Java that renders objects on an oscilloscope in real-time using audio](https://www.reddit.com/r/java/comments/10cacam/synthesizer_built_with_java_that_renders_objects/)
 - [Mockito 5.0.0 released, requires Java 11](https://www.reddit.com/r/java/comments/10c3yk0/mockito_500_released_requires_java_11/)
 - [Improving Java&#39;s Sorting Interface](https://www.reddit.com/r/java/comments/10c1mxs/improving_javas_sorting_interface/)
-- [Performance Pathologies in OpenJDK&#39;s BigInteger Implementation](https://www.reddit.com/r/java/comments/10bwdxx/performance_pathologies_in_openjdks_biginteger/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
