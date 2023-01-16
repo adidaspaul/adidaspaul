@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Building a PostgreSQL Wire Protocol Server using Vanilla, Modern Java 21 &lpar;shows use of: Records, Sealed Types, Pattern Matching for Switch, Virtual Threads, and Panama FFM&rpar;](https://www.reddit.com/r/java/comments/10dlqs8/building_a_postgresql_wire_protocol_server_using/)
 - [Confusion about Garbage collection.](https://www.reddit.com/r/java/comments/10di1az/confusion_about_garbage_collection/)
 - [Getting Started With Java Development in 2023 — An Opinionated Guide](https://www.reddit.com/r/java/comments/10dhaot/getting_started_with_java_development_in_2023_an/)
-- [Jailer, a Swing-based universal database tool.](https://www.reddit.com/r/java/comments/10devfi/jailer_a_swingbased_universal_database_tool/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
