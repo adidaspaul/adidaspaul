@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Confusion about Garbage collection.](https://www.reddit.com/r/java/comments/10di1az/confusion_about_garbage_collection/)
+- [Getting Started With Java Development in 2023 — An Opinionated Guide](https://www.reddit.com/r/java/comments/10dhaot/getting_started_with_java_development_in_2023_an/)
 - [Jailer, a Swing-based universal database tool.](https://www.reddit.com/r/java/comments/10devfi/jailer_a_swingbased_universal_database_tool/)
-- [Writing a JVM vs writing a compiler?](https://www.reddit.com/r/java/comments/10dbxww/writing_a_jvm_vs_writing_a_compiler/)
-- [Personal experiences with Native &lpar;GraalVM&rpar; Images and Spring 6 / Spring Boot 3?](https://www.reddit.com/r/java/comments/10cv886/personal_experiences_with_native_graalvm_images/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
