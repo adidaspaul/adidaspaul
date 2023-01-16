@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Jailer, a Swing-based universal database tool.](https://www.reddit.com/r/java/comments/10devfi/jailer_a_swingbased_universal_database_tool/)
 - [Writing a JVM vs writing a compiler?](https://www.reddit.com/r/java/comments/10dbxww/writing_a_jvm_vs_writing_a_compiler/)
 - [Personal experiences with Native &lpar;GraalVM&rpar; Images and Spring 6 / Spring Boot 3?](https://www.reddit.com/r/java/comments/10cv886/personal_experiences_with_native_graalvm_images/)
-- [Named and Optional Parameters in Java 17 - Redefined Version](https://www.reddit.com/r/java/comments/10ctf7x/named_and_optional_parameters_in_java_17/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
