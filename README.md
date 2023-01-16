@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Is this book relevant for Java Network programming ?](https://www.reddit.com/r/java/comments/10do0w1/is_this_book_relevant_for_java_network_programming/)
 - [Building a PostgreSQL Wire Protocol Server using Vanilla, Modern Java 21 &lpar;shows use of: Records, Sealed Types, Pattern Matching for Switch, Virtual Threads, and Panama FFM&rpar;](https://www.reddit.com/r/java/comments/10dlqs8/building_a_postgresql_wire_protocol_server_using/)
 - [Confusion about Garbage collection.](https://www.reddit.com/r/java/comments/10di1az/confusion_about_garbage_collection/)
-- [Getting Started With Java Development in 2023 — An Opinionated Guide](https://www.reddit.com/r/java/comments/10dhaot/getting_started_with_java_development_in_2023_an/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
