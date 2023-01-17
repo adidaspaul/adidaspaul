@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Asking Book&lpar;Or other resources&rpar; Recommendations on DAO and DTO design patterns](https://www.reddit.com/r/java/comments/10e6ibp/asking_bookor_other_resources_recommendations_on/)
 - [Using jlink to cross-compile minimal JREs](https://www.reddit.com/r/java/comments/10dw0hb/using_jlink_to_crosscompile_minimal_jres/)
 - [Is this book relevant for Java Network programming ?](https://www.reddit.com/r/java/comments/10do0w1/is_this_book_relevant_for_java_network_programming/)
-- [Building a PostgreSQL Wire Protocol Server using Vanilla, Modern Java 21 &lpar;shows use of: Records, Sealed Types, Pattern Matching for Switch, Virtual Threads, and Panama FFM&rpar;](https://www.reddit.com/r/java/comments/10dlqs8/building_a_postgresql_wire_protocol_server_using/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
