@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [A simple to use Java 8 JWT Library. Verify, Sign, Encode, Decode all day.](https://www.reddit.com/r/java/comments/10euqng/a_simple_to_use_java_8_jwt_library_verify_sign/)
 - [Best java books for revision](https://www.reddit.com/r/java/comments/10eje8f/best_java_books_for_revision/)
 - [GraalVM Native Image meets RISC-V](https://www.reddit.com/r/java/comments/10eb11p/graalvm_native_image_meets_riscv/)
-- [Asking Book&lpar;Or other resources&rpar; Recommendations on DAO and DTO design patterns](https://www.reddit.com/r/java/comments/10e6ibp/asking_bookor_other_resources_recommendations_on/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
