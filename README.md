@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Why do I use the BaseJpaRepository instead of the default Spring Data JpaRepository](https://www.reddit.com/r/java/comments/10f14ki/why_do_i_use_the_basejparepository_instead_of_the/)
 - [A simple to use Java 8 JWT Library. Verify, Sign, Encode, Decode all day.](https://www.reddit.com/r/java/comments/10euqng/a_simple_to_use_java_8_jwt_library_verify_sign/)
 - [Best java books for revision](https://www.reddit.com/r/java/comments/10eje8f/best_java_books_for_revision/)
-- [GraalVM Native Image meets RISC-V](https://www.reddit.com/r/java/comments/10eb11p/graalvm_native_image_meets_riscv/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
