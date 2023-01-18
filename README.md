@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Why only inner classes can be static in java?](https://www.reddit.com/r/java/comments/10fjy8x/why_only_inner_classes_can_be_static_in_java/)
+- [eclipse not letting me add a folder?](https://www.reddit.com/r/java/comments/10fjp7b/eclipse_not_letting_me_add_a_folder/)
 - [JDK 11.0.18, 17.0.6, 8u361, 19.0.2 and 7u371 Have Been Released!](https://www.reddit.com/r/java/comments/10fh8r4/jdk_11018_1706_8u361_1902_and_7u371_have_been/)
-- [Why do I use the BaseJpaRepository instead of the default Spring Data JpaRepository](https://www.reddit.com/r/java/comments/10f14ki/why_do_i_use_the_basejparepository_instead_of_the/)
-- [A simple to use Java 8 JWT Library. Verify, Sign, Encode, Decode all day.](https://www.reddit.com/r/java/comments/10euqng/a_simple_to_use_java_8_jwt_library_verify_sign/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
