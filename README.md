@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The Ultimate Guide of Enum in Java](https://www.reddit.com/r/java/comments/10f5yjx/the_ultimate_guide_of_enum_in_java/)
+- [What company is this?](https://www.reddit.com/r/java/comments/10f5odi/what_company_is_this/)
 - [How can I build a FL stack using Apache Groovy and Apache Wayang?](https://www.reddit.com/r/java/comments/10f4av7/how_can_i_build_a_fl_stack_using_apache_groovy/)
-- [Why do I use the BaseJpaRepository instead of the default Spring Data JpaRepository](https://www.reddit.com/r/java/comments/10f14ki/why_do_i_use_the_basejparepository_instead_of_the/)
-- [A simple to use Java 8 JWT Library. Verify, Sign, Encode, Decode all day.](https://www.reddit.com/r/java/comments/10euqng/a_simple_to_use_java_8_jwt_library_verify_sign/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
