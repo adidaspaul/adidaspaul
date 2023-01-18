@@ -66,7 +66,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [Best courses to learn Java and JVM](https://www.reddit.com/r/java/comments/10f7150/best_courses_to_learn_java_and_jvm/)
 - [The Ultimate Guide of Enum in Java](https://www.reddit.com/r/java/comments/10f5yjx/the_ultimate_guide_of_enum_in_java/)
-- [What company is this?](https://www.reddit.com/r/java/comments/10f5odi/what_company_is_this/)
+- [How can I build a FL stack using Apache Groovy and Apache Wayang?](https://www.reddit.com/r/java/comments/10f4av7/how_can_i_build_a_fl_stack_using_apache_groovy/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
