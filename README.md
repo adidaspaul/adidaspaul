@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Suitable storage for vector data](https://www.reddit.com/r/java/comments/10fpbdj/suitable_storage_for_vector_data/)
 - [I made a standalone job application tracker &lpar;java spring boot + react&rpar; while job hunting](https://www.reddit.com/r/java/comments/10forlm/i_made_a_standalone_job_application_tracker_java/)
 - [Mouse Jiggler application released](https://www.reddit.com/r/java/comments/10fo82g/mouse_jiggler_application_released/)
-- [Thoughts on Birt Report for pdf reports](https://www.reddit.com/r/java/comments/10flyxw/thoughts_on_birt_report_for_pdf_reports/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
