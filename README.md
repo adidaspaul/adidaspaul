@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Can someone explain why I&#39;m already getting errors? I&#39;m new to Java and am trying to make a program that displays sum of smallest and largest numbers. I&#39;m using the netbeans ide.](https://www.reddit.com/r/java/comments/10fwedz/can_someone_explain_why_im_already_getting_errors/)
+- [Need your feedback on a tool that auto-generates unit tests for java code](https://www.reddit.com/r/java/comments/10fvnvi/need_your_feedback_on_a_tool_that_autogenerates/)
 - [Thoughts on Birt Report for pdf reports](https://www.reddit.com/r/java/comments/10flyxw/thoughts_on_birt_report_for_pdf_reports/)
-- [JDK 11.0.18, 17.0.6, 8u361, 19.0.2 and 7u371 Have Been Released!](https://www.reddit.com/r/java/comments/10fh8r4/jdk_11018_1706_8u361_1902_and_7u371_have_been/)
-- [Why do I use the BaseJpaRepository instead of the default Spring Data JpaRepository](https://www.reddit.com/r/java/comments/10f14ki/why_do_i_use_the_basejparepository_instead_of_the/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
