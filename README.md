@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Is Java worth learning in 2023 &lpar;for jobs, supply/demand curve, salaries&rpar;?](https://www.reddit.com/r/java/comments/10g0gew/is_java_worth_learning_in_2023_for_jobs/)
+- [Preview Features: A Look Back, and A Look Ahead &lpar;Informational JEP Draft&rpar;](https://www.reddit.com/r/java/comments/10fzarg/preview_features_a_look_back_and_a_look_ahead/)
 - [Java&#39;s Plans for 2023 - Inside Java Newscast #40](https://www.reddit.com/r/java/comments/10fxrit/javas_plans_for_2023_inside_java_newscast_40/)
-- [Apache Druid 25.0 Delivers Multi-Stage Query Engine and Kubernetes Task Management](https://www.reddit.com/r/java/comments/10fxfw1/apache_druid_250_delivers_multistage_query_engine/)
-- [Need your feedback on a tool that auto-generates unit tests for java code](https://www.reddit.com/r/java/comments/10fvnvi/need_your_feedback_on_a_tool_that_autogenerates/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
