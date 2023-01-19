@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [I made a standalone job application tracker &lpar;java spring boot + react&rpar; while job hunting](https://www.reddit.com/r/java/comments/10forlm/i_made_a_standalone_job_application_tracker_java/)
 - [Mouse Jiggler application released](https://www.reddit.com/r/java/comments/10fo82g/mouse_jiggler_application_released/)
 - [Thoughts on Birt Report for pdf reports](https://www.reddit.com/r/java/comments/10flyxw/thoughts_on_birt_report_for_pdf_reports/)
+- [JDK 11.0.18, 17.0.6, 8u361, 19.0.2 and 7u371 Have Been Released!](https://www.reddit.com/r/java/comments/10fh8r4/jdk_11018_1706_8u361_1902_and_7u371_have_been/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
