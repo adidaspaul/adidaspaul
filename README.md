@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [JavaDoc may support Markdown !](https://www.reddit.com/r/java/comments/10h1z0e/javadoc_may_support_markdown/)
 - [Do you need JNDI in a Spring boot app with embedded tomcat?](https://www.reddit.com/r/java/comments/10gx2qt/do_you_need_jndi_in_a_spring_boot_app_with/)
 - [Spring Modulith 0.3 released](https://www.reddit.com/r/java/comments/10guqop/spring_modulith_03_released/)
-- [Opensource IntelliJava: integrate with the latest deep learning frameworks using few lines.](https://www.reddit.com/r/java/comments/10geiw7/opensource_intellijava_integrate_with_the_latest/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
