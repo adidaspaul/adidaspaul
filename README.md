@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Spring Modulith 0.3 released](https://www.reddit.com/r/java/comments/10guqop/spring_modulith_03_released/)
 - [Opensource IntelliJava: integrate with the latest deep learning frameworks using few lines.](https://www.reddit.com/r/java/comments/10geiw7/opensource_intellijava_integrate_with_the_latest/)
 - [Preview Features: A Look Back, and A Look Ahead &lpar;Informational JEP Draft&rpar;](https://www.reddit.com/r/java/comments/10fzarg/preview_features_a_look_back_and_a_look_ahead/)
-- [Java&#39;s Plans for 2023 - Inside Java Newscast #40](https://www.reddit.com/r/java/comments/10fxrit/javas_plans_for_2023_inside_java_newscast_40/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
