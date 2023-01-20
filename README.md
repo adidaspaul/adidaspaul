@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Any experience with Jsparrow?](https://www.reddit.com/r/java/comments/10h8wot/any_experience_with_jsparrow/)
 - [Record Success Stories](https://www.reddit.com/r/java/comments/10h365i/record_success_stories/)
 - [JavaDoc may support Markdown !](https://www.reddit.com/r/java/comments/10h1z0e/javadoc_may_support_markdown/)
-- [Spring Modulith 0.3 released](https://www.reddit.com/r/java/comments/10guqop/spring_modulith_03_released/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
