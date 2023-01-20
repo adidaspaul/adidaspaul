@@ -64,8 +64,8 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Record Success Stories](https://www.reddit.com/r/java/comments/10h365i/record_success_stories/)
 - [JavaDoc may support Markdown !](https://www.reddit.com/r/java/comments/10h1z0e/javadoc_may_support_markdown/)
-- [Do you need JNDI in a Spring boot app with embedded tomcat?](https://www.reddit.com/r/java/comments/10gx2qt/do_you_need_jndi_in_a_spring_boot_app_with/)
 - [Spring Modulith 0.3 released](https://www.reddit.com/r/java/comments/10guqop/spring_modulith_03_released/)
 <!-- BLOG-POST-LIST:END -->
 
