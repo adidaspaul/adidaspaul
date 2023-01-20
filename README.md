@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Do you need JNDI in a Spring boot app with embedded tomcat?](https://www.reddit.com/r/java/comments/10gx2qt/do_you_need_jndi_in_a_spring_boot_app_with/)
+- [Host a dark service with Java, Spring Boot, and OpenZiti](https://www.reddit.com/r/java/comments/10gwvr3/host_a_dark_service_with_java_spring_boot_and/)
 - [Spring Modulith 0.3 released](https://www.reddit.com/r/java/comments/10guqop/spring_modulith_03_released/)
-- [Opensource IntelliJava: integrate with the latest deep learning frameworks using few lines.](https://www.reddit.com/r/java/comments/10geiw7/opensource_intellijava_integrate_with_the_latest/)
-- [Preview Features: A Look Back, and A Look Ahead &lpar;Informational JEP Draft&rpar;](https://www.reddit.com/r/java/comments/10fzarg/preview_features_a_look_back_and_a_look_ahead/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
