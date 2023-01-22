@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to know why my Spring Boot app is slower on startup?](https://www.reddit.com/r/java/comments/10ithz3/how_to_know_why_my_spring_boot_app_is_slower_on/)
 - [How fast new Spring boot boots ?](https://www.reddit.com/r/java/comments/10ijp30/how_fast_new_spring_boot_boots/)
 - [RIFE2 web framework v1.0.0 released!](https://www.reddit.com/r/java/comments/10i2ud9/rife2_web_framework_v100_released/)
-- [JEP draft: No longer require super&lpar;&rpar; and this&lpar;&rpar; to appear first in a constructor](https://www.reddit.com/r/java/comments/10hoc28/jep_draft_no_longer_require_super_and_this_to/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
