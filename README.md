@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [[Apache Netbeans] Security Incident: Netbeans 12.5 executable flagged as malware by four anti-viruses](https://www.reddit.com/r/java/comments/10iaom0/apache_netbeans_security_incident_netbeans_125/)
 - [RIFE2 web framework v1.0.0 released!](https://www.reddit.com/r/java/comments/10i2ud9/rife2_web_framework_v100_released/)
 - [JEP draft: No longer require super&lpar;&rpar; and this&lpar;&rpar; to appear first in a constructor](https://www.reddit.com/r/java/comments/10hoc28/jep_draft_no_longer_require_super_and_this_to/)
-- [Any experience with Jsparrow?](https://www.reddit.com/r/java/comments/10h8wot/any_experience_with_jsparrow/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
