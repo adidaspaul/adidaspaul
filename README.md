@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [CV API](https://www.reddit.com/r/java/comments/10igfqq/cv_api/)
 - [How can I host my Spring boot website for free?](https://www.reddit.com/r/java/comments/10ieje9/how_can_i_host_my_spring_boot_website_for_free/)
 - [[Apache Netbeans] Security Incident: Netbeans 12.5 executable flagged as malware by four anti-viruses](https://www.reddit.com/r/java/comments/10iaom0/apache_netbeans_security_incident_netbeans_125/)
-- [RIFE2 web framework v1.0.0 released!](https://www.reddit.com/r/java/comments/10i2ud9/rife2_web_framework_v100_released/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
