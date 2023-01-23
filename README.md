@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to request new Java features like import alias?](https://www.reddit.com/r/java/comments/10jfba1/how_to_request_new_java_features_like_import_alias/)
+- [Minesweeper Implemented with Communicating Sequential Processes &lpar;CSP&rpar; and Project Loom Virtual Threads. Tiles are Threads that Communicate with Channels.](https://www.reddit.com/r/java/comments/10jf0xn/minesweeper_implemented_with_communicating/)
 - [Lifetimes in the Foreign Function &amp; Memory API](https://www.reddit.com/r/java/comments/10jd53z/lifetimes_in_the_foreign_function_memory_api/)
-- [How to know why my Spring Boot app is slower on startup?](https://www.reddit.com/r/java/comments/10ithz3/how_to_know_why_my_spring_boot_app_is_slower_on/)
-- [How fast new Spring boot boots ?](https://www.reddit.com/r/java/comments/10ijp30/how_fast_new_spring_boot_boots/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
