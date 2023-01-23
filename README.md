@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Learn: OOP &lpar;Object OrientedProgramming&rpar; Using Java](https://www.reddit.com/r/java/comments/10jbg9h/learn_oop_object_orientedprogramming_using_java/)
 - [How to know why my Spring Boot app is slower on startup?](https://www.reddit.com/r/java/comments/10ithz3/how_to_know_why_my_spring_boot_app_is_slower_on/)
 - [How fast new Spring boot boots ?](https://www.reddit.com/r/java/comments/10ijp30/how_fast_new_spring_boot_boots/)
-- [RIFE2 web framework v1.0.0 released!](https://www.reddit.com/r/java/comments/10i2ud9/rife2_web_framework_v100_released/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
