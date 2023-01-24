@@ -64,7 +64,7 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Using MemorySegment](https://www.reddit.com/r/java/comments/10jwdrm/using_memorysegment/)
+- [GitHub - tenaf0/drm-shell A toy graphical shell running directly on top of Linux&#39;s DRM subsystem written in modern Java &lpar;20, early access&rpar; using Foreign Function &amp; Memory API.](https://www.reddit.com/r/java/comments/10k0c7o/github_tenaf0drmshell_a_toy_graphical_shell/)
 - [How to request new Java features like import alias?](https://www.reddit.com/r/java/comments/10jfba1/how_to_request_new_java_features_like_import_alias/)
 - [Minesweeper Implemented with Communicating Sequential Processes &lpar;CSP&rpar; and Project Loom Virtual Threads. Tiles are Threads that Communicate with Channels.](https://www.reddit.com/r/java/comments/10jf0xn/minesweeper_implemented_with_communicating/)
 <!-- BLOG-POST-LIST:END -->
