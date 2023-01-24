@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [In need of help to answer 2 questions](https://www.reddit.com/r/java/comments/10k5d0r/in_need_of_help_to_answer_2_questions/)
 - [Opened a ticket to jetbrains around tailwind support for JTE](https://www.reddit.com/r/java/comments/10k3bsp/opened_a_ticket_to_jetbrains_around_tailwind/)
 - [GitHub - tenaf0/drm-shell A toy graphical shell running directly on top of Linux&#39;s DRM subsystem written in modern Java &lpar;20, early access&rpar; using Foreign Function &amp; Memory API.](https://www.reddit.com/r/java/comments/10k0c7o/github_tenaf0drmshell_a_toy_graphical_shell/)
-- [How to request new Java features like import alias?](https://www.reddit.com/r/java/comments/10jfba1/how_to_request_new_java_features_like_import_alias/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
