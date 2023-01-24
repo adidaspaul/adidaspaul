@@ -64,8 +64,8 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [App Idea: An app where you can store Error logs for future reference](https://www.reddit.com/r/java/comments/10jypo1/app_idea_an_app_where_you_can_store_error_logs/)
 - [Using MemorySegment](https://www.reddit.com/r/java/comments/10jwdrm/using_memorysegment/)
-- [Humble Tech Book Bundle: Software Engineering and Design by Taylor and Francis with books for Java &lpar;pay what you want and help charity&rpar;](https://www.reddit.com/r/java/comments/10jr5wb/humble_tech_book_bundle_software_engineering_and/)
 - [How to request new Java features like import alias?](https://www.reddit.com/r/java/comments/10jfba1/how_to_request_new_java_features_like_import_alias/)
 <!-- BLOG-POST-LIST:END -->
 
