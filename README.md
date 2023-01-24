@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Humble Tech Book Bundle: Software Engineering and Design by Taylor and Francis with books for Java &lpar;pay what you want and help charity&rpar;](https://www.reddit.com/r/java/comments/10jr5wb/humble_tech_book_bundle_software_engineering_and/)
 - [How to request new Java features like import alias?](https://www.reddit.com/r/java/comments/10jfba1/how_to_request_new_java_features_like_import_alias/)
 - [Minesweeper Implemented with Communicating Sequential Processes &lpar;CSP&rpar; and Project Loom Virtual Threads. Tiles are Threads that Communicate with Channels.](https://www.reddit.com/r/java/comments/10jf0xn/minesweeper_implemented_with_communicating/)
-- [Lifetimes in the Foreign Function &amp; Memory API](https://www.reddit.com/r/java/comments/10jd53z/lifetimes_in_the_foreign_function_memory_api/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
