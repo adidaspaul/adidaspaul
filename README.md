@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [App Idea: An app where you can store Error logs for future reference](https://www.reddit.com/r/java/comments/10jypo1/app_idea_an_app_where_you_can_store_error_logs/)
 - [Using MemorySegment](https://www.reddit.com/r/java/comments/10jwdrm/using_memorysegment/)
 - [How to request new Java features like import alias?](https://www.reddit.com/r/java/comments/10jfba1/how_to_request_new_java_features_like_import_alias/)
+- [Minesweeper Implemented with Communicating Sequential Processes &lpar;CSP&rpar; and Project Loom Virtual Threads. Tiles are Threads that Communicate with Channels.](https://www.reddit.com/r/java/comments/10jf0xn/minesweeper_implemented_with_communicating/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
