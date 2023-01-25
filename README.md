@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [SourceBuddy Brings Eval To Java](https://www.reddit.com/r/java/comments/10kt5w4/sourcebuddy_brings_eval_to_java/)
 - [Convert Application Logs into State Diagram for prod monitoring](https://www.reddit.com/r/java/comments/10kq9jf/convert_application_logs_into_state_diagram_for/)
 - [Your allocation rate could be hurting vertical scalability](https://www.reddit.com/r/java/comments/10kdhvt/your_allocation_rate_could_be_hurting_vertical/)
-- [Opened a ticket to jetbrains around tailwind support for JTE](https://www.reddit.com/r/java/comments/10k3bsp/opened_a_ticket_to_jetbrains_around_tailwind/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
