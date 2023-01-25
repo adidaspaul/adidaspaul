@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Oracle changing Java licensing to per user vs. per processor - prices could go up a lot](https://www.reddit.com/r/java/comments/10l2we6/oracle_changing_java_licensing_to_per_user_vs_per/)
 - [SourceBuddy Brings Eval To Java](https://www.reddit.com/r/java/comments/10kt5w4/sourcebuddy_brings_eval_to_java/)
 - [Convert Application Logs into State Diagram for prod monitoring](https://www.reddit.com/r/java/comments/10kq9jf/convert_application_logs_into_state_diagram_for/)
-- [Your allocation rate could be hurting vertical scalability](https://www.reddit.com/r/java/comments/10kdhvt/your_allocation_rate_could_be_hurting_vertical/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
