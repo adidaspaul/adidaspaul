@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Convert Application Logs into State Diagram for prod monitoring](https://www.reddit.com/r/java/comments/10kq9jf/convert_application_logs_into_state_diagram_for/)
 - [Your allocation rate could be hurting vertical scalability](https://www.reddit.com/r/java/comments/10kdhvt/your_allocation_rate_could_be_hurting_vertical/)
 - [Opened a ticket to jetbrains around tailwind support for JTE](https://www.reddit.com/r/java/comments/10k3bsp/opened_a_ticket_to_jetbrains_around_tailwind/)
-- [GitHub - tenaf0/drm-shell A toy graphical shell running directly on top of Linux&#39;s DRM subsystem written in modern Java &lpar;20, early access&rpar; using Foreign Function &amp; Memory API.](https://www.reddit.com/r/java/comments/10k0c7o/github_tenaf0drmshell_a_toy_graphical_shell/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
