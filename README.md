@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Tips](https://www.reddit.com/r/java/comments/10m0tmx/tips/)
 - [JEP draft: Primitive types in patterns, instanceof, and switch](https://www.reddit.com/r/java/comments/10lx98p/jep_draft_primitive_types_in_patterns_instanceof/)
 - [To use Java Collections or another collections library? &lpar;Eclipse, Guava, Apache&rpar;](https://www.reddit.com/r/java/comments/10lwoni/to_use_java_collections_or_another_collections/)
-- [Java Enterprise Project Details](https://www.reddit.com/r/java/comments/10lwi12/java_enterprise_project_details/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
