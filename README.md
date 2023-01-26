@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [First time having 2 files interact](https://www.reddit.com/r/java/comments/10ldpqv/first_time_having_2_files_interact/)
 - [Oracle changing Java licensing to per user vs. per processor - prices could go up a lot](https://www.reddit.com/r/java/comments/10l2we6/oracle_changing_java_licensing_to_per_user_vs_per/)
 - [SourceBuddy Brings Eval To Java](https://www.reddit.com/r/java/comments/10kt5w4/sourcebuddy_brings_eval_to_java/)
-- [Convert Application Logs into State Diagram for prod monitoring](https://www.reddit.com/r/java/comments/10kq9jf/convert_application_logs_into_state_diagram_for/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
