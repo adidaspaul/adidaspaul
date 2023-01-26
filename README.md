@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The Ultimate Coding Pal &lpar;AI-Powered&rpar;](https://www.reddit.com/r/java/comments/10ltnjx/the_ultimate_coding_pal_aipowered/)
+- [JDK 21 - Performance Improvements Revealed](https://www.reddit.com/r/java/comments/10lthgz/jdk_21_performance_improvements_revealed/)
 - [I created a list of 6 Free Spring Boot Courses For Java Programmers. Check it out!](https://www.reddit.com/r/java/comments/10lqk3r/i_created_a_list_of_6_free_spring_boot_courses/)
-- [16 Missing Features in the VS Code Debugger &lpar;that are available in IntelliJ/IDEA&rpar;](https://www.reddit.com/r/java/comments/10llu64/16_missing_features_in_the_vs_code_debugger_that/)
-- [Oracle changing Java licensing to per user vs. per processor - prices could go up a lot](https://www.reddit.com/r/java/comments/10l2we6/oracle_changing_java_licensing_to_per_user_vs_per/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
