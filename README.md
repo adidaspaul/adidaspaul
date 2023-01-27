@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [I don&#39;t TDD. Pragmatic Testing With Java - Google Photos Clone #2](https://www.reddit.com/r/java/comments/10miq00/i_dont_tdd_pragmatic_testing_with_java_google/)
 - [Ahead of Time Optimizations in Spring 6](https://www.reddit.com/r/java/comments/10md1iu/ahead_of_time_optimizations_in_spring_6/)
 - [Java or C# for backed](https://www.reddit.com/r/java/comments/10mcaqr/java_or_c_for_backed/)
-- [Refactoring giant codebase](https://www.reddit.com/r/java/comments/10m8o0c/refactoring_giant_codebase/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
