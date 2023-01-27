@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [&quot;Up For Grabs&quot;](https://www.reddit.com/r/java/comments/10mvpgb/up_for_grabs/)
 - [Are these still valid problems with Java](https://www.reddit.com/r/java/comments/10mqziw/are_these_still_valid_problems_with_java/)
 - [What are your thoughts on Spring in 2023?](https://www.reddit.com/r/java/comments/10mqnyq/what_are_your_thoughts_on_spring_in_2023/)
-- [JDK enters 2023: plans for the year, first JEPs and Preview feature retrospective](https://www.reddit.com/r/java/comments/10mlmgr/jdk_enters_2023_plans_for_the_year_first_jeps_and/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
