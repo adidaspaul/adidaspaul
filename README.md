@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [JDK enters 2023: plans for the year, first JEPs and Preview feature retrospective](https://www.reddit.com/r/java/comments/10mlmgr/jdk_enters_2023_plans_for_the_year_first_jeps_and/)
 - [Latest NoSQL Java Ecosystem Updates 2022 Q3 &amp; Q4](https://www.reddit.com/r/java/comments/10mknv8/latest_nosql_java_ecosystem_updates_2022_q3_q4/)
 - [I don&#39;t TDD. Pragmatic Testing With Java - Google Photos Clone #2](https://www.reddit.com/r/java/comments/10miq00/i_dont_tdd_pragmatic_testing_with_java_google/)
-- [Ahead of Time Optimizations in Spring 6](https://www.reddit.com/r/java/comments/10md1iu/ahead_of_time_optimizations_in_spring_6/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
