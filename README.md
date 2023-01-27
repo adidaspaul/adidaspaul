@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Ahead of Time Optimizations in Spring 6](https://www.reddit.com/r/java/comments/10md1iu/ahead_of_time_optimizations_in_spring_6/)
 - [Java or C# for backed](https://www.reddit.com/r/java/comments/10mcaqr/java_or_c_for_backed/)
 - [Refactoring giant codebase](https://www.reddit.com/r/java/comments/10m8o0c/refactoring_giant_codebase/)
-- [JEP draft: Primitive types in patterns, instanceof, and switch](https://www.reddit.com/r/java/comments/10lx98p/jep_draft_primitive_types_in_patterns_instanceof/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
