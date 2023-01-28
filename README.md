@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [System.out.print problem](https://www.reddit.com/r/java/comments/10n8dg5/systemoutprint_problem/)
 - [Looking for active projects for an extensible test harness. Bonus for industry support. Suggestions?](https://www.reddit.com/r/java/comments/10mzrhh/looking_for_active_projects_for_an_extensible/)
 - [&quot;Up For Grabs&quot;](https://www.reddit.com/r/java/comments/10mvpgb/up_for_grabs/)
-- [Are these still valid problems with Java](https://www.reddit.com/r/java/comments/10mqziw/are_these_still_valid_problems_with_java/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
