@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [How to make variable that gets updated on different files?](https://www.reddit.com/r/java/comments/10no7ut/how_to_make_variable_that_gets_updated_on/)
 - [any opinion good or bed about a code that smells?](https://www.reddit.com/r/java/comments/10ndzrf/any_opinion_good_or_bed_about_a_code_that_smells/)
 - [How to go about writing a library?](https://www.reddit.com/r/java/comments/10nbeyq/how_to_go_about_writing_a_library/)
+- [What are your thoughts on Spring in 2023?](https://www.reddit.com/r/java/comments/10mqnyq/what_are_your_thoughts_on_spring_in_2023/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
