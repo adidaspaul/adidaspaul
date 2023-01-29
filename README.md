@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Web Scraping Google Search Results With Java](https://www.reddit.com/r/java/comments/10o8yy9/web_scraping_google_search_results_with_java/)
 - [How to scale Spring application with a YugabyteDB cluster](https://www.reddit.com/r/java/comments/10o88vf/how_to_scale_spring_application_with_a_yugabytedb/)
 - [RIFE2 web framework IntelliJ IDEA Plugin released](https://www.reddit.com/r/java/comments/10o824p/rife2_web_framework_intellij_idea_plugin_released/)
-- [Running Piranha Embedded with Spring Boot](https://www.reddit.com/r/java/comments/10o7tjv/running_piranha_embedded_with_spring_boot/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
