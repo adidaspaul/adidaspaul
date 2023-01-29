@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Java Modules in Real Life](https://www.reddit.com/r/java/comments/10o6fht/java_modules_in_real_life/)
-- [What are your thoughts on Spring in 2023?](https://www.reddit.com/r/java/comments/10mqnyq/what_are_your_thoughts_on_spring_in_2023/)
-- [JDK enters 2023: plans for the year, first JEPs and Preview feature retrospective](https://www.reddit.com/r/java/comments/10mlmgr/jdk_enters_2023_plans_for_the_year_first_jeps_and/)
+- [How to scale Spring application with a YugabyteDB cluster](https://www.reddit.com/r/java/comments/10o88vf/how_to_scale_spring_application_with_a_yugabytedb/)
+- [RIFE2 web framework IntelliJ IDEA Plugin released](https://www.reddit.com/r/java/comments/10o824p/rife2_web_framework_intellij_idea_plugin_released/)
+- [Running Piranha Embedded with Spring Boot](https://www.reddit.com/r/java/comments/10o7tjv/running_piranha_embedded_with_spring_boot/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
