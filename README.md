@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Trying to download Emmet in STS](https://www.reddit.com/r/java/comments/10olneb/trying_to_download_emmet_in_sts/)
 - [Is learning and mastering Spring &amp; Spring boot worth it in 2023 ?](https://www.reddit.com/r/java/comments/10obmyy/is_learning_and_mastering_spring_spring_boot/)
 - [How to scale Spring application with a YugabyteDB cluster](https://www.reddit.com/r/java/comments/10o88vf/how_to_scale_spring_application_with_a_yugabytedb/)
-- [RIFE2 web framework IntelliJ IDEA Plugin released](https://www.reddit.com/r/java/comments/10o824p/rife2_web_framework_intellij_idea_plugin_released/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
