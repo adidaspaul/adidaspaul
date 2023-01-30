@@ -66,7 +66,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [Devoxx UK 2023](https://www.reddit.com/r/java/comments/10p3w4f/devoxx_uk_2023/)
 - [Useful &amp; Unknown Java Libraries - Piotr&#39;s TechBlog](https://www.reddit.com/r/java/comments/10oxzxb/useful_unknown_java_libraries_piotrs_techblog/)
-- [What are the problem that we might end up facing](https://www.reddit.com/r/java/comments/10owrps/what_are_the_problem_that_we_might_end_up_facing/)
+- [Is learning and mastering Spring &amp; Spring boot worth it in 2023 ?](https://www.reddit.com/r/java/comments/10obmyy/is_learning_and_mastering_spring_spring_boot/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
