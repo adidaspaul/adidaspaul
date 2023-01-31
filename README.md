@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Where does the dislike/hate for Java come from?](https://www.reddit.com/r/java/comments/10qcrh9/where_does_the_dislikehate_for_java_come_from/)
 - [From where can I learn more about Backend Applications Performance Optimization tools and how to use them.](https://www.reddit.com/r/java/comments/10q8wtm/from_where_can_i_learn_more_about_backend/)
 - [What are the main things I need to know to be hired as a Java developer?](https://www.reddit.com/r/java/comments/10q3qor/what_are_the_main_things_i_need_to_know_to_be/)
-- [GlassFish 7.0.1 released!](https://www.reddit.com/r/java/comments/10q3kom/glassfish_701_released/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
