@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Permanently .showopendialog&lpar;&rpar;](https://www.reddit.com/r/java/comments/10pj07s/permanently_showopendialog/)
 - [Devoxx UK 2023](https://www.reddit.com/r/java/comments/10p3w4f/devoxx_uk_2023/)
 - [Useful &amp; Unknown Java Libraries - Piotr&#39;s TechBlog](https://www.reddit.com/r/java/comments/10oxzxb/useful_unknown_java_libraries_piotrs_techblog/)
+- [Is learning and mastering Spring &amp; Spring boot worth it in 2023 ?](https://www.reddit.com/r/java/comments/10obmyy/is_learning_and_mastering_spring_spring_boot/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
