@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Unconventional Programming Tips: Search Better](https://www.reddit.com/r/java/comments/10q5sux/unconventional_programming_tips_search_better/)
 - [What are the main things I need to know to be hired as a Java developer?](https://www.reddit.com/r/java/comments/10q3qor/what_are_the_main_things_i_need_to_know_to_be/)
 - [GlassFish 7.0.1 released!](https://www.reddit.com/r/java/comments/10q3kom/glassfish_701_released/)
-- [Devoxx UK 2023](https://www.reddit.com/r/java/comments/10p3w4f/devoxx_uk_2023/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
