@@ -66,7 +66,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [JVM Field Guide: Memory](https://www.reddit.com/r/java/comments/10qss6t/jvm_field_guide_memory/)
 - [LogCaptor 2.8.0 Released](https://www.reddit.com/r/java/comments/10qskhw/logcaptor_280_released/)
-- [Spring boot project](https://www.reddit.com/r/java/comments/10qn2ik/spring_boot_project/)
+- [Will the Java pricing changes affect dev jobs?](https://www.reddit.com/r/java/comments/10qfk0l/will_the_java_pricing_changes_affect_dev_jobs/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
