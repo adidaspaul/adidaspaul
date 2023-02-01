@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Creating a project that keyboard presses a certain number/symbol/letter 96 times. Need help on making it so KeyEvent can take a variable, any way how?](https://www.reddit.com/r/java/comments/10qhzso/creating_a_project_that_keyboard_presses_a/)
 - [Will the Java pricing changes affect dev jobs?](https://www.reddit.com/r/java/comments/10qfk0l/will_the_java_pricing_changes_affect_dev_jobs/)
 - [Where does the dislike/hate for Java come from?](https://www.reddit.com/r/java/comments/10qcrh9/where_does_the_dislikehate_for_java_come_from/)
-- [From where can I learn more about Backend Applications Performance Optimization tools and how to use them.](https://www.reddit.com/r/java/comments/10q8wtm/from_where_can_i_learn_more_about_backend/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
