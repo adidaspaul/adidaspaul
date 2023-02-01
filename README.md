@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Oracle Java Price Hike Could Be an Opportunity for OpenJDK Vendors](https://www.reddit.com/r/java/comments/10r8fhu/oracle_java_price_hike_could_be_an_opportunity/)
 - [How are Lambdas serialized?](https://www.reddit.com/r/java/comments/10r1762/how_are_lambdas_serialized/)
 - [JVM Field Guide: Memory](https://www.reddit.com/r/java/comments/10qss6t/jvm_field_guide_memory/)
-- [LogCaptor 2.8.0 Released](https://www.reddit.com/r/java/comments/10qskhw/logcaptor_280_released/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
