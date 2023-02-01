@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Will the Java pricing changes affect dev jobs?](https://www.reddit.com/r/java/comments/10qfk0l/will_the_java_pricing_changes_affect_dev_jobs/)
 - [Where does the dislike/hate for Java come from?](https://www.reddit.com/r/java/comments/10qcrh9/where_does_the_dislikehate_for_java_come_from/)
 - [From where can I learn more about Backend Applications Performance Optimization tools and how to use them.](https://www.reddit.com/r/java/comments/10q8wtm/from_where_can_i_learn_more_about_backend/)
-- [What are the main things I need to know to be hired as a Java developer?](https://www.reddit.com/r/java/comments/10q3qor/what_are_the_main_things_i_need_to_know_to_be/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
