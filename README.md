@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Apache Linkis Graduated to Apache Top-Level Project](https://www.reddit.com/r/java/comments/10rsrze/apache_linkis_graduated_to_apache_toplevel_project/)
 - [What does the &quot;State of Developer Ecosystem 2022&quot; tell us about Java and the JVM?](https://www.reddit.com/r/java/comments/10rqrhg/what_does_the_state_of_developer_ecosystem_2022/)
 - [Prepare Your Codebase For the Future Now! - Inside Java Newscast](https://www.reddit.com/r/java/comments/10rpjzh/prepare_your_codebase_for_the_future_now_inside/)
-- [Spring &lpar;or no spring&rpar; in a light weight library](https://www.reddit.com/r/java/comments/10rmxmr/spring_or_no_spring_in_a_light_weight_library/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
