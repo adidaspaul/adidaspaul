@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Prepare Your Codebase For the Future Now! - Inside Java Newscast](https://www.reddit.com/r/java/comments/10rpjzh/prepare_your_codebase_for_the_future_now_inside/)
 - [Spring &lpar;or no spring&rpar; in a light weight library](https://www.reddit.com/r/java/comments/10rmxmr/spring_or_no_spring_in_a_light_weight_library/)
 - [Is it common to use “Package” as the name of a class?](https://www.reddit.com/r/java/comments/10rj2yu/is_it_common_to_use_package_as_the_name_of_a_class/)
-- [Does anyone have experience with JavaCodeGeeks?](https://www.reddit.com/r/java/comments/10rcm2u/does_anyone_have_experience_with_javacodegeeks/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
