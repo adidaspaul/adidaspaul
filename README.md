@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Does anyone have experience with JavaCodeGeeks?](https://www.reddit.com/r/java/comments/10rcm2u/does_anyone_have_experience_with_javacodegeeks/)
 - [Oracle Java Price Hike Could Be an Opportunity for OpenJDK Vendors](https://www.reddit.com/r/java/comments/10r8fhu/oracle_java_price_hike_could_be_an_opportunity/)
 - [How are Lambdas serialized?](https://www.reddit.com/r/java/comments/10r1762/how_are_lambdas_serialized/)
-- [JVM Field Guide: Memory](https://www.reddit.com/r/java/comments/10qss6t/jvm_field_guide_memory/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
