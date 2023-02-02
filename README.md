@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [MicroProfile apps can now run on Virtual Threads in Helidon!](https://www.reddit.com/r/java/comments/10rvvs0/microprofile_apps_can_now_run_on_virtual_threads/)
 - [Dependency injection frameworks](https://www.reddit.com/r/java/comments/10ru7v5/dependency_injection_frameworks/)
 - [Apache Linkis Graduated to Apache Top-Level Project](https://www.reddit.com/r/java/comments/10rsrze/apache_linkis_graduated_to_apache_toplevel_project/)
-- [What does the &quot;State of Developer Ecosystem 2022&quot; tell us about Java and the JVM?](https://www.reddit.com/r/java/comments/10rqrhg/what_does_the_state_of_developer_ecosystem_2022/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
