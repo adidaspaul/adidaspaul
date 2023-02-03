@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Difference between Vaadin and React JS](https://www.reddit.com/r/java/comments/10shuzn/difference_between_vaadin_and_react_js/)
 - [MicroProfile apps can now run on Virtual Threads in Helidon!](https://www.reddit.com/r/java/comments/10rvvs0/microprofile_apps_can_now_run_on_virtual_threads/)
 - [Dependency injection frameworks](https://www.reddit.com/r/java/comments/10ru7v5/dependency_injection_frameworks/)
-- [Apache Linkis Graduated to Apache Top-Level Project](https://www.reddit.com/r/java/comments/10rsrze/apache_linkis_graduated_to_apache_toplevel_project/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
