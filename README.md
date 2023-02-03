@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [How can I mask ssn, address using xlst?](https://www.reddit.com/r/java/comments/10smkkk/how_can_i_mask_ssn_address_using_xlst/)
+- [Making 2D Simulations and Games in Java](https://www.reddit.com/r/java/comments/10so4ki/making_2d_simulations_and_games_in_java/)
+- [Java course or tutor recommendations for a bootcamp student](https://www.reddit.com/r/java/comments/10snl79/java_course_or_tutor_recommendations_for_a/)
 - [What the point of using reactor if it&#39;s not being parallelized](https://www.reddit.com/r/java/comments/10skaeb/what_the_point_of_using_reactor_if_its_not_being/)
-- [Why is bundling a javafx app such a nightmare?](https://www.reddit.com/r/java/comments/10sjm1a/why_is_bundling_a_javafx_app_such_a_nightmare/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
