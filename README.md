@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [What’s the cool app framework and UI i should be using ?](https://www.reddit.com/r/java/comments/10sx0xr/whats_the_cool_app_framework_and_ui_i_should_be/)
 - [Has anyone incorporated Stable Diffusion into any of their projects?](https://www.reddit.com/r/java/comments/10sp0j0/has_anyone_incorporated_stable_diffusion_into_any/)
 - [Making 2D Simulations and Games in Java](https://www.reddit.com/r/java/comments/10so4ki/making_2d_simulations_and_games_in_java/)
-- [What the point of using reactor if it&#39;s not being parallelized](https://www.reddit.com/r/java/comments/10skaeb/what_the_point_of_using_reactor_if_its_not_being/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
