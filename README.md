@@ -64,8 +64,8 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Has anyone incorporated Stable Diffusion into any of their projects?](https://www.reddit.com/r/java/comments/10sp0j0/has_anyone_incorporated_stable_diffusion_into_any/)
 - [Making 2D Simulations and Games in Java](https://www.reddit.com/r/java/comments/10so4ki/making_2d_simulations_and_games_in_java/)
-- [Java course or tutor recommendations for a bootcamp student](https://www.reddit.com/r/java/comments/10snl79/java_course_or_tutor_recommendations_for_a/)
 - [What the point of using reactor if it&#39;s not being parallelized](https://www.reddit.com/r/java/comments/10skaeb/what_the_point_of_using_reactor_if_its_not_being/)
 <!-- BLOG-POST-LIST:END -->
 
