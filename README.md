@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Why is bundling a javafx app such a nightmare?](https://www.reddit.com/r/java/comments/10sjm1a/why_is_bundling_a_javafx_app_such_a_nightmare/)
 - [Why did Unity choose C# as a scripting language and not Java?](https://www.reddit.com/r/java/comments/10sj89l/why_did_unity_choose_c_as_a_scripting_language/)
 - [Good free alternatives to Heroku?](https://www.reddit.com/r/java/comments/10siyzv/good_free_alternatives_to_heroku/)
-- [Difference between Vaadin and React JS](https://www.reddit.com/r/java/comments/10shuzn/difference_between_vaadin_and_react_js/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
