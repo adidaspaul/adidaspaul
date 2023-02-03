@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Why did Unity choose C# as a scripting language and not Java?](https://www.reddit.com/r/java/comments/10sj89l/why_did_unity_choose_c_as_a_scripting_language/)
+- [Good free alternatives to Heroku?](https://www.reddit.com/r/java/comments/10siyzv/good_free_alternatives_to_heroku/)
 - [Difference between Vaadin and React JS](https://www.reddit.com/r/java/comments/10shuzn/difference_between_vaadin_and_react_js/)
-- [MicroProfile apps can now run on Virtual Threads in Helidon!](https://www.reddit.com/r/java/comments/10rvvs0/microprofile_apps_can_now_run_on_virtual_threads/)
-- [Dependency injection frameworks](https://www.reddit.com/r/java/comments/10ru7v5/dependency_injection_frameworks/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
