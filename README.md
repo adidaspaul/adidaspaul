@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [10 Examples of Collectors Stream in Java 8 - groupingBy&lpar;&rpar;, toList&lpar;&rpar;, toMap&lpar;&rpar;](https://www.reddit.com/r/java/comments/10s8mae/10_examples_of_collectors_stream_in_java_8/)
 - [MicroProfile apps can now run on Virtual Threads in Helidon!](https://www.reddit.com/r/java/comments/10rvvs0/microprofile_apps_can_now_run_on_virtual_threads/)
 - [Dependency injection frameworks](https://www.reddit.com/r/java/comments/10ru7v5/dependency_injection_frameworks/)
-- [Apache Linkis Graduated to Apache Top-Level Project](https://www.reddit.com/r/java/comments/10rsrze/apache_linkis_graduated_to_apache_toplevel_project/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
