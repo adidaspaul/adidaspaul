@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Towards Easier, More Secure Signature Technology for the Java Ecosystem with Sigstore](https://www.reddit.com/r/java/comments/10tip7t/towards_easier_more_secure_signature_technology/)
 - [What the point of using reactor if it&#39;s not being parallelized](https://www.reddit.com/r/java/comments/10skaeb/what_the_point_of_using_reactor_if_its_not_being/)
 - [Why did Unity choose C# as a scripting language and not Java?](https://www.reddit.com/r/java/comments/10sj89l/why_did_unity_choose_c_as_a_scripting_language/)
-- [Difference between Vaadin and React JS](https://www.reddit.com/r/java/comments/10shuzn/difference_between_vaadin_and_react_js/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
