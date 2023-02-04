@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [I wrote a simple, compile-time dependency injection framework](https://www.reddit.com/r/java/comments/10tmc8s/i_wrote_a_simple_compiletime_dependency_injection/)
+- [Java 17 certification](https://www.reddit.com/r/java/comments/10tlzmh/java_17_certification/)
 - [Towards Easier, More Secure Signature Technology for the Java Ecosystem with Sigstore](https://www.reddit.com/r/java/comments/10tip7t/towards_easier_more_secure_signature_technology/)
-- [What the point of using reactor if it&#39;s not being parallelized](https://www.reddit.com/r/java/comments/10skaeb/what_the_point_of_using_reactor_if_its_not_being/)
-- [Why did Unity choose C# as a scripting language and not Java?](https://www.reddit.com/r/java/comments/10sj89l/why_did_unity_choose_c_as_a_scripting_language/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
