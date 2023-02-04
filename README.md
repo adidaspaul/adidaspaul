@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Choose Java or C# for Backend Development?](https://www.reddit.com/r/java/comments/10trftm/choose_java_or_c_for_backend_development/)
+- [What good are Record Patterns in Java? An example based on Spark&#39;s Catalyst Optimizer and it&#39;s Tree Rewriting Rules](https://www.reddit.com/r/java/comments/10tr9e6/what_good_are_record_patterns_in_java_an_example/)
 - [I wrote a simple, compile-time dependency injection framework](https://www.reddit.com/r/java/comments/10tmc8s/i_wrote_a_simple_compiletime_dependency_injection/)
-- [Java 17 certification](https://www.reddit.com/r/java/comments/10tlzmh/java_17_certification/)
-- [Towards Easier, More Secure Signature Technology for the Java Ecosystem with Sigstore](https://www.reddit.com/r/java/comments/10tip7t/towards_easier_more_secure_signature_technology/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
