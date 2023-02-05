@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Project loom - fibers](https://www.reddit.com/r/java/comments/10u9s03/project_loom_fibers/)
 - [What good are Record Patterns in Java? An example based on Spark&#39;s Catalyst Optimizer and it&#39;s Tree Rewriting Rules](https://www.reddit.com/r/java/comments/10tr9e6/what_good_are_record_patterns_in_java_an_example/)
 - [I wrote a simple, compile-time dependency injection framework](https://www.reddit.com/r/java/comments/10tmc8s/i_wrote_a_simple_compiletime_dependency_injection/)
-- [Java 17 certification](https://www.reddit.com/r/java/comments/10tlzmh/java_17_certification/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
