@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [MySQL BLOB Fetch Performance in Java](https://www.reddit.com/r/java/comments/10uka89/mysql_blob_fetch_performance_in_java/)
 - [Portability of Java-like virtual machines vs C native apps?](https://www.reddit.com/r/java/comments/10uarjs/portability_of_javalike_virtual_machines_vs_c/)
 - [Project loom - fibers](https://www.reddit.com/r/java/comments/10u9s03/project_loom_fibers/)
-- [What good are Record Patterns in Java? An example based on Spark&#39;s Catalyst Optimizer and it&#39;s Tree Rewriting Rules](https://www.reddit.com/r/java/comments/10tr9e6/what_good_are_record_patterns_in_java_an_example/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
