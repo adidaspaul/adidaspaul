@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Tablesaw: Data Frames Library for Java &lpar;Similar to Pandas&rpar;](https://www.reddit.com/r/java/comments/10uoim3/tablesaw_data_frames_library_for_java_similar_to/)
 - [MySQL BLOB Fetch Performance in Java](https://www.reddit.com/r/java/comments/10uka89/mysql_blob_fetch_performance_in_java/)
 - [Portability of Java-like virtual machines vs C native apps?](https://www.reddit.com/r/java/comments/10uarjs/portability_of_javalike_virtual_machines_vs_c/)
-- [Project loom - fibers](https://www.reddit.com/r/java/comments/10u9s03/project_loom_fibers/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
