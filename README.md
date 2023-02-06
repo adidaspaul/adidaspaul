@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Which one is secure java or node js](https://www.reddit.com/r/java/comments/10v108j/which_one_is_secure_java_or_node_js/)
 - [What kind of Java projects would be good on a Intermediate level Java developer ?](https://www.reddit.com/r/java/comments/10uros0/what_kind_of_java_projects_would_be_good_on_a/)
 - [Tablesaw: Data Frames Library for Java &lpar;Similar to Pandas&rpar;](https://www.reddit.com/r/java/comments/10uoim3/tablesaw_data_frames_library_for_java_similar_to/)
-- [MySQL BLOB Fetch Performance in Java](https://www.reddit.com/r/java/comments/10uka89/mysql_blob_fetch_performance_in_java/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
