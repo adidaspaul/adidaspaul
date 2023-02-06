@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Jersey 3.1.1 released – focused on performance](https://www.reddit.com/r/java/comments/10vbk4r/jersey_311_released_focused_on_performance/)
+- [Is there a good performance benchmark for the different Java versions, for example from 8 to 20?](https://www.reddit.com/r/java/comments/10vab0y/is_there_a_good_performance_benchmark_for_the/)
 - [Would it be possible to run a Java game on XBox/Nintendo Switch by compiling it to native with GraalVM?](https://www.reddit.com/r/java/comments/10v4f60/would_it_be_possible_to_run_a_java_game_on/)
-- [Advanced IntelliJ debugger features you’re missing out on](https://www.reddit.com/r/java/comments/10v39ju/advanced_intellij_debugger_features_youre_missing/)
-- [Which one is secure java or node js](https://www.reddit.com/r/java/comments/10v108j/which_one_is_secure_java_or_node_js/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
