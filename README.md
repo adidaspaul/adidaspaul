@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Project ideas for Android Studio please](https://www.reddit.com/r/java/comments/10vdkti/project_ideas_for_android_studio_please/)
 - [Jersey 3.1.1 released – focused on performance](https://www.reddit.com/r/java/comments/10vbk4r/jersey_311_released_focused_on_performance/)
 - [Is there a good performance benchmark for the different Java versions, for example from 8 to 20?](https://www.reddit.com/r/java/comments/10vab0y/is_there_a_good_performance_benchmark_for_the/)
+- [Would it be possible to run a Java game on XBox/Nintendo Switch by compiling it to native with GraalVM?](https://www.reddit.com/r/java/comments/10v4f60/would_it_be_possible_to_run_a_java_game_on/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
