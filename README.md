@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Dockerfile for spring boot application](https://www.reddit.com/r/java/comments/10v5y7g/dockerfile_for_spring_boot_application/)
 - [Would it be possible to run a Java game on XBox/Nintendo Switch by compiling it to native with GraalVM?](https://www.reddit.com/r/java/comments/10v4f60/would_it_be_possible_to_run_a_java_game_on/)
 - [Advanced IntelliJ debugger features you’re missing out on](https://www.reddit.com/r/java/comments/10v39ju/advanced_intellij_debugger_features_youre_missing/)
-- [Which one is secure java or node js](https://www.reddit.com/r/java/comments/10v108j/which_one_is_secure_java_or_node_js/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
