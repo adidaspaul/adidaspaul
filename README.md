@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Would it be possible to run a Java game on XBox/Nintendo Switch by compiling it to native with GraalVM?](https://www.reddit.com/r/java/comments/10v4f60/would_it_be_possible_to_run_a_java_game_on/)
 - [Advanced IntelliJ debugger features you’re missing out on](https://www.reddit.com/r/java/comments/10v39ju/advanced_intellij_debugger_features_youre_missing/)
 - [Which one is secure java or node js](https://www.reddit.com/r/java/comments/10v108j/which_one_is_secure_java_or_node_js/)
-- [What kind of Java projects would be good on a Intermediate level Java developer ?](https://www.reddit.com/r/java/comments/10uros0/what_kind_of_java_projects_would_be_good_on_a/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
