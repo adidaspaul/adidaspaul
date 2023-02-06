@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [What kind of Java projects would be good on a Intermediate level Java developer ?](https://www.reddit.com/r/java/comments/10uros0/what_kind_of_java_projects_would_be_good_on_a/)
 - [Tablesaw: Data Frames Library for Java &lpar;Similar to Pandas&rpar;](https://www.reddit.com/r/java/comments/10uoim3/tablesaw_data_frames_library_for_java_similar_to/)
 - [MySQL BLOB Fetch Performance in Java](https://www.reddit.com/r/java/comments/10uka89/mysql_blob_fetch_performance_in_java/)
-- [Portability of Java-like virtual machines vs C native apps?](https://www.reddit.com/r/java/comments/10uarjs/portability_of_javalike_virtual_machines_vs_c/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
