@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [What would be some good tech questions that you can ask your interviewer?](https://www.reddit.com/r/java/comments/10vyij4/what_would_be_some_good_tech_questions_that_you/)
 - [What is IntelliJ Used For?](https://www.reddit.com/r/java/comments/10vxw4j/what_is_intellij_used_for/)
 - [Jobrunr V6 released](https://www.reddit.com/r/java/comments/10vx31z/jobrunr_v6_released/)
-- [Nullness markers to enable flattening [Valhalla Spec Experts]](https://www.reddit.com/r/java/comments/10vpelw/nullness_markers_to_enable_flattening_valhalla/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
