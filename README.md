@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [simple-component 1.007 released](https://www.reddit.com/r/java/comments/10wbzok/simplecomponent_1007_released/)
+- [Java News Roundup: Helidon 4.0-Alpha4, Spring, GlassFish, Quarkus, Ktor, &lpar;Re&rpar;Introducing RIFE2](https://www.reddit.com/r/java/comments/10wbyov/java_news_roundup_helidon_40alpha4_spring/)
 - [Jakartificator: A gradle tool to automatically rewrite the bytecode of your dependencies to force them to use jakarta](https://www.reddit.com/r/java/comments/10w55aw/jakartificator_a_gradle_tool_to_automatically/)
-- [Getting Started with RIFE2 Java Web Framework v1.0.0](https://www.reddit.com/r/java/comments/10w38ep/getting_started_with_rife2_java_web_framework_v100/)
-- [Need performance debugging advice.](https://www.reddit.com/r/java/comments/10w2bfj/need_performance_debugging_advice/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
