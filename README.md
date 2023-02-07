@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [What is IntelliJ Used For?](https://www.reddit.com/r/java/comments/10vxw4j/what_is_intellij_used_for/)
 - [Jobrunr V6 released](https://www.reddit.com/r/java/comments/10vx31z/jobrunr_v6_released/)
 - [Nullness markers to enable flattening [Valhalla Spec Experts]](https://www.reddit.com/r/java/comments/10vpelw/nullness_markers_to_enable_flattening_valhalla/)
-- [Jersey 3.1.1 released – focused on performance](https://www.reddit.com/r/java/comments/10vbk4r/jersey_311_released_focused_on_performance/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
