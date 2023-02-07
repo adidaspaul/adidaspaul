@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Jobrunr V6 released](https://www.reddit.com/r/java/comments/10vx31z/jobrunr_v6_released/)
 - [Nullness markers to enable flattening [Valhalla Spec Experts]](https://www.reddit.com/r/java/comments/10vpelw/nullness_markers_to_enable_flattening_valhalla/)
 - [Jersey 3.1.1 released – focused on performance](https://www.reddit.com/r/java/comments/10vbk4r/jersey_311_released_focused_on_performance/)
-- [Is there a good performance benchmark for the different Java versions, for example from 8 to 20?](https://www.reddit.com/r/java/comments/10vab0y/is_there_a_good_performance_benchmark_for_the/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
