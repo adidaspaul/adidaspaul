@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Alright lads it seems like all the cool projects/companies I want to work in want Java, I&#39;ll bite, I come from C#/Typescript, any Java project recommendations I should start on the side?](https://www.reddit.com/r/java/comments/10wehz9/alright_lads_it_seems_like_all_the_cool/)
 - [simple-component 1.007 released](https://www.reddit.com/r/java/comments/10wbzok/simplecomponent_1007_released/)
 - [Java News Roundup: Helidon 4.0-Alpha4, Spring, GlassFish, Quarkus, Ktor, &lpar;Re&rpar;Introducing RIFE2](https://www.reddit.com/r/java/comments/10wbyov/java_news_roundup_helidon_40alpha4_spring/)
-- [Jakartificator: A gradle tool to automatically rewrite the bytecode of your dependencies to force them to use jakarta](https://www.reddit.com/r/java/comments/10w55aw/jakartificator_a_gradle_tool_to_automatically/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
