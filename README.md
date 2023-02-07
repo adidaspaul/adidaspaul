@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Getting Started with RIFE2 Java Web Framework v1.0.0](https://www.reddit.com/r/java/comments/10w38ep/getting_started_with_rife2_java_web_framework_v100/)
 - [Need performance debugging advice.](https://www.reddit.com/r/java/comments/10w2bfj/need_performance_debugging_advice/)
 - [The amount bullshit I have to do to port a NodeJS application which uses native libs into Aws lambda makes me think how great Java is!](https://www.reddit.com/r/java/comments/10w10cp/the_amount_bullshit_i_have_to_do_to_port_a_nodejs/)
-- [What would be some good tech questions that you can ask your interviewer?](https://www.reddit.com/r/java/comments/10vyij4/what_would_be_some_good_tech_questions_that_you/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
