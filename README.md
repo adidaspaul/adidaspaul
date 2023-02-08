@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [JoularJX 2.0: a Leap Forward in Green Software Analysis](https://www.reddit.com/r/java/comments/10wsw2g/joularjx_20_a_leap_forward_in_green_software/)
+- [Advanced Testing with Quarkus - Piotr&#39;s TechBlog](https://www.reddit.com/r/java/comments/10wssnf/advanced_testing_with_quarkus_piotrs_techblog/)
 - [Java Records as Embeddables with Hibernate 6](https://www.reddit.com/r/java/comments/10wp9us/java_records_as_embeddables_with_hibernate_6/)
-- [Alright lads it seems like all the cool projects/companies I want to work in want Java, I&#39;ll bite, I come from C#/Typescript, any Java project recommendations I should start on the side?](https://www.reddit.com/r/java/comments/10wehz9/alright_lads_it_seems_like_all_the_cool/)
-- [simple-component 1.007 released](https://www.reddit.com/r/java/comments/10wbzok/simplecomponent_1007_released/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
