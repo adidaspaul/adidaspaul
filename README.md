@@ -65,8 +65,8 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Java Records as Embeddables with Hibernate 6](https://www.reddit.com/r/java/comments/10wp9us/java_records_as_embeddables_with_hibernate_6/)
-- [Getting rid of Oracle Java installed by third-party Installers](https://www.reddit.com/r/java/comments/10wh0mq/getting_rid_of_oracle_java_installed_by/)
 - [Alright lads it seems like all the cool projects/companies I want to work in want Java, I&#39;ll bite, I come from C#/Typescript, any Java project recommendations I should start on the side?](https://www.reddit.com/r/java/comments/10wehz9/alright_lads_it_seems_like_all_the_cool/)
+- [simple-component 1.007 released](https://www.reddit.com/r/java/comments/10wbzok/simplecomponent_1007_released/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
