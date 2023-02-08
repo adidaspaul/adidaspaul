@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Fault Tolerance with Spring and a Distributed SQL database &lpar;YugabyteDB&rpar;](https://www.reddit.com/r/java/comments/10wu158/fault_tolerance_with_spring_and_a_distributed_sql/)
 - [JoularJX 2.0: a Leap Forward in Green Software Analysis](https://www.reddit.com/r/java/comments/10wsw2g/joularjx_20_a_leap_forward_in_green_software/)
 - [Advanced Testing with Quarkus - Piotr&#39;s TechBlog](https://www.reddit.com/r/java/comments/10wssnf/advanced_testing_with_quarkus_piotrs_techblog/)
+- [Java Records as Embeddables with Hibernate 6](https://www.reddit.com/r/java/comments/10wp9us/java_records_as_embeddables_with_hibernate_6/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
