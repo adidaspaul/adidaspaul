@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Does Java perform worse on Windows?](https://www.reddit.com/r/java/comments/10wy60e/does_java_perform_worse_on_windows/)
 - [Software Security Report Finds JavaScript Applications Have Fewer Flaws Than Java and .NET](https://www.reddit.com/r/java/comments/10wwpx2/software_security_report_finds_javascript/)
 - [Microsoft OpenJDK Introduces Experimental Feature for Improving Escape Analysis](https://www.reddit.com/r/java/comments/10wwjtk/microsoft_openjdk_introduces_experimental_feature/)
-- [JoularJX 2.0: a Leap Forward in Green Software Analysis](https://www.reddit.com/r/java/comments/10wsw2g/joularjx_20_a_leap_forward_in_green_software/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
