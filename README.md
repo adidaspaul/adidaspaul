@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Integration TornadoVM with ApacheFlink enables seamless hardware acceleration of unmodified user code!](https://www.reddit.com/r/java/comments/10xq1yi/integration_tornadovm_with_apacheflink_enables/)
 - [Does Java perform worse on Windows?](https://www.reddit.com/r/java/comments/10wy60e/does_java_perform_worse_on_windows/)
 - [Software Security Report Finds JavaScript Applications Have Fewer Flaws Than Java and .NET](https://www.reddit.com/r/java/comments/10wwpx2/software_security_report_finds_javascript/)
-- [Microsoft OpenJDK Introduces Experimental Feature for Improving Escape Analysis](https://www.reddit.com/r/java/comments/10wwjtk/microsoft_openjdk_introduces_experimental_feature/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
