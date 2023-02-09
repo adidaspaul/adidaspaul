@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [AVBlockRun - A simple game of capturing blocks, developed in Java.](https://www.reddit.com/r/java/comments/10xy1r5/avblockrun_a_simple_game_of_capturing_blocks/)
 - [Will Valhalla bring better nulls to Java?](https://www.reddit.com/r/java/comments/10xwn9u/will_valhalla_bring_better_nulls_to_java/)
 - [Which Version of JDK Should I Use?](https://www.reddit.com/r/java/comments/10xsr23/which_version_of_jdk_should_i_use/)
-- [Integration TornadoVM with ApacheFlink enables seamless hardware acceleration of unmodified user code!](https://www.reddit.com/r/java/comments/10xq1yi/integration_tornadovm_with_apacheflink_enables/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
