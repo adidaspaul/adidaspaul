@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Will Valhalla bring better nulls to Java?](https://www.reddit.com/r/java/comments/10xwn9u/will_valhalla_bring_better_nulls_to_java/)
 - [Which Version of JDK Should I Use?](https://www.reddit.com/r/java/comments/10xsr23/which_version_of_jdk_should_i_use/)
 - [Integration TornadoVM with ApacheFlink enables seamless hardware acceleration of unmodified user code!](https://www.reddit.com/r/java/comments/10xq1yi/integration_tornadovm_with_apacheflink_enables/)
-- [Does Java perform worse on Windows?](https://www.reddit.com/r/java/comments/10wy60e/does_java_perform_worse_on_windows/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
