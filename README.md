@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Difference between Java program and Java language?](https://www.reddit.com/r/java/comments/10y6tqm/difference_between_java_program_and_java_language/)
 - [Learning java in school right now :&rpar; calling this spaghetti would probably be an insult to italians, wouldn&#39;t it?](https://www.reddit.com/r/java/comments/10y5cdh/learning_java_in_school_right_now_calling_this/)
 - [AVBlockRun - A simple game of capturing blocks, developed in Java.](https://www.reddit.com/r/java/comments/10xy1r5/avblockrun_a_simple_game_of_capturing_blocks/)
-- [Will Valhalla bring better nulls to Java?](https://www.reddit.com/r/java/comments/10xwn9u/will_valhalla_bring_better_nulls_to_java/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
