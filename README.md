@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Which Version of JDK Should I Use?](https://www.reddit.com/r/java/comments/10xsr23/which_version_of_jdk_should_i_use/)
 - [Integration TornadoVM with ApacheFlink enables seamless hardware acceleration of unmodified user code!](https://www.reddit.com/r/java/comments/10xq1yi/integration_tornadovm_with_apacheflink_enables/)
 - [Does Java perform worse on Windows?](https://www.reddit.com/r/java/comments/10wy60e/does_java_perform_worse_on_windows/)
-- [Software Security Report Finds JavaScript Applications Have Fewer Flaws Than Java and .NET](https://www.reddit.com/r/java/comments/10wwpx2/software_security_report_finds_javascript/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
