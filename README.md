@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [What are some advantages to Java devs learning assembly?](https://www.reddit.com/r/java/comments/10yg4ou/what_are_some_advantages_to_java_devs_learning/)
 - [My professor with a PhD in CS is certain you cannot have two returns in the same in Java, marked off and left this note &lpar;program returns position/index+1 of value if in array&rpar;](https://www.reddit.com/r/java/comments/10yb7zw/my_professor_with_a_phd_in_cs_is_certain_you/)
 - [Difference between Java program and Java language?](https://www.reddit.com/r/java/comments/10y6tqm/difference_between_java_program_and_java_language/)
-- [Learning java in school right now :&rpar; calling this spaghetti would probably be an insult to italians, wouldn&#39;t it?](https://www.reddit.com/r/java/comments/10y5cdh/learning_java_in_school_right_now_calling_this/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
