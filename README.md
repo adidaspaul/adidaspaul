@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Itera Mall - a tycoon game I made in Java](https://www.reddit.com/r/java/comments/10yjbhw/itera_mall_a_tycoon_game_i_made_in_java/)
 - [Cracking the Odd Case of Randomness in Java](https://www.reddit.com/r/java/comments/10yi5ms/cracking_the_odd_case_of_randomness_in_java/)
 - [What are some advantages to Java devs learning assembly?](https://www.reddit.com/r/java/comments/10yg4ou/what_are_some_advantages_to_java_devs_learning/)
-- [My professor with a PhD in CS is certain you cannot have two returns in the same in Java, marked off and left this note &lpar;program returns position/index+1 of value if in array&rpar;](https://www.reddit.com/r/java/comments/10yb7zw/my_professor_with_a_phd_in_cs_is_certain_you/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
