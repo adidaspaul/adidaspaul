@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [I wrote a modern, zero-dependencies library for One-Time Passwords](https://www.reddit.com/r/java/comments/10yotuv/i_wrote_a_modern_zerodependencies_library_for/)
 - [QuickBuffers 1.1 released](https://www.reddit.com/r/java/comments/10ylqcl/quickbuffers_11_released/)
 - [Helidon 3 is now compatible with MicroProfile 5.0](https://www.reddit.com/r/java/comments/10ykqq9/helidon_3_is_now_compatible_with_microprofile_50/)
-- [Itera Mall - a tycoon game I made in Java](https://www.reddit.com/r/java/comments/10yjbhw/itera_mall_a_tycoon_game_i_made_in_java/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
