@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Release John Snow Labs Spark-NLP 4.3.0: New HuBERT for speech recognition, new Swin Transformer for Image Classification, new Zero-shot annotator for Entity Recognition, CamemBERT for question answering, new Databricks and EMR with support for Spark 3.3, 1000+ state-of-the-art models and many more!](https://www.reddit.com/r/java/comments/10z0v9d/release_john_snow_labs_sparknlp_430_new_hubert/)
 - [Efficient Java Matrix Library v0.42 Released](https://www.reddit.com/r/java/comments/10yxreq/efficient_java_matrix_library_v042_released/)
 - [Java on Azure Tooling Update – January 2023](https://www.reddit.com/r/java/comments/10ysuj5/java_on_azure_tooling_update_january_2023/)
-- [I wrote a modern, zero-dependencies library for One-Time Passwords](https://www.reddit.com/r/java/comments/10yotuv/i_wrote_a_modern_zerodependencies_library_for/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
