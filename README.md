@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How do you compare strings that are inside arrays in java?](https://www.reddit.com/r/java/comments/10yrjud/how_do_you_compare_strings_that_are_inside_arrays/)
 - [I wrote a modern, zero-dependencies library for One-Time Passwords](https://www.reddit.com/r/java/comments/10yotuv/i_wrote_a_modern_zerodependencies_library_for/)
 - [QuickBuffers 1.1 released](https://www.reddit.com/r/java/comments/10ylqcl/quickbuffers_11_released/)
-- [Helidon 3 is now compatible with MicroProfile 5.0](https://www.reddit.com/r/java/comments/10ykqq9/helidon_3_is_now_compatible_with_microprofile_50/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
