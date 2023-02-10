@@ -64,7 +64,7 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [How do you compare strings that are inside arrays in java?](https://www.reddit.com/r/java/comments/10yrjud/how_do_you_compare_strings_that_are_inside_arrays/)
+- [Java on Azure Tooling Update – January 2023](https://www.reddit.com/r/java/comments/10ysuj5/java_on_azure_tooling_update_january_2023/)
 - [I wrote a modern, zero-dependencies library for One-Time Passwords](https://www.reddit.com/r/java/comments/10yotuv/i_wrote_a_modern_zerodependencies_library_for/)
 - [QuickBuffers 1.1 released](https://www.reddit.com/r/java/comments/10ylqcl/quickbuffers_11_released/)
 <!-- BLOG-POST-LIST:END -->
