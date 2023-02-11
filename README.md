@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Datafaker 1.8.0 released](https://www.reddit.com/r/java/comments/10zmnpt/datafaker_180_released/)
 - [Efficient Java Matrix Library v0.42 Released](https://www.reddit.com/r/java/comments/10yxreq/efficient_java_matrix_library_v042_released/)
 - [Java on Azure Tooling Update – January 2023](https://www.reddit.com/r/java/comments/10ysuj5/java_on_azure_tooling_update_january_2023/)
-- [I wrote a modern, zero-dependencies library for One-Time Passwords](https://www.reddit.com/r/java/comments/10yotuv/i_wrote_a_modern_zerodependencies_library_for/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
