@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Choose the best java distribution for project.](https://www.reddit.com/r/java/comments/10ztrq9/choose_the_best_java_distribution_for_project/)
+- [jCards is a lightweight Java library for playing cards - v0.0.4 released](https://www.reddit.com/r/java/comments/10ztg6v/jcards_is_a_lightweight_java_library_for_playing/)
 - [I just released the first alpha of X-Pipe, a new remote connection tool created with Java&lpar;FX&rpar;. Let me know what you think about it!](https://www.reddit.com/r/java/comments/10zqea0/i_just_released_the_first_alpha_of_xpipe_a_new/)
-- [Datafaker 1.8.0 released](https://www.reddit.com/r/java/comments/10zmnpt/datafaker_180_released/)
-- [Efficient Java Matrix Library v0.42 Released](https://www.reddit.com/r/java/comments/10yxreq/efficient_java_matrix_library_v042_released/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
