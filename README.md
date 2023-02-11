@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [I just released the first alpha of X-Pipe, a new remote connection tool created with Java&lpar;FX&rpar;. Let me know what you think about it!](https://www.reddit.com/r/java/comments/10zqea0/i_just_released_the_first_alpha_of_xpipe_a_new/)
 - [Datafaker 1.8.0 released](https://www.reddit.com/r/java/comments/10zmnpt/datafaker_180_released/)
 - [Efficient Java Matrix Library v0.42 Released](https://www.reddit.com/r/java/comments/10yxreq/efficient_java_matrix_library_v042_released/)
-- [Java on Azure Tooling Update – January 2023](https://www.reddit.com/r/java/comments/10ysuj5/java_on_azure_tooling_update_january_2023/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
