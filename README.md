@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [schema-org-java: Java library for working with Schema.org data in JSON-LD format](https://www.reddit.com/r/java/comments/110qgzu/schemaorgjava_java_library_for_working_with/)
 - [Null safety: Kotlin vs. Java](https://www.reddit.com/r/java/comments/110kj02/null_safety_kotlin_vs_java/)
 - [Geo-Assist is a 2-dimensional implementation of K-D Tree, that allows you to load and find nearest neighbors for the provided geo-location in an efficient manner. I used this implementation for applications with ~35m requests per day. Hence a generic open-source project, open for suggestions](https://www.reddit.com/r/java/comments/110gtky/geoassist_is_a_2dimensional_implementation_of_kd/)
-- [How to implement DB Fault Tolerance in a Spring application](https://www.reddit.com/r/java/comments/110d0in/how_to_implement_db_fault_tolerance_in_a_spring/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
