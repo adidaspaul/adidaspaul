@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to implement DB Fault Tolerance in a Spring application](https://www.reddit.com/r/java/comments/110d0in/how_to_implement_db_fault_tolerance_in_a_spring/)
 - [Migrating a JavaFX app to AtlantaFX themes](https://www.reddit.com/r/java/comments/1103225/migrating_a_javafx_app_to_atlantafx_themes/)
 - [R Shiny App Equivalent](https://www.reddit.com/r/java/comments/10zxjug/r_shiny_app_equivalent/)
-- [Choose the best java distribution for project.](https://www.reddit.com/r/java/comments/10ztrq9/choose_the_best_java_distribution_for_project/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
