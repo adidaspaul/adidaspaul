@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [JDK 21 - Image Performance Improvements](https://www.reddit.com/r/java/comments/1114pel/jdk_21_image_performance_improvements/)
 - [Making a small fabrik inverse kinematics program in Java](https://www.reddit.com/r/java/comments/110xnmy/making_a_small_fabrik_inverse_kinematics_program/)
 - [schema-org-java: Java library for working with Schema.org data in JSON-LD format](https://www.reddit.com/r/java/comments/110qgzu/schemaorgjava_java_library_for_working_with/)
-- [Geo-Assist is a 2-dimensional implementation of K-D Tree, that allows you to load and find nearest neighbors for the provided geo-location in an efficient manner. I used this implementation for applications with ~35m requests per day. Hence a generic open-source project, open for suggestions](https://www.reddit.com/r/java/comments/110gtky/geoassist_is_a_2dimensional_implementation_of_kd/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
