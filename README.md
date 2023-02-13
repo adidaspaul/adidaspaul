@@ -64,7 +64,7 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [How to synchronize access to a method from a base class in a multi-threaded application.](https://www.reddit.com/r/java/comments/111b5f7/how_to_synchronize_access_to_a_method_from_a_base/)
+- [Best Practices for Java Apps on Kubernetes - Piotr&#39;s TechBlog](https://www.reddit.com/r/java/comments/111d5ym/best_practices_for_java_apps_on_kubernetes_piotrs/)
 - [JDK 21 - Image Performance Improvements](https://www.reddit.com/r/java/comments/1114pel/jdk_21_image_performance_improvements/)
 - [Making a small fabrik inverse kinematics program in Java](https://www.reddit.com/r/java/comments/110xnmy/making_a_small_fabrik_inverse_kinematics_program/)
 <!-- BLOG-POST-LIST:END -->
