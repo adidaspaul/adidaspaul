@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Dumb mistakes you have made in Java?](https://www.reddit.com/r/java/comments/111f5yf/dumb_mistakes_you_have_made_in_java/)
 - [Best Practices for Java Apps on Kubernetes - Piotr&#39;s TechBlog](https://www.reddit.com/r/java/comments/111d5ym/best_practices_for_java_apps_on_kubernetes_piotrs/)
 - [JDK 21 - Image Performance Improvements](https://www.reddit.com/r/java/comments/1114pel/jdk_21_image_performance_improvements/)
-- [Making a small fabrik inverse kinematics program in Java](https://www.reddit.com/r/java/comments/110xnmy/making_a_small_fabrik_inverse_kinematics_program/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
