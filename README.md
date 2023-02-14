@@ -65,8 +65,8 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Gradle 8.0](https://www.reddit.com/r/java/comments/111oz05/gradle_80/)
-- [Advise JUnit and Mockito](https://www.reddit.com/r/java/comments/111nyiw/advise_junit_and_mockito/)
 - [💎 5 Amazingly Comfortable Java Libraries](https://www.reddit.com/r/java/comments/111krcd/5_amazingly_comfortable_java_libraries/)
+- [Dumb mistakes you have made in Java?](https://www.reddit.com/r/java/comments/111f5yf/dumb_mistakes_you_have_made_in_java/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
