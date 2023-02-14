@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Gradle 8.0](https://www.reddit.com/r/java/comments/111oz05/gradle_80/)
+- [Advise JUnit and Mockito](https://www.reddit.com/r/java/comments/111nyiw/advise_junit_and_mockito/)
 - [💎 5 Amazingly Comfortable Java Libraries](https://www.reddit.com/r/java/comments/111krcd/5_amazingly_comfortable_java_libraries/)
-- [Dumb mistakes you have made in Java?](https://www.reddit.com/r/java/comments/111f5yf/dumb_mistakes_you_have_made_in_java/)
-- [Best Practices for Java Apps on Kubernetes - Piotr&#39;s TechBlog](https://www.reddit.com/r/java/comments/111d5ym/best_practices_for_java_apps_on_kubernetes_piotrs/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
