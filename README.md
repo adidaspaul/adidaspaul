@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [&quot;RIFE2 provides an opinionated full stack that is designed as a whole to make the creation of dynamic web applications and REST web services really fast&quot;](https://www.reddit.com/r/java/comments/11232v9/rife2_provides_an_opinionated_full_stack_that_is/)
 - [jbom - Dependency Analysis For Java Apps](https://www.reddit.com/r/java/comments/111vbp2/jbom_dependency_analysis_for_java_apps/)
 - [Gradle 8.0](https://www.reddit.com/r/java/comments/111oz05/gradle_80/)
-- [💎 5 Amazingly Comfortable Java Libraries](https://www.reddit.com/r/java/comments/111krcd/5_amazingly_comfortable_java_libraries/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
