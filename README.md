@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [OpenAIChat](https://www.reddit.com/r/java/comments/112ws86/openaichat/)
 - [From Java Security with Love - Inside Java Newscast #42](https://www.reddit.com/r/java/comments/112rryc/from_java_security_with_love_inside_java_newscast/)
 - [Custom Thread Pools In Java Parallel Streams](https://www.reddit.com/r/java/comments/112i6u6/custom_thread_pools_in_java_parallel_streams/)
+- [&quot;RIFE2 provides an opinionated full stack that is designed as a whole to make the creation of dynamic web applications and REST web services really fast&quot;](https://www.reddit.com/r/java/comments/11232v9/rife2_provides_an_opinionated_full_stack_that_is/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
