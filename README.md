@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Update dependencies in multiple projects at once](https://www.reddit.com/r/java/comments/11362cu/update_dependencies_in_multiple_projects_at_once/)
 - [JEP draft: Implicit Classes and Enhanced Main Methods](https://www.reddit.com/r/java/comments/11322uy/jep_draft_implicit_classes_and_enhanced_main/)
 - [From Java Security with Love - Inside Java Newscast #42](https://www.reddit.com/r/java/comments/112rryc/from_java_security_with_love_inside_java_newscast/)
+- [Custom Thread Pools In Java Parallel Streams](https://www.reddit.com/r/java/comments/112i6u6/custom_thread_pools_in_java_parallel_streams/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
