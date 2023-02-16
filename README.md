@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Helidon Builder](https://www.reddit.com/r/java/comments/113wxsg/helidon_builder/)
+- [Overview of recent advances in GlassFish](https://www.reddit.com/r/java/comments/113vs3b/overview_of_recent_advances_in_glassfish/)
 - [Is there any example of a recent dropwizard application?](https://www.reddit.com/r/java/comments/113riue/is_there_any_example_of_a_recent_dropwizard/)
-- [Curious about Carbon Footprint your application has? There&#39;s a tool to measure it.](https://www.reddit.com/r/java/comments/113r2xh/curious_about_carbon_footprint_your_application/)
-- [Project Valhalla: A look inside Java’s epic refactor](https://www.reddit.com/r/java/comments/113q2eb/project_valhalla_a_look_inside_javas_epic_refactor/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
