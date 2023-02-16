@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Project Valhalla: A look inside Java’s epic refactor](https://www.reddit.com/r/java/comments/113q2eb/project_valhalla_a_look_inside_javas_epic_refactor/)
 - [Extremely fast enterprise server framework, can be used in RPC, web server framework, game server framework.](https://www.reddit.com/r/java/comments/113m73x/extremely_fast_enterprise_server_framework_can_be/)
 - [JEP draft: Implicit Classes and Enhanced Main Methods](https://www.reddit.com/r/java/comments/11322uy/jep_draft_implicit_classes_and_enhanced_main/)
-- [From Java Security with Love - Inside Java Newscast #42](https://www.reddit.com/r/java/comments/112rryc/from_java_security_with_love_inside_java_newscast/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
