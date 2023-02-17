@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Code Generation in the early days](https://www.reddit.com/r/java/comments/114y2mr/code_generation_in_the_early_days/)
 - [Which JDK to Choose on Kubernetes - Piotr&#39;s TechBlog](https://www.reddit.com/r/java/comments/114kuj5/which_jdk_to_choose_on_kubernetes_piotrs_techblog/)
 - [Foreign Function &amp; Memory API Live](https://www.reddit.com/r/java/comments/114kf02/foreign_function_memory_api_live/)
-- [The Great Concurrency Smackdown: ZIO versus JDK](https://www.reddit.com/r/java/comments/114jn7d/the_great_concurrency_smackdown_zio_versus_jdk/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
