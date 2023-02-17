@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Spring Boot Crash Course for Beginners](https://www.reddit.com/r/java/comments/114j570/spring_boot_crash_course_for_beginners/)
+- [what is your favorite programming trick/tool that not many People know about?](https://www.reddit.com/r/java/comments/114itmt/what_is_your_favorite_programming_tricktool_that/)
 - [AV3DNavigator](https://www.reddit.com/r/java/comments/1144o4h/av3dnavigator/)
-- [Helidon Builder](https://www.reddit.com/r/java/comments/113wxsg/helidon_builder/)
-- [Overview of recent advances in GlassFish](https://www.reddit.com/r/java/comments/113vs3b/overview_of_recent_advances_in_glassfish/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
