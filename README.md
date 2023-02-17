@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The Great Concurrency Smackdown: ZIO versus JDK](https://www.reddit.com/r/java/comments/114jn7d/the_great_concurrency_smackdown_zio_versus_jdk/)
 - [Spring Boot Crash Course for Beginners](https://www.reddit.com/r/java/comments/114j570/spring_boot_crash_course_for_beginners/)
 - [what is your favorite programming trick/tool that not many People know about?](https://www.reddit.com/r/java/comments/114itmt/what_is_your_favorite_programming_tricktool_that/)
-- [AV3DNavigator](https://www.reddit.com/r/java/comments/1144o4h/av3dnavigator/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
