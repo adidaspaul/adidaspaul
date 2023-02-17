@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [AV3DNavigator](https://www.reddit.com/r/java/comments/1144o4h/av3dnavigator/)
 - [Helidon Builder](https://www.reddit.com/r/java/comments/113wxsg/helidon_builder/)
 - [Overview of recent advances in GlassFish](https://www.reddit.com/r/java/comments/113vs3b/overview_of_recent_advances_in_glassfish/)
-- [Is there any example of a recent dropwizard application?](https://www.reddit.com/r/java/comments/113riue/is_there_any_example_of_a_recent_dropwizard/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
