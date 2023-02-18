@@ -65,8 +65,8 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [How much are Java devs making in 2023?](https://www.reddit.com/r/java/comments/115p0l4/how_much_are_java_devs_making_in_2023/)
-- [I just started coding and I’m planning to start my first project. I want to create a tik tac toe game, am I suppose to look at a YouTube video? Or do it all by myself?](https://www.reddit.com/r/java/comments/115oxix/i_just_started_coding_and_im_planning_to_start_my/)
 - [Is there a good way to monitor code for blocking operations?](https://www.reddit.com/r/java/comments/115g5an/is_there_a_good_way_to_monitor_code_for_blocking/)
+- [loom and database drivers](https://www.reddit.com/r/java/comments/1159e6s/loom_and_database_drivers/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
