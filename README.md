@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [is thymleaf still used](https://www.reddit.com/r/java/comments/1169lv7/is_thymleaf_still_used/)
 - [loom and database drivers](https://www.reddit.com/r/java/comments/1159e6s/loom_and_database_drivers/)
 - [Code Generation in the early days](https://www.reddit.com/r/java/comments/114y2mr/code_generation_in_the_early_days/)
-- [Which JDK to Choose on Kubernetes - Piotr&#39;s TechBlog](https://www.reddit.com/r/java/comments/114kuj5/which_jdk_to_choose_on_kubernetes_piotrs_techblog/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
