@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Run a Java Application with CRaC in a Docker Container](https://www.reddit.com/r/java/comments/116ddty/how_to_run_a_java_application_with_crac_in_a/)
 - [is thymleaf still used](https://www.reddit.com/r/java/comments/1169lv7/is_thymleaf_still_used/)
 - [loom and database drivers](https://www.reddit.com/r/java/comments/1159e6s/loom_and_database_drivers/)
-- [Code Generation in the early days](https://www.reddit.com/r/java/comments/114y2mr/code_generation_in_the_early_days/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
