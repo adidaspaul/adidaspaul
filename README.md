@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Using Antora in your projects?](https://www.reddit.com/r/java/comments/116j1yx/using_antora_in_your_projects/)
 - [How/when does JVM split the object graphs? Where does it set it roots?](https://www.reddit.com/r/java/comments/116hr79/howwhen_does_jvm_split_the_object_graphs_where/)
 - [RIFE2 v1.3.0 with GraalVM native-image AOT compilation support](https://www.reddit.com/r/java/comments/116hn9d/rife2_v130_with_graalvm_nativeimage_aot/)
-- [How to Run a Java Application with CRaC in a Docker Container](https://www.reddit.com/r/java/comments/116ddty/how_to_run_a_java_application_with_crac_in_a/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
