@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [How much are Java devs making in 2023?](https://www.reddit.com/r/java/comments/115p0l4/how_much_are_java_devs_making_in_2023/)
-- [Is there a good way to monitor code for blocking operations?](https://www.reddit.com/r/java/comments/115g5an/is_there_a_good_way_to_monitor_code_for_blocking/)
 - [loom and database drivers](https://www.reddit.com/r/java/comments/1159e6s/loom_and_database_drivers/)
+- [Code Generation in the early days](https://www.reddit.com/r/java/comments/114y2mr/code_generation_in_the_early_days/)
+- [Which JDK to Choose on Kubernetes - Piotr&#39;s TechBlog](https://www.reddit.com/r/java/comments/114kuj5/which_jdk_to_choose_on_kubernetes_piotrs_techblog/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
