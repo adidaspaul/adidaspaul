@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Web Sockets in Spring Boot, a working sample.](https://www.reddit.com/r/java/comments/11744oy/web_sockets_in_spring_boot_a_working_sample/)
 - [About thread interrupts](https://www.reddit.com/r/java/comments/116rd2s/about_thread_interrupts/)
 - [Using Antora in your projects?](https://www.reddit.com/r/java/comments/116j1yx/using_antora_in_your_projects/)
-- [Some question about ShenandoahGC and some GCs options](https://www.reddit.com/r/java/comments/116htsl/some_question_about_shenandoahgc_and_some_gcs/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
