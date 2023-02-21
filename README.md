@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Why I will stop mocking for most of my Unit Tests in a Spring-Boot Application](https://www.reddit.com/r/java/comments/1181ayi/why_i_will_stop_mocking_for_most_of_my_unit_tests/)
 - [Jailer Database Tools 14.2 have been released.](https://www.reddit.com/r/java/comments/117y3la/jailer_database_tools_142_have_been_released/)
 - [Migrating quartz to jobrunr](https://www.reddit.com/r/java/comments/117xtu6/migrating_quartz_to_jobrunr/)
-- [About thread interrupts](https://www.reddit.com/r/java/comments/116rd2s/about_thread_interrupts/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
