@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Jailer Database Tools 14.2 have been released.](https://www.reddit.com/r/java/comments/117y3la/jailer_database_tools_142_have_been_released/)
+- [Migrating quartz to jobrunr](https://www.reddit.com/r/java/comments/117xtu6/migrating_quartz_to_jobrunr/)
 - [About thread interrupts](https://www.reddit.com/r/java/comments/116rd2s/about_thread_interrupts/)
-- [Using Antora in your projects?](https://www.reddit.com/r/java/comments/116j1yx/using_antora_in_your_projects/)
-- [Some question about ShenandoahGC and some GCs options](https://www.reddit.com/r/java/comments/116htsl/some_question_about_shenandoahgc_and_some_gcs/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
