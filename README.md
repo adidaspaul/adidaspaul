@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Help please!](https://www.reddit.com/r/java/comments/118glx7/help_please/)
 - [Write Efficient Bug-free and Simple Comparators in Java - JEP Café episode 17](https://www.reddit.com/r/java/comments/1187b8j/write_efficient_bugfree_and_simple_comparators_in/)
 - [Write Efficient Bug-free and Simple Comparators in Java - JEP Café](https://www.reddit.com/r/java/comments/1185dm7/write_efficient_bugfree_and_simple_comparators_in/)
-- [Why I will stop mocking for most of my Unit Tests in a Spring-Boot Application](https://www.reddit.com/r/java/comments/1181ayi/why_i_will_stop_mocking_for_most_of_my_unit_tests/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
