@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Jarviz Delivers Inspection and Insights to JAR Files](https://www.reddit.com/r/java/comments/118wbkc/jarviz_delivers_inspection_and_insights_to_jar/)
+- [What Java applet should I make next?](https://www.reddit.com/r/java/comments/118vz4w/what_java_applet_should_i_make_next/)
 - [How do you like my java script?](https://www.reddit.com/r/java/comments/118u6vf/how_do_you_like_my_java_script/)
-- [Instant boilerplate for unit tests](https://www.reddit.com/r/java/comments/118sq1j/instant_boilerplate_for_unit_tests/)
-- [Would You use GraalVM or Javet for server side tempalting?](https://www.reddit.com/r/java/comments/118qapz/would_you_use_graalvm_or_javet_for_server_side/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
