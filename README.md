@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Instant boilerplate for unit tests](https://www.reddit.com/r/java/comments/118sq1j/instant_boilerplate_for_unit_tests/)
 - [Would You use GraalVM or Javet for server side tempalting?](https://www.reddit.com/r/java/comments/118qapz/would_you_use_graalvm_or_javet_for_server_side/)
 - [Why do Java containers need so much off-heap memory?](https://www.reddit.com/r/java/comments/118jxkc/why_do_java_containers_need_so_much_offheap_memory/)
-- [Write Efficient Bug-free and Simple Comparators in Java - JEP Café episode 17](https://www.reddit.com/r/java/comments/1187b8j/write_efficient_bugfree_and_simple_comparators_in/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
