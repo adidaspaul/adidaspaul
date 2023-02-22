@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Hibernate ORM 6.2 - CTE support explained](https://www.reddit.com/r/java/comments/119cvid/hibernate_orm_62_cte_support_explained/)
 - [Jarviz Delivers Inspection and Insights to JAR Files](https://www.reddit.com/r/java/comments/118wbkc/jarviz_delivers_inspection_and_insights_to_jar/)
 - [Instant boilerplate for unit tests](https://www.reddit.com/r/java/comments/118sq1j/instant_boilerplate_for_unit_tests/)
-- [Would You use GraalVM or Javet for server side tempalting?](https://www.reddit.com/r/java/comments/118qapz/would_you_use_graalvm_or_javet_for_server_side/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
