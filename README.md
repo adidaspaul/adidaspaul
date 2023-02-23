@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Worth learning Java if I know some Kotlin?](https://www.reddit.com/r/java/comments/119mp9l/worth_learning_java_if_i_know_some_kotlin/)
 - [Hibernate ORM 6.2 - CTE support explained](https://www.reddit.com/r/java/comments/119cvid/hibernate_orm_62_cte_support_explained/)
 - [Jarviz Delivers Inspection and Insights to JAR Files](https://www.reddit.com/r/java/comments/118wbkc/jarviz_delivers_inspection_and_insights_to_jar/)
+- [Instant boilerplate for unit tests](https://www.reddit.com/r/java/comments/118sq1j/instant_boilerplate_for_unit_tests/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
