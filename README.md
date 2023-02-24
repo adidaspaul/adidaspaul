@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [what is it needed to get a junior level job?](https://www.reddit.com/r/java/comments/11aipvt/what_is_it_needed_to_get_a_junior_level_job/)
 - [What is the wackiest, most unbelievable bug you&#39;ve ever discovered](https://www.reddit.com/r/java/comments/11aax1a/what_is_the_wackiest_most_unbelievable_bug_youve/)
 - [Interview question](https://www.reddit.com/r/java/comments/11aaiv0/interview_question/)
-- [Spring boot security quickstart](https://www.reddit.com/r/java/comments/11aa7ho/spring_boot_security_quickstart/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
