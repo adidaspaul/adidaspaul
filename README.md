@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [In-JAR code signing with Conveyor](https://www.reddit.com/r/java/comments/11ati1q/injar_code_signing_with_conveyor/)
 - [pacman-javafx: A 3D &amp; 2D Pac-Man and Ms. Pac-Man implementation made in JavaFX](https://www.reddit.com/r/java/comments/11a7iyj/pacmanjavafx_a_3d_2d_pacman_and_ms_pacman/)
 - [NativeImage Reverse Engineering](https://www.reddit.com/r/java/comments/119rtpt/nativeimage_reverse_engineering/)
-- [Hibernate ORM 6.2 - CTE support explained](https://www.reddit.com/r/java/comments/119cvid/hibernate_orm_62_cte_support_explained/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
