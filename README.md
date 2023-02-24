@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Decaling a private field Map or HashMap &lpar;for example&rpar;](https://www.reddit.com/r/java/comments/11awfoq/decaling_a_private_field_map_or_hashmap_for/)
 - [Java library to generate data for Testcontainers databases](https://www.reddit.com/r/java/comments/11auwo8/java_library_to_generate_data_for_testcontainers/)
 - [In-JAR code signing with Conveyor](https://www.reddit.com/r/java/comments/11ati1q/injar_code_signing_with_conveyor/)
+- [pacman-javafx: A 3D &amp; 2D Pac-Man and Ms. Pac-Man implementation made in JavaFX](https://www.reddit.com/r/java/comments/11a7iyj/pacmanjavafx_a_3d_2d_pacman_and_ms_pacman/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
