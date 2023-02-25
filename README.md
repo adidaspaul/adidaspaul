@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [why does jre 8u151 start load and then suddenly stop on windows xp](https://www.reddit.com/r/java/comments/11btmwv/why_does_jre_8u151_start_load_and_then_suddenly/)
 - [JEP draft: Deprecate the Windows x86-32 Port](https://www.reddit.com/r/java/comments/11bpeb6/jep_draft_deprecate_the_windows_x8632_port/)
 - [Why did Spring Initializr Change the Default to Gradle?](https://www.reddit.com/r/java/comments/11bilzu/why_did_spring_initializr_change_the_default_to/)
-- [In-JAR code signing with Conveyor](https://www.reddit.com/r/java/comments/11ati1q/injar_code_signing_with_conveyor/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
