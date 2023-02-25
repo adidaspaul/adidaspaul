@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Why did Spring Initializr Change the Default to Gradle?](https://www.reddit.com/r/java/comments/11bilzu/why_did_spring_initializr_change_the_default_to/)
 - [Java library to generate data for Testcontainers databases](https://www.reddit.com/r/java/comments/11auwo8/java_library_to_generate_data_for_testcontainers/)
 - [In-JAR code signing with Conveyor](https://www.reddit.com/r/java/comments/11ati1q/injar_code_signing_with_conveyor/)
-- [pacman-javafx: A 3D &amp; 2D Pac-Man and Ms. Pac-Man implementation made in JavaFX](https://www.reddit.com/r/java/comments/11a7iyj/pacmanjavafx_a_3d_2d_pacman_and_ms_pacman/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
