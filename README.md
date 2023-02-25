@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [JEP draft: Deprecate the Windows x86-32 Port](https://www.reddit.com/r/java/comments/11bpeb6/jep_draft_deprecate_the_windows_x8632_port/)
 - [Why did Spring Initializr Change the Default to Gradle?](https://www.reddit.com/r/java/comments/11bilzu/why_did_spring_initializr_change_the_default_to/)
 - [In-JAR code signing with Conveyor](https://www.reddit.com/r/java/comments/11ati1q/injar_code_signing_with_conveyor/)
-- [pacman-javafx: A 3D &amp; 2D Pac-Man and Ms. Pac-Man implementation made in JavaFX](https://www.reddit.com/r/java/comments/11a7iyj/pacmanjavafx_a_3d_2d_pacman_and_ms_pacman/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
