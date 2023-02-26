@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Fuck Java modules](https://www.reddit.com/r/java/comments/11cji10/fuck_java_modules/)
 - [Where do you declare interfaces in project?](https://www.reddit.com/r/java/comments/11cdaah/where_do_you_declare_interfaces_in_project/)
 - [Apache NetBeans 17 released](https://www.reddit.com/r/java/comments/11c8pbe/apache_netbeans_17_released/)
-- [JEP draft: Deprecate the Windows x86-32 Port](https://www.reddit.com/r/java/comments/11bpeb6/jep_draft_deprecate_the_windows_x8632_port/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
