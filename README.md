@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [I am a JavaScript Engineer. Want to expand into the Java &lpar;Spring&rpar;. What resources would be a good starting place to learn Java?](https://www.reddit.com/r/java/comments/11ckyq4/i_am_a_javascript_engineer_want_to_expand_into/)
 - [Fuck Java modules](https://www.reddit.com/r/java/comments/11cji10/fuck_java_modules/)
 - [Where do you declare interfaces in project?](https://www.reddit.com/r/java/comments/11cdaah/where_do_you_declare_interfaces_in_project/)
-- [Apache NetBeans 17 released](https://www.reddit.com/r/java/comments/11c8pbe/apache_netbeans_17_released/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
