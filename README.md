@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Apache NetBeans 17 released](https://www.reddit.com/r/java/comments/11c8pbe/apache_netbeans_17_released/)
 - [JEP draft: Deprecate the Windows x86-32 Port](https://www.reddit.com/r/java/comments/11bpeb6/jep_draft_deprecate_the_windows_x8632_port/)
 - [Why did Spring Initializr Change the Default to Gradle?](https://www.reddit.com/r/java/comments/11bilzu/why_did_spring_initializr_change_the_default_to/)
-- [In-JAR code signing with Conveyor](https://www.reddit.com/r/java/comments/11ati1q/injar_code_signing_with_conveyor/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
