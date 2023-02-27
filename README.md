@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [So I started taking Bro code&#39;s java course. I see he downloaded jdk 15, can I download some other version and have it still working? Idk what the differences are.](https://www.reddit.com/r/java/comments/11dkycw/so_i_started_taking_bro_codes_java_course_i_see/)
 - [What Happened To search.maven.org? - The Central Repository Documentation](https://www.reddit.com/r/java/comments/11dgn8p/what_happened_to_searchmavenorg_the_central/)
 - [Blog post: accelerating vector operations on the JVM using the new jdk.incubator.vector module](https://www.reddit.com/r/java/comments/11df2kn/blog_post_accelerating_vector_operations_on_the/)
-- [roc-java: Java bindings for Roc Toolkit &lpar;real-time audio streaming&rpar;](https://www.reddit.com/r/java/comments/11demi8/rocjava_java_bindings_for_roc_toolkit_realtime/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
