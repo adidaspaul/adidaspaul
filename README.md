@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [GlassFish 7.0.2 released!](https://www.reddit.com/r/java/comments/11dbdzi/glassfish_702_released/)
 - [JReleaser 1.5.0 has been released!](https://www.reddit.com/r/java/comments/11dabeh/jreleaser_150_has_been_released/)
 - [IDE](https://www.reddit.com/r/java/comments/11d9bap/ide/)
-- [Please try my JSON library](https://www.reddit.com/r/java/comments/11cyoh1/please_try_my_json_library/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
