@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Blog post: accelerating vector operations on the JVM using the new jdk.incubator.vector module](https://www.reddit.com/r/java/comments/11df2kn/blog_post_accelerating_vector_operations_on_the/)
+- [roc-java: Java bindings for Roc Toolkit &lpar;real-time audio streaming&rpar;](https://www.reddit.com/r/java/comments/11demi8/rocjava_java_bindings_for_roc_toolkit_realtime/)
 - [GlassFish 7.0.2 released!](https://www.reddit.com/r/java/comments/11dbdzi/glassfish_702_released/)
-- [JReleaser 1.5.0 has been released!](https://www.reddit.com/r/java/comments/11dabeh/jreleaser_150_has_been_released/)
-- [IDE](https://www.reddit.com/r/java/comments/11d9bap/ide/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
