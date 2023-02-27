@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [IDE](https://www.reddit.com/r/java/comments/11d9bap/ide/)
 - [Please try my JSON library](https://www.reddit.com/r/java/comments/11cyoh1/please_try_my_json_library/)
 - [FlexiCore - an Open Source plugin spring-based java framework](https://www.reddit.com/r/java/comments/11cwcik/flexicore_an_open_source_plugin_springbased_java/)
-- [Are java codebases generally readable? Or is the stereotype true that they are littered with the worst OOP has to offer?](https://www.reddit.com/r/java/comments/11cu5k2/are_java_codebases_generally_readable_or_is_the/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
