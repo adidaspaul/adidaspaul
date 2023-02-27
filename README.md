@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [JReleaser 1.5.0 has been released!](https://www.reddit.com/r/java/comments/11dabeh/jreleaser_150_has_been_released/)
 - [IDE](https://www.reddit.com/r/java/comments/11d9bap/ide/)
 - [Please try my JSON library](https://www.reddit.com/r/java/comments/11cyoh1/please_try_my_json_library/)
-- [FlexiCore - an Open Source plugin spring-based java framework](https://www.reddit.com/r/java/comments/11cwcik/flexicore_an_open_source_plugin_springbased_java/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
