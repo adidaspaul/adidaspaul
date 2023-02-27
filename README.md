@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Please try my JSON library](https://www.reddit.com/r/java/comments/11cyoh1/please_try_my_json_library/)
+- [FlexiCore - an Open Source plugin spring-based java framework](https://www.reddit.com/r/java/comments/11cwcik/flexicore_an_open_source_plugin_springbased_java/)
 - [Are java codebases generally readable? Or is the stereotype true that they are littered with the worst OOP has to offer?](https://www.reddit.com/r/java/comments/11cu5k2/are_java_codebases_generally_readable_or_is_the/)
-- [Deep dive into AWS Lambda using Spring Boot 3 and GraalVM](https://www.reddit.com/r/java/comments/11cmtvz/deep_dive_into_aws_lambda_using_spring_boot_3_and/)
-- [Where do you declare interfaces in project?](https://www.reddit.com/r/java/comments/11cdaah/where_do_you_declare_interfaces_in_project/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
