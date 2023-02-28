@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Open source Java projects](https://www.reddit.com/r/java/comments/11emxub/open_source_java_projects/)
+- [Why most of the startups do not choose Java for building their MVP](https://www.reddit.com/r/java/comments/11em0du/why_most_of_the_startups_do_not_choose_java_for/)
 - [What Happened To search.maven.org? - The Central Repository Documentation](https://www.reddit.com/r/java/comments/11dgn8p/what_happened_to_searchmavenorg_the_central/)
-- [Blog post: accelerating vector operations on the JVM using the new jdk.incubator.vector module](https://www.reddit.com/r/java/comments/11df2kn/blog_post_accelerating_vector_operations_on_the/)
-- [roc-java: Java bindings for Roc Toolkit &lpar;real-time audio streaming&rpar;](https://www.reddit.com/r/java/comments/11demi8/rocjava_java_bindings_for_roc_toolkit_realtime/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
