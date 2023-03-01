@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The Tale of Troubleshooting: Unstable Builds and Open Source Infrastructure](https://www.reddit.com/r/java/comments/11f7w0x/the_tale_of_troubleshooting_unstable_builds_and/)
+- [Why is java autoboxing is slow and consume memory more even when jvm gets hot?](https://www.reddit.com/r/java/comments/11f732w/why_is_java_autoboxing_is_slow_and_consume_memory/)
 - [Assert on your Java Beans like a Boss with WebTau new business logic testing capabilities](https://www.reddit.com/r/java/comments/11f511v/assert_on_your_java_beans_like_a_boss_with_webtau/)
-- [JEP 438: Vector API &lpar;Fifth Incubator&rpar; targeted to Java 20 and clarifies alignment with Project Valhalla](https://www.reddit.com/r/java/comments/11ey56o/jep_438_vector_api_fifth_incubator_targeted_to/)
-- [Why most of the startups do not choose Java for building their MVP](https://www.reddit.com/r/java/comments/11em0du/why_most_of_the_startups_do_not_choose_java_for/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
