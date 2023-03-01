@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Assert on your Java Beans like a Boss with WebTau new business logic testing capabilities](https://www.reddit.com/r/java/comments/11f511v/assert_on_your_java_beans_like_a_boss_with_webtau/)
 - [JEP 438: Vector API &lpar;Fifth Incubator&rpar; targeted to Java 20 and clarifies alignment with Project Valhalla](https://www.reddit.com/r/java/comments/11ey56o/jep_438_vector_api_fifth_incubator_targeted_to/)
 - [Why most of the startups do not choose Java for building their MVP](https://www.reddit.com/r/java/comments/11em0du/why_most_of_the_startups_do_not_choose_java_for/)
-- [What Happened To search.maven.org? - The Central Repository Documentation](https://www.reddit.com/r/java/comments/11dgn8p/what_happened_to_searchmavenorg_the_central/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
