@@ -64,8 +64,8 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Amazon SNS Java Messaging Lib](https://www.reddit.com/r/java/comments/11fwnmg/amazon_sns_java_messaging_lib/)
 - [The Holy Grail of Java Performance](https://www.reddit.com/r/java/comments/11fw0ma/the_holy_grail_of_java_performance/)
-- [The Holy Grail of Java Performance - Inside Java Newscast #43](https://www.reddit.com/r/java/comments/11fvx87/the_holy_grail_of_java_performance_inside_java/)
 - [Video4j - A high level video API for Java](https://www.reddit.com/r/java/comments/11fqgr9/video4j_a_high_level_video_api_for_java/)
 <!-- BLOG-POST-LIST:END -->
 
