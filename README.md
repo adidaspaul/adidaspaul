@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [can completablefuture use virtualthreads](https://www.reddit.com/r/java/comments/11ghq48/can_completablefuture_use_virtualthreads/)
 - [Scoped Values Draft JEP Targeted for Java 21. Graduated from incubating to preview.](https://www.reddit.com/r/java/comments/11g8xen/scoped_values_draft_jep_targeted_for_java_21/)
 - [JEP 431: Sequenced Collections Proposed to Target Java 21](https://www.reddit.com/r/java/comments/11g8w27/jep_431_sequenced_collections_proposed_to_target/)
-- [JEP 430: String Templates &lpar;Preview&rpar; Proposed to Target Java 21](https://www.reddit.com/r/java/comments/11g8vji/jep_430_string_templates_preview_proposed_to/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
