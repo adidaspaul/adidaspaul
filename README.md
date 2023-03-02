@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [JSP RCE Prevention](https://www.reddit.com/r/java/comments/11g74rc/jsp_rce_prevention/)
-- [Hi all, I redid one project &lpar;it was also here, thanks to neo1908 for its advice&rpar; and made it a repository in maven. Please give me feedback. Yes, there are no tests yet😢](https://www.reddit.com/r/java/comments/11g2jmz/hi_all_i_redid_one_project_it_was_also_here/)
-- [Amazon SNS Java Messaging Lib](https://www.reddit.com/r/java/comments/11fwnmg/amazon_sns_java_messaging_lib/)
+- [Scoped Values Draft JEP Targeted for Java 21. Graduated from incubating to preview.](https://www.reddit.com/r/java/comments/11g8xen/scoped_values_draft_jep_targeted_for_java_21/)
+- [JEP 431: Sequenced Collections Proposed to Target Java 21](https://www.reddit.com/r/java/comments/11g8w27/jep_431_sequenced_collections_proposed_to_target/)
+- [JEP 430: String Templates &lpar;Preview&rpar; Proposed to Target Java 21](https://www.reddit.com/r/java/comments/11g8vji/jep_430_string_templates_preview_proposed_to/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
