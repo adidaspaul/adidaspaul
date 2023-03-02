@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Will Java finally become a good language for learning programming?](https://www.reddit.com/r/java/comments/11g44c8/will_java_finally_become_a_good_language_for/)
 - [Hi all, I redid one project &lpar;it was also here, thanks to neo1908 for its advice&rpar; and made it a repository in maven. Please give me feedback. Yes, there are no tests yet😢](https://www.reddit.com/r/java/comments/11g2jmz/hi_all_i_redid_one_project_it_was_also_here/)
 - [Amazon SNS Java Messaging Lib](https://www.reddit.com/r/java/comments/11fwnmg/amazon_sns_java_messaging_lib/)
+- [The Holy Grail of Java Performance](https://www.reddit.com/r/java/comments/11fw0ma/the_holy_grail_of_java_performance/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
