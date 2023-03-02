@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Video4j - A high level video API for Java](https://www.reddit.com/r/java/comments/11fqgr9/video4j_a_high_level_video_api_for_java/)
 - [AWS for Java Programmers.](https://www.reddit.com/r/java/comments/11ffwxy/aws_for_java_programmers/)
 - [how javolution and eclipse collections fare against standard java strings and maps? memory and perform wise. i need some serious number and text crunching and would love to get your input and opinions](https://www.reddit.com/r/java/comments/11f8z1o/how_javolution_and_eclipse_collections_fare/)
-- [The Tale of Troubleshooting: Unstable Builds and Open Source Infrastructure](https://www.reddit.com/r/java/comments/11f7w0x/the_tale_of_troubleshooting_unstable_builds_and/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
