@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The Holy Grail of Java Performance](https://www.reddit.com/r/java/comments/11fw0ma/the_holy_grail_of_java_performance/)
+- [The Holy Grail of Java Performance - Inside Java Newscast #43](https://www.reddit.com/r/java/comments/11fvx87/the_holy_grail_of_java_performance_inside_java/)
 - [Video4j - A high level video API for Java](https://www.reddit.com/r/java/comments/11fqgr9/video4j_a_high_level_video_api_for_java/)
-- [AWS for Java Programmers.](https://www.reddit.com/r/java/comments/11ffwxy/aws_for_java_programmers/)
-- [how javolution and eclipse collections fare against standard java strings and maps? memory and perform wise. i need some serious number and text crunching and would love to get your input and opinions](https://www.reddit.com/r/java/comments/11f8z1o/how_javolution_and_eclipse_collections_fare/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
