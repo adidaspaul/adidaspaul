@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Collapse Functionality for Knowledge Articles within ServiceNow](https://www.reddit.com/r/java/comments/11h2suo/collapse_functionality_for_knowledge_articles/)
 - [Games For Java Coding](https://www.reddit.com/r/java/comments/11gtlj9/games_for_java_coding/)
 - [can completablefuture use virtualthreads](https://www.reddit.com/r/java/comments/11ghq48/can_completablefuture_use_virtualthreads/)
-- [Scoped Values Draft JEP Targeted for Java 21. Graduated from incubating to preview.](https://www.reddit.com/r/java/comments/11g8xen/scoped_values_draft_jep_targeted_for_java_21/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
