@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [What are the best resources to learn about lucene internals?](https://www.reddit.com/r/java/comments/11igbyn/what_are_the_best_resources_to_learn_about_lucene/)
 - [Tool to detect N+1](https://www.reddit.com/r/java/comments/11hx5uy/tool_to_detect_n1/)
 - [Resources to learn java for experienced](https://www.reddit.com/r/java/comments/11hwz8t/resources_to_learn_java_for_experienced/)
-- [Finding Java Thread Leaks With JDK Flight Recorder and a Bit Of SQL](https://www.reddit.com/r/java/comments/11hvdph/finding_java_thread_leaks_with_jdk_flight/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
