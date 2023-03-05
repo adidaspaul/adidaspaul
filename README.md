@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Studying Log4Shell](https://www.reddit.com/r/java/comments/11iw6y3/studying_log4shell/)
 - [Finally found a reason to try Reactor with this bot project](https://www.reddit.com/r/java/comments/11ivhaf/finally_found_a_reason_to_try_reactor_with_this/)
 - [Xtext - Do you use it in large projects?](https://www.reddit.com/r/java/comments/11iqv7r/xtext_do_you_use_it_in_large_projects/)
-- [Is there any way to revert to a previous save? I had a program working correctly last night, then I guess I made some changes today and it’s no longer working, but I can’t seem to go back to when it was working.](https://www.reddit.com/r/java/comments/11iohw9/is_there_any_way_to_revert_to_a_previous_save_i/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
