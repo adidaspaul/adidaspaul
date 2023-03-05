@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Is it unsafe to install a slightly earlier Java version](https://www.reddit.com/r/java/comments/11j65cq/is_it_unsafe_to_install_a_slightly_earlier_java/)
+- [Why is jdk.tls.acknowledgeCloseNotify not enabled by default?](https://www.reddit.com/r/java/comments/11j45pq/why_is_jdktlsacknowledgeclosenotify_not_enabled/)
 - [How does this code work?? when I write it myself it wont compile.](https://www.reddit.com/r/java/comments/11j2xtc/how_does_this_code_work_when_i_write_it_myself_it/)
-- [Studying Log4Shell](https://www.reddit.com/r/java/comments/11iw6y3/studying_log4shell/)
-- [Finally found a reason to try Reactor with this bot project](https://www.reddit.com/r/java/comments/11ivhaf/finally_found_a_reason_to_try_reactor_with_this/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
