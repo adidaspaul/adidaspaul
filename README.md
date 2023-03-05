@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How does this code work?? when I write it myself it wont compile.](https://www.reddit.com/r/java/comments/11j2xtc/how_does_this_code_work_when_i_write_it_myself_it/)
 - [Studying Log4Shell](https://www.reddit.com/r/java/comments/11iw6y3/studying_log4shell/)
 - [Finally found a reason to try Reactor with this bot project](https://www.reddit.com/r/java/comments/11ivhaf/finally_found_a_reason_to_try_reactor_with_this/)
-- [Xtext - Do you use it in large projects?](https://www.reddit.com/r/java/comments/11iqv7r/xtext_do_you_use_it_in_large_projects/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
