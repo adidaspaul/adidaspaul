@@ -66,7 +66,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [Xtext - Do you use it in large projects?](https://www.reddit.com/r/java/comments/11iqv7r/xtext_do_you_use_it_in_large_projects/)
 - [Is there any way to revert to a previous save? I had a program working correctly last night, then I guess I made some changes today and it’s no longer working, but I can’t seem to go back to when it was working.](https://www.reddit.com/r/java/comments/11iohw9/is_there_any_way_to_revert_to_a_previous_save_i/)
-- [Software to keep Java applet running](https://www.reddit.com/r/java/comments/11iiqaj/software_to_keep_java_applet_running/)
+- [What are the best resources to learn about lucene internals?](https://www.reddit.com/r/java/comments/11igbyn/what_are_the_best_resources_to_learn_about_lucene/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
