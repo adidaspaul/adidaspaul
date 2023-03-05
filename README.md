@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [ZGC - Java’s Highly Scalable Low-Latency Garbage Collector](https://www.reddit.com/r/java/comments/11j7hay/zgc_javas_highly_scalable_lowlatency_garbage/)
 - [Is it unsafe to install a slightly earlier Java version](https://www.reddit.com/r/java/comments/11j65cq/is_it_unsafe_to_install_a_slightly_earlier_java/)
 - [Why is jdk.tls.acknowledgeCloseNotify not enabled by default?](https://www.reddit.com/r/java/comments/11j45pq/why_is_jdktlsacknowledgeclosenotify_not_enabled/)
-- [How does this code work?? when I write it myself it wont compile.](https://www.reddit.com/r/java/comments/11j2xtc/how_does_this_code_work_when_i_write_it_myself_it/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
