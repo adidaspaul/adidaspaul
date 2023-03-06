@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [sift: a CLI tool for modeling and analyzing the design of software systems from JVM bytecode](https://www.reddit.com/r/java/comments/11k07ob/sift_a_cli_tool_for_modeling_and_analyzing_the/)
 - [Guides and tutorials on how to implement spring secuirty in a microservice architecture](https://www.reddit.com/r/java/comments/11jwwru/guides_and_tutorials_on_how_to_implement_spring/)
 - [Web applications and Project Loom](https://www.reddit.com/r/java/comments/11jvrww/web_applications_and_project_loom/)
-- [Jarviz 0.3.0 has been released!](https://www.reddit.com/r/java/comments/11jsn56/jarviz_030_has_been_released/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
