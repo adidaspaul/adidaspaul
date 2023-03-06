@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Node.js Vs. Java For Enterprise Web Development](https://www.reddit.com/r/java/comments/11kanhr/nodejs_vs_java_for_enterprise_web_development/)
 - [javax.swing using almost 1gb for a single window app](https://www.reddit.com/r/java/comments/11k3znv/javaxswing_using_almost_1gb_for_a_single_window/)
 - [how does spring webflux interact with the java servlet api?](https://www.reddit.com/r/java/comments/11k33sf/how_does_spring_webflux_interact_with_the_java/)
-- [sift: a CLI tool for modeling and analyzing the design of software systems from JVM bytecode](https://www.reddit.com/r/java/comments/11k07ob/sift_a_cli_tool_for_modeling_and_analyzing_the/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
