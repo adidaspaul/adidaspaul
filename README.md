@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Web applications and Project Loom](https://www.reddit.com/r/java/comments/11jvrww/web_applications_and_project_loom/)
 - [Jarviz 0.3.0 has been released!](https://www.reddit.com/r/java/comments/11jsn56/jarviz_030_has_been_released/)
 - [ZGC - Java’s Highly Scalable Low-Latency Garbage Collector](https://www.reddit.com/r/java/comments/11j7hay/zgc_javas_highly_scalable_lowlatency_garbage/)
-- [Why is jdk.tls.acknowledgeCloseNotify not enabled by default?](https://www.reddit.com/r/java/comments/11j45pq/why_is_jdktlsacknowledgeclosenotify_not_enabled/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
