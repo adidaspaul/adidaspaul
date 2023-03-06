@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [What&#39;s the point of acquiring Java certification ?](https://www.reddit.com/r/java/comments/11kbbsb/whats_the_point_of_acquiring_java_certification/)
 - [Node.js Vs. Java For Enterprise Web Development](https://www.reddit.com/r/java/comments/11kanhr/nodejs_vs_java_for_enterprise_web_development/)
 - [javax.swing using almost 1gb for a single window app](https://www.reddit.com/r/java/comments/11k3znv/javaxswing_using_almost_1gb_for_a_single_window/)
-- [how does spring webflux interact with the java servlet api?](https://www.reddit.com/r/java/comments/11k33sf/how_does_spring_webflux_interact_with_the_java/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
