@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Spring boot doesn&#39;t allow ILIKE on all environments](https://www.reddit.com/r/java/comments/11kw2sq/spring_boot_doesnt_allow_ilike_on_all_environments/)
 - [LicenseScan Maven Plugin 3.2](https://www.reddit.com/r/java/comments/11ktgb5/licensescan_maven_plugin_32/)
 - [Deconstruction patterns [Brian Goetz]](https://www.reddit.com/r/java/comments/11kkouo/deconstruction_patterns_brian_goetz/)
-- [What&#39;s the point of acquiring Java certification ?](https://www.reddit.com/r/java/comments/11kbbsb/whats_the_point_of_acquiring_java_certification/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
