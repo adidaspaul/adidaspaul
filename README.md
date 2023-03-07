@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [LicenseScan Maven Plugin 3.2](https://www.reddit.com/r/java/comments/11ktgb5/licensescan_maven_plugin_32/)
+- [CS fundamentals books/courses?](https://www.reddit.com/r/java/comments/11kspn6/cs_fundamentals_bookscourses/)
 - [Deconstruction patterns [Brian Goetz]](https://www.reddit.com/r/java/comments/11kkouo/deconstruction_patterns_brian_goetz/)
-- [What&#39;s the point of acquiring Java certification ?](https://www.reddit.com/r/java/comments/11kbbsb/whats_the_point_of_acquiring_java_certification/)
-- [sift: a CLI tool for modeling and analyzing the design of software systems from JVM bytecode](https://www.reddit.com/r/java/comments/11k07ob/sift_a_cli_tool_for_modeling_and_analyzing_the/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
