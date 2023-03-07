@@ -65,8 +65,8 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [ImagineBreaker - opens up every base java module &amp; removes reflection filtering](https://www.reddit.com/r/java/comments/11kxdnl/imaginebreaker_opens_up_every_base_java_module/)
-- [Spring boot doesn&#39;t allow ILIKE on all environments](https://www.reddit.com/r/java/comments/11kw2sq/spring_boot_doesnt_allow_ilike_on_all_environments/)
 - [LicenseScan Maven Plugin 3.2](https://www.reddit.com/r/java/comments/11ktgb5/licensescan_maven_plugin_32/)
+- [Deconstruction patterns [Brian Goetz]](https://www.reddit.com/r/java/comments/11kkouo/deconstruction_patterns_brian_goetz/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
