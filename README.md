@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Road to Quarkus 3: Bets on the Flow API for Mutiny 2.0, Updates to Jakarta Namespace and More](https://www.reddit.com/r/java/comments/11m7z7v/road_to_quarkus_3_bets_on_the_flow_api_for_mutiny/)
 - [Vaadin and Sticky sessions?](https://www.reddit.com/r/java/comments/11lp2rd/vaadin_and_sticky_sessions/)
 - [JEP Pattern Matching for switch + Records Patterns planned for final release &lpar;not preview&rpar; in Java 21](https://www.reddit.com/r/java/comments/11lksdo/jep_pattern_matching_for_switch_records_patterns/)
-- [Discord and the JVM](https://www.reddit.com/r/java/comments/11lgdol/discord_and_the_jvm/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
