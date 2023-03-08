@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Vaadin and Sticky sessions?](https://www.reddit.com/r/java/comments/11lp2rd/vaadin_and_sticky_sessions/)
 - [JEP Pattern Matching for switch + Records Patterns planned for final release &lpar;not preview&rpar; in Java 21](https://www.reddit.com/r/java/comments/11lksdo/jep_pattern_matching_for_switch_records_patterns/)
 - [Can I use a library with Spring Boot 2.7 as a dependency for a Spring Boot 3.0 project?](https://www.reddit.com/r/java/comments/11lhqst/can_i_use_a_library_with_spring_boot_27_as_a/)
-- [Discord and the JVM](https://www.reddit.com/r/java/comments/11lgdol/discord_and_the_jvm/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
