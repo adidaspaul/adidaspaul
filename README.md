@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Can I use a library with Spring Boot 2.7 as a dependency for a Spring Boot 3.0 project?](https://www.reddit.com/r/java/comments/11lhqst/can_i_use_a_library_with_spring_boot_27_as_a/)
+- [Discord and the JVM](https://www.reddit.com/r/java/comments/11lgdol/discord_and_the_jvm/)
 - [ImagineBreaker - opens up every base java module &amp; removes reflection filtering](https://www.reddit.com/r/java/comments/11kxdnl/imaginebreaker_opens_up_every_base_java_module/)
-- [LicenseScan Maven Plugin 3.2](https://www.reddit.com/r/java/comments/11ktgb5/licensescan_maven_plugin_32/)
-- [Deconstruction patterns [Brian Goetz]](https://www.reddit.com/r/java/comments/11kkouo/deconstruction_patterns_brian_goetz/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
