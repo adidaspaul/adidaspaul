@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [R/Java is for learning about the jvm and related things not programming but mods keep removing posts for that](https://www.reddit.com/r/java/comments/11mxlw2/rjava_is_for_learning_about_the_jvm_and_related/)
 - [The first information on JDK 21: What will the next LTS bring](https://www.reddit.com/r/java/comments/11mtwwc/the_first_information_on_jdk_21_what_will_the/)
 - [Road to Quarkus 3: Bets on the Flow API for Mutiny 2.0, Updates to Jakarta Namespace and More](https://www.reddit.com/r/java/comments/11m7z7v/road_to_quarkus_3_bets_on_the_flow_api_for_mutiny/)
-- [Vaadin and Sticky sessions?](https://www.reddit.com/r/java/comments/11lp2rd/vaadin_and_sticky_sessions/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
