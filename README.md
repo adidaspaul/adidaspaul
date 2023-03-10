@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Data-Oriented Programming in Java](https://www.reddit.com/r/java/comments/11n9080/dataoriented_programming_in_java/)
 - [JDK 20 and JDK 21: What We Know So Far](https://www.reddit.com/r/java/comments/11n4pgv/jdk_20_and_jdk_21_what_we_know_so_far/)
 - [The first information on JDK 21: What will the next LTS bring](https://www.reddit.com/r/java/comments/11mtwwc/the_first_information_on_jdk_21_what_will_the/)
-- [Road to Quarkus 3: Bets on the Flow API for Mutiny 2.0, Updates to Jakarta Namespace and More](https://www.reddit.com/r/java/comments/11m7z7v/road_to_quarkus_3_bets_on_the_flow_api_for_mutiny/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
