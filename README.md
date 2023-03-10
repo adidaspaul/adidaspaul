@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Git framework/library for Java](https://www.reddit.com/r/java/comments/11nyhje/git_frameworklibrary_for_java/)
+- [JEP 439: Generational ZGC](https://www.reddit.com/r/java/comments/11nyhcg/jep_439_generational_zgc/)
 - [GitHub - hkupty/maple: Opinionated SLF4J backend that logs natively to json](https://www.reddit.com/r/java/comments/11nqjqx/github_hkuptymaple_opinionated_slf4j_backend_that/)
-- [Jakarta EE Survey 2022/2023 – results](https://www.reddit.com/r/java/comments/11npykp/jakarta_ee_survey_20222023_results/)
-- [Announcing rust-maven-plugin: Compile and bundle Rust JNI libraries in Java Maven projects!](https://www.reddit.com/r/java/comments/11np0ag/announcing_rustmavenplugin_compile_and_bundle/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
