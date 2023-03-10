@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [does java compiler native code or byte code control memory &lpar;tech question&rpar;](https://www.reddit.com/r/java/comments/11nlt1i/does_java_compiler_native_code_or_byte_code/)
+- [•Posted by u/Secure_Ad6815 1 minute ago Stop this is the right place stop trying to point me to the wrong places I am not trying to fix my problem with programming I need to know how the jvm works not Java programming it has nothing to do with learning java so it would just be removed](https://www.reddit.com/r/java/comments/11nll3f/posted_by_usecure_ad6815_1_minute_ago_stop_this/)
 - [Data-Oriented Programming in Java](https://www.reddit.com/r/java/comments/11n9080/dataoriented_programming_in_java/)
-- [JDK 20 and JDK 21: What We Know So Far](https://www.reddit.com/r/java/comments/11n4pgv/jdk_20_and_jdk_21_what_we_know_so_far/)
-- [The first information on JDK 21: What will the next LTS bring](https://www.reddit.com/r/java/comments/11mtwwc/the_first_information_on_jdk_21_what_will_the/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
