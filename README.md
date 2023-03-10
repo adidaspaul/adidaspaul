@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Announcing rust-maven-plugin: Compile and bundle Rust JNI libraries in Java Maven projects!](https://www.reddit.com/r/java/comments/11np0ag/announcing_rustmavenplugin_compile_and_bundle/)
 - [Collection.isNotEmpty?](https://www.reddit.com/r/java/comments/11nnrm9/collectionisnotempty/)
 - [Spring boot Webclient - Authenticating with Github APIs as a Github App](https://www.reddit.com/r/java/comments/11nmzpb/spring_boot_webclient_authenticating_with_github/)
-- [Data-Oriented Programming in Java](https://www.reddit.com/r/java/comments/11n9080/dataoriented_programming_in_java/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
