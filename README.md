@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [I love C++ because of its simple syntax. Do you agree?](https://www.reddit.com/r/java/comments/11owrrb/i_love_c_because_of_its_simple_syntax_do_you_agree/)
 - [What happens after I graduate from CS?](https://www.reddit.com/r/java/comments/11opc8h/what_happens_after_i_graduate_from_cs/)
 - [Inspiring OOP examples?](https://www.reddit.com/r/java/comments/11olbzf/inspiring_oop_examples/)
+- [When I read this line in The Pragmatic Programmer, it immediately made me think of &quot;Clean Code&quot;.](https://www.reddit.com/r/java/comments/11ogrvw/when_i_read_this_line_in_the_pragmatic_programmer/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
