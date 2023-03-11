@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Applied to a company, got a test link, failed miserably&lpar;could not even wrap my head around on how to begin&rpar;. Looking for implementation ideas now. 3+ YOE.](https://www.reddit.com/r/java/comments/11oj25k/applied_to_a_company_got_a_test_link_failed/)
 - [When I read this line in The Pragmatic Programmer, it immediately made me think of &quot;Clean Code&quot;.](https://www.reddit.com/r/java/comments/11ogrvw/when_i_read_this_line_in_the_pragmatic_programmer/)
 - [OpenJ9 Semeru vs. Eclipse Adoptium?](https://www.reddit.com/r/java/comments/11ogqgs/openj9_semeru_vs_eclipse_adoptium/)
+- [GraalVM or Eclipse Temurin?](https://www.reddit.com/r/java/comments/11od808/graalvm_or_eclipse_temurin/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
