@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Inspiring OOP examples?](https://www.reddit.com/r/java/comments/11olbzf/inspiring_oop_examples/)
 - [When I read this line in The Pragmatic Programmer, it immediately made me think of &quot;Clean Code&quot;.](https://www.reddit.com/r/java/comments/11ogrvw/when_i_read_this_line_in_the_pragmatic_programmer/)
 - [OpenJ9 Semeru vs. Eclipse Adoptium?](https://www.reddit.com/r/java/comments/11ogqgs/openj9_semeru_vs_eclipse_adoptium/)
-- [GraalVM or Eclipse Temurin?](https://www.reddit.com/r/java/comments/11od808/graalvm_or_eclipse_temurin/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
