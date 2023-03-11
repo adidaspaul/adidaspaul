@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [GraalVM or Eclipse Temurin?](https://www.reddit.com/r/java/comments/11od808/graalvm_or_eclipse_temurin/)
 - [Git framework/library for Java](https://www.reddit.com/r/java/comments/11nyhje/git_frameworklibrary_for_java/)
 - [JEP 439: Generational ZGC](https://www.reddit.com/r/java/comments/11nyhcg/jep_439_generational_zgc/)
-- [GitHub - hkupty/maple: Opinionated SLF4J backend that logs natively to json](https://www.reddit.com/r/java/comments/11nqjqx/github_hkuptymaple_opinionated_slf4j_backend_that/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
