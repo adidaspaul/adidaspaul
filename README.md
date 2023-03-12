@@ -66,7 +66,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [fast subtitles downloader](https://www.reddit.com/r/java/comments/11p9qve/fast_subtitles_downloader/)
 - [is Backend + AI developer a good option?](https://www.reddit.com/r/java/comments/11p6lgw/is_backend_ai_developer_a_good_option/)
-- [Ques: What is a servlet? I am really confused. Some says it&#39;s an API, some says it&#39;s an interface, a web component? I mean what the hell it is can somebody please explain it to me in a simple words. What it is ? A little history too will work.](https://www.reddit.com/r/java/comments/11p629z/ques_what_is_a_servlet_i_am_really_confused_some/)
+- [Is deeplearning4j a good choice?](https://www.reddit.com/r/java/comments/11p3jvf/is_deeplearning4j_a_good_choice/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
