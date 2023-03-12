@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [What&#39;s the point of autogenerating DTOs from entities?](https://www.reddit.com/r/java/comments/11phtxg/whats_the_point_of_autogenerating_dtos_from/)
+- [Java Performance by Scott Oaks](https://www.reddit.com/r/java/comments/11phh51/java_performance_by_scott_oaks/)
 - [Java rated as #3 Language.](https://www.reddit.com/r/java/comments/11pfxm5/java_rated_as_3_language/)
-- [fast subtitles downloader](https://www.reddit.com/r/java/comments/11p9qve/fast_subtitles_downloader/)
-- [is Backend + AI developer a good option?](https://www.reddit.com/r/java/comments/11p6lgw/is_backend_ai_developer_a_good_option/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
