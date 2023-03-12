@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Is deeplearning4j a good choice?](https://www.reddit.com/r/java/comments/11p3jvf/is_deeplearning4j_a_good_choice/)
 - [Are there good Record based ORM/DB serialization libraries?](https://www.reddit.com/r/java/comments/11p3437/are_there_good_record_based_ormdb_serialization/)
 - [Ideas of requirements for library](https://www.reddit.com/r/java/comments/11p0stf/ideas_of_requirements_for_library/)
-- [MethodHandle whileLoop](https://www.reddit.com/r/java/comments/11p0eiz/methodhandle_whileloop/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
