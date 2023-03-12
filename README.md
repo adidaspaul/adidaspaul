@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Are there good Record based ORM/DB serialization libraries?](https://www.reddit.com/r/java/comments/11p3437/are_there_good_record_based_ormdb_serialization/)
 - [Ideas of requirements for library](https://www.reddit.com/r/java/comments/11p0stf/ideas_of_requirements_for_library/)
 - [MethodHandle whileLoop](https://www.reddit.com/r/java/comments/11p0eiz/methodhandle_whileloop/)
-- [Inspiring OOP examples?](https://www.reddit.com/r/java/comments/11olbzf/inspiring_oop_examples/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
