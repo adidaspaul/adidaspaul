@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Java rated as #3 Language.](https://www.reddit.com/r/java/comments/11pfxm5/java_rated_as_3_language/)
 - [fast subtitles downloader](https://www.reddit.com/r/java/comments/11p9qve/fast_subtitles_downloader/)
 - [is Backend + AI developer a good option?](https://www.reddit.com/r/java/comments/11p6lgw/is_backend_ai_developer_a_good_option/)
-- [Is deeplearning4j a good choice?](https://www.reddit.com/r/java/comments/11p3jvf/is_deeplearning4j_a_good_choice/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
