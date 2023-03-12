@@ -64,7 +64,7 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Hi I’m new to coding. How can i add the number of correct answers and show a fraction score in this code?](https://www.reddit.com/r/java/comments/11p86vl/hi_im_new_to_coding_how_can_i_add_the_number_of/)
+- [fast subtitles downloader](https://www.reddit.com/r/java/comments/11p9qve/fast_subtitles_downloader/)
 - [is Backend + AI developer a good option?](https://www.reddit.com/r/java/comments/11p6lgw/is_backend_ai_developer_a_good_option/)
 - [Ques: What is a servlet? I am really confused. Some says it&#39;s an API, some says it&#39;s an interface, a web component? I mean what the hell it is can somebody please explain it to me in a simple words. What it is ? A little history too will work.](https://www.reddit.com/r/java/comments/11p629z/ques_what_is_a_servlet_i_am_really_confused_some/)
 <!-- BLOG-POST-LIST:END -->
