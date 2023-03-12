@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Ques: What is a servlet? I am really confused. Some says it&#39;s an API, some says it&#39;s an interface, a web component? I mean what the hell it is can somebody please explain it to me in a simple words. What it is ? A little history too will work.](https://www.reddit.com/r/java/comments/11p629z/ques_what_is_a_servlet_i_am_really_confused_some/)
 - [Is deeplearning4j a good choice?](https://www.reddit.com/r/java/comments/11p3jvf/is_deeplearning4j_a_good_choice/)
 - [Are there good Record based ORM/DB serialization libraries?](https://www.reddit.com/r/java/comments/11p3437/are_there_good_record_based_ormdb_serialization/)
-- [Ideas of requirements for library](https://www.reddit.com/r/java/comments/11p0stf/ideas_of_requirements_for_library/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
