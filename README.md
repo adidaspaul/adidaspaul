@@ -66,7 +66,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [Java 20 — Doubling down on the Loom Project](https://www.reddit.com/r/java/comments/11pqw76/java_20_doubling_down_on_the_loom_project/)
 - [gRPC on the client side](https://www.reddit.com/r/java/comments/11plmb3/grpc_on_the_client_side/)
-- [What&#39;s the point of autogenerating DTOs from entities?](https://www.reddit.com/r/java/comments/11phtxg/whats_the_point_of_autogenerating_dtos_from/)
+- [Java Performance by Scott Oaks](https://www.reddit.com/r/java/comments/11phh51/java_performance_by_scott_oaks/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
