@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Java discord/slack community?](https://www.reddit.com/r/java/comments/11qght2/java_discordslack_community/)
 - [Developing resilient applications with Toxiproxy and Testcontainers](https://www.reddit.com/r/java/comments/11qcaq0/developing_resilient_applications_with_toxiproxy/)
 - [Mitigating path traversal vulns in Java](https://www.reddit.com/r/java/comments/11qb12z/mitigating_path_traversal_vulns_in_java/)
-- [Microservices with Spring Boot 3 and Spring Cloud](https://www.reddit.com/r/java/comments/11q6fz4/microservices_with_spring_boot_3_and_spring_cloud/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
