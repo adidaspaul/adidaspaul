@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Code bases that really improved your Java knowledge](https://www.reddit.com/r/java/comments/11qh7a2/code_bases_that_really_improved_your_java/)
 - [Java discord/slack community?](https://www.reddit.com/r/java/comments/11qght2/java_discordslack_community/)
 - [Developing resilient applications with Toxiproxy and Testcontainers](https://www.reddit.com/r/java/comments/11qcaq0/developing_resilient_applications_with_toxiproxy/)
-- [Mitigating path traversal vulns in Java](https://www.reddit.com/r/java/comments/11qb12z/mitigating_path_traversal_vulns_in_java/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
