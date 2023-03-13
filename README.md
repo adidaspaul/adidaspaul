@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Developing resilient applications with Toxiproxy and Testcontainers](https://www.reddit.com/r/java/comments/11qcaq0/developing_resilient_applications_with_toxiproxy/)
+- [Mitigating path traversal vulns in Java](https://www.reddit.com/r/java/comments/11qb12z/mitigating_path_traversal_vulns_in_java/)
 - [Microservices with Spring Boot 3 and Spring Cloud](https://www.reddit.com/r/java/comments/11q6fz4/microservices_with_spring_boot_3_and_spring_cloud/)
-- [Why on earth are scoped values implemented like LISP](https://www.reddit.com/r/java/comments/11q5yu5/why_on_earth_are_scoped_values_implemented_like/)
-- [Java 20 — Doubling down on the Loom Project](https://www.reddit.com/r/java/comments/11pqw76/java_20_doubling_down_on_the_loom_project/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
