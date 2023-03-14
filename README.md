@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Extending session length during file upload to database](https://www.reddit.com/r/java/comments/11qwvis/extending_session_length_during_file_upload_to/)
 - [Jakarta EE vs Spring - The War Goes On](https://www.reddit.com/r/java/comments/11ql5of/jakarta_ee_vs_spring_the_war_goes_on/)
 - [Code bases that really improved your Java knowledge](https://www.reddit.com/r/java/comments/11qh7a2/code_bases_that_really_improved_your_java/)
-- [Java discord/slack community?](https://www.reddit.com/r/java/comments/11qght2/java_discordslack_community/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
