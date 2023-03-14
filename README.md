@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Extending session length during file upload to database](https://www.reddit.com/r/java/comments/11qwvis/extending_session_length_during_file_upload_to/)
+- [Practice program ideas that could help build confidence or build knowledge](https://www.reddit.com/r/java/comments/11qyitd/practice_program_ideas_that_could_help_build/)
+- [Why did String Templates choose &#39;\{&#39; instead of &#39;{&#39; ?](https://www.reddit.com/r/java/comments/11qye5t/why_did_string_templates_choose_instead_of/)
 - [Jakarta EE vs Spring - The War Goes On](https://www.reddit.com/r/java/comments/11ql5of/jakarta_ee_vs_spring_the_war_goes_on/)
-- [Code bases that really improved your Java knowledge](https://www.reddit.com/r/java/comments/11qh7a2/code_bases_that_really_improved_your_java/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
