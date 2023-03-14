@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Java simulator for quantum circuits empowered by TornadoVM for GPU acceleration!](https://www.reddit.com/r/java/comments/11qzjvu/java_simulator_for_quantum_circuits_empowered_by/)
 - [Practice program ideas that could help build confidence or build knowledge](https://www.reddit.com/r/java/comments/11qyitd/practice_program_ideas_that_could_help_build/)
 - [Why did String Templates choose &#39;\{&#39; instead of &#39;{&#39; ?](https://www.reddit.com/r/java/comments/11qye5t/why_did_string_templates_choose_instead_of/)
-- [Jakarta EE vs Spring - The War Goes On](https://www.reddit.com/r/java/comments/11ql5of/jakarta_ee_vs_spring_the_war_goes_on/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
