@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [No errors and import shortcuts working for specifically Maven &lpar;VS CODE&rpar;](https://www.reddit.com/r/java/comments/11r9338/no_errors_and_import_shortcuts_working_for/)
 - [I’m working with a team where everyone thinks VS Code is the Best IDE for Java. I’m the only one who thinks IntelliJ is.](https://www.reddit.com/r/java/comments/11r7xs1/im_working_with_a_team_where_everyone_thinks_vs/)
 - [Java&#39;s Collections Framework Gets a Makeover with New Sequenced Collection Types](https://www.reddit.com/r/java/comments/11r6ocb/javas_collections_framework_gets_a_makeover_with/)
-- [Learn how to write fast Java code with the Vector API - JEP Café episode 18](https://www.reddit.com/r/java/comments/11r6npr/learn_how_to_write_fast_java_code_with_the_vector/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
