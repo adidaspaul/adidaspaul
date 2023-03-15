@@ -65,8 +65,8 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Time is Code, my Friend](https://www.reddit.com/r/java/comments/11rcz23/time_is_code_my_friend/)
-- [No errors and import shortcuts working for specifically Maven &lpar;VS CODE&rpar;](https://www.reddit.com/r/java/comments/11r9338/no_errors_and_import_shortcuts_working_for/)
 - [I’m working with a team where everyone thinks VS Code is the Best IDE for Java. I’m the only one who thinks IntelliJ is.](https://www.reddit.com/r/java/comments/11r7xs1/im_working_with_a_team_where_everyone_thinks_vs/)
+- [Java&#39;s Collections Framework Gets a Makeover with New Sequenced Collection Types](https://www.reddit.com/r/java/comments/11r6ocb/javas_collections_framework_gets_a_makeover_with/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
