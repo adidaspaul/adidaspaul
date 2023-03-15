@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [JEP draft 8303683: Virtual Threads](https://www.reddit.com/r/java/comments/11rp29f/jep_draft_8303683_virtual_threads/)
 - [The best way to use Spring Data query methods](https://www.reddit.com/r/java/comments/11rormy/the_best_way_to_use_spring_data_query_methods/)
 - [Time is Code, my Friend](https://www.reddit.com/r/java/comments/11rcz23/time_is_code_my_friend/)
-- [I’m working with a team where everyone thinks VS Code is the Best IDE for Java. I’m the only one who thinks IntelliJ is.](https://www.reddit.com/r/java/comments/11r7xs1/im_working_with_a_team_where_everyone_thinks_vs/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
