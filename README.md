@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Java 8 licensing.](https://www.reddit.com/r/java/comments/11rydxg/java_8_licensing/)
 - [JEP draft 8303683: Virtual Threads](https://www.reddit.com/r/java/comments/11rp29f/jep_draft_8303683_virtual_threads/)
 - [The best way to use Spring Data query methods](https://www.reddit.com/r/java/comments/11rormy/the_best_way_to_use_spring_data_query_methods/)
-- [Time is Code, my Friend](https://www.reddit.com/r/java/comments/11rcz23/time_is_code_my_friend/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
