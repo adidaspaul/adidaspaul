@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How easy it is to convert a Python pandas script to Java Tablesaw?](https://www.reddit.com/r/java/comments/11syr4u/how_easy_it_is_to_convert_a_python_pandas_script/)
 - [JDK 21 Strikes Back: Stable Virtual Threads and Generational ZGC](https://www.reddit.com/r/java/comments/11swdnu/jdk_21_strikes_back_stable_virtual_threads_and/)
 - [Ultra-efficient Non-Heap video-streaming in Java](https://www.reddit.com/r/java/comments/11svdod/ultraefficient_nonheap_videostreaming_in_java/)
-- [Java Master Class by AmigosCode is this a good course to learn Java?](https://www.reddit.com/r/java/comments/11sswd9/java_master_class_by_amigoscode_is_this_a_good/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
