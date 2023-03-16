@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The Guide to Java 20](https://www.reddit.com/r/java/comments/11t2j8n/the_guide_to_java_20/)
 - [InfoWorld: Eclipse Java downloads skyrocket](https://www.reddit.com/r/java/comments/11t0ubb/infoworld_eclipse_java_downloads_skyrocket/)
 - [How easy it is to convert a Python pandas script to Java Tablesaw?](https://www.reddit.com/r/java/comments/11syr4u/how_easy_it_is_to_convert_a_python_pandas_script/)
-- [JDK 21 Strikes Back: Stable Virtual Threads and Generational ZGC](https://www.reddit.com/r/java/comments/11swdnu/jdk_21_strikes_back_stable_virtual_threads_and/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
