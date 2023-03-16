@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Is the Spring Certified Professional really worth it?](https://www.reddit.com/r/java/comments/11t8q1u/is_the_spring_certified_professional_really_worth/)
 - [Oracle Java and cancelling Java SE desktop subscription](https://www.reddit.com/r/java/comments/11t7lz1/oracle_java_and_cancelling_java_se_desktop/)
 - [The Guide to Java 20](https://www.reddit.com/r/java/comments/11t2j8n/the_guide_to_java_20/)
-- [InfoWorld: Eclipse Java downloads skyrocket](https://www.reddit.com/r/java/comments/11t0ubb/infoworld_eclipse_java_downloads_skyrocket/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
