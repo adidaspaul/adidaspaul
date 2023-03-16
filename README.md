@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Ultra-efficient Non-Heap video-streaming in Java](https://www.reddit.com/r/java/comments/11svdod/ultraefficient_nonheap_videostreaming_in_java/)
 - [Java Master Class by AmigosCode is this a good course to learn Java?](https://www.reddit.com/r/java/comments/11sswd9/java_master_class_by_amigoscode_is_this_a_good/)
 - [Looking for some one who can guide me with JSF. I will pay you.](https://www.reddit.com/r/java/comments/11so3mk/looking_for_some_one_who_can_guide_me_with_jsf_i/)
-- [ChatGPT for Java](https://www.reddit.com/r/java/comments/11snfgu/chatgpt_for_java/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
