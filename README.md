@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Looking for some one who can guide me with JSF. I will pay you.](https://www.reddit.com/r/java/comments/11so3mk/looking_for_some_one_who_can_guide_me_with_jsf_i/)
 - [ChatGPT for Java](https://www.reddit.com/r/java/comments/11snfgu/chatgpt_for_java/)
 - [The Ultimate Guide to Java Virtual Threads](https://www.reddit.com/r/java/comments/11smyb5/the_ultimate_guide_to_java_virtual_threads/)
-- [🌋 5 Awesome Java Projects EP2: Microservices, iOT and More](https://www.reddit.com/r/java/comments/11sb8w3/5_awesome_java_projects_ep2_microservices_iot_and/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
