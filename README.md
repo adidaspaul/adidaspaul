@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Java Master Class by AmigosCode is this a good course to learn Java?](https://www.reddit.com/r/java/comments/11sswd9/java_master_class_by_amigoscode_is_this_a_good/)
 - [Looking for some one who can guide me with JSF. I will pay you.](https://www.reddit.com/r/java/comments/11so3mk/looking_for_some_one_who_can_guide_me_with_jsf_i/)
 - [ChatGPT for Java](https://www.reddit.com/r/java/comments/11snfgu/chatgpt_for_java/)
-- [The Ultimate Guide to Java Virtual Threads](https://www.reddit.com/r/java/comments/11smyb5/the_ultimate_guide_to_java_virtual_threads/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
