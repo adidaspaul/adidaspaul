@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [JEP draft: Launch Multi-File Source-Code Programs](https://www.reddit.com/r/java/comments/11u1w17/jep_draft_launch_multifile_sourcecode_programs/)
 - [Java licensing](https://www.reddit.com/r/java/comments/11tvts2/java_licensing/)
 - [JDK 20 - G1/Parallel/Serial GC improvements](https://www.reddit.com/r/java/comments/11tkkds/jdk_20_g1parallelserial_gc_improvements/)
-- [Is the Spring Certified Professional really worth it?](https://www.reddit.com/r/java/comments/11t8q1u/is_the_spring_certified_professional_really_worth/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
