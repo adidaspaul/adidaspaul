@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [I&#39;m about to start learning Java and i need some help](https://www.reddit.com/r/java/comments/11tbovw/im_about_to_start_learning_java_and_i_need_some/)
 - [Is the Spring Certified Professional really worth it?](https://www.reddit.com/r/java/comments/11t8q1u/is_the_spring_certified_professional_really_worth/)
 - [Oracle Java and cancelling Java SE desktop subscription](https://www.reddit.com/r/java/comments/11t7lz1/oracle_java_and_cancelling_java_se_desktop/)
-- [The Guide to Java 20](https://www.reddit.com/r/java/comments/11t2j8n/the_guide_to_java_20/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
