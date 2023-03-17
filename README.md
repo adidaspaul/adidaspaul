@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Are things like `new Thread`, `Runnable`, or `Callable` considered outdated when it comes to multithreading?](https://www.reddit.com/r/java/comments/11tvz81/are_things_like_new_thread_runnable_or_callable/)
 - [Java licensing](https://www.reddit.com/r/java/comments/11tvts2/java_licensing/)
-- [Intellij IDE&#39;s bad performance](https://www.reddit.com/r/java/comments/11trb39/intellij_ides_bad_performance/)
+- [JDK 20 - G1/Parallel/Serial GC improvements](https://www.reddit.com/r/java/comments/11tkkds/jdk_20_g1parallelserial_gc_improvements/)
+- [Is the Spring Certified Professional really worth it?](https://www.reddit.com/r/java/comments/11t8q1u/is_the_spring_certified_professional_really_worth/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
