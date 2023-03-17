@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Intellij IDE&#39;s bad performance](https://www.reddit.com/r/java/comments/11trb39/intellij_ides_bad_performance/)
 - [JDK 20 - G1/Parallel/Serial GC improvements](https://www.reddit.com/r/java/comments/11tkkds/jdk_20_g1parallelserial_gc_improvements/)
 - [Is the Spring Certified Professional really worth it?](https://www.reddit.com/r/java/comments/11t8q1u/is_the_spring_certified_professional_really_worth/)
-- [Oracle Java and cancelling Java SE desktop subscription](https://www.reddit.com/r/java/comments/11t7lz1/oracle_java_and_cancelling_java_se_desktop/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
