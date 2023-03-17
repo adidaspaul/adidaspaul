@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Enterprise Java](https://www.reddit.com/r/java/comments/11u46xe/enterprise_java/)
 - [Mojarra 4.0.2 released!](https://www.reddit.com/r/java/comments/11u36i4/mojarra_402_released/)
 - [JEP draft: Launch Multi-File Source-Code Programs](https://www.reddit.com/r/java/comments/11u1w17/jep_draft_launch_multifile_sourcecode_programs/)
-- [Java licensing](https://www.reddit.com/r/java/comments/11tvts2/java_licensing/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
