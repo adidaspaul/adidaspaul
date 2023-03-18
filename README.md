@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [JEP 442: Foreign Function &amp; Memory API &lpar;Third Preview&rpar;](https://www.reddit.com/r/java/comments/11ukbrb/jep_442_foreign_function_memory_api_third_preview/)
 - [I’m lost. Is there some tips / warnings about using JFR &lpar;Java Flight Recorder&rpar; on a Java 17 Jakarta EE server on the productive environment?](https://www.reddit.com/r/java/comments/11ug0yq/im_lost_is_there_some_tips_warnings_about_using/)
 - [Enterprise Java](https://www.reddit.com/r/java/comments/11u46xe/enterprise_java/)
-- [Mojarra 4.0.2 released!](https://www.reddit.com/r/java/comments/11u36i4/mojarra_402_released/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
