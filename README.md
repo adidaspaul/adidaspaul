@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [unable to access jarfile &lpar;forge installer for minecraft&rpar; help!](https://www.reddit.com/r/java/comments/11u84lh/unable_to_access_jarfile_forge_installer_for/)
 - [Enterprise Java](https://www.reddit.com/r/java/comments/11u46xe/enterprise_java/)
 - [Mojarra 4.0.2 released!](https://www.reddit.com/r/java/comments/11u36i4/mojarra_402_released/)
-- [JEP draft: Launch Multi-File Source-Code Programs](https://www.reddit.com/r/java/comments/11u1w17/jep_draft_launch_multifile_sourcecode_programs/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
