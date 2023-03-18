@@ -65,8 +65,8 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [I’m lost. Is there some tips / warnings about using JFR &lpar;Java Flight Recorder&rpar; on a Java 17 Jakarta EE server on the productive environment?](https://www.reddit.com/r/java/comments/11ug0yq/im_lost_is_there_some_tips_warnings_about_using/)
-- [unable to access jarfile &lpar;forge installer for minecraft&rpar; help!](https://www.reddit.com/r/java/comments/11u84lh/unable_to_access_jarfile_forge_installer_for/)
 - [Enterprise Java](https://www.reddit.com/r/java/comments/11u46xe/enterprise_java/)
+- [Mojarra 4.0.2 released!](https://www.reddit.com/r/java/comments/11u36i4/mojarra_402_released/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
