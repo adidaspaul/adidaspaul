@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Why is Java&#39;s syntax hated so much?](https://www.reddit.com/r/java/comments/11vd8kf/why_is_javas_syntax_hated_so_much/)
 - [I finished Java EE Bootcamp and I still feel like I lack a lot](https://www.reddit.com/r/java/comments/11uqb00/i_finished_java_ee_bootcamp_and_i_still_feel_like/)
 - [JEP 442: Foreign Function &amp; Memory API &lpar;Third Preview&rpar;](https://www.reddit.com/r/java/comments/11ukbrb/jep_442_foreign_function_memory_api_third_preview/)
-- [I’m lost. Is there some tips / warnings about using JFR &lpar;Java Flight Recorder&rpar; on a Java 17 Jakarta EE server on the productive environment?](https://www.reddit.com/r/java/comments/11ug0yq/im_lost_is_there_some_tips_warnings_about_using/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
