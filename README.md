@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [attitude towards casting in java](https://www.reddit.com/r/java/comments/11vx2v9/attitude_towards_casting_in_java/)
 - [Examples of API Governance?](https://www.reddit.com/r/java/comments/11vm09f/examples_of_api_governance/)
 - [Anyone using OpenAI/GPT LLM in production in Java ?](https://www.reddit.com/r/java/comments/11vkqwh/anyone_using_openaigpt_llm_in_production_in_java/)
-- [Anyone using JHipster?](https://www.reddit.com/r/java/comments/11vg00u/anyone_using_jhipster/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
