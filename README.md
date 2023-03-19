@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Examples of API Governance?](https://www.reddit.com/r/java/comments/11vm09f/examples_of_api_governance/)
 - [Anyone using OpenAI/GPT LLM in production in Java ?](https://www.reddit.com/r/java/comments/11vkqwh/anyone_using_openaigpt_llm_in_production_in_java/)
 - [Anyone using JHipster?](https://www.reddit.com/r/java/comments/11vg00u/anyone_using_jhipster/)
-- [Why is Java&#39;s syntax hated so much?](https://www.reddit.com/r/java/comments/11vd8kf/why_is_javas_syntax_hated_so_much/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
