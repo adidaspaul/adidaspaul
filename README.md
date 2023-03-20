@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Java 17 1Z0-819 certifaction resources](https://www.reddit.com/r/java/comments/11wpu9q/java_17_1z0819_certifaction_resources/)
+- [JEP 442: Foreign Function &amp; Memory API &lpar;Third Preview&rpar;](https://www.reddit.com/r/java/comments/11woya9/jep_442_foreign_function_memory_api_third_preview/)
 - [SuperWord &lpar;Auto-Vectorization&rpar; - An Introduction](https://www.reddit.com/r/java/comments/11wjs7m/superword_autovectorization_an_introduction/)
-- [Can Oracle remove type erasure?](https://www.reddit.com/r/java/comments/11wh2e2/can_oracle_remove_type_erasure/)
-- [What shall good Java CI do?](https://www.reddit.com/r/java/comments/11w6xb1/what_shall_good_java_ci_do/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
