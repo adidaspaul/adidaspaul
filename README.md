@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [SuperWord &lpar;Auto-Vectorization&rpar; - An Introduction](https://www.reddit.com/r/java/comments/11wjs7m/superword_autovectorization_an_introduction/)
 - [Can Oracle remove type erasure?](https://www.reddit.com/r/java/comments/11wh2e2/can_oracle_remove_type_erasure/)
 - [What shall good Java CI do?](https://www.reddit.com/r/java/comments/11w6xb1/what_shall_good_java_ci_do/)
-- [attitude towards casting in java](https://www.reddit.com/r/java/comments/11vx2v9/attitude_towards_casting_in_java/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
