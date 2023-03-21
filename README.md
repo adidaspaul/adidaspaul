@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [variable reuse](https://www.reddit.com/r/java/comments/11x1k81/variable_reuse/)
 - [Tail Call Recursion in Java with ASM](https://www.reddit.com/r/java/comments/11wv5pg/tail_call_recursion_in_java_with_asm/)
 - [Jakarta EE Developer Survey Recap: 2022](https://www.reddit.com/r/java/comments/11wstjp/jakarta_ee_developer_survey_recap_2022/)
-- [Java 17 1Z0-819 certifaction resources](https://www.reddit.com/r/java/comments/11wpu9q/java_17_1z0819_certifaction_resources/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
