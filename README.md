@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Java 20 Boosts Productivity, Performance of Open Source Programming Language](https://www.reddit.com/r/java/comments/11xlwzo/java_20_boosts_productivity_performance_of_open/)
 - [A very early preview of the new Jakarta Data API](https://www.reddit.com/r/java/comments/11xjijt/a_very_early_preview_of_the_new_jakarta_data_api/)
 - [How to find dead code in your Java services](https://www.reddit.com/r/java/comments/11xiy02/how_to_find_dead_code_in_your_java_services/)
-- [Java 20 / JDK 20: General Availability](https://www.reddit.com/r/java/comments/11xivlm/java_20_jdk_20_general_availability/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
