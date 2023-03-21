@@ -64,7 +64,7 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [variable reuse](https://www.reddit.com/r/java/comments/11x1k81/variable_reuse/)
+- [JDK 21: Disallowing the dynamic loading of agents by default](https://www.reddit.com/r/java/comments/11x435x/jdk_21_disallowing_the_dynamic_loading_of_agents/)
 - [Tail Call Recursion in Java with ASM](https://www.reddit.com/r/java/comments/11wv5pg/tail_call_recursion_in_java_with_asm/)
 - [Jakarta EE Developer Survey Recap: 2022](https://www.reddit.com/r/java/comments/11wstjp/jakarta_ee_developer_survey_recap_2022/)
 <!-- BLOG-POST-LIST:END -->
