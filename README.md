@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Version 1.5.0 of the email address validation library, JMail, is now available](https://www.reddit.com/r/java/comments/11xxykf/version_150_of_the_email_address_validation/)
 - [Java 20 Boosts Productivity, Performance of Open Source Programming Language](https://www.reddit.com/r/java/comments/11xlwzo/java_20_boosts_productivity_performance_of_open/)
 - [A very early preview of the new Jakarta Data API](https://www.reddit.com/r/java/comments/11xjijt/a_very_early_preview_of_the_new_jakarta_data_api/)
-- [How to find dead code in your Java services](https://www.reddit.com/r/java/comments/11xiy02/how_to_find_dead_code_in_your_java_services/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
