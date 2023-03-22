@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [JDK 20 Security Enhancements](https://www.reddit.com/r/java/comments/11yv075/jdk_20_security_enhancements/)
+- [Should I learn Spring 5 or Spring 6?](https://www.reddit.com/r/java/comments/11yu5ab/should_i_learn_spring_5_or_spring_6/)
 - [Is it possible to use virtual threads with parallel streams?](https://www.reddit.com/r/java/comments/11ykqm4/is_it_possible_to_use_virtual_threads_with/)
-- [The best way to use JOIN FETCH and Pagination with Spring](https://www.reddit.com/r/java/comments/11ykqgz/the_best_way_to_use_join_fetch_and_pagination/)
-- [How about being more expressive?](https://www.reddit.com/r/java/comments/11yfvj4/how_about_being_more_expressive/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
