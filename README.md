@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to generate a XML file and download it in java-struts](https://www.reddit.com/r/java/comments/11yf7uw/how_to_generate_a_xml_file_and_download_it_in/)
 - [Can someone clarify a question in java](https://www.reddit.com/r/java/comments/11ye5cd/can_someone_clarify_a_question_in_java/)
 - [JEP 401: Null-Restricted Value Object Storage &lpar;Preview&rpar;](https://www.reddit.com/r/java/comments/11y99kb/jep_401_nullrestricted_value_object_storage/)
-- [Version 1.5.0 of the email address validation library, JMail, is now available](https://www.reddit.com/r/java/comments/11xxykf/version_150_of_the_email_address_validation/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
