@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Is it possible to use virtual threads with parallel streams?](https://www.reddit.com/r/java/comments/11ykqm4/is_it_possible_to_use_virtual_threads_with/)
+- [The best way to use JOIN FETCH and Pagination with Spring](https://www.reddit.com/r/java/comments/11ykqgz/the_best_way_to_use_join_fetch_and_pagination/)
 - [How about being more expressive?](https://www.reddit.com/r/java/comments/11yfvj4/how_about_being_more_expressive/)
-- [JEP 401: Null-Restricted Value Object Storage &lpar;Preview&rpar;](https://www.reddit.com/r/java/comments/11y99kb/jep_401_nullrestricted_value_object_storage/)
-- [Version 1.5.0 of the email address validation library, JMail, is now available](https://www.reddit.com/r/java/comments/11xxykf/version_150_of_the_email_address_validation/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
