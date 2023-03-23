@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Java 2D graphics lags on other systems.](https://www.reddit.com/r/java/comments/11zs8qt/java_2d_graphics_lags_on_other_systems/)
+- [Why does random not recognize origin, bound? Working in IntelliJ.](https://www.reddit.com/r/java/comments/11zr81b/why_does_random_not_recognize_origin_bound/)
 - [Why does Java std lib or any popular utility libraries for java, does not have an implementation of a concurrent list?](https://www.reddit.com/r/java/comments/11zpwmw/why_does_java_std_lib_or_any_popular_utility/)
-- [Java 20 Unboxing - Inside Java Newscast #44](https://www.reddit.com/r/java/comments/11zmvpm/java_20_unboxing_inside_java_newscast_44/)
-- [There is more in JDK 20 than JEPs themselves](https://www.reddit.com/r/java/comments/11zloq3/there_is_more_in_jdk_20_than_jeps_themselves/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
