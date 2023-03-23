@@ -65,8 +65,8 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Helidon 3.2.0 released!](https://www.reddit.com/r/java/comments/11zd9ra/helidon_320_released/)
-- [Java jpackage - how to create and configure a post-installation or post-uninstallation script](https://www.reddit.com/r/java/comments/11za2ie/java_jpackage_how_to_create_and_configure_a/)
 - [JDK 20 Security Enhancements](https://www.reddit.com/r/java/comments/11yv075/jdk_20_security_enhancements/)
+- [Is it possible to use virtual threads with parallel streams?](https://www.reddit.com/r/java/comments/11ykqm4/is_it_possible_to_use_virtual_threads_with/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
