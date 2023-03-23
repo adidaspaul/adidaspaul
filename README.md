@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Writing a book with an author live](https://www.reddit.com/r/java/comments/11zkd7v/writing_a_book_with_an_author_live/)
 - [Why wouldn&#39;t somebody change their version?](https://www.reddit.com/r/java/comments/11zfari/why_wouldnt_somebody_change_their_version/)
 - [Helidon 3.2.0 released!](https://www.reddit.com/r/java/comments/11zd9ra/helidon_320_released/)
-- [JDK 20 Security Enhancements](https://www.reddit.com/r/java/comments/11yv075/jdk_20_security_enhancements/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
