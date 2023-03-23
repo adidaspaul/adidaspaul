@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Developing an open source project](https://www.reddit.com/r/java/comments/11ztmlw/developing_an_open_source_project/)
-- [Java 2D graphics lags on other systems.](https://www.reddit.com/r/java/comments/11zs8qt/java_2d_graphics_lags_on_other_systems/)
-- [Why does Java std lib or any popular utility libraries for java, does not have an implementation of a concurrent list?](https://www.reddit.com/r/java/comments/11zpwmw/why_does_java_std_lib_or_any_popular_utility/)
+- [Java 20 Unboxing - Inside Java Newscast #44](https://www.reddit.com/r/java/comments/11zmvpm/java_20_unboxing_inside_java_newscast_44/)
+- [There is more in JDK 20 than JEPs themselves](https://www.reddit.com/r/java/comments/11zloq3/there_is_more_in_jdk_20_than_jeps_themselves/)
+- [Helidon 3.2.0 released!](https://www.reddit.com/r/java/comments/11zd9ra/helidon_320_released/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
