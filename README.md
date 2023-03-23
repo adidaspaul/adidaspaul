@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [There is more in JDK 20 than JEPs themselves](https://www.reddit.com/r/java/comments/11zloq3/there_is_more_in_jdk_20_than_jeps_themselves/)
 - [Writing a book with an author live](https://www.reddit.com/r/java/comments/11zkd7v/writing_a_book_with_an_author_live/)
 - [Why wouldn&#39;t somebody change their version?](https://www.reddit.com/r/java/comments/11zfari/why_wouldnt_somebody_change_their_version/)
-- [Helidon 3.2.0 released!](https://www.reddit.com/r/java/comments/11zd9ra/helidon_320_released/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
