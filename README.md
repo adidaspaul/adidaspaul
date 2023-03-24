@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [I am learning Java in CI. Could you guys please share some Java open source projects on GitHub with good CI? Thanks](https://www.reddit.com/r/java/comments/120hwea/i_am_learning_java_in_ci_could_you_guys_please/)
 - [Noob Question](https://www.reddit.com/r/java/comments/120e8w2/noob_question/)
 - [Happy 19th Birthday Spring 🥳](https://www.reddit.com/r/java/comments/120c40g/happy_19th_birthday_spring/)
-- [Sigstore Java - Sign And Verify Your Java Builds](https://www.reddit.com/r/java/comments/120ades/sigstore_java_sign_and_verify_your_java_builds/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
