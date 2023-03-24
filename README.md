@@ -64,8 +64,8 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [I am learning Java in CI. Could you guys please share some Java open source projects on GitHub with good CI? Thanks](https://www.reddit.com/r/java/comments/120hwea/i_am_learning_java_in_ci_could_you_guys_please/)
-- [Noob Question](https://www.reddit.com/r/java/comments/120e8w2/noob_question/)
+- [What do you use for building Desktop apps these days?](https://www.reddit.com/r/java/comments/120oidn/what_do_you_use_for_building_desktop_apps_these/)
+- [How to turn a list of flat elements into a hierarchy in Java, SQL, or jOOQ](https://www.reddit.com/r/java/comments/120ogh2/how_to_turn_a_list_of_flat_elements_into_a/)
 - [Happy 19th Birthday Spring 🥳](https://www.reddit.com/r/java/comments/120c40g/happy_19th_birthday_spring/)
 <!-- BLOG-POST-LIST:END -->
 
