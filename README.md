@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Cloud/IaC/Microservices/Distributed Systems resources for Java.](https://www.reddit.com/r/java/comments/121v6os/cloudiacmicroservicesdistributed_systems/)
 - [Confession: I have no idea how to use javadocs](https://www.reddit.com/r/java/comments/121q3x5/confession_i_have_no_idea_how_to_use_javadocs/)
 - [Seriously, How do/did people learn Java EE?](https://www.reddit.com/r/java/comments/121k9w4/seriously_how_dodid_people_learn_java_ee/)
-- [What do you use for building Desktop apps these days?](https://www.reddit.com/r/java/comments/120oidn/what_do_you_use_for_building_desktop_apps_these/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
