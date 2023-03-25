@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [How to ensure my Desktop app validates signed jars and only runs jars signed by me?](https://www.reddit.com/r/java/comments/1218cxj/how_to_ensure_my_desktop_app_validates_signed/)
 - [What do you use for building Desktop apps these days?](https://www.reddit.com/r/java/comments/120oidn/what_do_you_use_for_building_desktop_apps_these/)
 - [How to turn a list of flat elements into a hierarchy in Java, SQL, or jOOQ](https://www.reddit.com/r/java/comments/120ogh2/how_to_turn_a_list_of_flat_elements_into_a/)
+- [Happy 19th Birthday Spring 🥳](https://www.reddit.com/r/java/comments/120c40g/happy_19th_birthday_spring/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
