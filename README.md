@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [What&#39;s the state of WebAuthn for Java? Has anyone had to implement WebAuthn for one of their projects?](https://www.reddit.com/r/java/comments/122ysum/whats_the_state_of_webauthn_for_java_has_anyone/)
 - [DELD: An experimental HTTP-Client](https://www.reddit.com/r/java/comments/122rhcr/deld_an_experimental_httpclient/)
 - [Cloud/IaC/Microservices/Distributed Systems resources for Java.](https://www.reddit.com/r/java/comments/121v6os/cloudiacmicroservicesdistributed_systems/)
-- [Confession: I have no idea how to use javadocs](https://www.reddit.com/r/java/comments/121q3x5/confession_i_have_no_idea_how_to_use_javadocs/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
