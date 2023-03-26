@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [DELD: An experimental HTTP-Client](https://www.reddit.com/r/java/comments/122rhcr/deld_an_experimental_httpclient/)
 - [Cloud/IaC/Microservices/Distributed Systems resources for Java.](https://www.reddit.com/r/java/comments/121v6os/cloudiacmicroservicesdistributed_systems/)
 - [Confession: I have no idea how to use javadocs](https://www.reddit.com/r/java/comments/121q3x5/confession_i_have_no_idea_how_to_use_javadocs/)
-- [Seriously, How do/did people learn Java EE?](https://www.reddit.com/r/java/comments/121k9w4/seriously_how_dodid_people_learn_java_ee/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
