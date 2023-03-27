@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Community-Managed AWS Lambda Base Images for Java 20](https://www.reddit.com/r/java/comments/123qpb7/communitymanaged_aws_lambda_base_images_for_java/)
 - [What are good Java demo projects?](https://www.reddit.com/r/java/comments/123mdma/what_are_good_java_demo_projects/)
 - [Optimize Your Java Web Application on Ampere Altra](https://www.reddit.com/r/java/comments/123jj48/optimize_your_java_web_application_on_ampere_altra/)
-- [JVM Performance Comparison for JDK 17](https://www.reddit.com/r/java/comments/123ia0i/jvm_performance_comparison_for_jdk_17/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
