@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Optimize Your Java Web Application on Ampere Altra](https://www.reddit.com/r/java/comments/123jj48/optimize_your_java_web_application_on_ampere_altra/)
 - [JVM Performance Comparison for JDK 17](https://www.reddit.com/r/java/comments/123ia0i/jvm_performance_comparison_for_jdk_17/)
 - [How does someone find out about the newest trends in programming?](https://www.reddit.com/r/java/comments/123gis4/how_does_someone_find_out_about_the_newest_trends/)
-- [What&#39;s the state of WebAuthn for Java? Has anyone had to implement WebAuthn for one of their projects?](https://www.reddit.com/r/java/comments/122ysum/whats_the_state_of_webauthn_for_java_has_anyone/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
