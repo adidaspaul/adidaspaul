@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Which build of openjdk do you use?](https://www.reddit.com/r/java/comments/124g4wq/which_build_of_openjdk_do_you_use/)
 - [Whats Wrong with Java/Spring](https://www.reddit.com/r/java/comments/1245s8j/whats_wrong_with_javaspring/)
 - [Modern frontends using Spring Boot and Thymeleaf &lpar;yes, modern, you read it right, as in SPA&rpar;](https://www.reddit.com/r/java/comments/123vk63/modern_frontends_using_spring_boot_and_thymeleaf/)
-- [Community-Managed AWS Lambda Base Images for Java 20](https://www.reddit.com/r/java/comments/123qpb7/communitymanaged_aws_lambda_base_images_for_java/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
