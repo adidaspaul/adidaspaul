@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [I get these 3 errors when i run Minecraft Java Edition &quot;Error: opening registry key &#39;Software\JavaSoft\Java Runtime Environment&#39; , Error: could not find java.dll, Error: Could not find Java SE Runtime Environment &quot;](https://www.reddit.com/r/java/comments/124jx0s/i_get_these_3_errors_when_i_run_minecraft_java/)
 - [Which build of openjdk do you use?](https://www.reddit.com/r/java/comments/124g4wq/which_build_of_openjdk_do_you_use/)
 - [Whats Wrong with Java/Spring](https://www.reddit.com/r/java/comments/1245s8j/whats_wrong_with_javaspring/)
+- [Modern frontends using Spring Boot and Thymeleaf &lpar;yes, modern, you read it right, as in SPA&rpar;](https://www.reddit.com/r/java/comments/123vk63/modern_frontends_using_spring_boot_and_thymeleaf/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
