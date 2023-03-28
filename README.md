@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [How long did it take you to become confident in your javascript skills?](https://www.reddit.com/r/java/comments/124tkra/how_long_did_it_take_you_to_become_confident_in/)
-- [Searching a specific annotation processing library](https://www.reddit.com/r/java/comments/124qei6/searching_a_specific_annotation_processing_library/)
-- [Which build of openjdk do you use?](https://www.reddit.com/r/java/comments/124g4wq/which_build_of_openjdk_do_you_use/)
+- [Looking for Feedback](https://www.reddit.com/r/java/comments/124vlh9/looking_for_feedback/)
+- [Java Developer vs. ChatGPT: Writing a Spring Boot Microservice](https://www.reddit.com/r/java/comments/124uu5x/java_developer_vs_chatgpt_writing_a_spring_boot/)
+- [An open-source monitoring tool like zabbix or prometheus](https://www.reddit.com/r/java/comments/124u8d7/an_opensource_monitoring_tool_like_zabbix_or/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
