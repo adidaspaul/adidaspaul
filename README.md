@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [IntelliJ IDEA 2023.1 Is Out!](https://www.reddit.com/r/java/comments/124ysyq/intellij_idea_20231_is_out/)
+- [New candidate JEP: 444: Virtual Threads](https://www.reddit.com/r/java/comments/124y9t2/new_candidate_jep_444_virtual_threads/)
 - [Java Developer vs. ChatGPT: Writing a Spring Boot Microservice](https://www.reddit.com/r/java/comments/124uu5x/java_developer_vs_chatgpt_writing_a_spring_boot/)
-- [An open-source monitoring tool like zabbix or prometheus](https://www.reddit.com/r/java/comments/124u8d7/an_opensource_monitoring_tool_like_zabbix_or/)
-- [Searching a specific annotation processing library](https://www.reddit.com/r/java/comments/124qei6/searching_a_specific_annotation_processing_library/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
