@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [A new connection manager and remote file explorer created with Java&lpar;FX&rpar; - X-Pipe Status Update](https://www.reddit.com/r/java/comments/125j63j/a_new_connection_manager_and_remote_file_explorer/)
 - [Anyone feel like C# is becoming more popular than Java?](https://www.reddit.com/r/java/comments/125g42r/anyone_feel_like_c_is_becoming_more_popular_than/)
 - [Make your own Optionals](https://www.reddit.com/r/java/comments/1251yst/make_your_own_optionals/)
-- [IntelliJ IDEA 2023.1 Is Out!](https://www.reddit.com/r/java/comments/124ysyq/intellij_idea_20231_is_out/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
