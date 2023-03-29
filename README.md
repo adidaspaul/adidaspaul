@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Is there a framework like libGDX but for general applications instead of games?](https://www.reddit.com/r/java/comments/1260bcp/is_there_a_framework_like_libgdx_but_for_general/)
 - [Starter for Jakarta EE staged &lpar;beta&rpar;](https://www.reddit.com/r/java/comments/125xqj7/starter_for_jakarta_ee_staged_beta/)
 - [The best way to use the Spring Data JPA Specification](https://www.reddit.com/r/java/comments/125pa8q/the_best_way_to_use_the_spring_data_jpa/)
-- [A new connection manager and remote file explorer created with Java&lpar;FX&rpar; - X-Pipe Status Update](https://www.reddit.com/r/java/comments/125j63j/a_new_connection_manager_and_remote_file_explorer/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
