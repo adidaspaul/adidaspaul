@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Starter for Jakarta EE staged &lpar;beta&rpar;](https://www.reddit.com/r/java/comments/125xqj7/starter_for_jakarta_ee_staged_beta/)
 - [The best way to use the Spring Data JPA Specification](https://www.reddit.com/r/java/comments/125pa8q/the_best_way_to_use_the_spring_data_jpa/)
 - [A new connection manager and remote file explorer created with Java&lpar;FX&rpar; - X-Pipe Status Update](https://www.reddit.com/r/java/comments/125j63j/a_new_connection_manager_and_remote_file_explorer/)
-- [Anyone feel like C# is becoming more popular than Java?](https://www.reddit.com/r/java/comments/125g42r/anyone_feel_like_c_is_becoming_more_popular_than/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
