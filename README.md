@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [For daily Java programmers: after almost one decade of Java 8, are streams and lambdas fully adopted by the Java community?](https://www.reddit.com/r/java/comments/1272916/for_daily_java_programmers_after_almost_one/)
 - [Dropwizard 3.0.0 and 4.0.0 have been released](https://www.reddit.com/r/java/comments/12711m9/dropwizard_300_and_400_have_been_released/)
 - [GlassFish 7.0.3 released!](https://www.reddit.com/r/java/comments/126oe9w/glassfish_703_released/)
-- [Java 21&#39;s New &lpar;Sequenced&rpar; Collections](https://www.reddit.com/r/java/comments/126gknz/java_21s_new_sequenced_collections/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
