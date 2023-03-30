@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Dropwizard 3.0.0 and 4.0.0 have been released](https://www.reddit.com/r/java/comments/12711m9/dropwizard_300_and_400_have_been_released/)
 - [GlassFish 7.0.3 released!](https://www.reddit.com/r/java/comments/126oe9w/glassfish_703_released/)
 - [Java 21&#39;s New &lpar;Sequenced&rpar; Collections](https://www.reddit.com/r/java/comments/126gknz/java_21s_new_sequenced_collections/)
-- [Is there a framework like libGDX but for general applications instead of games?](https://www.reddit.com/r/java/comments/1260bcp/is_there_a_framework_like_libgdx_but_for_general/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
