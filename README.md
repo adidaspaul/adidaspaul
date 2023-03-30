@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [GlassFish 7.0.3 released!](https://www.reddit.com/r/java/comments/126oe9w/glassfish_703_released/)
 - [Java 21&#39;s New &lpar;Sequenced&rpar; Collections](https://www.reddit.com/r/java/comments/126gknz/java_21s_new_sequenced_collections/)
 - [Is there a framework like libGDX but for general applications instead of games?](https://www.reddit.com/r/java/comments/1260bcp/is_there_a_framework_like_libgdx_but_for_general/)
-- [Starter for Jakarta EE staged &lpar;beta&rpar;](https://www.reddit.com/r/java/comments/125xqj7/starter_for_jakarta_ee_staged_beta/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
