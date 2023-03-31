@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Why use javafx](https://www.reddit.com/r/java/comments/127xejw/why_use_javafx/)
 - [IDE support for virtual threads](https://www.reddit.com/r/java/comments/127uewo/ide_support_for_virtual_threads/)
 - [Deploying JCEF desktop apps](https://www.reddit.com/r/java/comments/127my01/deploying_jcef_desktop_apps/)
-- [How do you package your Swing app?](https://www.reddit.com/r/java/comments/127mu3p/how_do_you_package_your_swing_app/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
