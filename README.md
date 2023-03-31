@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Release 0.6.1 · hkupty/penna - slf4j json logging backend](https://www.reddit.com/r/java/comments/127ivbo/release_061_hkuptypenna_slf4j_json_logging_backend/)
 - [Any good resource/sources to learn J2EE, Spring and related things also after this what to do next?](https://www.reddit.com/r/java/comments/127hb97/any_good_resourcesources_to_learn_j2ee_spring_and/)
 - [For daily Java programmers: after almost one decade of Java 8, are streams and lambdas fully adopted by the Java community?](https://www.reddit.com/r/java/comments/1272916/for_daily_java_programmers_after_almost_one/)
-- [Dropwizard 3.0.0 and 4.0.0 have been released](https://www.reddit.com/r/java/comments/12711m9/dropwizard_300_and_400_have_been_released/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
