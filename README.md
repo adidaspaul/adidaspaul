@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [IDE support for virtual threads](https://www.reddit.com/r/java/comments/127uewo/ide_support_for_virtual_threads/)
 - [Deploying JCEF desktop apps](https://www.reddit.com/r/java/comments/127my01/deploying_jcef_desktop_apps/)
 - [How do you package your Swing app?](https://www.reddit.com/r/java/comments/127mu3p/how_do_you_package_your_swing_app/)
-- [Release 0.6.1 · hkupty/penna - slf4j json logging backend](https://www.reddit.com/r/java/comments/127ivbo/release_061_hkuptypenna_slf4j_json_logging_backend/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
