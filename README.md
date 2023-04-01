@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Guidewire Boolean linkedin search strings. Help wanted](https://www.reddit.com/r/java/comments/12832lo/guidewire_boolean_linkedin_search_strings_help/)
 - [Why use javafx](https://www.reddit.com/r/java/comments/127xejw/why_use_javafx/)
 - [IDE support for virtual threads](https://www.reddit.com/r/java/comments/127uewo/ide_support_for_virtual_threads/)
+- [Deploying JCEF desktop apps](https://www.reddit.com/r/java/comments/127my01/deploying_jcef_desktop_apps/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
