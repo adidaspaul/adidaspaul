@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Java 20 in Two minutes](https://www.reddit.com/r/java/comments/1290qz6/java_20_in_two_minutes/)
 - [JBang with GPT](https://www.reddit.com/r/java/comments/128op0k/jbang_with_gpt/)
 - [Why use javafx](https://www.reddit.com/r/java/comments/127xejw/why_use_javafx/)
-- [IDE support for virtual threads](https://www.reddit.com/r/java/comments/127uewo/ide_support_for_virtual_threads/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
