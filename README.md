@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Naming is Hard -- But Not With Java](https://www.reddit.com/r/java/comments/129byp3/naming_is_hard_but_not_with_java/)
 - [Java 20 in Two minutes](https://www.reddit.com/r/java/comments/1290qz6/java_20_in_two_minutes/)
 - [JBang with GPT](https://www.reddit.com/r/java/comments/128op0k/jbang_with_gpt/)
-- [Why use javafx](https://www.reddit.com/r/java/comments/127xejw/why_use_javafx/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
