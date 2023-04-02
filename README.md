@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Continuous Monitoring with JDK Flight Recorder](https://www.reddit.com/r/java/comments/129gk8k/continuous_monitoring_with_jdk_flight_recorder/)
 - [Naming is Hard -- But Not With Java](https://www.reddit.com/r/java/comments/129byp3/naming_is_hard_but_not_with_java/)
 - [Java 20 in Two minutes](https://www.reddit.com/r/java/comments/1290qz6/java_20_in_two_minutes/)
-- [JBang with GPT](https://www.reddit.com/r/java/comments/128op0k/jbang_with_gpt/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
