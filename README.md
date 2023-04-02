@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Apache Empire-Db: Full SQL Freedom for Java](https://www.reddit.com/r/java/comments/129wlo8/apache_empiredb_full_sql_freedom_for_java/)
+- [Classic Nim Game in Swing](https://www.reddit.com/r/java/comments/129vbjs/classic_nim_game_in_swing/)
 - [What do you think about ZGC being the JDK&#39;s default GC?](https://www.reddit.com/r/java/comments/129kjbq/what_do_you_think_about_zgc_being_the_jdks/)
-- [Continuous Monitoring with JDK Flight Recorder](https://www.reddit.com/r/java/comments/129gk8k/continuous_monitoring_with_jdk_flight_recorder/)
-- [Naming is Hard -- But Not With Java](https://www.reddit.com/r/java/comments/129byp3/naming_is_hard_but_not_with_java/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
