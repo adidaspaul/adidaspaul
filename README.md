@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Use Piranha Embedded as a light-weight Servlet runner](https://www.reddit.com/r/java/comments/129zr14/use_piranha_embedded_as_a_lightweight_servlet/)
 - [Apache Empire-Db: Full SQL Freedom for Java](https://www.reddit.com/r/java/comments/129wlo8/apache_empiredb_full_sql_freedom_for_java/)
 - [Classic Nim Game in Swing](https://www.reddit.com/r/java/comments/129vbjs/classic_nim_game_in_swing/)
-- [What do you think about ZGC being the JDK&#39;s default GC?](https://www.reddit.com/r/java/comments/129kjbq/what_do_you_think_about_zgc_being_the_jdks/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
