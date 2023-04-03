@@ -66,7 +66,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [How to Work at Java Platform Group](https://www.reddit.com/r/java/comments/12aevnq/how_to_work_at_java_platform_group/)
 - [Exploring the updated Neo4j-Java-Driver — finding Trees in the Forest](https://www.reddit.com/r/java/comments/12aef0b/exploring_the_updated_neo4jjavadriver_finding/)
-- [JavaFX runs very very slow on raspberry pi 3b](https://www.reddit.com/r/java/comments/12abtek/javafx_runs_very_very_slow_on_raspberry_pi_3b/)
+- [Why does Java not use compact dictionaries?](https://www.reddit.com/r/java/comments/12a98o0/why_does_java_not_use_compact_dictionaries/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
