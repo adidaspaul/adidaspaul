@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Java SE 17 developer certification | 1z0-829| Preparation](https://www.reddit.com/r/java/comments/12a6wwh/java_se_17_developer_certification_1z0829/)
 - [A ChatGPT Experiment](https://www.reddit.com/r/java/comments/12a6dnb/a_chatgpt_experiment/)
-- [Hey guys i need immidiate help with a project](https://www.reddit.com/r/java/comments/12a687x/hey_guys_i_need_immidiate_help_with_a_project/)
+- [Use Piranha Embedded as a light-weight Servlet runner](https://www.reddit.com/r/java/comments/129zr14/use_piranha_embedded_as_a_lightweight_servlet/)
+- [Apache Empire-Db: Full SQL Freedom for Java](https://www.reddit.com/r/java/comments/129wlo8/apache_empiredb_full_sql_freedom_for_java/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
