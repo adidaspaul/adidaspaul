@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Never write SQL queries again – Text to SQL, automatic and for free](https://www.reddit.com/r/java/comments/12aqs47/never_write_sql_queries_again_text_to_sql/)
 - [SirixDB - an embeddable, evolutionary database system](https://www.reddit.com/r/java/comments/12aog9b/sirixdb_an_embeddable_evolutionary_database_system/)
 - [An Intellij IDEA plugin to inspect Swing components at runtime](https://www.reddit.com/r/java/comments/12aodf8/an_intellij_idea_plugin_to_inspect_swing/)
-- [Insert without Select using JPA](https://www.reddit.com/r/java/comments/12ajami/insert_without_select_using_jpa/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
