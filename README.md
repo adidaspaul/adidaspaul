@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Why does Java not use compact dictionaries?](https://www.reddit.com/r/java/comments/12a98o0/why_does_java_not_use_compact_dictionaries/)
 - [A ChatGPT Experiment](https://www.reddit.com/r/java/comments/12a6dnb/a_chatgpt_experiment/)
 - [Use Piranha Embedded as a light-weight Servlet runner](https://www.reddit.com/r/java/comments/129zr14/use_piranha_embedded_as_a_lightweight_servlet/)
-- [Apache Empire-Db: Full SQL Freedom for Java](https://www.reddit.com/r/java/comments/129wlo8/apache_empiredb_full_sql_freedom_for_java/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
