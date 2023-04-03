@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [SirixDB - an embeddable, evolutionary database system](https://www.reddit.com/r/java/comments/12aog9b/sirixdb_an_embeddable_evolutionary_database_system/)
+- [An Intellij IDEA plugin to inspect Swing components at runtime](https://www.reddit.com/r/java/comments/12aodf8/an_intellij_idea_plugin_to_inspect_swing/)
 - [Insert without Select using JPA](https://www.reddit.com/r/java/comments/12ajami/insert_without_select_using_jpa/)
-- [How to Work at Java Platform Group](https://www.reddit.com/r/java/comments/12aevnq/how_to_work_at_java_platform_group/)
-- [Exploring the updated Neo4j-Java-Driver — finding Trees in the Forest](https://www.reddit.com/r/java/comments/12aef0b/exploring_the_updated_neo4jjavadriver_finding/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
