@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Building multi-tenant Java apps using Spring Data and Azure Cosmos DB](https://www.reddit.com/r/java/comments/12bpw39/building_multitenant_java_apps_using_spring_data/)
 - [how do views work exactly with spring boot and hibernate](https://www.reddit.com/r/java/comments/12bneln/how_do_views_work_exactly_with_spring_boot_and/)
 - [Using VisualVM JDBC profiler](https://www.reddit.com/r/java/comments/12blkw5/using_visualvm_jdbc_profiler/)
-- [“Preview Features: A Look Back &amp; A Look Ahead” with Alex Buckley - Inside Java Podcast](https://www.reddit.com/r/java/comments/12bg57t/preview_features_a_look_back_a_look_ahead_with/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
