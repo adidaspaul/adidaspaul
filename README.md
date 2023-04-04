@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Using VisualVM JDBC profiler](https://www.reddit.com/r/java/comments/12blkw5/using_visualvm_jdbc_profiler/)
 - [“Preview Features: A Look Back &amp; A Look Ahead” with Alex Buckley - Inside Java Podcast](https://www.reddit.com/r/java/comments/12bg57t/preview_features_a_look_back_a_look_ahead_with/)
 - [SirixDB - an embeddable, evolutionary database system](https://www.reddit.com/r/java/comments/12aog9b/sirixdb_an_embeddable_evolutionary_database_system/)
-- [An Intellij IDEA plugin to inspect Swing components at runtime](https://www.reddit.com/r/java/comments/12aodf8/an_intellij_idea_plugin_to_inspect_swing/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
