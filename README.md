@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [What topic should a 2YOE spring boot developer should know?](https://www.reddit.com/r/java/comments/12bdgs5/what_topic_should_a_2yoe_spring_boot_developer/)
 - [SirixDB - an embeddable, evolutionary database system](https://www.reddit.com/r/java/comments/12aog9b/sirixdb_an_embeddable_evolutionary_database_system/)
 - [An Intellij IDEA plugin to inspect Swing components at runtime](https://www.reddit.com/r/java/comments/12aodf8/an_intellij_idea_plugin_to_inspect_swing/)
-- [Insert without Select using JPA](https://www.reddit.com/r/java/comments/12ajami/insert_without_select_using_jpa/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
