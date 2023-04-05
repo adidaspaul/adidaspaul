@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Understanding Regex in Java](https://www.reddit.com/r/java/comments/12co614/understanding_regex_in_java/)
 - [Any Java Open source projects?](https://www.reddit.com/r/java/comments/12cmgms/any_java_open_source_projects/)
 - [Building multi-tenant Java apps using Spring Data and Azure Cosmos DB](https://www.reddit.com/r/java/comments/12bpw39/building_multitenant_java_apps_using_spring_data/)
-- [Using VisualVM JDBC profiler](https://www.reddit.com/r/java/comments/12blkw5/using_visualvm_jdbc_profiler/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
