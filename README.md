@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Are there places to go to for Java code reviews outside of work?](https://www.reddit.com/r/java/comments/12czbaq/are_there_places_to_go_to_for_java_code_reviews/)
+- [Recursive generics](https://www.reddit.com/r/java/comments/12cygik/recursive_generics/)
 - [Any Java Open source projects?](https://www.reddit.com/r/java/comments/12cmgms/any_java_open_source_projects/)
-- [Building multi-tenant Java apps using Spring Data and Azure Cosmos DB](https://www.reddit.com/r/java/comments/12bpw39/building_multitenant_java_apps_using_spring_data/)
-- [Using VisualVM JDBC profiler](https://www.reddit.com/r/java/comments/12blkw5/using_visualvm_jdbc_profiler/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
