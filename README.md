@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Observing Java 19 JVM optimization with JMH + hsdis + PerfASM — Part I](https://www.reddit.com/r/java/comments/12dknpy/observing_java_19_jvm_optimization_with_jmh_hsdis/)
 - [Java Language Futures, Spring 2023 Edition](https://www.reddit.com/r/java/comments/12dirqz/java_language_futures_spring_2023_edition/)
 - [Testdatabase Provider](https://www.reddit.com/r/java/comments/12d5reh/testdatabase_provider/)
-- [Is it ok if my portfolio and github have java only related projects?](https://www.reddit.com/r/java/comments/12d1lds/is_it_ok_if_my_portfolio_and_github_have_java/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
