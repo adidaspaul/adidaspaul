@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [A new subreddit for the scientific programmers out there: r/ScientificComputing](https://www.reddit.com/r/java/comments/12ddpem/a_new_subreddit_for_the_scientific_programmers/)
 - [Testdatabase Provider](https://www.reddit.com/r/java/comments/12d5reh/testdatabase_provider/)
 - [Is it ok if my portfolio and github have java only related projects?](https://www.reddit.com/r/java/comments/12d1lds/is_it_ok_if_my_portfolio_and_github_have_java/)
-- [Are there places to go to for Java code reviews outside of work?](https://www.reddit.com/r/java/comments/12czbaq/are_there_places_to_go_to_for_java_code_reviews/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
