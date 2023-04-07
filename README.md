@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [When this will come to Java or when will the work start for this?](https://www.reddit.com/r/java/comments/12f068z/when_this_will_come_to_java_or_when_will_the_work/)
 - [The state of Java Object Serialization libraries in Q2 2023](https://www.reddit.com/r/java/comments/12eltbg/the_state_of_java_object_serialization_libraries/)
 - [Ask Java: Why allMatch logic was based on vacuous truth?](https://www.reddit.com/r/java/comments/12ek2us/ask_java_why_allmatch_logic_was_based_on_vacuous/)
-- [A comprehensive look at logging in GlassFish](https://www.reddit.com/r/java/comments/12ejxf8/a_comprehensive_look_at_logging_in_glassfish/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
