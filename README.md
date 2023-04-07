@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Introduction to Java programming language](https://www.reddit.com/r/java/comments/12eakoe/introduction_to_java_programming_language/)
 - [A made me think question](https://www.reddit.com/r/java/comments/12eaedp/a_made_me_think_question/)
 - [Dropwizard returns with parallel 3.0 and 4.0 releases](https://www.reddit.com/r/java/comments/12dov8o/dropwizard_returns_with_parallel_30_and_40/)
+- [Observing Java 19 JVM optimization with JMH + hsdis + PerfASM — Part I](https://www.reddit.com/r/java/comments/12dknpy/observing_java_19_jvm_optimization_with_jmh_hsdis/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
