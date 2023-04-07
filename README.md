@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask Java: Why allMatch logic was based on vacuous truth?](https://www.reddit.com/r/java/comments/12ek2us/ask_java_why_allmatch_logic_was_based_on_vacuous/)
+- [A comprehensive look at logging in GlassFish](https://www.reddit.com/r/java/comments/12ejxf8/a_comprehensive_look_at_logging_in_glassfish/)
 - [Java Virtual Threads - a Comprehensive Guide &lpar;Rock the JVM&rpar;](https://www.reddit.com/r/java/comments/12eh1qt/java_virtual_threads_a_comprehensive_guide_rock/)
-- [Dropwizard returns with parallel 3.0 and 4.0 releases](https://www.reddit.com/r/java/comments/12dov8o/dropwizard_returns_with_parallel_30_and_40/)
-- [Observing Java 19 JVM optimization with JMH + hsdis + PerfASM — Part I](https://www.reddit.com/r/java/comments/12dknpy/observing_java_19_jvm_optimization_with_jmh_hsdis/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
