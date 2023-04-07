@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Java Virtual Threads - a Comprehensive Guide &lpar;Rock the JVM&rpar;](https://www.reddit.com/r/java/comments/12eh1qt/java_virtual_threads_a_comprehensive_guide_rock/)
 - [Dropwizard returns with parallel 3.0 and 4.0 releases](https://www.reddit.com/r/java/comments/12dov8o/dropwizard_returns_with_parallel_30_and_40/)
 - [Observing Java 19 JVM optimization with JMH + hsdis + PerfASM — Part I](https://www.reddit.com/r/java/comments/12dknpy/observing_java_19_jvm_optimization_with_jmh_hsdis/)
-- [Java Language Futures, Spring 2023 Edition](https://www.reddit.com/r/java/comments/12dirqz/java_language_futures_spring_2023_edition/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
