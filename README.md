@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [I built an ultra high performance HTTP server in Java, powered by io_uring. Benchmark charts in the README. Is this useful and is it worth adding more features?](https://www.reddit.com/r/java/comments/12f2h79/i_built_an_ultra_high_performance_http_server_in/)
 - [When this will come to Java or when will the work start for this?](https://www.reddit.com/r/java/comments/12f068z/when_this_will_come_to_java_or_when_will_the_work/)
 - [The state of Java Object Serialization libraries in Q2 2023](https://www.reddit.com/r/java/comments/12eltbg/the_state_of_java_object_serialization_libraries/)
-- [Ask Java: Why allMatch logic was based on vacuous truth?](https://www.reddit.com/r/java/comments/12ek2us/ask_java_why_allmatch_logic_was_based_on_vacuous/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
