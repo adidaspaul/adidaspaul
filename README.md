@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Debug faster in Glass Editor&#39;s latest update](https://www.reddit.com/r/java/comments/12fsevu/debug_faster_in_glass_editors_latest_update/)
 - [What are the differences between Java 8 and Java 17?](https://www.reddit.com/r/java/comments/12fowwd/what_are_the_differences_between_java_8_and_java/)
 - [Java 20: Reviewing the Enhancements in the Latest JDK Release](https://www.reddit.com/r/java/comments/12fnx9i/java_20_reviewing_the_enhancements_in_the_latest/)
-- [Groovy vs Kotlin DSL for gradle](https://www.reddit.com/r/java/comments/12fnrrz/groovy_vs_kotlin_dsl_for_gradle/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
