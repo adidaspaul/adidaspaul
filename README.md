@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Agile: a survey for a thesis](https://www.reddit.com/r/java/comments/12fe4id/agile_a_survey_for_a_thesis/)
 - [I built an ultra high performance HTTP server in Java, powered by io_uring. Benchmark charts in the README. Is this useful and is it worth adding more features?](https://www.reddit.com/r/java/comments/12f2h79/i_built_an_ultra_high_performance_http_server_in/)
 - [When this will come to Java or when will the work start for this?](https://www.reddit.com/r/java/comments/12f068z/when_this_will_come_to_java_or_when_will_the_work/)
-- [The state of Java Object Serialization libraries in Q2 2023](https://www.reddit.com/r/java/comments/12eltbg/the_state_of_java_object_serialization_libraries/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
