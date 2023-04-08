@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Maven Snippet Resource Filter for README.md](https://www.reddit.com/r/java/comments/12fb1y9/maven_snippet_resource_filter_for_readmemd/)
-- [I built an ultra high performance HTTP server in Java, powered by io_uring. Benchmark charts in the README. Is this useful and is it worth adding more features?](https://www.reddit.com/r/java/comments/12f2h79/i_built_an_ultra_high_performance_http_server_in/)
-- [When this will come to Java or when will the work start for this?](https://www.reddit.com/r/java/comments/12f068z/when_this_will_come_to_java_or_when_will_the_work/)
+- [What are the differences between Java 8 and Java 17?](https://www.reddit.com/r/java/comments/12fowwd/what_are_the_differences_between_java_8_and_java/)
+- [Java 20: Reviewing the Enhancements in the Latest JDK Release](https://www.reddit.com/r/java/comments/12fnx9i/java_20_reviewing_the_enhancements_in_the_latest/)
+- [Groovy vs Kotlin DSL for gradle](https://www.reddit.com/r/java/comments/12fnrrz/groovy_vs_kotlin_dsl_for_gradle/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
