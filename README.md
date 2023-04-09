@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Not your grandfather’s logs — A Java library’s new approach to observability](https://www.reddit.com/r/java/comments/12g8hao/not_your_grandfathers_logs_a_java_librarys_new/)
+- [Integrating npm with Maven in a mono repo: seeking advice and best practices](https://www.reddit.com/r/java/comments/12g885k/integrating_npm_with_maven_in_a_mono_repo_seeking/)
 - [What are the differences between Java 8 and Java 17?](https://www.reddit.com/r/java/comments/12fowwd/what_are_the_differences_between_java_8_and_java/)
-- [Java 20: Reviewing the Enhancements in the Latest JDK Release](https://www.reddit.com/r/java/comments/12fnx9i/java_20_reviewing_the_enhancements_in_the_latest/)
-- [Groovy vs Kotlin DSL for gradle](https://www.reddit.com/r/java/comments/12fnrrz/groovy_vs_kotlin_dsl_for_gradle/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
