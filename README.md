@@ -65,8 +65,8 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [a 1.5GB string](https://www.reddit.com/r/java/comments/12gdp3u/a_15gb_string/)
-- [Spring Framework](https://www.reddit.com/r/java/comments/12gd734/spring_framework/)
 - [Not your grandfather’s logs — A Java library’s new approach to observability](https://www.reddit.com/r/java/comments/12g8hao/not_your_grandfathers_logs_a_java_librarys_new/)
+- [Integrating npm with Maven in a mono repo: seeking advice and best practices](https://www.reddit.com/r/java/comments/12g885k/integrating_npm_with_maven_in_a_mono_repo_seeking/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
