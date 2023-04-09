@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [JEP proposed to target JDK 21: 444: Virtual Threads](https://www.reddit.com/r/java/comments/12gtndm/jep_proposed_to_target_jdk_21_444_virtual_threads/)
 - [Virtual Thread has been proposed to target](https://www.reddit.com/r/java/comments/12gr41a/virtual_thread_has_been_proposed_to_target/)
 - [Open Liberty 23 released with full EE 10/MP 6 support](https://www.reddit.com/r/java/comments/12gnpj2/open_liberty_23_released_with_full_ee_10mp_6/)
-- [a 1.5GB string](https://www.reddit.com/r/java/comments/12gdp3u/a_15gb_string/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
