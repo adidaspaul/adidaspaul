@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Virtual Thread has been proposed to target](https://www.reddit.com/r/java/comments/12gr41a/virtual_thread_has_been_proposed_to_target/)
 - [Open Liberty 23 released with full EE 10/MP 6 support](https://www.reddit.com/r/java/comments/12gnpj2/open_liberty_23_released_with_full_ee_10mp_6/)
 - [a 1.5GB string](https://www.reddit.com/r/java/comments/12gdp3u/a_15gb_string/)
-- [Not your grandfather’s logs — A Java library’s new approach to observability](https://www.reddit.com/r/java/comments/12g8hao/not_your_grandfathers_logs_a_java_librarys_new/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
