@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Time to do something about System.out.println&lpar;&rpar; ?](https://www.reddit.com/r/java/comments/12hugkk/time_to_do_something_about_systemoutprintln/)
 - [JEP 444: Virtual Threads Targeted To Java 21](https://www.reddit.com/r/java/comments/12hsm4s/jep_444_virtual_threads_targeted_to_java_21/)
 - [How to find a &quot;formula&quot; to predict resource requirements in k8s?](https://www.reddit.com/r/java/comments/12hdcbb/how_to_find_a_formula_to_predict_resource/)
+- [JEP proposed to target JDK 21: 444: Virtual Threads](https://www.reddit.com/r/java/comments/12gtndm/jep_proposed_to_target_jdk_21_444_virtual_threads/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
