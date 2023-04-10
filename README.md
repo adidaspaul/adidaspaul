@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to find a &quot;formula&quot; to predict resource requirements in k8s?](https://www.reddit.com/r/java/comments/12hdcbb/how_to_find_a_formula_to_predict_resource/)
 - [JEP proposed to target JDK 21: 444: Virtual Threads](https://www.reddit.com/r/java/comments/12gtndm/jep_proposed_to_target_jdk_21_444_virtual_threads/)
 - [Virtual Thread has been proposed to target](https://www.reddit.com/r/java/comments/12gr41a/virtual_thread_has_been_proposed_to_target/)
-- [Open Liberty 23 released with full EE 10/MP 6 support](https://www.reddit.com/r/java/comments/12gnpj2/open_liberty_23_released_with_full_ee_10mp_6/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
