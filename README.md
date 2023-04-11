@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [No bootcamps are choosing Java..so Java improved its &#39;Hello World&#39; experience](https://www.reddit.com/r/java/comments/12iwgfa/no_bootcamps_are_choosing_javaso_java_improved/)
 - [My take on named parameters in Java](https://www.reddit.com/r/java/comments/12is84o/my_take_on_named_parameters_in_java/)
 - [Recommended settings for running in Kubernetes](https://www.reddit.com/r/java/comments/12iqram/recommended_settings_for_running_in_kubernetes/)
-- [Why dependency injection?](https://www.reddit.com/r/java/comments/12imnqx/why_dependency_injection/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
