@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Why dependency injection?](https://www.reddit.com/r/java/comments/12imnqx/why_dependency_injection/)
-- [Is there any way to test out any of the new Value based classes?](https://www.reddit.com/r/java/comments/12ik33c/is_there_any_way_to_test_out_any_of_the_new_value/)
-- [Unusual Java: StackTrace Extends Throwable](https://www.reddit.com/r/java/comments/12igpjk/unusual_java_stacktrace_extends_throwable/)
+- [This man do a great job to teach the best practices](https://www.reddit.com/r/java/comments/12ishwm/this_man_do_a_great_job_to_teach_the_best/)
+- [My take on named parameters in Java](https://www.reddit.com/r/java/comments/12is84o/my_take_on_named_parameters_in_java/)
+- [Recommended settings for running in Kubernetes](https://www.reddit.com/r/java/comments/12iqram/recommended_settings_for_running_in_kubernetes/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
