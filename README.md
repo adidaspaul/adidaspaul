@@ -64,7 +64,7 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [What is going on ?](https://www.reddit.com/r/java/comments/12ikbh1/what_is_going_on/)
+- [Why dependency injection?](https://www.reddit.com/r/java/comments/12imnqx/why_dependency_injection/)
 - [Is there any way to test out any of the new Value based classes?](https://www.reddit.com/r/java/comments/12ik33c/is_there_any_way_to_test_out_any_of_the_new_value/)
 - [Unusual Java: StackTrace Extends Throwable](https://www.reddit.com/r/java/comments/12igpjk/unusual_java_stacktrace_extends_throwable/)
 <!-- BLOG-POST-LIST:END -->
