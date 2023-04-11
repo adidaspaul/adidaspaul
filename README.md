@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [This man do a great job to teach the best practices](https://www.reddit.com/r/java/comments/12ishwm/this_man_do_a_great_job_to_teach_the_best/)
 - [My take on named parameters in Java](https://www.reddit.com/r/java/comments/12is84o/my_take_on_named_parameters_in_java/)
 - [Recommended settings for running in Kubernetes](https://www.reddit.com/r/java/comments/12iqram/recommended_settings_for_running_in_kubernetes/)
+- [Why dependency injection?](https://www.reddit.com/r/java/comments/12imnqx/why_dependency_injection/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
