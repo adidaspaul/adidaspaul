@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Java-based Jailer Database Tools 14.5 released.](https://www.reddit.com/r/java/comments/12icgte/javabased_jailer_database_tools_145_released/)
+- [Spark-NLP 4.4.0: New BART for Text Translation &amp; Summarization, new ConvNeXT Transformer for Image Classification, new Zero-Shot Text Classification by BERT, more than 4000+ state-of-the-art models, and many more! · JohnSnowLabs/spark-nlp](https://www.reddit.com/r/java/comments/12ic5k5/sparknlp_440_new_bart_for_text_translation/)
 - [Is JNI good &lpar;Performance wise&rpar;](https://www.reddit.com/r/java/comments/12i355j/is_jni_good_performance_wise/)
-- [JEP 444: Virtual Threads Targeted To Java 21](https://www.reddit.com/r/java/comments/12hsm4s/jep_444_virtual_threads_targeted_to_java_21/)
-- [How to find a &quot;formula&quot; to predict resource requirements in k8s?](https://www.reddit.com/r/java/comments/12hdcbb/how_to_find_a_formula_to_predict_resource/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
