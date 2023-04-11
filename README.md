@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Unusual Java: StackTrace Extends Throwable](https://www.reddit.com/r/java/comments/12igpjk/unusual_java_stacktrace_extends_throwable/)
 - [Java-based Jailer Database Tools 14.5 released.](https://www.reddit.com/r/java/comments/12icgte/javabased_jailer_database_tools_145_released/)
 - [Spark-NLP 4.4.0: New BART for Text Translation &amp; Summarization, new ConvNeXT Transformer for Image Classification, new Zero-Shot Text Classification by BERT, more than 4000+ state-of-the-art models, and many more! · JohnSnowLabs/spark-nlp](https://www.reddit.com/r/java/comments/12ic5k5/sparknlp_440_new_bart_for_text_translation/)
-- [Is JNI good &lpar;Performance wise&rpar;](https://www.reddit.com/r/java/comments/12i355j/is_jni_good_performance_wise/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
