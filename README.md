@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Are there any java coding live streamers?](https://www.reddit.com/r/java/comments/12jk9xq/are_there_any_java_coding_live_streamers/)
 - [Interpreting Java usage tracker logs](https://www.reddit.com/r/java/comments/12jg632/interpreting_java_usage_tracker_logs/)
 - [Introducing Bld: A New Pure Java Build System](https://www.reddit.com/r/java/comments/12jdgxt/introducing_bld_a_new_pure_java_build_system/)
-- [Good Java industry blogs?](https://www.reddit.com/r/java/comments/12jaul0/good_java_industry_blogs/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
