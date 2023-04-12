@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Introducing Bld: A New Pure Java Build System](https://www.reddit.com/r/java/comments/12jdgxt/introducing_bld_a_new_pure_java_build_system/)
 - [Good Java industry blogs?](https://www.reddit.com/r/java/comments/12jaul0/good_java_industry_blogs/)
 - [Helidon Nima 4.0.0-ALPHA6 released. Runs on Java 20 with virtual threads.](https://www.reddit.com/r/java/comments/12j6uml/helidon_nima_400alpha6_released_runs_on_java_20/)
-- [Would duplicating classes from a jar file that you are a customer of the creator to enhance them be illegal or unethical if only used for a companies personal automation testing?](https://www.reddit.com/r/java/comments/12j1uv2/would_duplicating_classes_from_a_jar_file_that/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
