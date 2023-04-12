@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [How to deploy and showcase Java Web Services project?](https://www.reddit.com/r/java/comments/12jpym6/how_to_deploy_and_showcase_java_web_services/)
-- [Enjoying the space...](https://www.reddit.com/r/java/comments/12jp8d8/enjoying_the_space/)
+- [Some comments about the new String Templates feature](https://www.reddit.com/r/java/comments/12jsbk1/some_comments_about_the_new_string_templates/)
 - [How to Java GUI?](https://www.reddit.com/r/java/comments/12jp4d1/how_to_java_gui/)
+- [Are there any java coding live streamers?](https://www.reddit.com/r/java/comments/12jk9xq/are_there_any_java_coding_live_streamers/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
