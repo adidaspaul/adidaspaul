@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Helidon Nima 4.0.0-ALPHA6 released. Runs on Java 20 with virtual threads.](https://www.reddit.com/r/java/comments/12j6uml/helidon_nima_400alpha6_released_runs_on_java_20/)
 - [Would duplicating classes from a jar file that you are a customer of the creator to enhance them be illegal or unethical if only used for a companies personal automation testing?](https://www.reddit.com/r/java/comments/12j1uv2/would_duplicating_classes_from_a_jar_file_that/)
 - [No bootcamps are choosing Java..so Java improved its &#39;Hello World&#39; experience](https://www.reddit.com/r/java/comments/12iwgfa/no_bootcamps_are_choosing_javaso_java_improved/)
-- [My take on named parameters in Java](https://www.reddit.com/r/java/comments/12is84o/my_take_on_named_parameters_in_java/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
