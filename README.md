@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Interpreting Java usage tracker logs](https://www.reddit.com/r/java/comments/12jg632/interpreting_java_usage_tracker_logs/)
 - [Introducing Bld: A New Pure Java Build System](https://www.reddit.com/r/java/comments/12jdgxt/introducing_bld_a_new_pure_java_build_system/)
 - [Good Java industry blogs?](https://www.reddit.com/r/java/comments/12jaul0/good_java_industry_blogs/)
-- [Helidon Nima 4.0.0-ALPHA6 released. Runs on Java 20 with virtual threads.](https://www.reddit.com/r/java/comments/12j6uml/helidon_nima_400alpha6_released_runs_on_java_20/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
