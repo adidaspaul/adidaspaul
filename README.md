@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Java-based engine and GUI](https://www.reddit.com/r/java/comments/12kgf4u/javabased_engine_and_gui/)
 - [Some comments about the new String Templates feature](https://www.reddit.com/r/java/comments/12jsbk1/some_comments_about_the_new_string_templates/)
 - [Are there any java coding live streamers?](https://www.reddit.com/r/java/comments/12jk9xq/are_there_any_java_coding_live_streamers/)
-- [Interpreting Java usage tracker logs](https://www.reddit.com/r/java/comments/12jg632/interpreting_java_usage_tracker_logs/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
