@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [🥒✨ Cucumber Dressing v1 released - simplified datatable mapper](https://www.reddit.com/r/java/comments/12lbuqq/cucumber_dressing_v1_released_simplified/)
+- [Getting Rid Of Unused Variables &lpar;Finally&rpar; - Inside Java Newscast #46](https://www.reddit.com/r/java/comments/12lba5u/getting_rid_of_unused_variables_finally_inside/)
 - [Some comments about the new String Templates feature](https://www.reddit.com/r/java/comments/12jsbk1/some_comments_about_the_new_string_templates/)
-- [Are there any java coding live streamers?](https://www.reddit.com/r/java/comments/12jk9xq/are_there_any_java_coding_live_streamers/)
-- [Interpreting Java usage tracker logs](https://www.reddit.com/r/java/comments/12jg632/interpreting_java_usage_tracker_logs/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
