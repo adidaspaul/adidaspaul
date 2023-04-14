@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Java Is Underhyped](https://www.reddit.com/r/java/comments/12lneua/java_is_underhyped/)
 - [What are your &lpar;favourite&rpar; Java best practices, personal tips, hints or just underrated stuff in general?](https://www.reddit.com/r/java/comments/12lmj78/what_are_your_favourite_java_best_practices/)
 - [Hands on with Java and Wasm](https://www.reddit.com/r/java/comments/12llnxg/hands_on_with_java_and_wasm/)
+- [🥒✨ Cucumber Dressing v1 released - simplified datatable mapper](https://www.reddit.com/r/java/comments/12lbuqq/cucumber_dressing_v1_released_simplified/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
