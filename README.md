@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Exposing constant variables to tests](https://www.reddit.com/r/java/comments/12m36mz/exposing_constant_variables_to_tests/)
 - [Best intership for summer? Remote](https://www.reddit.com/r/java/comments/12m0dl6/best_intership_for_summer_remote/)
 - [Dewdrop - Java event sourcing framework v1.0.3 released](https://www.reddit.com/r/java/comments/12lyzj4/dewdrop_java_event_sourcing_framework_v103/)
-- [What are your &lpar;favourite&rpar; Java best practices, personal tips, hints or just underrated stuff in general?](https://www.reddit.com/r/java/comments/12lmj78/what_are_your_favourite_java_best_practices/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
