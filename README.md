@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Best intership for summer? Remote](https://www.reddit.com/r/java/comments/12m0dl6/best_intership_for_summer_remote/)
+- [Dewdrop - Java event sourcing framework v1.0.3 released](https://www.reddit.com/r/java/comments/12lyzj4/dewdrop_java_event_sourcing_framework_v103/)
 - [What are your &lpar;favourite&rpar; Java best practices, personal tips, hints or just underrated stuff in general?](https://www.reddit.com/r/java/comments/12lmj78/what_are_your_favourite_java_best_practices/)
-- [Hands on with Java and Wasm](https://www.reddit.com/r/java/comments/12llnxg/hands_on_with_java_and_wasm/)
-- [🥒✨ Cucumber Dressing v1 released - simplified datatable mapper](https://www.reddit.com/r/java/comments/12lbuqq/cucumber_dressing_v1_released_simplified/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
