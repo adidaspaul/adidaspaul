@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Are there any poplar alternatives to siesta?](https://www.reddit.com/r/java/comments/12ne6pl/are_there_any_poplar_alternatives_to_siesta/)
 - [Dewdrop - Java event sourcing framework v1.0.3 released](https://www.reddit.com/r/java/comments/12lyzj4/dewdrop_java_event_sourcing_framework_v103/)
 - [What are your &lpar;favourite&rpar; Java best practices, personal tips, hints or just underrated stuff in general?](https://www.reddit.com/r/java/comments/12lmj78/what_are_your_favourite_java_best_practices/)
-- [Hands on with Java and Wasm](https://www.reddit.com/r/java/comments/12llnxg/hands_on_with_java_and_wasm/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
