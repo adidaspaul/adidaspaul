@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Creating a scalable backend for an e-commerce application using Spring boot, Spring cloud and…](https://www.reddit.com/r/java/comments/12mlnzd/creating_a_scalable_backend_for_an_ecommerce/)
 - [Suggested IDEs For Someone Who Really Doesn&#39;t Like Them?](https://www.reddit.com/r/java/comments/12mk2cw/suggested_ides_for_someone_who_really_doesnt_like/)
 - [Exposing constant variables to tests](https://www.reddit.com/r/java/comments/12m36mz/exposing_constant_variables_to_tests/)
-- [Dewdrop - Java event sourcing framework v1.0.3 released](https://www.reddit.com/r/java/comments/12lyzj4/dewdrop_java_event_sourcing_framework_v103/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
