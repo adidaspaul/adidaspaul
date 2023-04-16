@@ -65,8 +65,8 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [How to practice Java Performance Optimization or JVM performance tuning?](https://www.reddit.com/r/java/comments/12on914/how_to_practice_java_performance_optimization_or/)
-- [Repainting JPanles](https://www.reddit.com/r/java/comments/12on7vi/repainting_jpanles/)
 - [In the wild: Java&#39;s Optional for control-flow](https://www.reddit.com/r/java/comments/12oidga/in_the_wild_javas_optional_for_controlflow/)
+- [JavaFX 20 and Beyond](https://www.reddit.com/r/java/comments/12og8fm/javafx_20_and_beyond/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
