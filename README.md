@@ -64,8 +64,8 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [In the wild: Java&#39;s Optional for control-flow](https://www.reddit.com/r/java/comments/12oidga/in_the_wild_javas_optional_for_controlflow/)
 - [JavaFX 20 and Beyond](https://www.reddit.com/r/java/comments/12og8fm/javafx_20_and_beyond/)
-- [Projects to demonstrate/learn Java QA?](https://www.reddit.com/r/java/comments/12ockhi/projects_to_demonstratelearn_java_qa/)
 - [Are there any poplar alternatives to siesta?](https://www.reddit.com/r/java/comments/12ne6pl/are_there_any_poplar_alternatives_to_siesta/)
 <!-- BLOG-POST-LIST:END -->
 
