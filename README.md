@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Hey guys, just wanted to let you know that JStachio v0.9.0 is now out and it even comes with Spring support! So go ahead and give it a try if you&#39;re into that kind of thing!](https://www.reddit.com/r/java/comments/12nje5r/hey_guys_just_wanted_to_let_you_know_that/)
 - [Are there any poplar alternatives to siesta?](https://www.reddit.com/r/java/comments/12ne6pl/are_there_any_poplar_alternatives_to_siesta/)
 - [Dewdrop - Java event sourcing framework v1.0.3 released](https://www.reddit.com/r/java/comments/12lyzj4/dewdrop_java_event_sourcing_framework_v103/)
+- [What are your &lpar;favourite&rpar; Java best practices, personal tips, hints or just underrated stuff in general?](https://www.reddit.com/r/java/comments/12lmj78/what_are_your_favourite_java_best_practices/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
