@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Thread dump — the simple tool for debugging Java-applications in production](https://www.reddit.com/r/java/comments/12p68xb/thread_dump_the_simple_tool_for_debugging/)
 - [How to practice Java Performance Optimization or JVM performance tuning?](https://www.reddit.com/r/java/comments/12on914/how_to_practice_java_performance_optimization_or/)
 - [In the wild: Java&#39;s Optional for control-flow](https://www.reddit.com/r/java/comments/12oidga/in_the_wild_javas_optional_for_controlflow/)
-- [JavaFX 20 and Beyond](https://www.reddit.com/r/java/comments/12og8fm/javafx_20_and_beyond/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
