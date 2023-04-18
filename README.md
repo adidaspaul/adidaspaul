@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Google Gcp as a happiness detector](https://www.reddit.com/r/java/comments/12r4kal/google_gcp_as_a_happiness_detector/)
 - [Java 8 OCA still worth it?](https://www.reddit.com/r/java/comments/12r26zi/java_8_oca_still_worth_it/)
 - [Mats3 with JBang: An exploration of Message-Oriented Async RPC with self-contained java programs](https://www.reddit.com/r/java/comments/12qw533/mats3_with_jbang_an_exploration_of/)
-- [WebTau 1.52 release, now with WebSocket and Lazy HTTP response values](https://www.reddit.com/r/java/comments/12qs80v/webtau_152_release_now_with_websocket_and_lazy/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
