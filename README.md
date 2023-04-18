@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Java Migration from JDK12 to JDK17](https://www.reddit.com/r/java/comments/12qn5tf/java_migration_from_jdk12_to_jdk17/)
+- [Eclipse Starter Fills a Longstanding Gap in Jakarta EE](https://www.reddit.com/r/java/comments/12qpetu/eclipse_starter_fills_a_longstanding_gap_in/)
+- [Why is type erasure bad? If generic types were reifiable, what would that bring?](https://www.reddit.com/r/java/comments/12qor2l/why_is_type_erasure_bad_if_generic_types_were/)
 - [GlassFish Docker images available again!](https://www.reddit.com/r/java/comments/12qlztc/glassfish_docker_images_available_again/)
-- [My advice for building maintainable, clean architecture](https://www.reddit.com/r/java/comments/12qlupv/my_advice_for_building_maintainable_clean/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
