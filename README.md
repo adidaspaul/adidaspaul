@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Mats3 with JBang: An exploration of Message-Oriented Async RPC with self-contained java programs](https://www.reddit.com/r/java/comments/12qw533/mats3_with_jbang_an_exploration_of/)
+- [springboot aws ecs otel](https://www.reddit.com/r/java/comments/12qvj2w/springboot_aws_ecs_otel/)
 - [WebTau 1.52 release, now with WebSocket and Lazy HTTP response values](https://www.reddit.com/r/java/comments/12qs80v/webtau_152_release_now_with_websocket_and_lazy/)
-- [Eclipse Starter Fills a Longstanding Gap in Jakarta EE](https://www.reddit.com/r/java/comments/12qpetu/eclipse_starter_fills_a_longstanding_gap_in/)
-- [Why is type erasure bad? If generic types were reifiable, what would that bring?](https://www.reddit.com/r/java/comments/12qor2l/why_is_type_erasure_bad_if_generic_types_were/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
