@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Introducing Boost - a new open source desktop app for managing Spring Boot microservices](https://www.reddit.com/r/java/comments/12qjl4x/introducing_boost_a_new_open_source_desktop_app/)
-- [Thread dump — the simple tool for debugging Java-applications in production](https://www.reddit.com/r/java/comments/12p68xb/thread_dump_the_simple_tool_for_debugging/)
-- [How to practice Java Performance Optimization or JVM performance tuning?](https://www.reddit.com/r/java/comments/12on914/how_to_practice_java_performance_optimization_or/)
+- [I want learn java](https://www.reddit.com/r/java/comments/12qmkw4/i_want_learn_java/)
+- [GlassFish Docker images available again!](https://www.reddit.com/r/java/comments/12qlztc/glassfish_docker_images_available_again/)
+- [My advice for building maintainable, clean architecture](https://www.reddit.com/r/java/comments/12qlupv/my_advice_for_building_maintainable_clean/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
