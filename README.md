@@ -64,7 +64,7 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [I want learn java](https://www.reddit.com/r/java/comments/12qmkw4/i_want_learn_java/)
+- [Java Migration from JDK12 to JDK17](https://www.reddit.com/r/java/comments/12qn5tf/java_migration_from_jdk12_to_jdk17/)
 - [GlassFish Docker images available again!](https://www.reddit.com/r/java/comments/12qlztc/glassfish_docker_images_available_again/)
 - [My advice for building maintainable, clean architecture](https://www.reddit.com/r/java/comments/12qlupv/my_advice_for_building_maintainable_clean/)
 <!-- BLOG-POST-LIST:END -->
