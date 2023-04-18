@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Java 8 OCA still worth it?](https://www.reddit.com/r/java/comments/12r26zi/java_8_oca_still_worth_it/)
 - [Mats3 with JBang: An exploration of Message-Oriented Async RPC with self-contained java programs](https://www.reddit.com/r/java/comments/12qw533/mats3_with_jbang_an_exploration_of/)
 - [WebTau 1.52 release, now with WebSocket and Lazy HTTP response values](https://www.reddit.com/r/java/comments/12qs80v/webtau_152_release_now_with_websocket_and_lazy/)
-- [Eclipse Starter Fills a Longstanding Gap in Jakarta EE](https://www.reddit.com/r/java/comments/12qpetu/eclipse_starter_fills_a_longstanding_gap_in/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
