@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [JEP draft: Disallow the Dynamic Loading of Agents by Default](https://www.reddit.com/r/java/comments/12rczes/jep_draft_disallow_the_dynamic_loading_of_agents/)
+- [JEP draft: Integrity and Strong Encapsulation](https://www.reddit.com/r/java/comments/12rcyxm/jep_draft_integrity_and_strong_encapsulation/)
 - [JEP 446: Scoped Values Preview in JDK 21](https://www.reddit.com/r/java/comments/12r5h9u/jep_446_scoped_values_preview_in_jdk_21/)
-- [Google Gcp as a happiness detector](https://www.reddit.com/r/java/comments/12r4kal/google_gcp_as_a_happiness_detector/)
-- [Java 8 OCA still worth it?](https://www.reddit.com/r/java/comments/12r26zi/java_8_oca_still_worth_it/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
