@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [java array object creation.](https://www.reddit.com/r/java/comments/12s55ld/java_array_object_creation/)
 - [JEP 447: Statements before super&lpar;&rpar;](https://www.reddit.com/r/java/comments/12rvfjz/jep_447_statements_before_super/)
 - [The best way to call SQL Server stored procedures with jOOQ](https://www.reddit.com/r/java/comments/12rv57g/the_best_way_to_call_sql_server_stored_procedures/)
-- [Is it just me, or does the Spring Framework lead to hard-to-maintain code and confusion with annotations?](https://www.reddit.com/r/java/comments/12rofp4/is_it_just_me_or_does_the_spring_framework_lead/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
