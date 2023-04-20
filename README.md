@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Should we rename our Spring Boot admin FOSS - Boost?](https://www.reddit.com/r/java/comments/12t3orf/should_we_rename_our_spring_boot_admin_foss_boost/)
 - [Java Junior without higher education](https://www.reddit.com/r/java/comments/12sy10o/java_junior_without_higher_education/)
 - [Project Panama: Interconnecting the Java Virtual Machine and Native Code](https://www.reddit.com/r/java/comments/12swszz/project_panama_interconnecting_the_java_virtual/)
-- [Why I love Enums and think they should be used more](https://www.reddit.com/r/java/comments/12soujh/why_i_love_enums_and_think_they_should_be_used/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
