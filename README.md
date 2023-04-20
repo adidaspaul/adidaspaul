@@ -64,7 +64,7 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Should we rename our Spring Boot admin FOSS - Boost?](https://www.reddit.com/r/java/comments/12t3orf/should_we_rename_our_spring_boot_admin_foss_boost/)
+- [Should we rename our Spring Boot admin FOSS - Boost?](https://www.reddit.com/r/java/comments/12t4778/should_we_rename_our_spring_boot_admin_foss_boost/)
 - [Java Junior without higher education](https://www.reddit.com/r/java/comments/12sy10o/java_junior_without_higher_education/)
 - [Project Panama: Interconnecting the Java Virtual Machine and Native Code](https://www.reddit.com/r/java/comments/12swszz/project_panama_interconnecting_the_java_virtual/)
 <!-- BLOG-POST-LIST:END -->
