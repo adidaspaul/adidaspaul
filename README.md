@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Should we rename our Spring Boot admin FOSS - Boost?](https://www.reddit.com/r/java/comments/12t4778/should_we_rename_our_spring_boot_admin_foss_boost/)
+- [Including the JDK version in maven coordinates for a library](https://www.reddit.com/r/java/comments/12tbrwu/including_the_jdk_version_in_maven_coordinates/)
+- [Communicating with Solana RPC using Java](https://www.reddit.com/r/java/comments/12tafpl/communicating_with_solana_rpc_using_java/)
 - [Java Junior without higher education](https://www.reddit.com/r/java/comments/12sy10o/java_junior_without_higher_education/)
-- [Project Panama: Interconnecting the Java Virtual Machine and Native Code](https://www.reddit.com/r/java/comments/12swszz/project_panama_interconnecting_the_java_virtual/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
