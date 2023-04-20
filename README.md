@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [FAQ: why no user-defined default instances? [John Rose]](https://www.reddit.com/r/java/comments/12sf8z6/faq_why_no_userdefined_default_instances_john_rose/)
 - [The Runtime Server Protocol - a server management protocol based on LSP4J](https://www.reddit.com/r/java/comments/12sacsf/the_runtime_server_protocol_a_server_management/)
 - [JEP 447: Statements before super&lpar;&rpar;](https://www.reddit.com/r/java/comments/12rvfjz/jep_447_statements_before_super/)
-- [The best way to call SQL Server stored procedures with jOOQ](https://www.reddit.com/r/java/comments/12rv57g/the_best_way_to_call_sql_server_stored_procedures/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
