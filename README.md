@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [how to solve &quot;Cannot determine location of JVM&quot; using Java 8?](https://www.reddit.com/r/java/comments/12uak7a/how_to_solve_cannot_determine_location_of_jvm/)
 - [&quot;Extending&quot; a Java annotation with proxy classes and reflections](https://www.reddit.com/r/java/comments/12u03ar/extending_a_java_annotation_with_proxy_classes/)
 - [Helidon - Microservices on Modern Java](https://www.reddit.com/r/java/comments/12tz195/helidon_microservices_on_modern_java/)
-- [What Roman Elizarov - creator of Coroutines - thinks about Virtual Threads](https://www.reddit.com/r/java/comments/12tuoni/what_roman_elizarov_creator_of_coroutines_thinks/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
