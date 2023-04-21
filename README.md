@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [&quot;Extending&quot; a Java annotation with proxy classes and reflections](https://www.reddit.com/r/java/comments/12u03ar/extending_a_java_annotation_with_proxy_classes/)
+- [Helidon - Microservices on Modern Java](https://www.reddit.com/r/java/comments/12tz195/helidon_microservices_on_modern_java/)
 - [What Roman Elizarov - creator of Coroutines - thinks about Virtual Threads](https://www.reddit.com/r/java/comments/12tuoni/what_roman_elizarov_creator_of_coroutines_thinks/)
-- [Including the JDK version in maven coordinates for a library](https://www.reddit.com/r/java/comments/12tbrwu/including_the_jdk_version_in_maven_coordinates/)
-- [Communicating with Solana RPC using Java](https://www.reddit.com/r/java/comments/12tafpl/communicating_with_solana_rpc_using_java/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
