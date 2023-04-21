@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Symbolic Abstract Heaps for Polymorphic Information-flow Guard Inference &lpar;Extended Version&rpar;](https://www.reddit.com/r/java/comments/12uh2fk/symbolic_abstract_heaps_for_polymorphic/)
 - [Jakarta EE 11: The First Big Leap for Jakarta](https://www.reddit.com/r/java/comments/12ud379/jakarta_ee_11_the_first_big_leap_for_jakarta/)
 - [&quot;Extending&quot; a Java annotation with proxy classes and reflections](https://www.reddit.com/r/java/comments/12u03ar/extending_a_java_annotation_with_proxy_classes/)
-- [Helidon - Microservices on Modern Java](https://www.reddit.com/r/java/comments/12tz195/helidon_microservices_on_modern_java/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
