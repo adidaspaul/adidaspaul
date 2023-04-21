@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [What Roman Elizarov - creator of Coroutines - thinks about Virtual Threads](https://www.reddit.com/r/java/comments/12tuoni/what_roman_elizarov_creator_of_coroutines_thinks/)
 - [☕ 5 Awesome Java Projects People Don’t Know About Vol 3 — Time Database, Microservices, A Game And…](https://www.reddit.com/r/java/comments/12th65e/5_awesome_java_projects_people_dont_know_about/)
 - [Including the JDK version in maven coordinates for a library](https://www.reddit.com/r/java/comments/12tbrwu/including_the_jdk_version_in_maven_coordinates/)
-- [Communicating with Solana RPC using Java](https://www.reddit.com/r/java/comments/12tafpl/communicating_with_solana_rpc_using_java/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
