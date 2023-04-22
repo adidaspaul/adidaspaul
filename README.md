@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Symbolic Abstract Heaps for Polymorphic Information-flow Guard Inference &lpar;Extended Version&rpar;](https://www.reddit.com/r/java/comments/12uh2fk/symbolic_abstract_heaps_for_polymorphic/)
-- [Jakarta EE 11: The First Big Leap for Jakarta](https://www.reddit.com/r/java/comments/12ud379/jakarta_ee_11_the_first_big_leap_for_jakarta/)
-- [&quot;Extending&quot; a Java annotation with proxy classes and reflections](https://www.reddit.com/r/java/comments/12u03ar/extending_a_java_annotation_with_proxy_classes/)
+- [An Introduction To Server Connector for IntelliJ](https://www.reddit.com/r/java/comments/12ve5zp/an_introduction_to_server_connector_for_intellij/)
+- [Port Scanner - Java](https://www.reddit.com/r/java/comments/12vdxa2/port_scanner_java/)
+- [Spring Boot 3.1 RC1 is here - with support for Testcontainers and docker compose](https://www.reddit.com/r/java/comments/12vd13k/spring_boot_31_rc1_is_here_with_support_for/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
