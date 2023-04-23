@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [schema-org-java 0.6.0: Java library for working with Schema.org data in JSON-LD format](https://www.reddit.com/r/java/comments/12w3now/schemaorgjava_060_java_library_for_working_with/)
 - [An Introduction To Server Connector for IntelliJ](https://www.reddit.com/r/java/comments/12ve5zp/an_introduction_to_server_connector_for_intellij/)
 - [Spring Boot 3.1 RC1 is here - with support for Testcontainers and docker compose](https://www.reddit.com/r/java/comments/12vd13k/spring_boot_31_rc1_is_here_with_support_for/)
-- [Symbolic Abstract Heaps for Polymorphic Information-flow Guard Inference &lpar;Extended Version&rpar;](https://www.reddit.com/r/java/comments/12uh2fk/symbolic_abstract_heaps_for_polymorphic/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
