@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Problem with netbeans. It opens but in a so tiny window I can&#39;t do anything.](https://www.reddit.com/r/java/comments/12waxew/problem_with_netbeans_it_opens_but_in_a_so_tiny/)
 - [schema-org-java 0.6.0: Java library for working with Schema.org data in JSON-LD format](https://www.reddit.com/r/java/comments/12w3now/schemaorgjava_060_java_library_for_working_with/)
 - [An Introduction To Server Connector for IntelliJ](https://www.reddit.com/r/java/comments/12ve5zp/an_introduction_to_server_connector_for_intellij/)
-- [Spring Boot 3.1 RC1 is here - with support for Testcontainers and docker compose](https://www.reddit.com/r/java/comments/12vd13k/spring_boot_31_rc1_is_here_with_support_for/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
