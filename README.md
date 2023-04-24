@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [New versions of Java always coming out but all my apps continue to run in Java 8?](https://www.reddit.com/r/java/comments/12xj8j3/new_versions_of_java_always_coming_out_but_all_my/)
+- [Trouble with loops](https://www.reddit.com/r/java/comments/12xi8p1/trouble_with_loops/)
 - [FlatLaf 3.1 &lpar;and 3.0&rpar; - Swing Look and Feel](https://www.reddit.com/r/java/comments/12xgrsu/flatlaf_31_and_30_swing_look_and_feel/)
-- [Will ObjectBox ever support AARM64 architecture for Linux machines?](https://www.reddit.com/r/java/comments/12x5m7l/will_objectbox_ever_support_aarm64_architecture/)
-- [schema-org-java 0.6.0: Java library for working with Schema.org data in JSON-LD format](https://www.reddit.com/r/java/comments/12w3now/schemaorgjava_060_java_library_for_working_with/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
