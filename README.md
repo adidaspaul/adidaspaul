@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Embracing Virtual Threads: Migration Tips for Java Developers](https://www.reddit.com/r/java/comments/12xp638/embracing_virtual_threads_migration_tips_for_java/)
 - [New versions of Java always coming out but all my apps continue to run in Java 8?](https://www.reddit.com/r/java/comments/12xj8j3/new_versions_of_java_always_coming_out_but_all_my/)
 - [FlatLaf 3.1 &lpar;and 3.0&rpar; - Swing Look and Feel](https://www.reddit.com/r/java/comments/12xgrsu/flatlaf_31_and_30_swing_look_and_feel/)
-- [Will ObjectBox ever support AARM64 architecture for Linux machines?](https://www.reddit.com/r/java/comments/12x5m7l/will_objectbox_ever_support_aarm64_architecture/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
