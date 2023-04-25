@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [JavaGPT Adds Support For Windows 98, ME, 2000, XP, Vista, 7, 8, 10, And 11](https://www.reddit.com/r/java/comments/12yb2bf/javagpt_adds_support_for_windows_98_me_2000_xp/)
 - [Java might eventually get null-restricted types](https://www.reddit.com/r/java/comments/12xr4uz/java_might_eventually_get_nullrestricted_types/)
 - [Embracing Virtual Threads: Migration Tips for Java Developers](https://www.reddit.com/r/java/comments/12xp638/embracing_virtual_threads_migration_tips_for_java/)
-- [New versions of Java always coming out but all my apps continue to run in Java 8?](https://www.reddit.com/r/java/comments/12xj8j3/new_versions_of_java_always_coming_out_but_all_my/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
