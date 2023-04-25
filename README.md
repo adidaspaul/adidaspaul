@@ -64,7 +64,7 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [As a newly hired developper fullstack, should i take this work offer ?](https://www.reddit.com/r/java/comments/12ykqbx/as_a_newly_hired_developper_fullstack_should_i/)
+- [Snagged these today for free and excited to dig in!](https://www.reddit.com/r/java/comments/12ypjhl/snagged_these_today_for_free_and_excited_to_dig_in/)
 - [Navigating the Conflicts between Hibernate and Lombok](https://www.reddit.com/r/java/comments/12yjmhq/navigating_the_conflicts_between_hibernate_and/)
 - [Boost for Spring 0.5.0 released: FOSS desktop app for managing Spring Boot applications](https://www.reddit.com/r/java/comments/12yixt8/boost_for_spring_050_released_foss_desktop_app/)
 <!-- BLOG-POST-LIST:END -->
