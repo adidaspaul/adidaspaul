@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Snagged these today for free and excited to dig in!](https://www.reddit.com/r/java/comments/12ypjhl/snagged_these_today_for_free_and_excited_to_dig_in/)
 - [Navigating the Conflicts between Hibernate and Lombok](https://www.reddit.com/r/java/comments/12yjmhq/navigating_the_conflicts_between_hibernate_and/)
 - [Boost for Spring 0.5.0 released: FOSS desktop app for managing Spring Boot applications](https://www.reddit.com/r/java/comments/12yixt8/boost_for_spring_050_released_foss_desktop_app/)
+- [GraalVM Native Image — Faster, Smarter, Leaner](https://www.reddit.com/r/java/comments/12yiebx/graalvm_native_image_faster_smarter_leaner/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
