@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [which frameworks&lpar;back and frontend&rpar; had you worked with and came to hate it-say dependency hell,certain platforms incompatibilty etc](https://www.reddit.com/r/java/comments/12ycxhn/which_frameworksback_and_frontend_had_you_worked/)
 - [Java might eventually get null-restricted types](https://www.reddit.com/r/java/comments/12xr4uz/java_might_eventually_get_nullrestricted_types/)
 - [Embracing Virtual Threads: Migration Tips for Java Developers](https://www.reddit.com/r/java/comments/12xp638/embracing_virtual_threads_migration_tips_for_java/)
+- [New versions of Java always coming out but all my apps continue to run in Java 8?](https://www.reddit.com/r/java/comments/12xj8j3/new_versions_of_java_always_coming_out_but_all_my/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
