@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Should I accept job offer position with Spring Core?](https://www.reddit.com/r/java/comments/12zi2rz/should_i_accept_job_offer_position_with_spring/)
 - [Ensuring the thread-safety of the entire codebase](https://www.reddit.com/r/java/comments/12zap31/ensuring_the_threadsafety_of_the_entire_codebase/)
 - [Sequenced Collections integrated into the JDK](https://www.reddit.com/r/java/comments/12za83u/sequenced_collections_integrated_into_the_jdk/)
-- [Collection Framework Retrofit](https://www.reddit.com/r/java/comments/12z5fuz/collection_framework_retrofit/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
