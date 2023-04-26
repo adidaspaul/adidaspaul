@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Ensuring the thread-safety of the entire codebase](https://www.reddit.com/r/java/comments/12zap31/ensuring_the_threadsafety_of_the_entire_codebase/)
+- [Sequenced Collections integrated into the JDK](https://www.reddit.com/r/java/comments/12za83u/sequenced_collections_integrated_into_the_jdk/)
 - [Collection Framework Retrofit](https://www.reddit.com/r/java/comments/12z5fuz/collection_framework_retrofit/)
-- [CI - dependency management automation](https://www.reddit.com/r/java/comments/12yt1rd/ci_dependency_management_automation/)
-- [Navigating the Conflicts between Hibernate and Lombok](https://www.reddit.com/r/java/comments/12yjmhq/navigating_the_conflicts_between_hibernate_and/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
