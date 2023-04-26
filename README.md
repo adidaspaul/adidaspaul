@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Quarkus 3.0 finally released!](https://www.reddit.com/r/java/comments/1300n5o/quarkus_30_finally_released/)
 - [Using Custom Principals with Elytron](https://www.reddit.com/r/java/comments/12zk9kr/using_custom_principals_with_elytron/)
 - [Should I accept job offer position with Spring Core?](https://www.reddit.com/r/java/comments/12zi2rz/should_i_accept_job_offer_position_with_spring/)
-- [Ensuring the thread-safety of the entire codebase](https://www.reddit.com/r/java/comments/12zap31/ensuring_the_threadsafety_of_the_entire_codebase/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
