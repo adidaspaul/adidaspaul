@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Collection Framework Retrofit](https://www.reddit.com/r/java/comments/12z5fuz/collection_framework_retrofit/)
 - [CI - dependency management automation](https://www.reddit.com/r/java/comments/12yt1rd/ci_dependency_management_automation/)
 - [Navigating the Conflicts between Hibernate and Lombok](https://www.reddit.com/r/java/comments/12yjmhq/navigating_the_conflicts_between_hibernate_and/)
-- [Boost for Spring 0.5.0 released: FOSS desktop app for managing Spring Boot applications](https://www.reddit.com/r/java/comments/12yixt8/boost_for_spring_050_released_foss_desktop_app/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
