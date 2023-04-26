@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Using Custom Principals with Elytron](https://www.reddit.com/r/java/comments/12zk9kr/using_custom_principals_with_elytron/)
 - [Should I accept job offer position with Spring Core?](https://www.reddit.com/r/java/comments/12zi2rz/should_i_accept_job_offer_position_with_spring/)
 - [Ensuring the thread-safety of the entire codebase](https://www.reddit.com/r/java/comments/12zap31/ensuring_the_threadsafety_of_the_entire_codebase/)
-- [Sequenced Collections integrated into the JDK](https://www.reddit.com/r/java/comments/12za83u/sequenced_collections_integrated_into_the_jdk/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
