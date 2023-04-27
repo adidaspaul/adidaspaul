@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [On atomicity and tearing [Brian Goetz, Valhalla]](https://www.reddit.com/r/java/comments/130jl57/on_atomicity_and_tearing_brian_goetz_valhalla/)
 - [Launchcode - Native Java launcher](https://www.reddit.com/r/java/comments/130fcmy/launchcode_native_java_launcher/)
 - [Interpolating Strings Like a King in Java 21](https://www.reddit.com/r/java/comments/130d8fx/interpolating_strings_like_a_king_in_java_21/)
-- [Quarkus 3.0 finally released!](https://www.reddit.com/r/java/comments/1300n5o/quarkus_30_finally_released/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
