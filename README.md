@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Interpolating Strings Like a King in Java 21](https://www.reddit.com/r/java/comments/130d8fx/interpolating_strings_like_a_king_in_java_21/)
 - [Quarkus 3.0 finally released!](https://www.reddit.com/r/java/comments/1300n5o/quarkus_30_finally_released/)
 - [Using Custom Principals with Elytron](https://www.reddit.com/r/java/comments/12zk9kr/using_custom_principals_with_elytron/)
-- [Should I accept job offer position with Spring Core?](https://www.reddit.com/r/java/comments/12zi2rz/should_i_accept_job_offer_position_with_spring/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
