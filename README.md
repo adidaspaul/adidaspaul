@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [How We Accidentally DoS-ed Ourselves with Kotlin Coroutines](https://www.reddit.com/r/java/comments/130fqrj/how_we_accidentally_dosed_ourselves_with_kotlin/)
 - [Launchcode - Native Java launcher](https://www.reddit.com/r/java/comments/130fcmy/launchcode_native_java_launcher/)
 - [Interpolating Strings Like a King in Java 21](https://www.reddit.com/r/java/comments/130d8fx/interpolating_strings_like_a_king_in_java_21/)
+- [Quarkus 3.0 finally released!](https://www.reddit.com/r/java/comments/1300n5o/quarkus_30_finally_released/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
