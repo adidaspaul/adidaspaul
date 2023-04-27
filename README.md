@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [GlassFish 7.0.4 released!](https://www.reddit.com/r/java/comments/130na7c/glassfish_704_released/)
+- [Learnings integrating jmx metrics integrating with time series databases](https://www.reddit.com/r/java/comments/130m4of/learnings_integrating_jmx_metrics_integrating/)
 - [On atomicity and tearing [Brian Goetz, Valhalla]](https://www.reddit.com/r/java/comments/130jl57/on_atomicity_and_tearing_brian_goetz_valhalla/)
-- [Launchcode - Native Java launcher](https://www.reddit.com/r/java/comments/130fcmy/launchcode_native_java_launcher/)
-- [Interpolating Strings Like a King in Java 21](https://www.reddit.com/r/java/comments/130d8fx/interpolating_strings_like_a_king_in_java_21/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
