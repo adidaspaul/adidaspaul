@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Blackjack clone for a school project. Any feedback/advice would be appreciated.](https://www.reddit.com/r/java/comments/131ygmr/blackjack_clone_for_a_school_project_any/)
 - [What Is the State of the Java Ecosystem in 2023?](https://www.reddit.com/r/java/comments/131wvhb/what_is_the_state_of_the_java_ecosystem_in_2023/)
-- [Microsoft Azure Certification for Java Developers : Boost Your Resume and Stand out from the Crowd](https://www.reddit.com/r/java/comments/131s3ek/microsoft_azure_certification_for_java_developers/)
+- [Spring Petclinic improved with MVC, JDBC, SQLite, Lombok, Thymeleaf, Bootstrap, Webjar](https://www.reddit.com/r/java/comments/131oi6d/spring_petclinic_improved_with_mvc_jdbc_sqlite/)
+- [The future &lpar;and present&rpar; of Enterprise Java: a first look at Jakarta EE 11 and MicroProfile 6 adoption - JVM Weekly](https://www.reddit.com/r/java/comments/131lwnp/the_future_and_present_of_enterprise_java_a_first/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
