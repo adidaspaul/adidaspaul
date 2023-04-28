@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The future &lpar;and present&rpar; of Enterprise Java: a first look at Jakarta EE 11 and MicroProfile 6 adoption - JVM Weekly](https://www.reddit.com/r/java/comments/131lwnp/the_future_and_present_of_enterprise_java_a_first/)
 - [AWS Lambda now supports Java 17](https://www.reddit.com/r/java/comments/1310zuw/aws_lambda_now_supports_java_17/)
 - [GlassFish 7.0.4 released!](https://www.reddit.com/r/java/comments/130na7c/glassfish_704_released/)
-- [Learnings integrating jmx metrics integrating with time series databases](https://www.reddit.com/r/java/comments/130m4of/learnings_integrating_jmx_metrics_integrating/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
