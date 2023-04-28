@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft Azure Certification for Java Developers : Boost Your Resume and Stand out from the Crowd](https://www.reddit.com/r/java/comments/131s3ek/microsoft_azure_certification_for_java_developers/)
 - [Spring Petclinic improved with MVC, JDBC, SQLite, Lombok, Thymeleaf, Bootstrap, Webjar](https://www.reddit.com/r/java/comments/131oi6d/spring_petclinic_improved_with_mvc_jdbc_sqlite/)
 - [How to survive as a junior developer?](https://www.reddit.com/r/java/comments/131o73b/how_to_survive_as_a_junior_developer/)
-- [The future &lpar;and present&rpar; of Enterprise Java: a first look at Jakarta EE 11 and MicroProfile 6 adoption - JVM Weekly](https://www.reddit.com/r/java/comments/131lwnp/the_future_and_present_of_enterprise_java_a_first/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
