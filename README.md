@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [I need help with performance in my game](https://www.reddit.com/r/java/comments/132r8zx/i_need_help_with_performance_in_my_game/)
 - [Z Garbage Collector: The Next Generation](https://www.reddit.com/r/java/comments/132nz6y/z_garbage_collector_the_next_generation/)
 - [What Is the State of the Java Ecosystem in 2023?](https://www.reddit.com/r/java/comments/131wvhb/what_is_the_state_of_the_java_ecosystem_in_2023/)
+- [The future &lpar;and present&rpar; of Enterprise Java: a first look at Jakarta EE 11 and MicroProfile 6 adoption - JVM Weekly](https://www.reddit.com/r/java/comments/131lwnp/the_future_and_present_of_enterprise_java_a_first/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
