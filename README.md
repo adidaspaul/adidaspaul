@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [JBang + Spring + Mats3: Setting up a multi-stage Async Messaging-based Endpoint in very few lines](https://www.reddit.com/r/java/comments/13341pp/jbang_spring_mats3_setting_up_a_multistage_async/)
 - [Would you choose Spring or Quarkus for a new set of greenfield microservices?](https://www.reddit.com/r/java/comments/132w9rn/would_you_choose_spring_or_quarkus_for_a_new_set/)
 - [Spring Transaction and Connection Management](https://www.reddit.com/r/java/comments/132vtv1/spring_transaction_and_connection_management/)
-- [Z Garbage Collector: The Next Generation](https://www.reddit.com/r/java/comments/132nz6y/z_garbage_collector_the_next_generation/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
