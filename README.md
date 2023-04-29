@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Would you choose Spring or Quarkus for a new set of greenfield microservices?](https://www.reddit.com/r/java/comments/132w9rn/would_you_choose_spring_or_quarkus_for_a_new_set/)
+- [Spring Transaction and Connection Management](https://www.reddit.com/r/java/comments/132vtv1/spring_transaction_and_connection_management/)
 - [Z Garbage Collector: The Next Generation](https://www.reddit.com/r/java/comments/132nz6y/z_garbage_collector_the_next_generation/)
-- [What Is the State of the Java Ecosystem in 2023?](https://www.reddit.com/r/java/comments/131wvhb/what_is_the_state_of_the_java_ecosystem_in_2023/)
-- [The future &lpar;and present&rpar; of Enterprise Java: a first look at Jakarta EE 11 and MicroProfile 6 adoption - JVM Weekly](https://www.reddit.com/r/java/comments/131lwnp/the_future_and_present_of_enterprise_java_a_first/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
