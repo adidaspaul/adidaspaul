@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Question: What&#39;s your least favorite part of the software development process?](https://www.reddit.com/r/java/comments/133bxq4/question_whats_your_least_favorite_part_of_the/)
 - [JBang + Spring + Mats3: Setting up a multi-stage Async Messaging-based Endpoint in very few lines](https://www.reddit.com/r/java/comments/13341pp/jbang_spring_mats3_setting_up_a_multistage_async/)
 - [Would you choose Spring or Quarkus for a new set of greenfield microservices?](https://www.reddit.com/r/java/comments/132w9rn/would_you_choose_spring_or_quarkus_for_a_new_set/)
+- [Spring Transaction and Connection Management](https://www.reddit.com/r/java/comments/132vtv1/spring_transaction_and_connection_management/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
