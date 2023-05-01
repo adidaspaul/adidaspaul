@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Why does hibernate print SQL queries in lowercase?](https://www.reddit.com/r/java/comments/134hq91/why_does_hibernate_print_sql_queries_in_lowercase/)
 - [What&#39;s the business thinking behind so many different OpenJDK builds by different vendors?](https://www.reddit.com/r/java/comments/134hc5y/whats_the_business_thinking_behind_so_many/)
 - [Built a library to help generate test pojos with relevant but random data. I’d love some feedback.](https://www.reddit.com/r/java/comments/1342jhh/built_a_library_to_help_generate_test_pojos_with/)
-- [Concurrency with Kafka and Spring Boot - Piotr&#39;s TechBlog](https://www.reddit.com/r/java/comments/133mri0/concurrency_with_kafka_and_spring_boot_piotrs/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
