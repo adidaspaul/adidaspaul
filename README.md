@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Debating if I should start java](https://www.reddit.com/r/java/comments/13517h0/debating_if_i_should_start_java/)
 - [JReleaser 1.6.0 has been released!](https://www.reddit.com/r/java/comments/134wow1/jreleaser_160_has_been_released/)
 - [The Newest Java Json Benchmark Results just dropped](https://www.reddit.com/r/java/comments/134r2w0/the_newest_java_json_benchmark_results_just/)
-- [Why does hibernate print SQL queries in lowercase?](https://www.reddit.com/r/java/comments/134hq91/why_does_hibernate_print_sql_queries_in_lowercase/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
