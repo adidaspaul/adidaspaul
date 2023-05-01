@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [What&#39;s the business thinking behind so many different OpenJDK builds by different vendors?](https://www.reddit.com/r/java/comments/134hc5y/whats_the_business_thinking_behind_so_many/)
 - [Built a library to help generate test pojos with relevant but random data. I’d love some feedback.](https://www.reddit.com/r/java/comments/1342jhh/built_a_library_to_help_generate_test_pojos_with/)
 - [Concurrency with Kafka and Spring Boot - Piotr&#39;s TechBlog](https://www.reddit.com/r/java/comments/133mri0/concurrency_with_kafka_and_spring_boot_piotrs/)
-- [JBang + Spring + Mats3: Setting up a multi-stage Async Messaging-based Endpoint in very few lines](https://www.reddit.com/r/java/comments/13341pp/jbang_spring_mats3_setting_up_a_multistage_async/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
