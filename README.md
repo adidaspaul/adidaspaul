@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Building High Performance Microservices for Java with Micronaut &amp; GraalVM](https://www.reddit.com/r/java/comments/135l6fo/building_high_performance_microservices_for_java/)
 - [Spring Modulith 0.6 released, path to non-experimental](https://www.reddit.com/r/java/comments/135l011/spring_modulith_06_released_path_to/)
 - [Query Batching in Spring Boot](https://www.reddit.com/r/java/comments/135kng0/query_batching_in_spring_boot/)
-- [Best infrastructure for IOT application](https://www.reddit.com/r/java/comments/135jzwq/best_infrastructure_for_iot_application/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
