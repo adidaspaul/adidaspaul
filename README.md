@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Detailed book review of &quot;DevOps Tools for Java Developers&quot;](https://www.reddit.com/r/java/comments/135yn73/detailed_book_review_of_devops_tools_for_java/)
 - [Building High Performance Microservices for Java with Micronaut &amp; GraalVM](https://www.reddit.com/r/java/comments/135l6fo/building_high_performance_microservices_for_java/)
 - [Spring Modulith 0.6 released, path to non-experimental](https://www.reddit.com/r/java/comments/135l011/spring_modulith_06_released_path_to/)
-- [Query Batching in Spring Boot](https://www.reddit.com/r/java/comments/135kng0/query_batching_in_spring_boot/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
