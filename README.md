@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Rust like Enums in Java](https://www.reddit.com/r/java/comments/135i37c/rust_like_enums_in_java/)
 - [JEP draft: Structured Concurrency &lpar;Preview&rpar;](https://www.reddit.com/r/java/comments/135bwtu/jep_draft_structured_concurrency_preview/)
 - [JReleaser 1.6.0 has been released!](https://www.reddit.com/r/java/comments/134wow1/jreleaser_160_has_been_released/)
-- [The Newest Java Json Benchmark Results just dropped](https://www.reddit.com/r/java/comments/134r2w0/the_newest_java_json_benchmark_results_just/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
