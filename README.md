@@ -64,7 +64,7 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Java-Based Implementation of Digital Signatures and X509 Certificates for Secure XML Document Processing](https://www.reddit.com/r/java/comments/13695ch/javabased_implementation_of_digital_signatures/)
+- [JavaMelody 2.0.0, Jakarta EE 9 compatible](https://www.reddit.com/r/java/comments/136dx7v/javamelody_200_jakarta_ee_9_compatible/)
 - [Detailed book review of &quot;DevOps Tools for Java Developers&quot;](https://www.reddit.com/r/java/comments/135yn73/detailed_book_review_of_devops_tools_for_java/)
 - [Building High Performance Microservices for Java with Micronaut &amp; GraalVM](https://www.reddit.com/r/java/comments/135l6fo/building_high_performance_microservices_for_java/)
 <!-- BLOG-POST-LIST:END -->
