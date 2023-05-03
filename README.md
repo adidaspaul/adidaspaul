@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Become a better code reviewer](https://www.reddit.com/r/java/comments/136yv4h/become_a_better_code_reviewer/)
+- [[HELP] Continous reading from console while program is running](https://www.reddit.com/r/java/comments/136yp6l/help_continous_reading_from_console_while_program/)
 - [RFR: 8307058: Implementation of Generational ZGC](https://www.reddit.com/r/java/comments/136wrut/rfr_8307058_implementation_of_generational_zgc/)
-- [JavaMelody 2.0.0, Jakarta EE 9 compatible](https://www.reddit.com/r/java/comments/136dx7v/javamelody_200_jakarta_ee_9_compatible/)
-- [Detailed book review of &quot;DevOps Tools for Java Developers&quot;](https://www.reddit.com/r/java/comments/135yn73/detailed_book_review_of_devops_tools_for_java/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
