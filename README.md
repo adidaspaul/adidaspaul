@@ -64,8 +64,8 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [CPU Usage in Production](https://www.reddit.com/r/java/comments/1374kpk/cpu_usage_in_production/)
 - [Become a better code reviewer](https://www.reddit.com/r/java/comments/136yv4h/become_a_better_code_reviewer/)
-- [[HELP] Continous reading from console while program is running](https://www.reddit.com/r/java/comments/136yp6l/help_continous_reading_from_console_while_program/)
 - [RFR: 8307058: Implementation of Generational ZGC](https://www.reddit.com/r/java/comments/136wrut/rfr_8307058_implementation_of_generational_zgc/)
 <!-- BLOG-POST-LIST:END -->
 
