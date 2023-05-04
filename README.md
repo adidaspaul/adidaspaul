@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Java Virtual Threads - Presented by Sergey Kuksenko](https://www.reddit.com/r/java/comments/137ix0h/java_virtual_threads_presented_by_sergey_kuksenko/)
 - [Understanding GraalVM, AOT &amp; JIT](https://www.reddit.com/r/java/comments/137faer/understanding_graalvm_aot_jit/)
 - [CPU Usage in Production](https://www.reddit.com/r/java/comments/1374kpk/cpu_usage_in_production/)
-- [Become a better code reviewer](https://www.reddit.com/r/java/comments/136yv4h/become_a_better_code_reviewer/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
