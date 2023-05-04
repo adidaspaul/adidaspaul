@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [What options are there for making GUIs and other visual programs using java?](https://www.reddit.com/r/java/comments/137tmx5/what_options_are_there_for_making_guis_and_other/)
 - [How to Verify a Solana Wallet Signature Using Java?](https://www.reddit.com/r/java/comments/137rgeu/how_to_verify_a_solana_wallet_signature_using_java/)
 - [Java Virtual Threads - Presented by Sergey Kuksenko](https://www.reddit.com/r/java/comments/137ix0h/java_virtual_threads_presented_by_sergey_kuksenko/)
-- [Understanding GraalVM, AOT &amp; JIT](https://www.reddit.com/r/java/comments/137faer/understanding_graalvm_aot_jit/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
