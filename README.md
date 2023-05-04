@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Understanding GraalVM, AOT &amp; JIT](https://www.reddit.com/r/java/comments/137faer/understanding_graalvm_aot_jit/)
 - [CPU Usage in Production](https://www.reddit.com/r/java/comments/1374kpk/cpu_usage_in_production/)
 - [Become a better code reviewer](https://www.reddit.com/r/java/comments/136yv4h/become_a_better_code_reviewer/)
-- [RFR: 8307058: Implementation of Generational ZGC](https://www.reddit.com/r/java/comments/136wrut/rfr_8307058_implementation_of_generational_zgc/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
