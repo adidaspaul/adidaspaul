@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Verify a Solana Wallet Signature Using Java?](https://www.reddit.com/r/java/comments/137rgeu/how_to_verify_a_solana_wallet_signature_using_java/)
 - [Java Virtual Threads - Presented by Sergey Kuksenko](https://www.reddit.com/r/java/comments/137ix0h/java_virtual_threads_presented_by_sergey_kuksenko/)
 - [Understanding GraalVM, AOT &amp; JIT](https://www.reddit.com/r/java/comments/137faer/understanding_graalvm_aot_jit/)
-- [CPU Usage in Production](https://www.reddit.com/r/java/comments/1374kpk/cpu_usage_in_production/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
