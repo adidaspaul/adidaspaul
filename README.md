@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [JEP 441: Pattern Matching for switch. Formally Proposed to Target JDK 21](https://www.reddit.com/r/java/comments/137wdql/jep_441_pattern_matching_for_switch_formally/)
 - [What options are there for making GUIs and other visual programs using java?](https://www.reddit.com/r/java/comments/137tmx5/what_options_are_there_for_making_guis_and_other/)
 - [How to Verify a Solana Wallet Signature Using Java?](https://www.reddit.com/r/java/comments/137rgeu/how_to_verify_a_solana_wallet_signature_using_java/)
-- [Java Virtual Threads - Presented by Sergey Kuksenko](https://www.reddit.com/r/java/comments/137ix0h/java_virtual_threads_presented_by_sergey_kuksenko/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
