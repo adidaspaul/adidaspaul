@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Arquillian 1.7 finally released!](https://www.reddit.com/r/java/comments/137zko0/arquillian_17_finally_released/)
 - [JEP 450: Compact Object Headers &lpar;Experimental&rpar;](https://www.reddit.com/r/java/comments/137xf4z/jep_450_compact_object_headers_experimental/)
 - [JEP 441: Pattern Matching for switch. Formally Proposed to Target JDK 21](https://www.reddit.com/r/java/comments/137wdql/jep_441_pattern_matching_for_switch_formally/)
-- [What options are there for making GUIs and other visual programs using java?](https://www.reddit.com/r/java/comments/137tmx5/what_options_are_there_for_making_guis_and_other/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
