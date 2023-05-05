@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [JEP proposed to target JDK 21: 445: Unnamed Classes and Instance Main Methods &lpar;Preview&rpar;](https://www.reddit.com/r/java/comments/138tr9i/jep_proposed_to_target_jdk_21_445_unnamed_classes/)
 - [Looking for a library that can run loops in a thread](https://www.reddit.com/r/java/comments/138omx1/looking_for_a_library_that_can_run_loops_in_a/)
 - [A peek under-the-hood of Java: Dynamic Agents and &quot;tearing&quot; - JVM Weekly](https://www.reddit.com/r/java/comments/138h1v0/a_peek_underthehood_of_java_dynamic_agents_and/)
-- [Arquillian 1.7 finally released!](https://www.reddit.com/r/java/comments/137zko0/arquillian_17_finally_released/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
