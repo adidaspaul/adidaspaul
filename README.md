@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [[Q] Alternative languages; which one do you use?](https://www.reddit.com/r/java/comments/138ha6j/q_alternative_languages_which_one_do_you_use/)
 - [A peek under-the-hood of Java: Dynamic Agents and &quot;tearing&quot; - JVM Weekly](https://www.reddit.com/r/java/comments/138h1v0/a_peek_underthehood_of_java_dynamic_agents_and/)
 - [Arquillian 1.7 finally released!](https://www.reddit.com/r/java/comments/137zko0/arquillian_17_finally_released/)
+- [JEP 450: Compact Object Headers &lpar;Experimental&rpar;](https://www.reddit.com/r/java/comments/137xf4z/jep_450_compact_object_headers_experimental/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
