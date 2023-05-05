@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Looking for a library that can run loops in a thread](https://www.reddit.com/r/java/comments/138omx1/looking_for_a_library_that_can_run_loops_in_a/)
 - [A peek under-the-hood of Java: Dynamic Agents and &quot;tearing&quot; - JVM Weekly](https://www.reddit.com/r/java/comments/138h1v0/a_peek_underthehood_of_java_dynamic_agents_and/)
 - [Arquillian 1.7 finally released!](https://www.reddit.com/r/java/comments/137zko0/arquillian_17_finally_released/)
-- [JEP 450: Compact Object Headers &lpar;Experimental&rpar;](https://www.reddit.com/r/java/comments/137xf4z/jep_450_compact_object_headers_experimental/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
