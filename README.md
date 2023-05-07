@@ -64,7 +64,7 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Implementing X509 Certificate Validation in Java: A Step-by-Step Guide](https://www.reddit.com/r/java/comments/13admsd/implementing_x509_certificate_validation_in_java/)
+- [Coroutines and Loom behind the scenes by Roman Elizarov](https://www.reddit.com/r/java/comments/13ahd1s/coroutines_and_loom_behind_the_scenes_by_roman/)
 - [JEP proposed to target JDK 21: 445: Unnamed Classes and Instance Main Methods &lpar;Preview&rpar;](https://www.reddit.com/r/java/comments/138tr9i/jep_proposed_to_target_jdk_21_445_unnamed_classes/)
 - [A peek under-the-hood of Java: Dynamic Agents and &quot;tearing&quot; - JVM Weekly](https://www.reddit.com/r/java/comments/138h1v0/a_peek_underthehood_of_java_dynamic_agents_and/)
 <!-- BLOG-POST-LIST:END -->
