@@ -64,8 +64,8 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Implementing X509 Certificate Validation in Java: A Step-by-Step Guide](https://www.reddit.com/r/java/comments/13admsd/implementing_x509_certificate_validation_in_java/)
 - [Is there a way to download Java 7 withouth creating an Oracle account???](https://www.reddit.com/r/java/comments/13achmz/is_there_a_way_to_download_java_7_withouth/)
-- [How does data access &lpar;or database&rpar; works with Java?](https://www.reddit.com/r/java/comments/13abba8/how_does_data_access_or_database_works_with_java/)
 - [JEP proposed to target JDK 21: 445: Unnamed Classes and Instance Main Methods &lpar;Preview&rpar;](https://www.reddit.com/r/java/comments/138tr9i/jep_proposed_to_target_jdk_21_445_unnamed_classes/)
 <!-- BLOG-POST-LIST:END -->
 
