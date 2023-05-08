@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [I made my first Java library today! I hope y&#39;all like it!](https://www.reddit.com/r/java/comments/13c6s83/i_made_my_first_java_library_today_i_hope_yall/)
 - [Even Amazon can&#39;t make sense of serverless or microservices](https://www.reddit.com/r/java/comments/13c53if/even_amazon_cant_make_sense_of_serverless_or/)
 - [A Gotcha With Gauges](https://www.reddit.com/r/java/comments/13bsegi/a_gotcha_with_gauges/)
-- [How best to explain that Java LTS doesn&#39;t mean what people think it does?](https://www.reddit.com/r/java/comments/13bp6dj/how_best_to_explain_that_java_lts_doesnt_mean/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
