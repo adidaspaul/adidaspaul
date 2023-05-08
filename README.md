@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Coroutines and Loom behind the scenes by Roman Elizarov](https://www.reddit.com/r/java/comments/13ahd1s/coroutines_and_loom_behind_the_scenes_by_roman/)
-- [JEP proposed to target JDK 21: 445: Unnamed Classes and Instance Main Methods &lpar;Preview&rpar;](https://www.reddit.com/r/java/comments/138tr9i/jep_proposed_to_target_jdk_21_445_unnamed_classes/)
-- [A peek under-the-hood of Java: Dynamic Agents and &quot;tearing&quot; - JVM Weekly](https://www.reddit.com/r/java/comments/138h1v0/a_peek_underthehood_of_java_dynamic_agents_and/)
+- [8 Java Programming Tricks Every Java Developer Should Know](https://www.reddit.com/r/java/comments/13bkds5/8_java_programming_tricks_every_java_developer/)
+- [Podman Desktop for Java Development](https://www.reddit.com/r/java/comments/13bjlf7/podman_desktop_for_java_development/)
+- [OpenJDK - Where the Magic Happens](https://www.reddit.com/r/java/comments/13bji9q/openjdk_where_the_magic_happens/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
