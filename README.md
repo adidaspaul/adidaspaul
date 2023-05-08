@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Even Amazon can&#39;t make sense of serverless or microservices](https://www.reddit.com/r/java/comments/13c53if/even_amazon_cant_make_sense_of_serverless_or/)
 - [A Gotcha With Gauges](https://www.reddit.com/r/java/comments/13bsegi/a_gotcha_with_gauges/)
 - [How best to explain that Java LTS doesn&#39;t mean what people think it does?](https://www.reddit.com/r/java/comments/13bp6dj/how_best_to_explain_that_java_lts_doesnt_mean/)
-- [Podman Desktop for Java Development](https://www.reddit.com/r/java/comments/13bjlf7/podman_desktop_for_java_development/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
