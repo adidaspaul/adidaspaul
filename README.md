@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to upgrade to Jakarta EE 10](https://www.reddit.com/r/java/comments/13cm7z5/how_to_upgrade_to_jakarta_ee_10/)
 - [Contract Testing with Quarkus and Pact - Piotr&#39;s TechBlog](https://www.reddit.com/r/java/comments/13clepg/contract_testing_with_quarkus_and_pact_piotrs/)
 - [Hibernate default entity sequence](https://www.reddit.com/r/java/comments/13ckra8/hibernate_default_entity_sequence/)
-- [Transactionally staged jobs with db-scheduler and Spring &lpar;a practical introduction&rpar;](https://www.reddit.com/r/java/comments/13cim8q/transactionally_staged_jobs_with_dbscheduler_and/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
