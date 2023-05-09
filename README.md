@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Contract Testing with Quarkus and Pact - Piotr&#39;s TechBlog](https://www.reddit.com/r/java/comments/13clepg/contract_testing_with_quarkus_and_pact_piotrs/)
+- [Hibernate default entity sequence](https://www.reddit.com/r/java/comments/13ckra8/hibernate_default_entity_sequence/)
 - [Transactionally staged jobs with db-scheduler and Spring &lpar;a practical introduction&rpar;](https://www.reddit.com/r/java/comments/13cim8q/transactionally_staged_jobs_with_dbscheduler_and/)
-- [JEP 443: Unnamed Patterns and Variables &lpar;Preview&rpar; Proposed to Target JDK 21](https://www.reddit.com/r/java/comments/13c8h9h/jep_443_unnamed_patterns_and_variables_preview/)
-- [I made my first Java library today! I hope y&#39;all like it!](https://www.reddit.com/r/java/comments/13c6s83/i_made_my_first_java_library_today_i_hope_yall/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
