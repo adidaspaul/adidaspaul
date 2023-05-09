@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Reintroducing Ostara: FOSS admin app for Spring Boot](https://www.reddit.com/r/java/comments/13corv2/reintroducing_ostara_foss_admin_app_for_spring/)
+- [Announcing CheerpJ 3.0: a JVM replacement in HTML5 and WebAssembly to run Java applications &lpar;and applets&rpar; on modern browsers](https://www.reddit.com/r/java/comments/13cmq6a/announcing_cheerpj_30_a_jvm_replacement_in_html5/)
 - [How to upgrade to Jakarta EE 10](https://www.reddit.com/r/java/comments/13cm7z5/how_to_upgrade_to_jakarta_ee_10/)
-- [Contract Testing with Quarkus and Pact - Piotr&#39;s TechBlog](https://www.reddit.com/r/java/comments/13clepg/contract_testing_with_quarkus_and_pact_piotrs/)
-- [Hibernate default entity sequence](https://www.reddit.com/r/java/comments/13ckra8/hibernate_default_entity_sequence/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
