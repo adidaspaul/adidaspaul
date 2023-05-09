@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [JEP 443: Unnamed Patterns and Variables &lpar;Preview&rpar; Proposed to Target JDK 21](https://www.reddit.com/r/java/comments/13c8h9h/jep_443_unnamed_patterns_and_variables_preview/)
 - [I made my first Java library today! I hope y&#39;all like it!](https://www.reddit.com/r/java/comments/13c6s83/i_made_my_first_java_library_today_i_hope_yall/)
 - [Even Amazon can&#39;t make sense of serverless or microservices](https://www.reddit.com/r/java/comments/13c53if/even_amazon_cant_make_sense_of_serverless_or/)
-- [A Gotcha With Gauges](https://www.reddit.com/r/java/comments/13bsegi/a_gotcha_with_gauges/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
