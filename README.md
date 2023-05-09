@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to write JMH microbenchmarks for asynchronous functions [Loom]](https://www.reddit.com/r/java/comments/13d0974/how_to_write_jmh_microbenchmarks_for_asynchronous/)
 - [Reintroducing Ostara: FOSS admin app for Spring Boot](https://www.reddit.com/r/java/comments/13corv2/reintroducing_ostara_foss_admin_app_for_spring/)
 - [Announcing CheerpJ 3.0: a JVM replacement in HTML5 and WebAssembly to run Java applications &lpar;and applets&rpar; on modern browsers](https://www.reddit.com/r/java/comments/13cmq6a/announcing_cheerpj_30_a_jvm_replacement_in_html5/)
-- [How to upgrade to Jakarta EE 10](https://www.reddit.com/r/java/comments/13cm7z5/how_to_upgrade_to_jakarta_ee_10/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
