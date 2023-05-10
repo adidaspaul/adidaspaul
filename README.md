@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Hey everyone! Have you ever struggled with switching between different versions of Java? Well, fear no more! Thanks to SDKMAN! and the &#39;j&#39; command, it&#39;s now super easy to switch between Java versions. So, give it a try and let us know how it works for you!](https://www.reddit.com/r/java/comments/13dp7zj/hey_everyone_have_you_ever_struggled_with/)
 - [Daobab 1.6 - new improvements, Kotlin support](https://www.reddit.com/r/java/comments/13d4ut5/daobab_16_new_improvements_kotlin_support/)
 - [How to write JMH microbenchmarks for asynchronous functions [Loom]](https://www.reddit.com/r/java/comments/13d0974/how_to_write_jmh_microbenchmarks_for_asynchronous/)
-- [Reintroducing Ostara: FOSS admin app for Spring Boot](https://www.reddit.com/r/java/comments/13corv2/reintroducing_ostara_foss_admin_app_for_spring/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
