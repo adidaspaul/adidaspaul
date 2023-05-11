@@ -65,8 +65,8 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Save 10-20% Memory With Compact Headers - Inside Java Newscast #48](https://www.reddit.com/r/java/comments/13eeon6/save_1020_memory_with_compact_headers_inside_java/)
-- [New grad here! Will someone please recommend a decent textbook to learn spring boot?](https://www.reddit.com/r/java/comments/13eefg6/new_grad_here_will_someone_please_recommend_a/)
 - [Trinity, an AI / ML analysis tool processing and clustering COVID tissue samples](https://www.reddit.com/r/java/comments/13e8vck/trinity_an_ai_ml_analysis_tool_processing_and/)
+- [“Towards Generational ZGC!” - Inside Java Podcast 24](https://www.reddit.com/r/java/comments/13dr1zl/towards_generational_zgc_inside_java_podcast_24/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
