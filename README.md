@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Friend &amp; I built a production debugging &amp; monitoring alternative to Datadog, New Relic &lpar;based on Clickhouse + Open Telemetry&rpar;](https://www.reddit.com/r/java/comments/13esu6j/friend_i_built_a_production_debugging_monitoring/)
 - [What are the specific topics that I should know as a new graduate developer?](https://www.reddit.com/r/java/comments/13ereky/what_are_the_specific_topics_that_i_should_know/)
 - [Java library for building applications on top of LLMs](https://www.reddit.com/r/java/comments/13eq4v0/java_library_for_building_applications_on_top_of/)
-- [What&#39;s your most painful experience of debugging an issue that only reproduced in production?](https://www.reddit.com/r/java/comments/13epcmc/whats_your_most_painful_experience_of_debugging/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
