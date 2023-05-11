@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [java.io.SimpleIO - common I/O tasks simplified by JimLaskey · Pull Request #13914 · openjdk/jdk](https://www.reddit.com/r/java/comments/13eo28r/javaiosimpleio_common_io_tasks_simplified_by/)
+- [Save 10-20% Memory With Compact Headers - Inside Java Newscast #48](https://www.reddit.com/r/java/comments/13enkyb/save_1020_memory_with_compact_headers_inside_java/)
 - [Save 10-20% Memory With Compact Headers - Inside Java Newscast #48](https://www.reddit.com/r/java/comments/13eeon6/save_1020_memory_with_compact_headers_inside_java/)
-- [Trinity, an AI / ML analysis tool processing and clustering COVID tissue samples](https://www.reddit.com/r/java/comments/13e8vck/trinity_an_ai_ml_analysis_tool_processing_and/)
-- [“Towards Generational ZGC!” - Inside Java Podcast 24](https://www.reddit.com/r/java/comments/13dr1zl/towards_generational_zgc_inside_java_podcast_24/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
