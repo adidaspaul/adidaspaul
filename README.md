@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [java.io.SimpleIO - common I/O tasks simplified by JimLaskey · Pull Request #13914 · openjdk/jdk](https://www.reddit.com/r/java/comments/13eo28r/javaiosimpleio_common_io_tasks_simplified_by/)
-- [Save 10-20% Memory With Compact Headers - Inside Java Newscast #48](https://www.reddit.com/r/java/comments/13enkyb/save_1020_memory_with_compact_headers_inside_java/)
-- [Save 10-20% Memory With Compact Headers - Inside Java Newscast #48](https://www.reddit.com/r/java/comments/13eeon6/save_1020_memory_with_compact_headers_inside_java/)
+- [Java library for building applications on top of LLMs](https://www.reddit.com/r/java/comments/13eq4v0/java_library_for_building_applications_on_top_of/)
+- [What&#39;s your most painful experience of debugging an issue that only reproduced in production?](https://www.reddit.com/r/java/comments/13epcmc/whats_your_most_painful_experience_of_debugging/)
+- [Free Oracle Java Licensing Webinar](https://www.reddit.com/r/java/comments/13eofua/free_oracle_java_licensing_webinar/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
