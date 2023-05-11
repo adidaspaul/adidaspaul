@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Trinity, an AI / ML analysis tool processing and clustering COVID tissue samples](https://www.reddit.com/r/java/comments/13e8vck/trinity_an_ai_ml_analysis_tool_processing_and/)
 - [“Towards Generational ZGC!” - Inside Java Podcast 24](https://www.reddit.com/r/java/comments/13dr1zl/towards_generational_zgc_inside_java_podcast_24/)
 - [Daobab 1.6 - new improvements, Kotlin support](https://www.reddit.com/r/java/comments/13d4ut5/daobab_16_new_improvements_kotlin_support/)
-- [How to write JMH microbenchmarks for asynchronous functions [Loom]](https://www.reddit.com/r/java/comments/13d0974/how_to_write_jmh_microbenchmarks_for_asynchronous/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
