@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Why does ArrayList grows by 1?](https://www.reddit.com/r/java/comments/13f5go5/why_does_arraylist_grows_by_1/)
+- [JEP 430: String Templates &lpar;Preview&rpar; ready to try in JDK 21 build 22](https://www.reddit.com/r/java/comments/13f5f9j/jep_430_string_templates_preview_ready_to_try_in/)
 - [Friend &amp; I built a production debugging &amp; monitoring alternative to Datadog, New Relic &lpar;based on Clickhouse + Open Telemetry&rpar;](https://www.reddit.com/r/java/comments/13esu6j/friend_i_built_a_production_debugging_monitoring/)
-- [Java library for building applications on top of LLMs](https://www.reddit.com/r/java/comments/13eq4v0/java_library_for_building_applications_on_top_of/)
-- [java.io.SimpleIO - common I/O tasks simplified by JimLaskey · Pull Request #13914 · openjdk/jdk](https://www.reddit.com/r/java/comments/13eo28r/javaiosimpleio_common_io_tasks_simplified_by/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
