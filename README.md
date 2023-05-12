@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Spring Cleaning: A review of new tools in the Spring ecosystem](https://www.reddit.com/r/java/comments/13fjlwx/spring_cleaning_a_review_of_new_tools_in_the/)
+- [Open Liberty 23.0.0.3 Unveiled: Embracing Microservices and Jakarta EE 10](https://www.reddit.com/r/java/comments/13fi4o7/open_liberty_23003_unveiled_embracing/)
 - [JEP 449: Deprecate the Windows 32-bit x86 Port for Removal](https://www.reddit.com/r/java/comments/13fcs9d/jep_449_deprecate_the_windows_32bit_x86_port_for/)
-- [JEP 430: String Templates &lpar;Preview&rpar; ready to try in JDK 21 build 22](https://www.reddit.com/r/java/comments/13f5f9j/jep_430_string_templates_preview_ready_to_try_in/)
-- [Friend &amp; I built a production debugging &amp; monitoring alternative to Datadog, New Relic &lpar;based on Clickhouse + Open Telemetry&rpar;](https://www.reddit.com/r/java/comments/13esu6j/friend_i_built_a_production_debugging_monitoring/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
