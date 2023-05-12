@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [A Dissection of Java JDBC to PostgreSQL Connections](https://www.reddit.com/r/java/comments/13fop7z/a_dissection_of_java_jdbc_to_postgresql/)
 - [Spring Cleaning: A review of new tools in the Spring ecosystem](https://www.reddit.com/r/java/comments/13fjlwx/spring_cleaning_a_review_of_new_tools_in_the/)
 - [Open Liberty 23.0.0.3 Unveiled: Embracing Microservices and Jakarta EE 10](https://www.reddit.com/r/java/comments/13fi4o7/open_liberty_23003_unveiled_embracing/)
-- [JEP 449: Deprecate the Windows 32-bit x86 Port for Removal](https://www.reddit.com/r/java/comments/13fcs9d/jep_449_deprecate_the_windows_32bit_x86_port_for/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
