@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [bld pure Java build tool extracted from RIFE2](https://www.reddit.com/r/java/comments/13g1t4v/bld_pure_java_build_tool_extracted_from_rife2/)
 - [A Dissection of Java JDBC to PostgreSQL Connections](https://www.reddit.com/r/java/comments/13fop7z/a_dissection_of_java_jdbc_to_postgresql/)
 - [Spring Cleaning: A review of new tools in the Spring ecosystem](https://www.reddit.com/r/java/comments/13fjlwx/spring_cleaning_a_review_of_new_tools_in_the/)
-- [Open Liberty 23.0.0.3 Unveiled: Embracing Microservices and Jakarta EE 10](https://www.reddit.com/r/java/comments/13fi4o7/open_liberty_23003_unveiled_embracing/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
