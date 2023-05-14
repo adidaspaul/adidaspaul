@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [JFR - Java&#39;s Observability and Monitoring Framework](https://www.reddit.com/r/java/comments/13hc2sh/jfr_javas_observability_and_monitoring_framework/)
 - [Latest Java on Android](https://www.reddit.com/r/java/comments/13gajsp/latest_java_on_android/)
 - [bld pure Java build tool extracted from RIFE2](https://www.reddit.com/r/java/comments/13g1t4v/bld_pure_java_build_tool_extracted_from_rife2/)
-- [A Dissection of Java JDBC to PostgreSQL Connections](https://www.reddit.com/r/java/comments/13fop7z/a_dissection_of_java_jdbc_to_postgresql/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
