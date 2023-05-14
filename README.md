@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Using Spring Boot without MVC?](https://www.reddit.com/r/java/comments/13hmusu/using_spring_boot_without_mvc/)
 - [Working on an unfamiliar codebase](https://www.reddit.com/r/java/comments/13hjm37/working_on_an_unfamiliar_codebase/)
 - [JFR - Java&#39;s Observability and Monitoring Framework](https://www.reddit.com/r/java/comments/13hc2sh/jfr_javas_observability_and_monitoring_framework/)
-- [Latest Java on Android](https://www.reddit.com/r/java/comments/13gajsp/latest_java_on_android/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
