@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Java EoL in Context of Security Vulnerabilities](https://www.reddit.com/r/java/comments/13i51pz/java_eol_in_context_of_security_vulnerabilities/)
 - [Know what you are breaking, instantly!](https://www.reddit.com/r/java/comments/13i3jzr/know_what_you_are_breaking_instantly/)
 - [Projects for entry level job/internship as Java Developer?](https://www.reddit.com/r/java/comments/13i32s1/projects_for_entry_level_jobinternship_as_java/)
-- [Working on an unfamiliar codebase](https://www.reddit.com/r/java/comments/13hjm37/working_on_an_unfamiliar_codebase/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
