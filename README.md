@@ -64,7 +64,7 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [How to change &quot;error&quot; key value in ResponseStatusException](https://www.reddit.com/r/java/comments/13htl07/how_to_change_error_key_value_in/)
+- [I got a bad grade in data structure midterm should I drop it?](https://www.reddit.com/r/java/comments/13i1al0/i_got_a_bad_grade_in_data_structure_midterm/)
 - [Using Spring Boot without MVC?](https://www.reddit.com/r/java/comments/13hmusu/using_spring_boot_without_mvc/)
 - [Working on an unfamiliar codebase](https://www.reddit.com/r/java/comments/13hjm37/working_on_an_unfamiliar_codebase/)
 <!-- BLOG-POST-LIST:END -->
