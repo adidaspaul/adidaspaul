@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How do you guys do authorization?](https://www.reddit.com/r/java/comments/13jc72g/how_do_you_guys_do_authorization/)
 - [Reduce Java Application Startup and Warmup Times with CRaC](https://www.reddit.com/r/java/comments/13jakal/reduce_java_application_startup_and_warmup_times/)
 - [Instrumenting a Java application with OpenTelemetry](https://www.reddit.com/r/java/comments/13j9z33/instrumenting_a_java_application_with/)
-- [Good Books and blogs on low Latency Java](https://www.reddit.com/r/java/comments/13j7p4y/good_books_and_blogs_on_low_latency_java/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
