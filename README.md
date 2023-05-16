@@ -65,8 +65,8 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Best Java Blogs for Developers in 2023](https://www.reddit.com/r/java/comments/13j4k4b/best_java_blogs_for_developers_in_2023/)
-- [literally my PC everytime I boot it up](https://www.reddit.com/r/java/comments/13j4dcm/literally_my_pc_everytime_i_boot_it_up/)
 - [What are the Qualities of a Good Model?](https://www.reddit.com/r/java/comments/13iz3m7/what_are_the_qualities_of_a_good_model/)
+- [Automatically include authenticated user in your Spring Boot logs](https://www.reddit.com/r/java/comments/13ionei/automatically_include_authenticated_user_in_your/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
