@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Make me like Java](https://www.reddit.com/r/java/comments/13imcx8/make_me_like_java/)
+- [Is there at least one mobile game that uses Java &lpar;libGDX, jMonkey&rpar; and is insanely popular?](https://www.reddit.com/r/java/comments/13iox96/is_there_at_least_one_mobile_game_that_uses_java/)
+- [Automatically include authenticated user in your Spring Boot logs](https://www.reddit.com/r/java/comments/13ionei/automatically_include_authenticated_user_in_your/)
 - [Working on an unfamiliar codebase](https://www.reddit.com/r/java/comments/13hjm37/working_on_an_unfamiliar_codebase/)
-- [JFR - Java&#39;s Observability and Monitoring Framework](https://www.reddit.com/r/java/comments/13hc2sh/jfr_javas_observability_and_monitoring_framework/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
