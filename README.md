@@ -65,8 +65,8 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [What are the Qualities of a Good Model?](https://www.reddit.com/r/java/comments/13iz3m7/what_are_the_qualities_of_a_good_model/)
-- [Is there at least one mobile game that uses Java &lpar;libGDX, jMonkey&rpar; and is insanely popular?](https://www.reddit.com/r/java/comments/13iox96/is_there_at_least_one_mobile_game_that_uses_java/)
 - [Automatically include authenticated user in your Spring Boot logs](https://www.reddit.com/r/java/comments/13ionei/automatically_include_authenticated_user_in_your/)
+- [Working on an unfamiliar codebase](https://www.reddit.com/r/java/comments/13hjm37/working_on_an_unfamiliar_codebase/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
