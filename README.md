@@ -65,8 +65,8 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Spring Security ACL](https://www.reddit.com/r/java/comments/13jhbg4/spring_security_acl/)
-- [Need some help](https://www.reddit.com/r/java/comments/13jh8ht/need_some_help/)
 - [Spring boot and authZ ABAC](https://www.reddit.com/r/java/comments/13jh3hn/spring_boot_and_authz_abac/)
+- [How long to learn Java if i dont know any other language?](https://www.reddit.com/r/java/comments/13jdtar/how_long_to_learn_java_if_i_dont_know_any_other/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
