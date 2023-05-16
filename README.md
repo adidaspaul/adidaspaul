@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Reduce Java Application Startup and Warmup Times with CRaC](https://www.reddit.com/r/java/comments/13jakal/reduce_java_application_startup_and_warmup_times/)
+- [Instrumenting a Java application with OpenTelemetry](https://www.reddit.com/r/java/comments/13j9z33/instrumenting_a_java_application_with/)
 - [Good Books and blogs on low Latency Java](https://www.reddit.com/r/java/comments/13j7p4y/good_books_and_blogs_on_low_latency_java/)
-- [Automatically include authenticated user in your Spring Boot logs](https://www.reddit.com/r/java/comments/13ionei/automatically_include_authenticated_user_in_your/)
-- [Working on an unfamiliar codebase](https://www.reddit.com/r/java/comments/13hjm37/working_on_an_unfamiliar_codebase/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
