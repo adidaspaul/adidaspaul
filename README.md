@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Good Books and blogs on low Latency Java](https://www.reddit.com/r/java/comments/13j7p4y/good_books_and_blogs_on_low_latency_java/)
 - [Best Java Blogs for Developers in 2023](https://www.reddit.com/r/java/comments/13j4k4b/best_java_blogs_for_developers_in_2023/)
 - [What are the Qualities of a Good Model?](https://www.reddit.com/r/java/comments/13iz3m7/what_are_the_qualities_of_a_good_model/)
-- [Automatically include authenticated user in your Spring Boot logs](https://www.reddit.com/r/java/comments/13ionei/automatically_include_authenticated_user_in_your/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
