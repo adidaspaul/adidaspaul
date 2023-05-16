@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How long to learn Java if i dont know any other language?](https://www.reddit.com/r/java/comments/13jdtar/how_long_to_learn_java_if_i_dont_know_any_other/)
 - [How do you guys do authorization?](https://www.reddit.com/r/java/comments/13jc72g/how_do_you_guys_do_authorization/)
 - [Reduce Java Application Startup and Warmup Times with CRaC](https://www.reddit.com/r/java/comments/13jakal/reduce_java_application_startup_and_warmup_times/)
-- [Instrumenting a Java application with OpenTelemetry](https://www.reddit.com/r/java/comments/13j9z33/instrumenting_a_java_application_with/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
