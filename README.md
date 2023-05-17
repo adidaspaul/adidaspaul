@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [I want to install Spring plugin in the SSH IntelliJ Client, but &quot;Spring&quot; plugin is not found in the client marketplace. It shows only in the host marketplace. Why? There are less plugins available in Client marketplace](https://www.reddit.com/r/java/comments/13jvmio/i_want_to_install_spring_plugin_in_the_ssh/)
 - [Best practice to handle deprecated elements in big industry systems during Java upgrade](https://www.reddit.com/r/java/comments/13jut9j/best_practice_to_handle_deprecated_elements_in/)
 - [Spring Security ACL](https://www.reddit.com/r/java/comments/13jhbg4/spring_security_acl/)
-- [Spring boot and authZ ABAC](https://www.reddit.com/r/java/comments/13jh3hn/spring_boot_and_authz_abac/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
