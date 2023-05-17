@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Best practice to handle deprecated elements in big industry systems during Java upgrade](https://www.reddit.com/r/java/comments/13jut9j/best_practice_to_handle_deprecated_elements_in/)
 - [Spring Security ACL](https://www.reddit.com/r/java/comments/13jhbg4/spring_security_acl/)
 - [Spring boot and authZ ABAC](https://www.reddit.com/r/java/comments/13jh3hn/spring_boot_and_authz_abac/)
-- [How long to learn Java if i dont know any other language?](https://www.reddit.com/r/java/comments/13jdtar/how_long_to_learn_java_if_i_dont_know_any_other/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
