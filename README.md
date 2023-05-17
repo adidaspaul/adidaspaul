@@ -64,7 +64,7 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [I am trying to host a Minecraft server on my PC and can&#39;t start the Server.jar file due to an Error](https://www.reddit.com/r/java/comments/13jx4c1/i_am_trying_to_host_a_minecraft_server_on_my_pc/)
+- [Java Generics PECS – Producer Extends Consumer Super | Baeldung](https://www.reddit.com/r/java/comments/13jyiqk/java_generics_pecs_producer_extends_consumer/)
 - [Best practice to handle deprecated elements in big industry systems during Java upgrade](https://www.reddit.com/r/java/comments/13jut9j/best_practice_to_handle_deprecated_elements_in/)
 - [Spring Security ACL](https://www.reddit.com/r/java/comments/13jhbg4/spring_security_acl/)
 <!-- BLOG-POST-LIST:END -->
