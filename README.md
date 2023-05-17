@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Star7 Demo by James Gosling &lpar;1992&rpar;](https://www.reddit.com/r/java/comments/13k66ap/star7_demo_by_james_gosling_1992/)
 - [I used Java to make a Tetris game with Blocks that turn to Sand](https://www.reddit.com/r/java/comments/13k1p7c/i_used_java_to_make_a_tetris_game_with_blocks/)
 - [Java Generics PECS – Producer Extends Consumer Super | Baeldung](https://www.reddit.com/r/java/comments/13jyiqk/java_generics_pecs_producer_extends_consumer/)
-- [Best practice to handle deprecated elements in big industry systems during Java upgrade](https://www.reddit.com/r/java/comments/13jut9j/best_practice_to_handle_deprecated_elements_in/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
