@@ -64,7 +64,7 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [I want to install Spring plugin in the SSH IntelliJ Client, but &quot;Spring&quot; plugin is not found in the client marketplace. It shows only in the host marketplace. Why? There are less plugins available in Client marketplace](https://www.reddit.com/r/java/comments/13jvmio/i_want_to_install_spring_plugin_in_the_ssh/)
+- [I am trying to host a Minecraft server on my PC and can&#39;t start the Server.jar file due to an Error](https://www.reddit.com/r/java/comments/13jx4c1/i_am_trying_to_host_a_minecraft_server_on_my_pc/)
 - [Best practice to handle deprecated elements in big industry systems during Java upgrade](https://www.reddit.com/r/java/comments/13jut9j/best_practice_to_handle_deprecated_elements_in/)
 - [Spring Security ACL](https://www.reddit.com/r/java/comments/13jhbg4/spring_security_acl/)
 <!-- BLOG-POST-LIST:END -->
