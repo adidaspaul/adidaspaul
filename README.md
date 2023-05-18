@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [70% of Project Lilliput merged into openjdk:master](https://www.reddit.com/r/java/comments/13l3iis/70_of_project_lilliput_merged_into_openjdkmaster/)
 - [Loial: a new player among serialization libraries](https://www.reddit.com/r/java/comments/13kyram/loial_a_new_player_among_serialization_libraries/)
 - [Spring MVC vs Django vs RoR vs some Kotlin Framework?](https://www.reddit.com/r/java/comments/13kmrws/spring_mvc_vs_django_vs_ror_vs_some_kotlin/)
-- [Star7 Demo by James Gosling &lpar;1992&rpar;](https://www.reddit.com/r/java/comments/13k66ap/star7_demo_by_james_gosling_1992/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
