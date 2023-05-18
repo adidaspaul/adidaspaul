@@ -64,7 +64,7 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [How do you use a python model in a java code](https://www.reddit.com/r/java/comments/13kqenw/how_do_you_use_a_python_model_in_a_java_code/)
+- [Loial: a new player among serialization libraries](https://www.reddit.com/r/java/comments/13kyram/loial_a_new_player_among_serialization_libraries/)
 - [Spring MVC vs Django vs RoR vs some Kotlin Framework?](https://www.reddit.com/r/java/comments/13kmrws/spring_mvc_vs_django_vs_ror_vs_some_kotlin/)
 - [Star7 Demo by James Gosling &lpar;1992&rpar;](https://www.reddit.com/r/java/comments/13k66ap/star7_demo_by_james_gosling_1992/)
 <!-- BLOG-POST-LIST:END -->
