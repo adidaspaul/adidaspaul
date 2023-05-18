@@ -64,8 +64,8 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Looking for working open-source code that uses java/spring/hibernate + optionally some front-end](https://www.reddit.com/r/java/comments/13l4wmy/looking_for_working_opensource_code_that_uses/)
 - [70% of Project Lilliput merged into openjdk:master](https://www.reddit.com/r/java/comments/13l3iis/70_of_project_lilliput_merged_into_openjdkmaster/)
-- [Loial: a new player among serialization libraries](https://www.reddit.com/r/java/comments/13kyram/loial_a_new_player_among_serialization_libraries/)
 - [Spring MVC vs Django vs RoR vs some Kotlin Framework?](https://www.reddit.com/r/java/comments/13kmrws/spring_mvc_vs_django_vs_ror_vs_some_kotlin/)
 <!-- BLOG-POST-LIST:END -->
 
