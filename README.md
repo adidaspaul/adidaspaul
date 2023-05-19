@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Genuine question, is this book considered outdated for modern Java &lpar;17+&rpar; ? Has the multi threading / concurrency ways changed much since ?](https://www.reddit.com/r/java/comments/13m8k95/genuine_question_is_this_book_considered_outdated/)
 - [OpenJDK Proposal: Ergonomics Profiles](https://www.reddit.com/r/java/comments/13l85tx/openjdk_proposal_ergonomics_profiles/)
 - [70% of Project Lilliput merged into openjdk:master](https://www.reddit.com/r/java/comments/13l3iis/70_of_project_lilliput_merged_into_openjdkmaster/)
-- [Spring MVC vs Django vs RoR vs some Kotlin Framework?](https://www.reddit.com/r/java/comments/13kmrws/spring_mvc_vs_django_vs_ror_vs_some_kotlin/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
