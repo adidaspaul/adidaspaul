@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Eclipse not recognize the file](https://www.reddit.com/r/java/comments/13lpotk/eclipse_not_recognize_the_file/)
 - [OpenJDK Proposal: Ergonomics Profiles](https://www.reddit.com/r/java/comments/13l85tx/openjdk_proposal_ergonomics_profiles/)
 - [70% of Project Lilliput merged into openjdk:master](https://www.reddit.com/r/java/comments/13l3iis/70_of_project_lilliput_merged_into_openjdkmaster/)
-- [Spring MVC vs Django vs RoR vs some Kotlin Framework?](https://www.reddit.com/r/java/comments/13kmrws/spring_mvc_vs_django_vs_ror_vs_some_kotlin/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
