@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How widely is JFR &lpar;Java Flight Recorder&rpar; used?](https://www.reddit.com/r/java/comments/13n10ac/how_widely_is_jfr_java_flight_recorder_used/)
 - [Feedback on a new annotation processor api](https://www.reddit.com/r/java/comments/13mp9g0/feedback_on_a_new_annotation_processor_api/)
 - [28 Hours of Java &lpar;Live Stream - Now!&rpar;](https://www.reddit.com/r/java/comments/13mgowx/28_hours_of_java_live_stream_now/)
-- [Genuine question, is this book considered outdated for modern Java &lpar;17+&rpar; ? Has the multi threading / concurrency ways changed much since ?](https://www.reddit.com/r/java/comments/13m8k95/genuine_question_is_this_book_considered_outdated/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
