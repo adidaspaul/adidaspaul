@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [What’s an interesting Java multithreaded/concurrency project one can do that touches a variety of concurrency topics. I’m thinking a trading platform or a bitcoin client maybe ? What else ?](https://www.reddit.com/r/java/comments/13nae5d/whats_an_interesting_java/)
 - [Java opensource projects that need help from community.](https://www.reddit.com/r/java/comments/13n584j/java_opensource_projects_that_need_help_from/)
 - [How widely is JFR &lpar;Java Flight Recorder&rpar; used?](https://www.reddit.com/r/java/comments/13n10ac/how_widely_is_jfr_java_flight_recorder_used/)
-- [Feedback on a new annotation processor api](https://www.reddit.com/r/java/comments/13mp9g0/feedback_on_a_new_annotation_processor_api/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
