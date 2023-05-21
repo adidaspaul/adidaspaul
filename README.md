@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Dominion ECS - the Release Candidate is out](https://www.reddit.com/r/java/comments/13nn56c/dominion_ecs_the_release_candidate_is_out/)
 - [What’s an interesting Java multithreaded/concurrency project one can do that touches a variety of concurrency topics. I’m thinking a trading platform or a bitcoin client maybe ? What else ?](https://www.reddit.com/r/java/comments/13nae5d/whats_an_interesting_java/)
 - [Java opensource projects that need help from community.](https://www.reddit.com/r/java/comments/13n584j/java_opensource_projects_that_need_help_from/)
-- [How widely is JFR &lpar;Java Flight Recorder&rpar; used?](https://www.reddit.com/r/java/comments/13n10ac/how_widely_is_jfr_java_flight_recorder_used/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
