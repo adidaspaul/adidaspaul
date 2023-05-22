@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Migrating a silly weekend project to Quarkus 3](https://www.reddit.com/r/java/comments/13oymoo/migrating_a_silly_weekend_project_to_quarkus_3/)
+- [Java notebook for Jupyter](https://www.reddit.com/r/java/comments/13oyfy5/java_notebook_for_jupyter/)
 - [Flunkydom - AI agent experiments in Java](https://www.reddit.com/r/java/comments/13oj7u9/flunkydom_ai_agent_experiments_in_java/)
-- [Speeding up the Java code-test cycle](https://www.reddit.com/r/java/comments/13oh110/speeding_up_the_java_codetest_cycle/)
-- [Any fresh jvm21 benchmarks ?](https://www.reddit.com/r/java/comments/13nscvg/any_fresh_jvm21_benchmarks/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
