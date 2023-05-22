@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Speeding up the Java code-test cycle](https://www.reddit.com/r/java/comments/13oh110/speeding_up_the_java_codetest_cycle/)
 - [Any fresh jvm21 benchmarks ?](https://www.reddit.com/r/java/comments/13nscvg/any_fresh_jvm21_benchmarks/)
 - [Dominion ECS - the Release Candidate is out](https://www.reddit.com/r/java/comments/13nn56c/dominion_ecs_the_release_candidate_is_out/)
-- [What’s an interesting Java multithreaded/concurrency project one can do that touches a variety of concurrency topics. I’m thinking a trading platform or a bitcoin client maybe ? What else ?](https://www.reddit.com/r/java/comments/13nae5d/whats_an_interesting_java/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
