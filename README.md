@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Flunkydom - AI agent experiments in Java](https://www.reddit.com/r/java/comments/13oj7u9/flunkydom_ai_agent_experiments_in_java/)
 - [Speeding up the Java code-test cycle](https://www.reddit.com/r/java/comments/13oh110/speeding_up_the_java_codetest_cycle/)
 - [Any fresh jvm21 benchmarks ?](https://www.reddit.com/r/java/comments/13nscvg/any_fresh_jvm21_benchmarks/)
-- [Dominion ECS - the Release Candidate is out](https://www.reddit.com/r/java/comments/13nn56c/dominion_ecs_the_release_candidate_is_out/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
