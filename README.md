@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Java learning tools?](https://www.reddit.com/r/java/comments/13p52nk/java_learning_tools/)
 - [Migrating a silly weekend project to Quarkus 3](https://www.reddit.com/r/java/comments/13oymoo/migrating_a_silly_weekend_project_to_quarkus_3/)
 - [Java notebook for Jupyter](https://www.reddit.com/r/java/comments/13oyfy5/java_notebook_for_jupyter/)
-- [Whats your opinion regarding a library name change and package name change](https://www.reddit.com/r/java/comments/13olifz/whats_your_opinion_regarding_a_library_name/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
