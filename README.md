@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Announcing the Digma Beta: First Runtime Linter for Java Code](https://www.reddit.com/r/java/comments/13ppijp/announcing_the_digma_beta_first_runtime_linter/)
+- [What are some fun and interesting projects that can be developed using Spring Boot?](https://www.reddit.com/r/java/comments/13poyhr/what_are_some_fun_and_interesting_projects_that/)
 - [Migrating a silly weekend project to Quarkus 3](https://www.reddit.com/r/java/comments/13oymoo/migrating_a_silly_weekend_project_to_quarkus_3/)
-- [Java notebook for Jupyter](https://www.reddit.com/r/java/comments/13oyfy5/java_notebook_for_jupyter/)
-- [Whats your opinion regarding a library name change and package name change](https://www.reddit.com/r/java/comments/13olifz/whats_your_opinion_regarding_a_library_name/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
