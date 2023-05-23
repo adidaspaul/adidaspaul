@@ -65,8 +65,8 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [The Java Agent: Modifying Bytecode at Runtime to Protect Against Log4J • Joe Beeton](https://www.reddit.com/r/java/comments/13prmku/the_java_agent_modifying_bytecode_at_runtime_to/)
-- [Announcing the Digma Beta: First Runtime Linter for Java Code](https://www.reddit.com/r/java/comments/13ppijp/announcing_the_digma_beta_first_runtime_linter/)
 - [Migrating a silly weekend project to Quarkus 3](https://www.reddit.com/r/java/comments/13oymoo/migrating_a_silly_weekend_project_to_quarkus_3/)
+- [Java notebook for Jupyter](https://www.reddit.com/r/java/comments/13oyfy5/java_notebook_for_jupyter/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
