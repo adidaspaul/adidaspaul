@@ -65,8 +65,8 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Stuck at being ok](https://www.reddit.com/r/java/comments/13pabmb/stuck_at_being_ok/)
-- [Java learning tools?](https://www.reddit.com/r/java/comments/13p52nk/java_learning_tools/)
 - [Migrating a silly weekend project to Quarkus 3](https://www.reddit.com/r/java/comments/13oymoo/migrating_a_silly_weekend_project_to_quarkus_3/)
+- [Java notebook for Jupyter](https://www.reddit.com/r/java/comments/13oyfy5/java_notebook_for_jupyter/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
