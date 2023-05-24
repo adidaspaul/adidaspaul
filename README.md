@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Book on Java 8 ⇾ 17 transition](https://www.reddit.com/r/java/comments/13qeafs/book_on_java_8_17_transition/)
 - [Patterns: Exhaustiveness, Unconditionality, and Remainder [Brian Goetz &amp; Gavin Bierman]](https://www.reddit.com/r/java/comments/13q356k/patterns_exhaustiveness_unconditionality_and/)
 - [The Java Agent: Modifying Bytecode at Runtime to Protect Against Log4J • Joe Beeton](https://www.reddit.com/r/java/comments/13prmku/the_java_agent_modifying_bytecode_at_runtime_to/)
-- [Migrating a silly weekend project to Quarkus 3](https://www.reddit.com/r/java/comments/13oymoo/migrating_a_silly_weekend_project_to_quarkus_3/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
