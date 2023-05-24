@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Can any one help me with suggesting sources for java questions practice for topics like exception handling abstract classes and other oops concepts](https://www.reddit.com/r/java/comments/13qsoow/can_any_one_help_me_with_suggesting_sources_for/)
 - [Apache Pulsar 3.0 Delivers a New LTS Version and Efficiency Improvements](https://www.reddit.com/r/java/comments/13qkevc/apache_pulsar_30_delivers_a_new_lts_version_and/)
 - [Book on Java 8 ⇾ 17 transition](https://www.reddit.com/r/java/comments/13qeafs/book_on_java_8_17_transition/)
-- [Patterns: Exhaustiveness, Unconditionality, and Remainder [Brian Goetz &amp; Gavin Bierman]](https://www.reddit.com/r/java/comments/13q356k/patterns_exhaustiveness_unconditionality_and/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
