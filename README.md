@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How do you usually deploy Java Swing application in Windows machine, so that it can pass Microsoft Defender SmartScreen checking?](https://www.reddit.com/r/java/comments/13rgb1h/how_do_you_usually_deploy_java_swing_application/)
+- [What I at least know to get Job as a Java Developer?](https://www.reddit.com/r/java/comments/13rezg8/what_i_at_least_know_to_get_job_as_a_java/)
 - [Cache synchronization using jOOQ and PostgreSQL functions](https://www.reddit.com/r/java/comments/13re49c/cache_synchronization_using_jooq_and_postgresql/)
-- [Script Java Easily in 21 and Beyond - Inside Java Newscast #49](https://www.reddit.com/r/java/comments/13ra7sw/script_java_easily_in_21_and_beyond_inside_java/)
-- [Apache Pulsar 3.0 Delivers a New LTS Version and Efficiency Improvements](https://www.reddit.com/r/java/comments/13qkevc/apache_pulsar_30_delivers_a_new_lts_version_and/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
