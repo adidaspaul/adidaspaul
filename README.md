@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Speeding up pairwise comparisons to 2.8 million/sec in Java on a regular laptop](https://www.reddit.com/r/java/comments/13rlb26/speeding_up_pairwise_comparisons_to_28_millionsec/)
 - [How do you usually deploy Java Swing application in Windows machine, so that it can pass Microsoft Defender SmartScreen checking?](https://www.reddit.com/r/java/comments/13rgb1h/how_do_you_usually_deploy_java_swing_application/)
 - [What I at least know to get Job as a Java Developer?](https://www.reddit.com/r/java/comments/13rezg8/what_i_at_least_know_to_get_job_as_a_java/)
-- [Cache synchronization using jOOQ and PostgreSQL functions](https://www.reddit.com/r/java/comments/13re49c/cache_synchronization_using_jooq_and_postgresql/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
