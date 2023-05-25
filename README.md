@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Cache synchronization using jOOQ and PostgreSQL functions](https://www.reddit.com/r/java/comments/13re49c/cache_synchronization_using_jooq_and_postgresql/)
 - [Script Java Easily in 21 and Beyond - Inside Java Newscast #49](https://www.reddit.com/r/java/comments/13ra7sw/script_java_easily_in_21_and_beyond_inside_java/)
 - [Apache Pulsar 3.0 Delivers a New LTS Version and Efficiency Improvements](https://www.reddit.com/r/java/comments/13qkevc/apache_pulsar_30_delivers_a_new_lts_version_and/)
-- [Book on Java 8 ⇾ 17 transition](https://www.reddit.com/r/java/comments/13qeafs/book_on_java_8_17_transition/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
