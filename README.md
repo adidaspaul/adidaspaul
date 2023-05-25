@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [What&#39;s wrong with my code](https://www.reddit.com/r/java/comments/13r5ggp/whats_wrong_with_my_code/)
 - [Apache Pulsar 3.0 Delivers a New LTS Version and Efficiency Improvements](https://www.reddit.com/r/java/comments/13qkevc/apache_pulsar_30_delivers_a_new_lts_version_and/)
 - [Book on Java 8 ⇾ 17 transition](https://www.reddit.com/r/java/comments/13qeafs/book_on_java_8_17_transition/)
-- [Patterns: Exhaustiveness, Unconditionality, and Remainder [Brian Goetz &amp; Gavin Bierman]](https://www.reddit.com/r/java/comments/13q356k/patterns_exhaustiveness_unconditionality_and/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
