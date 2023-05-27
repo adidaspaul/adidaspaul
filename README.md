@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Good Java web framework&lpar;s&rpar;?](https://www.reddit.com/r/java/comments/13tdf33/good_java_web_frameworks/)
 - [Any library you would like to recommend to others as it helps you a lot? For me, mapstruct is one of them. Hopefully I would hear some other nice libraries I never try.](https://www.reddit.com/r/java/comments/13tcl5j/any_library_you_would_like_to_recommend_to_others/)
-- [How do people get java games before?](https://www.reddit.com/r/java/comments/13t233p/how_do_people_get_java_games_before/)
-- [How to Showcase Java Programs to Prospective Employers](https://www.reddit.com/r/java/comments/13swt5r/how_to_showcase_java_programs_to_prospective/)
+- [Spring Boot Development Mode with Testcontainers and Docker](https://www.reddit.com/r/java/comments/13serol/spring_boot_development_mode_with_testcontainers/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
