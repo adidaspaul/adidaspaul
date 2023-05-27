@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How do people get java games before?](https://www.reddit.com/r/java/comments/13t233p/how_do_people_get_java_games_before/)
 - [How to Showcase Java Programs to Prospective Employers](https://www.reddit.com/r/java/comments/13swt5r/how_to_showcase_java_programs_to_prospective/)
 - [Spring Boot Development Mode with Testcontainers and Docker](https://www.reddit.com/r/java/comments/13serol/spring_boot_development_mode_with_testcontainers/)
-- [Why exactly does Brian Goetz not recommend the use of Optional everywhere a value could be null?](https://www.reddit.com/r/java/comments/13rv1t2/why_exactly_does_brian_goetz_not_recommend_the/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
