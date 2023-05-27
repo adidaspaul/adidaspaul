@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [What does it mean to be &quot;fluent&quot; in Java?](https://www.reddit.com/r/java/comments/13suieu/what_does_it_mean_to_be_fluent_in_java/)
 - [Spring Boot Development Mode with Testcontainers and Docker](https://www.reddit.com/r/java/comments/13serol/spring_boot_development_mode_with_testcontainers/)
 - [Why exactly does Brian Goetz not recommend the use of Optional everywhere a value could be null?](https://www.reddit.com/r/java/comments/13rv1t2/why_exactly_does_brian_goetz_not_recommend_the/)
-- [JStachio 1.0.0 release! Fastest Java templating engine &lpar;currently&rpar;.](https://www.reddit.com/r/java/comments/13rnpz4/jstachio_100_release_fastest_java_templating/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
