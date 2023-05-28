@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Spring&#39;s @MockBean is an anti-pattern](https://www.reddit.com/r/java/comments/13ub933/springs_mockbean_is_an_antipattern/)
 - [Any library you would like to recommend to others as it helps you a lot? For me, mapstruct is one of them. Hopefully I would hear some other nice libraries I never try.](https://www.reddit.com/r/java/comments/13tcl5j/any_library_you_would_like_to_recommend_to_others/)
 - [Spring Boot Development Mode with Testcontainers and Docker](https://www.reddit.com/r/java/comments/13serol/spring_boot_development_mode_with_testcontainers/)
-- [Why exactly does Brian Goetz not recommend the use of Optional everywhere a value could be null?](https://www.reddit.com/r/java/comments/13rv1t2/why_exactly_does_brian_goetz_not_recommend_the/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
