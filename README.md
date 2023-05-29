@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [I often hear C# is a better Java. For what reasons do you prefer Java?](https://www.reddit.com/r/java/comments/13uxslx/i_often_hear_c_is_a_better_java_for_what_reasons/)
 - [Spring&#39;s @MockBean is an anti-pattern](https://www.reddit.com/r/java/comments/13ub933/springs_mockbean_is_an_antipattern/)
 - [Any library you would like to recommend to others as it helps you a lot? For me, mapstruct is one of them. Hopefully I would hear some other nice libraries I never try.](https://www.reddit.com/r/java/comments/13tcl5j/any_library_you_would_like_to_recommend_to_others/)
-- [Spring Boot Development Mode with Testcontainers and Docker](https://www.reddit.com/r/java/comments/13serol/spring_boot_development_mode_with_testcontainers/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
