@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [GlassFish 7.0.5 released!](https://www.reddit.com/r/java/comments/13vqmvq/glassfish_705_released/)
 - [Java-based Jailer Database Tools 15.0 released.](https://www.reddit.com/r/java/comments/13vm66u/javabased_jailer_database_tools_150_released/)
 - [Monitoring Guava Cache Statistics](https://www.reddit.com/r/java/comments/13vkw8z/monitoring_guava_cache_statistics/)
-- [I often hear C# is a better Java. For what reasons do you prefer Java?](https://www.reddit.com/r/java/comments/13uxslx/i_often_hear_c_is_a_better_java_for_what_reasons/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
