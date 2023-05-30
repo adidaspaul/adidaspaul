@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Java-based Jailer Database Tools 15.0 released.](https://www.reddit.com/r/java/comments/13vm66u/javabased_jailer_database_tools_150_released/)
 - [Monitoring Guava Cache Statistics](https://www.reddit.com/r/java/comments/13vkw8z/monitoring_guava_cache_statistics/)
 - [I often hear C# is a better Java. For what reasons do you prefer Java?](https://www.reddit.com/r/java/comments/13uxslx/i_often_hear_c_is_a_better_java_for_what_reasons/)
-- [Spring&#39;s @MockBean is an anti-pattern](https://www.reddit.com/r/java/comments/13ub933/springs_mockbean_is_an_antipattern/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
