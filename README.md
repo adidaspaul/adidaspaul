@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Guava 32.0 &lpar;released today&rpar; and the @Beta annotation](https://www.reddit.com/r/java/comments/13w2l8w/guava_320_released_today_and_the_beta_annotation/)
 - [London tech industry , I need help](https://www.reddit.com/r/java/comments/13w14q3/london_tech_industry_i_need_help/)
 - [GlassFish 7.0.5 released!](https://www.reddit.com/r/java/comments/13vqmvq/glassfish_705_released/)
-- [Java-based Jailer Database Tools 15.0 released.](https://www.reddit.com/r/java/comments/13vm66u/javabased_jailer_database_tools_150_released/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
