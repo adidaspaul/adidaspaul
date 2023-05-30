@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [London tech industry , I need help](https://www.reddit.com/r/java/comments/13w14q3/london_tech_industry_i_need_help/)
 - [GlassFish 7.0.5 released!](https://www.reddit.com/r/java/comments/13vqmvq/glassfish_705_released/)
 - [Java-based Jailer Database Tools 15.0 released.](https://www.reddit.com/r/java/comments/13vm66u/javabased_jailer_database_tools_150_released/)
-- [Monitoring Guava Cache Statistics](https://www.reddit.com/r/java/comments/13vkw8z/monitoring_guava_cache_statistics/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
