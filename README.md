@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Design document on nullability and value types &lpar;Brian Goetz&rpar;](https://www.reddit.com/r/java/comments/13wxcti/design_document_on_nullability_and_value_types/)
 - [Guava 32.0 &lpar;released today&rpar; and the @Beta annotation](https://www.reddit.com/r/java/comments/13w2l8w/guava_320_released_today_and_the_beta_annotation/)
 - [GlassFish 7.0.5 released!](https://www.reddit.com/r/java/comments/13vqmvq/glassfish_705_released/)
-- [Java-based Jailer Database Tools 15.0 released.](https://www.reddit.com/r/java/comments/13vm66u/javabased_jailer_database_tools_150_released/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
