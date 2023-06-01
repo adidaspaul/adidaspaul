@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Why is JUnit more popular than TestNG?](https://www.reddit.com/r/java/comments/13xpdjf/why_is_junit_more_popular_than_testng/)
 - [Talking to Marit van Dijk, Java maintainer for Cucumber JVM](https://www.reddit.com/r/java/comments/13xkd7x/talking_to_marit_van_dijk_java_maintainer_for/)
 - [Design document on nullability and value types &lpar;Brian Goetz&rpar;](https://www.reddit.com/r/java/comments/13wxcti/design_document_on_nullability_and_value_types/)
-- [Guava 32.0 &lpar;released today&rpar; and the @Beta annotation](https://www.reddit.com/r/java/comments/13w2l8w/guava_320_released_today_and_the_beta_annotation/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
