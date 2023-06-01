@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [I’m kind of doing an informal research on what are the common issues that make it hard for people to update their Java stack. So, what’s is it that prevent you from using latest LTS releases? If you just don’t want to, why not?](https://www.reddit.com/r/java/comments/13x4rya/im_kind_of_doing_an_informal_research_on_what_are/)
 - [Design document on nullability and value types &lpar;Brian Goetz&rpar;](https://www.reddit.com/r/java/comments/13wxcti/design_document_on_nullability_and_value_types/)
 - [Guava 32.0 &lpar;released today&rpar; and the @Beta annotation](https://www.reddit.com/r/java/comments/13w2l8w/guava_320_released_today_and_the_beta_annotation/)
-- [GlassFish 7.0.5 released!](https://www.reddit.com/r/java/comments/13vqmvq/glassfish_705_released/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
