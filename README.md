@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Valhalla&#39;s latest plans: very high-level /accessible summary](https://www.reddit.com/r/java/comments/13xtog3/valhallas_latest_plans_very_highlevel_accessible/)
+- [Apache NetBeans 18 released](https://www.reddit.com/r/java/comments/13xtjpt/apache_netbeans_18_released/)
 - [Why is JUnit more popular than TestNG?](https://www.reddit.com/r/java/comments/13xpdjf/why_is_junit_more_popular_than_testng/)
-- [Talking to Marit van Dijk, Java maintainer for Cucumber JVM](https://www.reddit.com/r/java/comments/13xkd7x/talking_to_marit_van_dijk_java_maintainer_for/)
-- [Design document on nullability and value types &lpar;Brian Goetz&rpar;](https://www.reddit.com/r/java/comments/13wxcti/design_document_on_nullability_and_value_types/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
