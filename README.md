@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [I Created an Advanced AI Basketball Referee](https://www.reddit.com/r/java/comments/13x8xsl/i_created_an_advanced_ai_basketball_referee/)
 - [VSC vs Eclipse in 2023](https://www.reddit.com/r/java/comments/13x63z8/vsc_vs_eclipse_in_2023/)
-- [I’m kind of doing an informal research on what are the common issues that make it hard for people to update their Java stack. So, what’s is it that prevent you from using latest LTS releases? If you just don’t want to, why not?](https://www.reddit.com/r/java/comments/13x4rya/im_kind_of_doing_an_informal_research_on_what_are/)
+- [Design document on nullability and value types &lpar;Brian Goetz&rpar;](https://www.reddit.com/r/java/comments/13wxcti/design_document_on_nullability_and_value_types/)
+- [Guava 32.0 &lpar;released today&rpar; and the @Beta annotation](https://www.reddit.com/r/java/comments/13w2l8w/guava_320_released_today_and_the_beta_annotation/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
