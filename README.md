@@ -64,7 +64,7 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Anybody out there still using subversion?](https://www.reddit.com/r/java/comments/13yl9h7/anybody_out_there_still_using_subversion/)
+- [Introduction and pitfalls of Java&#39;s new concurrency](https://www.reddit.com/r/java/comments/13yoe1u/introduction_and_pitfalls_of_javas_new_concurrency/)
 - [Fully bootstrapping Java from source in Wolfi](https://www.reddit.com/r/java/comments/13yhqpx/fully_bootstrapping_java_from_source_in_wolfi/)
 - [Pitfalls to avoid when switching to Virtual threads](https://www.reddit.com/r/java/comments/13yd7jj/pitfalls_to_avoid_when_switching_to_virtual/)
 <!-- BLOG-POST-LIST:END -->
