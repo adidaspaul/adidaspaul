@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Virtual Threads, CRaC, GraalVM, Spring Boot 3.1: what came with Spring I/O 2023](https://www.reddit.com/r/java/comments/13ybpb4/virtual_threads_crac_graalvm_spring_boot_31_what/)
 - [When interviewers say &#39;experience with Maven/Gradle builds, what do they mean?](https://www.reddit.com/r/java/comments/13xz5hg/when_interviewers_say_experience_with_mavengradle/)
 - [Valhalla&#39;s latest plans: very high-level /accessible summary](https://www.reddit.com/r/java/comments/13xtog3/valhallas_latest_plans_very_highlevel_accessible/)
-- [Apache NetBeans 18 released](https://www.reddit.com/r/java/comments/13xtjpt/apache_netbeans_18_released/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
