@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Pitfalls to avoid when switching to Virtual threads](https://www.reddit.com/r/java/comments/13yd7jj/pitfalls_to_avoid_when_switching_to_virtual/)
 - [Virtual Threads, CRaC, GraalVM, Spring Boot 3.1: what came with Spring I/O 2023](https://www.reddit.com/r/java/comments/13ybpb4/virtual_threads_crac_graalvm_spring_boot_31_what/)
 - [When interviewers say &#39;experience with Maven/Gradle builds, what do they mean?](https://www.reddit.com/r/java/comments/13xz5hg/when_interviewers_say_experience_with_mavengradle/)
-- [Valhalla&#39;s latest plans: very high-level /accessible summary](https://www.reddit.com/r/java/comments/13xtog3/valhallas_latest_plans_very_highlevel_accessible/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
