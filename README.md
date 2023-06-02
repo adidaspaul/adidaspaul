@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [When interviewers say &#39;experience with Maven/Gradle builds, what do they mean?](https://www.reddit.com/r/java/comments/13xz5hg/when_interviewers_say_experience_with_mavengradle/)
 - [Valhalla&#39;s latest plans: very high-level /accessible summary](https://www.reddit.com/r/java/comments/13xtog3/valhallas_latest_plans_very_highlevel_accessible/)
 - [Apache NetBeans 18 released](https://www.reddit.com/r/java/comments/13xtjpt/apache_netbeans_18_released/)
-- [Why is JUnit more popular than TestNG?](https://www.reddit.com/r/java/comments/13xpdjf/why_is_junit_more_popular_than_testng/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
