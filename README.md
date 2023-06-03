@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Question about virtual threads and their limitations](https://www.reddit.com/r/java/comments/13ze03y/question_about_virtual_threads_and_their/)
 - [Introduction and pitfalls of Java&#39;s new concurrency](https://www.reddit.com/r/java/comments/13yoe1u/introduction_and_pitfalls_of_javas_new_concurrency/)
 - [Fully bootstrapping Java from source in Wolfi](https://www.reddit.com/r/java/comments/13yhqpx/fully_bootstrapping_java_from_source_in_wolfi/)
-- [Pitfalls to avoid when switching to Virtual threads](https://www.reddit.com/r/java/comments/13yd7jj/pitfalls_to_avoid_when_switching_to_virtual/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
