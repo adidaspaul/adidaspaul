@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Efficient Kafka Logging: Strategies, Tools and Techniques for Log Analysis](https://www.reddit.com/r/java/comments/1404suz/efficient_kafka_logging_strategies_tools_and/)
 - [VSCode, BlueJ, Visual studio, Eclipse, Intellij,Vim. Which is the best?](https://www.reddit.com/r/java/comments/13zv498/vscode_bluej_visual_studio_eclipse_intellijvim/)
 - [Question about virtual threads and their limitations](https://www.reddit.com/r/java/comments/13ze03y/question_about_virtual_threads_and_their/)
-- [Introduction and pitfalls of Java&#39;s new concurrency](https://www.reddit.com/r/java/comments/13yoe1u/introduction_and_pitfalls_of_javas_new_concurrency/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
