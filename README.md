@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Java 8 versioning](https://www.reddit.com/r/java/comments/141lbm6/java_8_versioning/)
 - [Legacy code project advice](https://www.reddit.com/r/java/comments/141intx/legacy_code_project_advice/)
 - [Confused by Java](https://www.reddit.com/r/java/comments/141huu5/confused_by_java/)
-- [online chess game made in Java](https://www.reddit.com/r/java/comments/141964z/online_chess_game_made_in_java/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
