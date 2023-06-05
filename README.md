@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Legacy code project advice](https://www.reddit.com/r/java/comments/141intx/legacy_code_project_advice/)
+- [Confused by Java](https://www.reddit.com/r/java/comments/141huu5/confused_by_java/)
 - [online chess game made in Java](https://www.reddit.com/r/java/comments/141964z/online_chess_game_made_in_java/)
-- [Why do companies still use older Java releases](https://www.reddit.com/r/java/comments/140tw3l/why_do_companies_still_use_older_java_releases/)
-- [Efficient Kafka Logging: Strategies, Tools and Techniques for Log Analysis](https://www.reddit.com/r/java/comments/1404suz/efficient_kafka_logging_strategies_tools_and/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
