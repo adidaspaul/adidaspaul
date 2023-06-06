@@ -64,8 +64,8 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Is this sub going to protest the Reddit API changes with the other programming subs?](https://www.reddit.com/r/java/comments/142rk7j/is_this_sub_going_to_protest_the_reddit_api/)
 - [Did Sonatype shut down its OSS Repository Hosting &lpar;i. e. &quot;publish my artifact to Maven Central&quot;&rpar;?](https://www.reddit.com/r/java/comments/142fj3r/did_sonatype_shut_down_its_oss_repository_hosting/)
-- [Legacy code project advice](https://www.reddit.com/r/java/comments/141intx/legacy_code_project_advice/)
 - [online chess game made in Java](https://www.reddit.com/r/java/comments/141964z/online_chess_game_made_in_java/)
 <!-- BLOG-POST-LIST:END -->
 
