@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Working with jOOQ and Flyway using Testcontainers](https://www.reddit.com/r/java/comments/143fi3v/working_with_jooq_and_flyway_using_testcontainers/)
 - [Firebird JDBC driver Jaybird 5.0.2 released](https://www.reddit.com/r/java/comments/143dngq/firebird_jdbc_driver_jaybird_502_released/)
 - [How to validate the DDL schema with Spring and Hibernate](https://www.reddit.com/r/java/comments/1438kda/how_to_validate_the_ddl_schema_with_spring_and/)
-- [Is this sub going to protest the Reddit API changes with the other programming subs?](https://www.reddit.com/r/java/comments/142rk7j/is_this_sub_going_to_protest_the_reddit_api/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
