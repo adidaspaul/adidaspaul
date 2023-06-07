@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to validate the DDL schema with Spring and Hibernate](https://www.reddit.com/r/java/comments/1438kda/how_to_validate_the_ddl_schema_with_spring_and/)
 - [Is this sub going to protest the Reddit API changes with the other programming subs?](https://www.reddit.com/r/java/comments/142rk7j/is_this_sub_going_to_protest_the_reddit_api/)
 - [Did Sonatype shut down its OSS Repository Hosting &lpar;i. e. &quot;publish my artifact to Maven Central&quot;&rpar;?](https://www.reddit.com/r/java/comments/142fj3r/did_sonatype_shut_down_its_oss_repository_hosting/)
-- [online chess game made in Java](https://www.reddit.com/r/java/comments/141964z/online_chess_game_made_in_java/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
