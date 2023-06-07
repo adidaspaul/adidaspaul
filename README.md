@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [I&#39;m Getting &quot;Error: Could not create the Java Virtual Machine&quot;](https://www.reddit.com/r/java/comments/143owda/im_getting_error_could_not_create_the_java/)
 - [idk if this is allowed but I drew duke!! I love him!!](https://www.reddit.com/r/java/comments/143mqtz/idk_if_this_is_allowed_but_i_drew_duke_i_love_him/)
 - [The transaction is not active!?](https://www.reddit.com/r/java/comments/143mapa/the_transaction_is_not_active/)
-- [Working with jOOQ and Flyway using Testcontainers](https://www.reddit.com/r/java/comments/143fi3v/working_with_jooq_and_flyway_using_testcontainers/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
