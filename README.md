@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [idk if this is allowed but I drew duke!! I love him!!](https://www.reddit.com/r/java/comments/143mqtz/idk_if_this_is_allowed_but_i_drew_duke_i_love_him/)
+- [The transaction is not active!?](https://www.reddit.com/r/java/comments/143mapa/the_transaction_is_not_active/)
 - [Working with jOOQ and Flyway using Testcontainers](https://www.reddit.com/r/java/comments/143fi3v/working_with_jooq_and_flyway_using_testcontainers/)
-- [Firebird JDBC driver Jaybird 5.0.2 released](https://www.reddit.com/r/java/comments/143dngq/firebird_jdbc_driver_jaybird_502_released/)
-- [How to validate the DDL schema with Spring and Hibernate](https://www.reddit.com/r/java/comments/1438kda/how_to_validate_the_ddl_schema_with_spring_and/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
