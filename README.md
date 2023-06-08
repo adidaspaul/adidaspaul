@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Java compiler running in-browser?](https://www.reddit.com/r/java/comments/144elcm/java_compiler_running_inbrowser/)
 - [Introducing: JFR.view](https://www.reddit.com/r/java/comments/1449t12/introducing_jfrview/)
 - [[OLD] How to manually publish JAR to maven central?](https://www.reddit.com/r/java/comments/1447n7a/old_how_to_manually_publish_jar_to_maven_central/)
-- [Spring Cloud Kubernetes with Spring Boot 3 - Piotr&#39;s TechBlog](https://www.reddit.com/r/java/comments/1443gky/spring_cloud_kubernetes_with_spring_boot_3_piotrs/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
