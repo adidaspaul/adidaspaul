@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Ideas for opensource Java libraries](https://www.reddit.com/r/java/comments/1440ysy/ideas_for_opensource_java_libraries/)
+- [Beginner](https://www.reddit.com/r/java/comments/1440ixf/beginner/)
 - [A web app framework from scratch](https://www.reddit.com/r/java/comments/143wjst/a_web_app_framework_from_scratch/)
-- [Mastering the Object Mother](https://www.reddit.com/r/java/comments/143pbks/mastering_the_object_mother/)
-- [idk if this is allowed but I drew duke!! I love him!!](https://www.reddit.com/r/java/comments/143mqtz/idk_if_this_is_allowed_but_i_drew_duke_i_love_him/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
