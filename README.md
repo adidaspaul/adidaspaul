@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [All That is in Java 21?! 😱 - Inside Java Newscast #50](https://www.reddit.com/r/java/comments/1442y7r/all_that_is_in_java_21_inside_java_newscast_50/)
+- [Dependency inventory / dashboard for multiple maven projects](https://www.reddit.com/r/java/comments/1442k39/dependency_inventory_dashboard_for_multiple_maven/)
 - [Securing Spring Boot Applications With SSL](https://www.reddit.com/r/java/comments/1441zzv/securing_spring_boot_applications_with_ssl/)
-- [Ideas for opensource Java libraries](https://www.reddit.com/r/java/comments/1440ysy/ideas_for_opensource_java_libraries/)
-- [Beginner](https://www.reddit.com/r/java/comments/1440ixf/beginner/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
