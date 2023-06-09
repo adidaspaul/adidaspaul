@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [EchoSVG: SVG rasterizer library supporting level 4 selectors &lpar;Apache 2&rpar;](https://www.reddit.com/r/java/comments/144r85f/echosvg_svg_rasterizer_library_supporting_level_4/)
 - [Java compiler running in-browser?](https://www.reddit.com/r/java/comments/144elcm/java_compiler_running_inbrowser/)
 - [Introducing: JFR.view](https://www.reddit.com/r/java/comments/1449t12/introducing_jfrview/)
-- [[OLD] How to manually publish JAR to maven central?](https://www.reddit.com/r/java/comments/1447n7a/old_how_to_manually_publish_jar_to_maven_central/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
