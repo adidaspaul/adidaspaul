@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [JDK 21 Build 26 is Feature Complete!](https://www.reddit.com/r/java/comments/145erg9/jdk_21_build_26_is_feature_complete/)
 - [The compact overview of JDK 21&#39;s &quot;frozen&quot; feature list](https://www.reddit.com/r/java/comments/14526q9/the_compact_overview_of_jdk_21s_frozen_feature/)
 - [EchoSVG: SVG rasterizer library supporting level 4 selectors &lpar;Apache 2&rpar;](https://www.reddit.com/r/java/comments/144r85f/echosvg_svg_rasterizer_library_supporting_level_4/)
-- [Java compiler running in-browser?](https://www.reddit.com/r/java/comments/144elcm/java_compiler_running_inbrowser/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
