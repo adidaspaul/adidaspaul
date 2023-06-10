@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Kafka 4.0, Flink 2.0, Hadoop, and now Spark 4.0 will all drop Java 8 and move to Java 11+!](https://www.reddit.com/r/java/comments/14675sd/kafka_40_flink_20_hadoop_and_now_spark_40_will/)
 - [JVM &lpar;total&rpar; max memory](https://www.reddit.com/r/java/comments/1465ji9/jvm_total_max_memory/)
 - [/r/java will be joining the June 12th Blackout in protest of Reddit&#39;s API changes. Please support open-source projects and democratization of Projects by using other platforms until we return. This sub will not be accessible for at least 2 days, and possibly longer.](https://www.reddit.com/r/java/comments/145uvcm/rjava_will_be_joining_the_june_12th_blackout_in/)
-- [Do backend Java developers need to know some kind of front-end framework?](https://www.reddit.com/r/java/comments/145g10b/do_backend_java_developers_need_to_know_some_kind/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
