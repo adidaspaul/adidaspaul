@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [/r/java will be joining the June 12th Blackout in protest of Reddit&#39;s API changes. Please support open-source projects and democratization of Projects by using other platforms until we return. This sub will not be accessible for at least 2 days, and possibly longer.](https://www.reddit.com/r/java/comments/145uvcm/rjava_will_be_joining_the_june_12th_blackout_in/)
 - [Do backend Java developers need to know some kind of front-end framework?](https://www.reddit.com/r/java/comments/145g10b/do_backend_java_developers_need_to_know_some_kind/)
 - [JDK 21 Build 26 is Feature Complete!](https://www.reddit.com/r/java/comments/145erg9/jdk_21_build_26_is_feature_complete/)
-- [The compact overview of JDK 21&#39;s &quot;frozen&quot; feature list](https://www.reddit.com/r/java/comments/14526q9/the_compact_overview_of_jdk_21s_frozen_feature/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
