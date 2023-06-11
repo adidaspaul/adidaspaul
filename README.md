@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [&lpar;Blog&rpar; Benchmarking Virtual Threads](https://www.reddit.com/r/java/comments/1472hqe/blog_benchmarking_virtual_threads/)
 - [What do you think about Graal CE performing worse than Graal EE?](https://www.reddit.com/r/java/comments/146vsdv/what_do_you_think_about_graal_ce_performing_worse/)
 - [Kafka 4.0, Flink 2.0, Hadoop, and now Spark 4.0 will all drop Java 8 and move to Java 11+!](https://www.reddit.com/r/java/comments/14675sd/kafka_40_flink_20_hadoop_and_now_spark_40_will/)
-- [JVM &lpar;total&rpar; max memory](https://www.reddit.com/r/java/comments/1465ji9/jvm_total_max_memory/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
