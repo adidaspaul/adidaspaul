@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Maven plugin for running multiple launchers against a GraalVM shared library](https://www.reddit.com/r/java/comments/1476lyk/maven_plugin_for_running_multiple_launchers/)
 - [&lpar;Blog&rpar; Benchmarking Virtual Threads](https://www.reddit.com/r/java/comments/1472hqe/blog_benchmarking_virtual_threads/)
 - [What do you think about Graal CE performing worse than Graal EE?](https://www.reddit.com/r/java/comments/146vsdv/what_do_you_think_about_graal_ce_performing_worse/)
-- [Kafka 4.0, Flink 2.0, Hadoop, and now Spark 4.0 will all drop Java 8 and move to Java 11+!](https://www.reddit.com/r/java/comments/14675sd/kafka_40_flink_20_hadoop_and_now_spark_40_will/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
