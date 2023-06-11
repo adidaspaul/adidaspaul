@@ -64,9 +64,9 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Should I purchase head first java 2nd or 3rd edition?](https://www.reddit.com/r/java/comments/146j9vy/should_i_purchase_head_first_java_2nd_or_3rd/)
 - [A plugin I made for minecraft](https://www.reddit.com/r/java/comments/146ct5r/a_plugin_i_made_for_minecraft/)
 - [Kafka 4.0, Flink 2.0, Hadoop, and now Spark 4.0 will all drop Java 8 and move to Java 11+!](https://www.reddit.com/r/java/comments/14675sd/kafka_40_flink_20_hadoop_and_now_spark_40_will/)
+- [JVM &lpar;total&rpar; max memory](https://www.reddit.com/r/java/comments/1465ji9/jvm_total_max_memory/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more info](https://stackoverflow.com)
