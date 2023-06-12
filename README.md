@@ -64,7 +64,7 @@
 ### 📕 Latest Reddit Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Maven plugin for running multiple launchers against a GraalVM shared library](https://www.reddit.com/r/java/comments/1476lyk/maven_plugin_for_running_multiple_launchers/)
+- [Native Java and reddit user feedback get perf through the roof](https://www.reddit.com/r/java/comments/147940g/native_java_and_reddit_user_feedback_get_perf/)
 - [&lpar;Blog&rpar; Benchmarking Virtual Threads](https://www.reddit.com/r/java/comments/1472hqe/blog_benchmarking_virtual_threads/)
 - [What do you think about Graal CE performing worse than Graal EE?](https://www.reddit.com/r/java/comments/146vsdv/what_do_you_think_about_graal_ce_performing_worse/)
 <!-- BLOG-POST-LIST:END -->
